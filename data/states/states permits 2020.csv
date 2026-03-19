@@ -1,0 +1,613 @@
+time,state_name,state_abbr,units_total_thousand
+2020-01,Alabama,AL,1.548
+2020-01,Alaska,AK,0.109
+2020-01,Arizona,AZ,5.08
+2020-01,Arkansas,AR,0.842
+2020-01,California,CA,8.673
+2020-01,Colorado,CO,3.242
+2020-01,Connecticut,CT,0.278
+2020-01,Delaware,DE,0.538
+2020-01,District of Columbia,DC,0.682
+2020-01,Florida,FL,14.395
+2020-01,Georgia,GA,4.431
+2020-01,Hawaii,HI,0.151
+2020-01,Idaho,ID,1.424
+2020-01,Illinois,IL,1.142
+2020-01,Indiana,IN,1.304
+2020-01,Iowa,IA,0.511
+2020-01,Kansas,KS,0.512
+2020-01,Kentucky,KY,1.157
+2020-01,Louisiana,LA,1.259
+2020-01,Maine,ME,0.234
+2020-01,Maryland,MD,1.448
+2020-01,Massachusetts,MA,1.806
+2020-01,Michigan,MI,1.366
+2020-01,Minnesota,MN,1.577
+2020-01,Mississippi,MS,0.665
+2020-01,Missouri,MO,1.371
+2020-01,Montana,MT,0.299
+2020-01,Nebraska,NE,0.6
+2020-01,Nevada,NV,1.61
+2020-01,New Hampshire,NH,0.231
+2020-01,New Jersey,NJ,2.407
+2020-01,New Mexico,NM,0.371
+2020-01,New York,NY,4.991
+2020-01,North Carolina,NC,5.553
+2020-01,North Dakota,ND,0.036
+2020-01,Ohio,OH,2.624
+2020-01,Oklahoma,OK,0.846
+2020-01,Oregon,OR,1.058
+2020-01,Pennsylvania,PA,2.208
+2020-01,Rhode Island,RI,0.091
+2020-01,South Carolina,SC,2.868
+2020-01,South Dakota,SD,0.135
+2020-01,Tennessee,TN,3.56
+2020-01,Texas,TX,17.885
+2020-01,Utah,UT,2.088
+2020-01,Vermont,VT,0.083
+2020-01,Virginia,VA,2.671
+2020-01,Washington,WA,3.615
+2020-01,West Virginia,WV,0.269
+2020-01,Wisconsin,WI,0.902
+2020-01,Wyoming,WY,0.103
+2020-02,Alabama,AL,1.38
+2020-02,Alaska,AK,0.114
+2020-02,Arizona,AZ,4.851
+2020-02,Arkansas,AR,0.688
+2020-02,California,CA,8.759
+2020-02,Colorado,CO,3.121
+2020-02,Connecticut,CT,0.442
+2020-02,Delaware,DE,0.578
+2020-02,District of Columbia,DC,0.336
+2020-02,Florida,FL,12.111
+2020-02,Georgia,GA,4.183
+2020-02,Hawaii,HI,0.182
+2020-02,Idaho,ID,1.244
+2020-02,Illinois,IL,1.247
+2020-02,Indiana,IN,1.187
+2020-02,Iowa,IA,0.438
+2020-02,Kansas,KS,0.523
+2020-02,Kentucky,KY,0.891
+2020-02,Louisiana,LA,1.274
+2020-02,Maine,ME,0.254
+2020-02,Maryland,MD,1.246
+2020-02,Massachusetts,MA,0.85
+2020-02,Michigan,MI,1.155
+2020-02,Minnesota,MN,1.015
+2020-02,Mississippi,MS,0.557
+2020-02,Missouri,MO,1.339
+2020-02,Montana,MT,0.273
+2020-02,Nebraska,NE,0.568
+2020-02,Nevada,NV,1.8
+2020-02,New Hampshire,NH,0.277
+2020-02,New Jersey,NJ,1.757
+2020-02,New Mexico,NM,0.374
+2020-02,New York,NY,2.18
+2020-02,North Carolina,NC,5.691
+2020-02,North Dakota,ND,0.047
+2020-02,Ohio,OH,1.698
+2020-02,Oklahoma,OK,0.909
+2020-02,Oregon,OR,0.888
+2020-02,Pennsylvania,PA,1.955
+2020-02,Rhode Island,RI,0.089
+2020-02,South Carolina,SC,2.824
+2020-02,South Dakota,SD,0.207
+2020-02,Tennessee,TN,3.399
+2020-02,Texas,TX,16.275
+2020-02,Utah,UT,1.877
+2020-02,Vermont,VT,0.102
+2020-02,Virginia,VA,2.573
+2020-02,Washington,WA,3.293
+2020-02,West Virginia,WV,0.2
+2020-02,Wisconsin,WI,0.916
+2020-02,Wyoming,WY,0.103
+2020-03,Alabama,AL,1.573
+2020-03,Alaska,AK,0.042
+2020-03,Arizona,AZ,4.463
+2020-03,Arkansas,AR,1.143
+2020-03,California,CA,7.949
+2020-03,Colorado,CO,3.748
+2020-03,Connecticut,CT,0.643
+2020-03,Delaware,DE,0.593
+2020-03,District of Columbia,DC,0.687
+2020-03,Florida,FL,13.674
+2020-03,Georgia,GA,3.814
+2020-03,Hawaii,HI,0.343
+2020-03,Idaho,ID,1.373
+2020-03,Illinois,IL,1.85
+2020-03,Indiana,IN,1.664
+2020-03,Iowa,IA,0.979
+2020-03,Kansas,KS,0.427
+2020-03,Kentucky,KY,0.895
+2020-03,Louisiana,LA,1.674
+2020-03,Maine,ME,0.378
+2020-03,Maryland,MD,1.604
+2020-03,Massachusetts,MA,1.105
+2020-03,Michigan,MI,1.134
+2020-03,Minnesota,MN,2.216
+2020-03,Mississippi,MS,0.723
+2020-03,Missouri,MO,1.187
+2020-03,Montana,MT,0.323
+2020-03,Nebraska,NE,0.593
+2020-03,Nevada,NV,1.712
+2020-03,New Hampshire,NH,0.29
+2020-03,New Jersey,NJ,2.762
+2020-03,New Mexico,NM,0.431
+2020-03,New York,NY,1.949
+2020-03,North Carolina,NC,6.699
+2020-03,North Dakota,ND,0.261
+2020-03,Ohio,OH,1.449
+2020-03,Oklahoma,OK,1.473
+2020-03,Oregon,OR,2.143
+2020-03,Pennsylvania,PA,1.751
+2020-03,Rhode Island,RI,0.097
+2020-03,South Carolina,SC,3.46
+2020-03,South Dakota,SD,0.493
+2020-03,Tennessee,TN,3.21
+2020-03,Texas,TX,19.293
+2020-03,Utah,UT,3.056
+2020-03,Vermont,VT,0.213
+2020-03,Virginia,VA,2.632
+2020-03,Washington,WA,3.876
+2020-03,West Virginia,WV,0.293
+2020-03,Wisconsin,WI,1.445
+2020-03,Wyoming,WY,0.123
+2020-04,Alabama,AL,1.665
+2020-04,Alaska,AK,0.098
+2020-04,Arizona,AZ,3.316
+2020-04,Arkansas,AR,1.099
+2020-04,California,CA,5.987
+2020-04,Colorado,CO,3.284
+2020-04,Connecticut,CT,0.401
+2020-04,Delaware,DE,0.536
+2020-04,District of Columbia,DC,0.256
+2020-04,Florida,FL,12.223
+2020-04,Georgia,GA,3.117
+2020-04,Hawaii,HI,0.241
+2020-04,Idaho,ID,1.055
+2020-04,Illinois,IL,1.382
+2020-04,Indiana,IN,2.064
+2020-04,Iowa,IA,0.858
+2020-04,Kansas,KS,0.58
+2020-04,Kentucky,KY,0.778
+2020-04,Louisiana,LA,1.208
+2020-04,Maine,ME,0.481
+2020-04,Maryland,MD,1.131
+2020-04,Massachusetts,MA,0.548
+2020-04,Michigan,MI,0.727
+2020-04,Minnesota,MN,2.107
+2020-04,Mississippi,MS,0.695
+2020-04,Missouri,MO,1.226
+2020-04,Montana,MT,0.317
+2020-04,Nebraska,NE,0.829
+2020-04,Nevada,NV,1.032
+2020-04,New Hampshire,NH,0.231
+2020-04,New Jersey,NJ,1.227
+2020-04,New Mexico,NM,0.361
+2020-04,New York,NY,1.077
+2020-04,North Carolina,NC,4.886
+2020-04,North Dakota,ND,0.419
+2020-04,Ohio,OH,1.9
+2020-04,Oklahoma,OK,1.059
+2020-04,Oregon,OR,1.8
+2020-04,Pennsylvania,PA,0.71
+2020-04,Rhode Island,RI,0.074
+2020-04,South Carolina,SC,2.717
+2020-04,South Dakota,SD,0.405
+2020-04,Tennessee,TN,3.743
+2020-04,Texas,TX,16.518
+2020-04,Utah,UT,2.228
+2020-04,Vermont,VT,0.119
+2020-04,Virginia,VA,2.635
+2020-04,Washington,WA,2.716
+2020-04,West Virginia,WV,0.322
+2020-04,Wisconsin,WI,1.345
+2020-04,Wyoming,WY,0.218
+2020-05,Alabama,AL,1.334
+2020-05,Alaska,AK,0.113
+2020-05,Arizona,AZ,3.128
+2020-05,Arkansas,AR,1.069
+2020-05,California,CA,6.705
+2020-05,Colorado,CO,2.604
+2020-05,Connecticut,CT,0.661
+2020-05,Delaware,DE,0.441
+2020-05,District of Columbia,DC,0.393
+2020-05,Florida,FL,11.776
+2020-05,Georgia,GA,3.898
+2020-05,Hawaii,HI,0.258
+2020-05,Idaho,ID,1.268
+2020-05,Illinois,IL,1.234
+2020-05,Indiana,IN,2.183
+2020-05,Iowa,IA,0.951
+2020-05,Kansas,KS,0.593
+2020-05,Kentucky,KY,1.09
+2020-05,Louisiana,LA,1.2
+2020-05,Maine,ME,0.396
+2020-05,Maryland,MD,1.55
+2020-05,Massachusetts,MA,1.347
+2020-05,Michigan,MI,1.538
+2020-05,Minnesota,MN,2.451
+2020-05,Mississippi,MS,0.86
+2020-05,Missouri,MO,1.403
+2020-05,Montana,MT,0.471
+2020-05,Nebraska,NE,0.565
+2020-05,Nevada,NV,1.122
+2020-05,New Hampshire,NH,0.242
+2020-05,New Jersey,NJ,1.821
+2020-05,New Mexico,NM,0.31
+2020-05,New York,NY,2.5
+2020-05,North Carolina,NC,5.341
+2020-05,North Dakota,ND,0.24
+2020-05,Ohio,OH,2.142
+2020-05,Oklahoma,OK,0.755
+2020-05,Oregon,OR,1.268
+2020-05,Pennsylvania,PA,1.968
+2020-05,Rhode Island,RI,0.098
+2020-05,South Carolina,SC,2.731
+2020-05,South Dakota,SD,0.514
+2020-05,Tennessee,TN,3.699
+2020-05,Texas,TX,15.919
+2020-05,Utah,UT,2.226
+2020-05,Vermont,VT,0.138
+2020-05,Virginia,VA,3.233
+2020-05,Washington,WA,4.557
+2020-05,West Virginia,WV,0.287
+2020-05,Wisconsin,WI,1.676
+2020-05,Wyoming,WY,0.165
+2020-06,Alabama,AL,1.684
+2020-06,Alaska,AK,0.147
+2020-06,Arizona,AZ,5.394
+2020-06,Arkansas,AR,0.967
+2020-06,California,CA,8.844
+2020-06,Colorado,CO,3.644
+2020-06,Connecticut,CT,0.382
+2020-06,Delaware,DE,0.624
+2020-06,District of Columbia,DC,1.025
+2020-06,Florida,FL,12.709
+2020-06,Georgia,GA,4.278
+2020-06,Hawaii,HI,0.366
+2020-06,Idaho,ID,1.441
+2020-06,Illinois,IL,1.48
+2020-06,Indiana,IN,2.286
+2020-06,Iowa,IA,1.417
+2020-06,Kansas,KS,0.537
+2020-06,Kentucky,KY,1.215
+2020-06,Louisiana,LA,1.751
+2020-06,Maine,ME,0.607
+2020-06,Maryland,MD,1.423
+2020-06,Massachusetts,MA,1.76
+2020-06,Michigan,MI,1.807
+2020-06,Minnesota,MN,3.016
+2020-06,Mississippi,MS,0.861
+2020-06,Missouri,MO,1.522
+2020-06,Montana,MT,0.305
+2020-06,Nebraska,NE,0.822
+2020-06,Nevada,NV,1.437
+2020-06,New Hampshire,NH,0.391
+2020-06,New Jersey,NJ,3.329
+2020-06,New Mexico,NM,0.46
+2020-06,New York,NY,3.832
+2020-06,North Carolina,NC,7.052
+2020-06,North Dakota,ND,0.433
+2020-06,Ohio,OH,2.486
+2020-06,Oklahoma,OK,1.223
+2020-06,Oregon,OR,1.511
+2020-06,Pennsylvania,PA,2.2
+2020-06,Rhode Island,RI,0.151
+2020-06,South Carolina,SC,3.624
+2020-06,South Dakota,SD,0.741
+2020-06,Tennessee,TN,3.994
+2020-06,Texas,TX,17.601
+2020-06,Utah,UT,2.305
+2020-06,Vermont,VT,0.234
+2020-06,Virginia,VA,3.034
+2020-06,Washington,WA,3.398
+2020-06,West Virginia,WV,0.362
+2020-06,Wisconsin,WI,1.697
+2020-06,Wyoming,WY,0.19
+2020-07,Alabama,AL,2.037
+2020-07,Alaska,AK,0.135
+2020-07,Arizona,AZ,5.758
+2020-07,Arkansas,AR,1.102
+2020-07,California,CA,10.35
+2020-07,Colorado,CO,4.117
+2020-07,Connecticut,CT,0.501
+2020-07,Delaware,DE,0.823
+2020-07,District of Columbia,DC,0.414
+2020-07,Florida,FL,13.053
+2020-07,Georgia,GA,4.552
+2020-07,Hawaii,HI,0.261
+2020-07,Idaho,ID,1.399
+2020-07,Illinois,IL,1.973
+2020-07,Indiana,IN,2.518
+2020-07,Iowa,IA,1.484
+2020-07,Kansas,KS,1.034
+2020-07,Kentucky,KY,0.984
+2020-07,Louisiana,LA,1.554
+2020-07,Maine,ME,0.566
+2020-07,Maryland,MD,1.294
+2020-07,Massachusetts,MA,1.515
+2020-07,Michigan,MI,2.038
+2020-07,Minnesota,MN,2.969
+2020-07,Mississippi,MS,0.83
+2020-07,Missouri,MO,2.243
+2020-07,Montana,MT,0.462
+2020-07,Nebraska,NE,0.699
+2020-07,Nevada,NV,1.962
+2020-07,New Hampshire,NH,0.343
+2020-07,New Jersey,NJ,2.92
+2020-07,New Mexico,NM,0.455
+2020-07,New York,NY,3.775
+2020-07,North Carolina,NC,6.122
+2020-07,North Dakota,ND,0.457
+2020-07,Ohio,OH,2.931
+2020-07,Oklahoma,OK,1.254
+2020-07,Oregon,OR,1.421
+2020-07,Pennsylvania,PA,2.797
+2020-07,Rhode Island,RI,0.089
+2020-07,South Carolina,SC,4.137
+2020-07,South Dakota,SD,0.602
+2020-07,Tennessee,TN,5.636
+2020-07,Texas,TX,20.183
+2020-07,Utah,UT,2.522
+2020-07,Vermont,VT,0.22
+2020-07,Virginia,VA,4.38
+2020-07,Washington,WA,3.574
+2020-07,West Virginia,WV,0.373
+2020-07,Wisconsin,WI,2.367
+2020-07,Wyoming,WY,0.231
+2020-08,Alabama,AL,1.853
+2020-08,Alaska,AK,0.162
+2020-08,Arizona,AZ,4.669
+2020-08,Arkansas,AR,1.208
+2020-08,California,CA,8.19
+2020-08,Colorado,CO,4.673
+2020-08,Connecticut,CT,0.566
+2020-08,Delaware,DE,1.111
+2020-08,District of Columbia,DC,0.363
+2020-08,Florida,FL,15.378
+2020-08,Georgia,GA,4.962
+2020-08,Hawaii,HI,0.286
+2020-08,Idaho,ID,1.424
+2020-08,Illinois,IL,1.212
+2020-08,Indiana,IN,1.861
+2020-08,Iowa,IA,1.217
+2020-08,Kansas,KS,0.573
+2020-08,Kentucky,KY,1.427
+2020-08,Louisiana,LA,1.609
+2020-08,Maine,ME,0.515
+2020-08,Maryland,MD,1.676
+2020-08,Massachusetts,MA,0.979
+2020-08,Michigan,MI,1.611
+2020-08,Minnesota,MN,3.383
+2020-08,Mississippi,MS,0.723
+2020-08,Missouri,MO,1.687
+2020-08,Montana,MT,0.527
+2020-08,Nebraska,NE,0.657
+2020-08,Nevada,NV,1.514
+2020-08,New Hampshire,NH,0.346
+2020-08,New Jersey,NJ,2.268
+2020-08,New Mexico,NM,0.491
+2020-08,New York,NY,3.05
+2020-08,North Carolina,NC,6.826
+2020-08,North Dakota,ND,0.33
+2020-08,Ohio,OH,2.433
+2020-08,Oklahoma,OK,1.177
+2020-08,Oregon,OR,1.697
+2020-08,Pennsylvania,PA,1.958
+2020-08,Rhode Island,RI,0.122
+2020-08,South Carolina,SC,3.555
+2020-08,South Dakota,SD,0.576
+2020-08,Tennessee,TN,5.181
+2020-08,Texas,TX,18.613
+2020-08,Utah,UT,2.93
+2020-08,Vermont,VT,0.128
+2020-08,Virginia,VA,2.26
+2020-08,Washington,WA,3.537
+2020-08,West Virginia,WV,0.518
+2020-08,Wisconsin,WI,2.028
+2020-08,Wyoming,WY,0.163
+2020-09,Alabama,AL,1.683
+2020-09,Alaska,AK,0.142
+2020-09,Arizona,AZ,4.34
+2020-09,Arkansas,AR,1.235
+2020-09,California,CA,9.476
+2020-09,Colorado,CO,4.619
+2020-09,Connecticut,CT,0.82
+2020-09,Delaware,DE,0.792
+2020-09,District of Columbia,DC,0.363
+2020-09,Florida,FL,14.408
+2020-09,Georgia,GA,5.459
+2020-09,Hawaii,HI,0.15
+2020-09,Idaho,ID,1.585
+2020-09,Illinois,IL,1.729
+2020-09,Indiana,IN,2.475
+2020-09,Iowa,IA,1.344
+2020-09,Kansas,KS,0.947
+2020-09,Kentucky,KY,1.305
+2020-09,Louisiana,LA,1.547
+2020-09,Maine,ME,0.686
+2020-09,Maryland,MD,1.932
+2020-09,Massachusetts,MA,1.404
+2020-09,Michigan,MI,2.04
+2020-09,Minnesota,MN,2.907
+2020-09,Mississippi,MS,0.734
+2020-09,Missouri,MO,1.604
+2020-09,Montana,MT,0.408
+2020-09,Nebraska,NE,0.866
+2020-09,Nevada,NV,2.006
+2020-09,New Hampshire,NH,0.394
+2020-09,New Jersey,NJ,3.286
+2020-09,New Mexico,NM,0.445
+2020-09,New York,NY,3.996
+2020-09,North Carolina,NC,5.905
+2020-09,North Dakota,ND,0.469
+2020-09,Ohio,OH,2.566
+2020-09,Oklahoma,OK,1.431
+2020-09,Oregon,OR,1.004
+2020-09,Pennsylvania,PA,2.262
+2020-09,Rhode Island,RI,0.136
+2020-09,South Carolina,SC,3.562
+2020-09,South Dakota,SD,0.762
+2020-09,Tennessee,TN,4.018
+2020-09,Texas,TX,21.319
+2020-09,Utah,UT,2.363
+2020-09,Vermont,VT,0.172
+2020-09,Virginia,VA,3.028
+2020-09,Washington,WA,4.466
+2020-09,West Virginia,WV,0.324
+2020-09,Wisconsin,WI,2.203
+2020-09,Wyoming,WY,0.196
+2020-10,Alabama,AL,1.627
+2020-10,Alaska,AK,0.149
+2020-10,Arizona,AZ,5.352
+2020-10,Arkansas,AR,1.252
+2020-10,California,CA,8.67
+2020-10,Colorado,CO,4.982
+2020-10,Connecticut,CT,0.5
+2020-10,Delaware,DE,0.969
+2020-10,District of Columbia,DC,1.001
+2020-10,Florida,FL,15.768
+2020-10,Georgia,GA,5.132
+2020-10,Hawaii,HI,0.373
+2020-10,Idaho,ID,1.502
+2020-10,Illinois,IL,1.66
+2020-10,Indiana,IN,2.719
+2020-10,Iowa,IA,1.181
+2020-10,Kansas,KS,0.691
+2020-10,Kentucky,KY,0.934
+2020-10,Louisiana,LA,1.556
+2020-10,Maine,ME,0.607
+2020-10,Maryland,MD,1.803
+2020-10,Massachusetts,MA,1.135
+2020-10,Michigan,MI,2.35
+2020-10,Minnesota,MN,2.914
+2020-10,Mississippi,MS,0.698
+2020-10,Missouri,MO,1.469
+2020-10,Montana,MT,0.353
+2020-10,Nebraska,NE,1.079
+2020-10,Nevada,NV,1.483
+2020-10,New Hampshire,NH,0.319
+2020-10,New Jersey,NJ,3.367
+2020-10,New Mexico,NM,0.503
+2020-10,New York,NY,3.375
+2020-10,North Carolina,NC,6.359
+2020-10,North Dakota,ND,0.34
+2020-10,Ohio,OH,3.374
+2020-10,Oklahoma,OK,1.2
+2020-10,Oregon,OR,1.681
+2020-10,Pennsylvania,PA,1.931
+2020-10,Rhode Island,RI,0.115
+2020-10,South Carolina,SC,4.098
+2020-10,South Dakota,SD,0.872
+2020-10,Tennessee,TN,4.267
+2020-10,Texas,TX,19.374
+2020-10,Utah,UT,3.005
+2020-10,Vermont,VT,0.128
+2020-10,Virginia,VA,2.288
+2020-10,Washington,WA,3.531
+2020-10,West Virginia,WV,0.337
+2020-10,Wisconsin,WI,2.415
+2020-10,Wyoming,WY,0.132
+2020-11,Alabama,AL,1.338
+2020-11,Alaska,AK,0.124
+2020-11,Arizona,AZ,4.58
+2020-11,Arkansas,AR,1.307
+2020-11,California,CA,8.367
+2020-11,Colorado,CO,3.69
+2020-11,Connecticut,CT,0.446
+2020-11,Delaware,DE,0.561
+2020-11,District of Columbia,DC,0.626
+2020-11,Florida,FL,11.634
+2020-11,Georgia,GA,4.499
+2020-11,Hawaii,HI,0.385
+2020-11,Idaho,ID,1.49
+2020-11,Illinois,IL,1.336
+2020-11,Indiana,IN,1.834
+2020-11,Iowa,IA,1.065
+2020-11,Kansas,KS,0.532
+2020-11,Kentucky,KY,1.113
+2020-11,Louisiana,LA,1.342
+2020-11,Maine,ME,0.408
+2020-11,Maryland,MD,1.403
+2020-11,Massachusetts,MA,1.677
+2020-11,Michigan,MI,2.133
+2020-11,Minnesota,MN,2.402
+2020-11,Mississippi,MS,0.653
+2020-11,Missouri,MO,1.615
+2020-11,Montana,MT,0.274
+2020-11,Nebraska,NE,1.02
+2020-11,Nevada,NV,1.943
+2020-11,New Hampshire,NH,0.448
+2020-11,New Jersey,NJ,3.198
+2020-11,New Mexico,NM,0.407
+2020-11,New York,NY,3.682
+2020-11,North Carolina,NC,7.2
+2020-11,North Dakota,ND,0.248
+2020-11,Ohio,OH,2.254
+2020-11,Oklahoma,OK,1.109
+2020-11,Oregon,OR,1.377
+2020-11,Pennsylvania,PA,2.367
+2020-11,Rhode Island,RI,0.117
+2020-11,South Carolina,SC,3.805
+2020-11,South Dakota,SD,0.854
+2020-11,Tennessee,TN,4.114
+2020-11,Texas,TX,17.953
+2020-11,Utah,UT,2.783
+2020-11,Vermont,VT,0.166
+2020-11,Virginia,VA,2.521
+2020-11,Washington,WA,3.669
+2020-11,West Virginia,WV,0.274
+2020-11,Wisconsin,WI,1.498
+2020-11,Wyoming,WY,0.144
+2020-12,Alabama,AL,1.555
+2020-12,Alaska,AK,0.135
+2020-12,Arizona,AZ,6.35
+2020-12,Arkansas,AR,0.873
+2020-12,California,CA,12.584
+2020-12,Colorado,CO,5.336
+2020-12,Connecticut,CT,0.395
+2020-12,Delaware,DE,0.83
+2020-12,District of Columbia,DC,1.224
+2020-12,Florida,FL,14.402
+2020-12,Georgia,GA,4.564
+2020-12,Hawaii,HI,0.383
+2020-12,Idaho,ID,1.637
+2020-12,Illinois,IL,1.284
+2020-12,Indiana,IN,1.843
+2020-12,Iowa,IA,1.115
+2020-12,Kansas,KS,0.824
+2020-12,Kentucky,KY,0.907
+2020-12,Louisiana,LA,1.514
+2020-12,Maine,ME,0.375
+2020-12,Maryland,MD,1.785
+2020-12,Massachusetts,MA,1.762
+2020-12,Michigan,MI,2.167
+2020-12,Minnesota,MN,2.847
+2020-12,Mississippi,MS,0.629
+2020-12,Missouri,MO,1.241
+2020-12,Montana,MT,0.58
+2020-12,Nebraska,NE,0.73
+2020-12,Nevada,NV,2.141
+2020-12,New Hampshire,NH,0.342
+2020-12,New Jersey,NJ,3.112
+2020-12,New Mexico,NM,0.391
+2020-12,New York,NY,3.941
+2020-12,North Carolina,NC,6.018
+2020-12,North Dakota,ND,0.168
+2020-12,Ohio,OH,2.498
+2020-12,Oklahoma,OK,1.169
+2020-12,Oregon,OR,1.564
+2020-12,Pennsylvania,PA,2.333
+2020-12,Rhode Island,RI,0.119
+2020-12,South Carolina,SC,4.046
+2020-12,South Dakota,SD,0.348
+2020-12,Tennessee,TN,3.879
+2020-12,Texas,TX,20.635
+2020-12,Utah,UT,2.561
+2020-12,Vermont,VT,0.123
+2020-12,Virginia,VA,2.612
+2020-12,Washington,WA,4.302
+2020-12,West Virginia,WV,0.244
+2020-12,Wisconsin,WI,0.969
+2020-12,Wyoming,WY,0.214
