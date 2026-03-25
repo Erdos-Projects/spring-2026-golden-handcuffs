@@ -1,0 +1,1633 @@
+SQGDP2 Gross domestic product (GDP) by state 1
+SQGDP2 Gross domestic product (GDP) by state 1
+State or DC
+GeoFIPS,GeoName,LineCode,Description,2024:Q1,2024:Q2,2024:Q3,2024:Q4
+00000,United States *,1,All industry total,28708161.0,29147044.0,29511664.0,29825182.0
+00000,United States *,2,"  Private industries",25477141.0,25871320.0,26193383.0,26464842.0
+00000,United States *,3,"      Agriculture, forestry, fishing and hunting",256803.0,261204.0,268639.0,292099.0
+00000,United States *,6,"      Mining, quarrying, and oil and gas extraction",406190.0,418263.0,403323.0,389216.0
+00000,United States *,10,"      Utilities",452495.0,459787.0,450744.0,454405.0
+00000,United States *,11,"      Construction",1287497.0,1299790.0,1312226.0,1322090.0
+00000,United States *,12,"      Manufacturing",2851821.0,2884682.0,2897683.0,2888720.0
+00000,United States *,13,"          Durable goods manufacturing",1502443.0,1523342.0,1543399.0,1530185.0
+00000,United States *,25,"          Nondurable goods manufacturing",1349378.0,1361340.0,1354284.0,1358535.0
+00000,United States *,34,"      Wholesale trade",1680967.0,1689844.0,1717453.0,1736889.0
+00000,United States *,35,"      Retail trade",1828740.0,1838898.0,1865455.0,1863063.0
+00000,United States *,36,"      Transportation and warehousing",965430.0,984638.0,996878.0,1002260.0
+00000,United States *,45,"      Information",1553252.0,1580920.0,1610242.0,1626357.0
+00000,United States *,51,"      Finance and insurance",2150080.0,2215995.0,2251950.0,2298597.0
+00000,United States *,56,"      Real estate and rental and leasing",3974784.0,4032478.0,4078746.0,4123589.0
+00000,United States *,60,"      Professional, scientific, and technical services",2298152.0,2337252.0,2377197.0,2407673.0
+00000,United States *,64,"      Management of companies and enterprises",521318.0,532803.0,551460.0,571752.0
+00000,United States *,65,"      Administrative and support and waste management and remediation services",896857.0,906156.0,915858.0,927937.0
+00000,United States *,69,"      Educational services",327540.0,330517.0,337163.0,343921.0
+00000,United States *,70,"      Health care and social assistance",2149405.0,2190320.0,2230136.0,2267662.0
+00000,United States *,76,"      Arts, entertainment, and recreation",315023.0,325730.0,330855.0,335452.0
+00000,United States *,79,"      Accommodation and food services",950970.0,958737.0,962233.0,969484.0
+00000,United States *,82,"      Other services (except government and government enterprises)",609815.0,623306.0,635141.0,643676.0
+00000,United States *,83,"  Government and government enterprises",3231020.0,3275724.0,3318281.0,3360339.0
+00000,United States *,84,"    Federal civilian",627597.0,636797.0,647345.0,655558.0
+00000,United States *,85,"    Military",415777.0,420872.0,425979.0,429500.0
+00000,United States *,86,"    State and local",2187647.0,2218053.0,2244958.0,2275279.0
+00000,United States *,,Addenda:,,,,
+00000,United States *,100,"All industry total, overseas activity",157791.0,159249.0,160909.0,162916.0
+00000,United States *,101,"Government and government enterprises, overseas activity",157791.0,159249.0,160909.0,162916.0
+01000,Alabama,1,All industry total,317518.0,323468.9,328501.2,331892.3
+01000,Alabama,2,"  Private industries",269601.8,274613.1,278930.4,282040.3
+01000,Alabama,3,"      Agriculture, forestry, fishing and hunting",3334.2,3025.4,4304.2,4779.4
+01000,Alabama,6,"      Mining, quarrying, and oil and gas extraction",2570.9,2695.7,2551.1,2522.6
+01000,Alabama,10,"      Utilities",8282.3,8485.1,8377.6,8550.9
+01000,Alabama,11,"      Construction",15405.3,15877.5,16090.5,16229.7
+01000,Alabama,12,"      Manufacturing",48662.7,50244.4,50386.5,50693.0
+01000,Alabama,13,"          Durable goods manufacturing",33065.0,34363.8,34653.8,34769.3
+01000,Alabama,25,"          Nondurable goods manufacturing",15597.8,15880.7,15732.7,15923.7
+01000,Alabama,34,"      Wholesale trade",19009.6,19046.7,19446.2,19645.2
+01000,Alabama,35,"      Retail trade",23754.3,23932.0,24350.4,24348.1
+01000,Alabama,36,"      Transportation and warehousing",8786.6,9046.0,9147.8,9110.0
+01000,Alabama,45,"      Information",6600.3,6758.8,6782.3,6820.3
+01000,Alabama,51,"      Finance and insurance",18471.4,19004.0,19446.6,19981.3
+01000,Alabama,56,"      Real estate and rental and leasing",39376.4,40025.1,40480.6,40806.7
+01000,Alabama,60,"      Professional, scientific, and technical services",20784.5,21287.4,21647.8,21920.3
+01000,Alabama,64,"      Management of companies and enterprises",2748.0,2692.7,2824.4,2899.3
+01000,Alabama,65,"      Administrative and support and waste management and remediation services",8637.9,8691.2,8652.1,8763.2
+01000,Alabama,69,"      Educational services",1520.5,1540.2,1569.7,1570.0
+01000,Alabama,70,"      Health care and social assistance",22832.0,23088.4,23335.4,23577.2
+01000,Alabama,76,"      Arts, entertainment, and recreation",1344.5,1402.6,1411.5,1454.1
+01000,Alabama,79,"      Accommodation and food services",9689.9,9770.9,9885.8,9978.0
+01000,Alabama,82,"      Other services (except government and government enterprises)",7790.6,7999.0,8239.8,8391.1
+01000,Alabama,83,"  Government and government enterprises",47916.2,48855.8,49570.8,49852.0
+01000,Alabama,84,"    Federal civilian",11082.2,11233.9,11410.9,11537.7
+01000,Alabama,85,"    Military",6026.6,6051.2,5998.2,6044.3
+01000,Alabama,86,"    State and local",30807.3,31570.7,32161.7,32270.0
+02000,Alaska,1,All industry total,69700.3,71571.2,72275.5,72721.8
+02000,Alaska,2,"  Private industries",56615.2,58624.5,58934.3,59439.6
+02000,Alaska,3,"      Agriculture, forestry, fishing and hunting",584.0,536.1,550.0,545.0
+02000,Alaska,6,"      Mining, quarrying, and oil and gas extraction",9364.7,10291.8,9791.6,9667.6
+02000,Alaska,10,"      Utilities",1209.5,1246.7,1212.0,1208.9
+02000,Alaska,11,"      Construction",3636.4,3735.7,3701.3,3848.1
+02000,Alaska,12,"      Manufacturing",1642.3,1701.7,1574.4,1676.9
+02000,Alaska,13,"          Durable goods manufacturing",337.5,351.5,364.3,377.5
+02000,Alaska,25,"          Nondurable goods manufacturing",1304.7,1350.2,1210.1,1299.3
+02000,Alaska,34,"      Wholesale trade",1565.1,1554.4,1556.9,1613.3
+02000,Alaska,35,"      Retail trade",3536.0,3600.8,3683.2,3677.3
+02000,Alaska,36,"      Transportation and warehousing",9829.4,10157.4,10582.4,10589.2
+02000,Alaska,45,"      Information",1602.9,1604.2,1618.7,1657.1
+02000,Alaska,51,"      Finance and insurance",1361.5,1471.5,1492.0,1511.2
+02000,Alaska,56,"      Real estate and rental and leasing",7694.5,7784.1,7886.8,7949.6
+02000,Alaska,60,"      Professional, scientific, and technical services",2485.2,2524.5,2579.3,2617.7
+02000,Alaska,64,"      Management of companies and enterprises",485.2,509.7,529.9,541.9
+02000,Alaska,65,"      Administrative and support and waste management and remediation services",1358.8,1396.8,1425.1,1486.2
+02000,Alaska,69,"      Educational services",240.5,236.3,241.9,243.7
+02000,Alaska,70,"      Health care and social assistance",5801.1,5914.8,6091.7,6184.4
+02000,Alaska,76,"      Arts, entertainment, and recreation",466.2,498.8,511.9,521.2
+02000,Alaska,79,"      Accommodation and food services",2468.9,2539.6,2550.8,2538.3
+02000,Alaska,82,"      Other services (except government and government enterprises)",1282.9,1319.6,1354.4,1361.9
+02000,Alaska,83,"  Government and government enterprises",13085.1,12946.6,13341.2,13282.2
+02000,Alaska,84,"    Federal civilian",2825.6,2864.4,2899.1,2932.8
+02000,Alaska,85,"    Military",3128.3,3166.1,3173.0,3195.5
+02000,Alaska,86,"    State and local",7131.1,6916.1,7269.2,7153.9
+04000,Arizona,1,All industry total,555888.3,565969.2,574674.1,583822.5
+04000,Arizona,2,"  Private industries",498791.6,508053.8,516568.9,525181.0
+04000,Arizona,3,"      Agriculture, forestry, fishing and hunting",2472.6,2715.9,2903.3,3021.2
+04000,Arizona,6,"      Mining, quarrying, and oil and gas extraction",6177.1,6772.2,6353.0,6265.5
+04000,Arizona,10,"      Utilities",10227.3,10865.3,10386.4,10676.0
+04000,Arizona,11,"      Construction",36448.7,36530.2,36899.6,36959.0
+04000,Arizona,12,"      Manufacturing",44766.0,45552.4,46903.0,47455.0
+04000,Arizona,13,"          Durable goods manufacturing",36689.0,37437.7,38887.9,39388.4
+04000,Arizona,25,"          Nondurable goods manufacturing",8077.0,8114.7,8015.1,8066.6
+04000,Arizona,34,"      Wholesale trade",29931.5,30141.3,31045.0,31400.5
+04000,Arizona,35,"      Retail trade",41542.3,42250.8,42482.2,42629.0
+04000,Arizona,36,"      Transportation and warehousing",18606.7,19072.5,19179.2,19583.0
+04000,Arizona,45,"      Information",18905.7,19524.3,19823.6,19573.8
+04000,Arizona,51,"      Finance and insurance",40494.2,42245.5,43783.6,45871.0
+04000,Arizona,56,"      Real estate and rental and leasing",96764.3,98461.3,99884.1,101572.1
+04000,Arizona,60,"      Professional, scientific, and technical services",30843.4,31522.8,32190.1,33014.0
+04000,Arizona,64,"      Management of companies and enterprises",7724.0,7281.7,7768.7,8102.3
+04000,Arizona,65,"      Administrative and support and waste management and remediation services",24292.7,24501.6,24756.3,24959.9
+04000,Arizona,69,"      Educational services",5749.9,5772.7,5867.0,6010.3
+04000,Arizona,70,"      Health care and social assistance",46729.8,47380.0,48177.0,49412.0
+04000,Arizona,76,"      Arts, entertainment, and recreation",5581.1,5636.3,5972.6,5816.7
+04000,Arizona,79,"      Accommodation and food services",20617.6,20638.6,20783.6,21226.2
+04000,Arizona,82,"      Other services (except government and government enterprises)",10916.7,11188.4,11410.6,11633.7
+04000,Arizona,83,"  Government and government enterprises",57096.7,57915.4,58105.2,58641.5
+04000,Arizona,84,"    Federal civilian",10803.2,11034.1,11263.5,11432.1
+04000,Arizona,85,"    Military",5003.5,4986.4,4906.1,4923.8
+04000,Arizona,86,"    State and local",41290.0,41894.9,41935.6,42285.6
+05000,Arkansas,1,All industry total,184256.6,186555.3,189659.7,192886.6
+05000,Arkansas,2,"  Private industries",163699.5,165760.4,168824.1,171970.2
+05000,Arkansas,3,"      Agriculture, forestry, fishing and hunting",5419.4,5199.8,6425.3,6878.6
+05000,Arkansas,6,"      Mining, quarrying, and oil and gas extraction",910.0,931.0,881.8,831.5
+05000,Arkansas,10,"      Utilities",4828.4,4838.5,4770.4,4715.2
+05000,Arkansas,11,"      Construction",8328.7,8420.3,8580.4,8495.4
+05000,Arkansas,12,"      Manufacturing",25197.2,25369.7,25474.4,25272.7
+05000,Arkansas,13,"          Durable goods manufacturing",13600.2,13818.5,13861.5,13562.9
+05000,Arkansas,25,"          Nondurable goods manufacturing",11597.0,11551.2,11612.9,11709.9
+05000,Arkansas,34,"      Wholesale trade",14548.0,14782.8,14902.5,15375.5
+05000,Arkansas,35,"      Retail trade",15054.2,14805.5,15269.1,15386.0
+05000,Arkansas,36,"      Transportation and warehousing",7886.3,8061.2,8331.0,8480.3
+05000,Arkansas,45,"      Information",3571.0,3732.2,3588.2,3570.3
+05000,Arkansas,51,"      Finance and insurance",8927.4,9185.0,9312.7,9478.6
+05000,Arkansas,56,"      Real estate and rental and leasing",20670.4,20862.2,21070.5,21223.0
+05000,Arkansas,60,"      Professional, scientific, and technical services",7087.1,7197.2,7464.3,7457.2
+05000,Arkansas,64,"      Management of companies and enterprises",7930.2,8424.9,8547.0,10054.5
+05000,Arkansas,65,"      Administrative and support and waste management and remediation services",5615.0,5679.4,5832.6,5886.7
+05000,Arkansas,69,"      Educational services",1069.6,1094.4,1096.2,1123.9
+05000,Arkansas,70,"      Health care and social assistance",15702.0,15904.0,16029.1,16255.8
+05000,Arkansas,76,"      Arts, entertainment, and recreation",1111.6,1328.3,1070.9,1188.6
+05000,Arkansas,79,"      Accommodation and food services",5588.5,5580.5,5666.8,5748.7
+05000,Arkansas,82,"      Other services (except government and government enterprises)",4254.4,4363.4,4510.8,4547.5
+05000,Arkansas,83,"  Government and government enterprises",20557.1,20794.9,20835.7,20916.4
+05000,Arkansas,84,"    Federal civilian",3511.7,3550.4,3600.9,3629.3
+05000,Arkansas,85,"    Military",1149.5,1172.8,1184.2,1196.7
+05000,Arkansas,86,"    State and local",15895.9,16071.8,16050.5,16090.4
+06000,California,1,All industry total,3976763.4,4014221.5,4075823.2,4125624.4
+06000,California,2,"  Private industries",3551347.7,3582862.0,3636645.9,3675456.2
+06000,California,3,"      Agriculture, forestry, fishing and hunting",51740.2,52946.6,52321.5,54476.5
+06000,California,6,"      Mining, quarrying, and oil and gas extraction",10066.1,10192.0,9788.0,10330.9
+06000,California,10,"      Utilities",59443.9,59614.0,58742.2,57614.5
+06000,California,11,"      Construction",155124.4,156716.5,157870.0,155846.7
+06000,California,12,"      Manufacturing",383612.9,376739.7,388042.7,379192.8
+06000,California,13,"          Durable goods manufacturing",236827.6,227415.0,243396.1,234271.0
+06000,California,25,"          Nondurable goods manufacturing",146785.3,149324.6,144646.6,144921.8
+06000,California,34,"      Wholesale trade",204602.6,206708.0,211139.9,212196.3
+06000,California,35,"      Retail trade",230971.5,232696.6,234270.7,237798.5
+06000,California,36,"      Transportation and warehousing",128412.3,132072.2,131865.9,134829.4
+06000,California,45,"      Information",427730.0,433153.4,446051.1,458419.4
+06000,California,51,"      Finance and insurance",172430.5,170822.5,174714.5,175592.7
+06000,California,56,"      Real estate and rental and leasing",566651.4,573029.5,579254.0,584085.0
+06000,California,60,"      Professional, scientific, and technical services",393596.1,391880.5,401381.9,397615.0
+06000,California,64,"      Management of companies and enterprises",77074.7,83482.0,80951.5,95541.9
+06000,California,65,"      Administrative and support and waste management and remediation services",118169.5,119661.8,120129.2,121706.6
+06000,California,69,"      Educational services",41967.1,42021.1,42994.8,43773.5
+06000,California,70,"      Health care and social assistance",273102.9,280152.6,282408.8,291010.5
+06000,California,76,"      Arts, entertainment, and recreation",57051.4,57274.8,57994.5,58090.1
+06000,California,79,"      Accommodation and food services",123726.1,126775.2,128139.9,127987.5
+06000,California,82,"      Other services (except government and government enterprises)",75874.0,76922.8,78584.8,79348.4
+06000,California,83,"  Government and government enterprises",425415.7,431359.5,439177.3,450168.2
+06000,California,84,"    Federal civilian",59209.5,59710.7,60344.3,60737.5
+06000,California,85,"    Military",33565.0,32885.5,34085.4,33945.7
+06000,California,86,"    State and local",332641.2,338763.3,344747.6,355485.1
+08000,Colorado,1,All industry total,545041.8,556154.0,561818.9,567517.1
+08000,Colorado,2,"  Private industries",483088.7,493280.9,498516.4,503044.8
+08000,Colorado,3,"      Agriculture, forestry, fishing and hunting",2292.4,2859.3,2910.8,3272.7
+08000,Colorado,6,"      Mining, quarrying, and oil and gas extraction",16801.6,17740.1,17200.5,17133.6
+08000,Colorado,10,"      Utilities",6368.0,6664.1,6319.6,6216.4
+08000,Colorado,11,"      Construction",32327.3,32615.7,32723.6,32810.8
+08000,Colorado,12,"      Manufacturing",29846.5,30117.2,30008.8,30259.1
+08000,Colorado,13,"          Durable goods manufacturing",17970.8,18435.9,18297.7,18556.7
+08000,Colorado,25,"          Nondurable goods manufacturing",11875.7,11681.2,11711.1,11702.3
+08000,Colorado,34,"      Wholesale trade",29755.9,30035.3,30340.4,31025.7
+08000,Colorado,35,"      Retail trade",32231.9,32519.1,33097.3,32880.6
+08000,Colorado,36,"      Transportation and warehousing",18777.7,19584.3,19905.3,19774.4
+08000,Colorado,45,"      Information",32316.8,33047.8,34024.2,33155.6
+08000,Colorado,51,"      Finance and insurance",30250.0,31035.2,31329.5,31750.8
+08000,Colorado,56,"      Real estate and rental and leasing",86608.6,88030.0,89134.6,90081.0
+08000,Colorado,60,"      Professional, scientific, and technical services",59326.6,60701.7,62035.0,63416.3
+08000,Colorado,64,"      Management of companies and enterprises",10359.7,10658.1,11251.3,11169.1
+08000,Colorado,65,"      Administrative and support and waste management and remediation services",15998.4,16120.3,16126.2,16254.2
+08000,Colorado,69,"      Educational services",4561.4,4576.2,4530.8,4597.0
+08000,Colorado,70,"      Health care and social assistance",32940.0,34205.3,34366.1,35285.7
+08000,Colorado,76,"      Arts, entertainment, and recreation",8319.7,8516.6,8612.3,9260.5
+08000,Colorado,79,"      Accommodation and food services",21270.2,21321.0,21417.9,21379.6
+08000,Colorado,82,"      Other services (except government and government enterprises)",12736.0,12933.5,13182.1,13321.8
+08000,Colorado,83,"  Government and government enterprises",61953.1,62873.2,63302.5,64472.3
+08000,Colorado,84,"    Federal civilian",12728.8,12839.9,13014.5,13128.1
+08000,Colorado,85,"    Military",7571.7,7726.7,7855.5,7950.5
+08000,Colorado,86,"    State and local",41652.6,42306.5,42432.5,43393.7
+09000,Connecticut,1,All industry total,349973.6,355272.3,359237.6,362856.3
+09000,Connecticut,2,"  Private industries",317894.1,322906.6,326982.8,329925.7
+09000,Connecticut,3,"      Agriculture, forestry, fishing and hunting",(D),(D),(D),(D)
+09000,Connecticut,6,"      Mining, quarrying, and oil and gas extraction",241.9,258.8,255.7,259.5
+09000,Connecticut,10,"      Utilities",5554.3,5605.6,5599.6,5572.1
+09000,Connecticut,11,"      Construction",10496.6,10512.6,10503.7,10643.6
+09000,Connecticut,12,"      Manufacturing",40944.7,41977.1,41760.5,41745.1
+09000,Connecticut,13,"          Durable goods manufacturing",30959.9,32177.5,32052.7,31982.8
+09000,Connecticut,25,"          Nondurable goods manufacturing",9984.8,9799.6,9707.8,9762.3
+09000,Connecticut,34,"      Wholesale trade",19313.0,19289.8,19588.0,19937.3
+09000,Connecticut,35,"      Retail trade",21692.0,21526.0,21937.7,21714.2
+09000,Connecticut,36,"      Transportation and warehousing",7425.5,7960.5,8413.9,8865.1
+09000,Connecticut,45,"      Information",(D),(D),(D),(D)
+09000,Connecticut,51,"      Finance and insurance",44824.1,45652.6,46521.0,47438.9
+09000,Connecticut,56,"      Real estate and rental and leasing",46735.6,47281.0,47495.7,48026.5
+09000,Connecticut,60,"      Professional, scientific, and technical services",25484.3,26146.6,26692.8,26953.7
+09000,Connecticut,64,"      Management of companies and enterprises",7842.5,7886.4,8384.8,8249.4
+09000,Connecticut,65,"      Administrative and support and waste management and remediation services",10270.1,10282.4,10458.1,10669.6
+09000,Connecticut,69,"      Educational services",8570.9,8687.8,8849.0,8984.5
+09000,Connecticut,70,"      Health care and social assistance",30211.3,30730.7,31231.3,31573.0
+09000,Connecticut,76,"      Arts, entertainment, and recreation",3871.0,4048.0,4072.9,4136.7
+09000,Connecticut,79,"      Accommodation and food services",9123.8,9113.9,9077.8,9200.3
+09000,Connecticut,82,"      Other services (except government and government enterprises)",6800.1,6956.3,7087.1,7153.0
+09000,Connecticut,83,"  Government and government enterprises",32079.5,32365.6,32254.8,32930.7
+09000,Connecticut,84,"    Federal civilian",4075.0,4076.1,4109.3,4128.9
+09000,Connecticut,85,"    Military",2868.7,2849.1,2831.7,2914.6
+09000,Connecticut,86,"    State and local",25135.8,25440.4,25313.8,25887.1
+10000,Delaware,1,All industry total,108190.3,110280.0,112069.0,113347.8
+10000,Delaware,2,"  Private industries",98787.1,100422.5,102541.7,103521.5
+10000,Delaware,3,"      Agriculture, forestry, fishing and hunting",(D),(D),(D),(D)
+10000,Delaware,6,"      Mining, quarrying, and oil and gas extraction",(D),(D),(D),(D)
+10000,Delaware,10,"      Utilities",1573.2,1579.3,1585.3,1545.6
+10000,Delaware,11,"      Construction",4068.8,3850.0,3943.1,3974.8
+10000,Delaware,12,"      Manufacturing",7712.1,7988.4,8180.2,8261.9
+10000,Delaware,13,"          Durable goods manufacturing",1516.8,1559.3,1588.3,1535.6
+10000,Delaware,25,"          Nondurable goods manufacturing",6195.3,6429.2,6592.0,6726.3
+10000,Delaware,34,"      Wholesale trade",2980.0,3031.1,3076.6,3129.9
+10000,Delaware,35,"      Retail trade",4643.8,4628.2,4773.9,4668.7
+10000,Delaware,36,"      Transportation and warehousing",2254.2,2268.7,2313.0,2373.2
+10000,Delaware,45,"      Information",1385.1,1397.3,1404.2,1395.6
+10000,Delaware,51,"      Finance and insurance",27082.8,28099.5,28042.0,28548.5
+10000,Delaware,56,"      Real estate and rental and leasing",22076.5,22197.8,22439.4,22693.0
+10000,Delaware,60,"      Professional, scientific, and technical services",6435.0,6609.6,7284.6,6965.3
+10000,Delaware,64,"      Management of companies and enterprises",1955.7,2054.1,2044.8,2042.5
+10000,Delaware,65,"      Administrative and support and waste management and remediation services",2822.2,2819.2,2858.4,2873.7
+10000,Delaware,69,"      Educational services",517.8,524.6,552.6,556.6
+10000,Delaware,70,"      Health care and social assistance",7898.5,8031.7,8180.6,8479.2
+10000,Delaware,76,"      Arts, entertainment, and recreation",589.6,595.9,632.8,646.3
+10000,Delaware,79,"      Accommodation and food services",2487.9,2528.5,2531.5,2520.2
+10000,Delaware,82,"      Other services (except government and government enterprises)",1475.8,1501.5,1511.9,1529.6
+10000,Delaware,83,"  Government and government enterprises",9403.2,9857.5,9527.3,9826.3
+10000,Delaware,84,"    Federal civilian",1259.2,1278.3,1300.3,1318.3
+10000,Delaware,85,"    Military",776.0,790.1,798.9,804.8
+10000,Delaware,86,"    State and local",7368.0,7789.0,7428.1,7703.3
+11000,District of Columbia,1,All industry total,180231.1,182930.9,184790.9,189237.7
+11000,District of Columbia,2,"  Private industries",123575.6,125536.1,127411.5,131118.2
+11000,District of Columbia,3,"      Agriculture, forestry, fishing and hunting",(D),(D),(D),(D)
+11000,District of Columbia,6,"      Mining, quarrying, and oil and gas extraction",0.0,0.0,0.0,0.0
+11000,District of Columbia,10,"      Utilities",1557.2,1536.2,1435.9,1479.9
+11000,District of Columbia,11,"      Construction",1962.4,1982.7,2019.2,2060.8
+11000,District of Columbia,12,"      Manufacturing",(D),(D),(D),(D)
+11000,District of Columbia,13,"          Durable goods manufacturing",178.6,181.6,185.1,184.4
+11000,District of Columbia,25,"          Nondurable goods manufacturing",(D),(D),(D),(D)
+11000,District of Columbia,34,"      Wholesale trade",2225.0,2273.6,2197.8,2312.8
+11000,District of Columbia,35,"      Retail trade",2284.6,2299.5,2302.8,2355.4
+11000,District of Columbia,36,"      Transportation and warehousing",818.4,801.3,834.4,812.2
+11000,District of Columbia,45,"      Information",11684.8,11623.9,12094.8,13017.3
+11000,District of Columbia,51,"      Finance and insurance",8488.2,8621.4,9011.6,9417.9
+11000,District of Columbia,56,"      Real estate and rental and leasing",15865.5,16002.9,16313.5,16274.5
+11000,District of Columbia,60,"      Professional, scientific, and technical services",37267.1,38225.0,38379.1,39472.3
+11000,District of Columbia,64,"      Management of companies and enterprises",1111.5,1185.9,1243.6,1237.1
+11000,District of Columbia,65,"      Administrative and support and waste management and remediation services",4960.2,4976.3,5036.1,5204.7
+11000,District of Columbia,69,"      Educational services",5516.7,5695.8,5787.8,5918.9
+11000,District of Columbia,70,"      Health care and social assistance",8564.2,8647.4,8912.7,8967.9
+11000,District of Columbia,76,"      Arts, entertainment, and recreation",1645.1,1704.9,1761.6,1883.0
+11000,District of Columbia,79,"      Accommodation and food services",6733.4,6886.1,6778.0,7234.7
+11000,District of Columbia,82,"      Other services (except government and government enterprises)",12562.8,12732.3,12957.0,13121.5
+11000,District of Columbia,83,"  Government and government enterprises",56655.5,57394.8,57379.4,58119.6
+11000,District of Columbia,84,"    Federal civilian",47454.3,47873.1,48401.1,48868.8
+11000,District of Columbia,85,"    Military",4582.8,4734.3,4374.4,4454.3
+11000,District of Columbia,86,"    State and local",4618.3,4787.4,4603.9,4796.5
+12000,Florida,1,All industry total,1690354.5,1710819.7,1742107.4,1763558.0
+12000,Florida,2,"  Private industries",1537296.6,1555250.0,1585239.9,1605199.5
+12000,Florida,3,"      Agriculture, forestry, fishing and hunting",8243.0,8406.2,7984.0,7988.0
+12000,Florida,6,"      Mining, quarrying, and oil and gas extraction",1611.7,1836.8,1812.3,1761.5
+12000,Florida,10,"      Utilities",29250.0,29003.4,28174.2,28637.0
+12000,Florida,11,"      Construction",93935.6,95057.4,96204.1,96224.8
+12000,Florida,12,"      Manufacturing",81736.9,83347.2,84538.7,84381.0
+12000,Florida,13,"          Durable goods manufacturing",52528.0,53805.0,54510.5,53464.8
+12000,Florida,25,"          Nondurable goods manufacturing",29208.9,29542.2,30028.2,30916.2
+12000,Florida,34,"      Wholesale trade",110495.5,111053.4,114952.2,113699.7
+12000,Florida,35,"      Retail trade",131388.7,131015.1,134176.8,133466.8
+12000,Florida,36,"      Transportation and warehousing",61318.4,61718.3,62787.1,63247.6
+12000,Florida,45,"      Information",57678.0,57885.9,59888.3,59734.6
+12000,Florida,51,"      Finance and insurance",98783.5,99941.3,101559.0,106170.7
+12000,Florida,56,"      Real estate and rental and leasing",346024.7,351953.9,358177.8,363468.5
+12000,Florida,60,"      Professional, scientific, and technical services",133720.6,136780.9,140304.6,142728.9
+12000,Florida,64,"      Management of companies and enterprises",25943.4,24401.8,26382.3,28755.3
+12000,Florida,65,"      Administrative and support and waste management and remediation services",66683.3,67572.0,68793.2,69746.1
+12000,Florida,69,"      Educational services",14614.9,14824.9,15140.9,15510.7
+12000,Florida,70,"      Health care and social assistance",132745.9,135078.4,137506.9,140562.8
+12000,Florida,76,"      Arts, entertainment, and recreation",26099.9,26874.3,26912.2,28117.5
+12000,Florida,79,"      Accommodation and food services",77257.7,77650.8,78538.1,78834.4
+12000,Florida,82,"      Other services (except government and government enterprises)",39764.9,40848.0,41407.0,42163.6
+12000,Florida,83,"  Government and government enterprises",153058.0,155569.7,156867.5,158358.5
+12000,Florida,84,"    Federal civilian",28974.4,29620.1,30286.1,30726.8
+12000,Florida,85,"    Military",14985.1,15100.9,15174.0,15362.8
+12000,Florida,86,"    State and local",109098.6,110848.7,111407.3,112268.9
+13000,Georgia,1,All industry total,864771.2,876955.6,886879.3,897426.6
+13000,Georgia,2,"  Private industries",776226.8,787721.2,796040.0,805242.2
+13000,Georgia,3,"      Agriculture, forestry, fishing and hunting",7048.2,6516.9,5375.3,7977.1
+13000,Georgia,6,"      Mining, quarrying, and oil and gas extraction",1866.1,2060.9,1940.6,1932.4
+13000,Georgia,10,"      Utilities",13682.5,14131.5,13892.0,14584.3
+13000,Georgia,11,"      Construction",44883.4,45745.5,46159.3,46886.6
+13000,Georgia,12,"      Manufacturing",83102.4,84717.5,84406.8,84506.8
+13000,Georgia,13,"          Durable goods manufacturing",42736.7,44111.6,44019.2,44027.8
+13000,Georgia,25,"          Nondurable goods manufacturing",40365.7,40606.0,40387.6,40479.0
+13000,Georgia,34,"      Wholesale trade",63315.0,63653.2,64424.3,64927.5
+13000,Georgia,35,"      Retail trade",55519.2,55570.3,56389.8,55824.5
+13000,Georgia,36,"      Transportation and warehousing",36680.0,36751.5,37412.9,37406.5
+13000,Georgia,45,"      Information",52085.9,53293.5,54798.4,52525.7
+13000,Georgia,51,"      Finance and insurance",68936.7,70692.5,71682.6,73765.3
+13000,Georgia,56,"      Real estate and rental and leasing",124506.3,126499.9,128074.8,129495.8
+13000,Georgia,60,"      Professional, scientific, and technical services",62503.3,63028.3,63808.5,65572.9
+13000,Georgia,64,"      Management of companies and enterprises",17602.3,17661.2,18628.9,18381.1
+13000,Georgia,65,"      Administrative and support and waste management and remediation services",29688.8,29961.6,30070.4,30367.5
+13000,Georgia,69,"      Educational services",9119.3,9272.4,9485.8,9874.1
+13000,Georgia,70,"      Health care and social assistance",57980.3,59368.6,60664.5,61993.8
+13000,Georgia,76,"      Arts, entertainment, and recreation",6307.7,6799.8,6985.4,6952.5
+13000,Georgia,79,"      Accommodation and food services",25788.8,26105.9,25709.8,25866.0
+13000,Georgia,82,"      Other services (except government and government enterprises)",15610.6,15890.0,16129.9,16401.9
+13000,Georgia,83,"  Government and government enterprises",88544.4,89234.5,90839.4,92184.4
+13000,Georgia,84,"    Federal civilian",19994.8,20379.6,20885.0,21270.8
+13000,Georgia,85,"    Military",10445.1,10693.2,10823.1,10998.9
+13000,Georgia,86,"    State and local",58104.5,58161.6,59131.3,59914.7
+15000,Hawaii,1,All industry total,114982.3,116991.9,118741.5,119794.0
+15000,Hawaii,2,"  Private industries",92830.4,94319.9,95457.2,96637.7
+15000,Hawaii,3,"      Agriculture, forestry, fishing and hunting",(D),(D),(D),(D)
+15000,Hawaii,6,"      Mining, quarrying, and oil and gas extraction",92.9,97.8,101.2,99.7
+15000,Hawaii,10,"      Utilities",2394.9,2402.9,2335.1,2312.1
+15000,Hawaii,11,"      Construction",6824.8,6938.4,7005.9,7066.6
+15000,Hawaii,12,"      Manufacturing",(D),(D),(D),(D)
+15000,Hawaii,13,"          Durable goods manufacturing",(D),(D),(D),(D)
+15000,Hawaii,25,"          Nondurable goods manufacturing",1458.9,1416.4,1442.6,1481.8
+15000,Hawaii,34,"      Wholesale trade",3441.3,3541.4,3616.7,3664.7
+15000,Hawaii,35,"      Retail trade",8943.1,8938.1,9129.5,9221.8
+15000,Hawaii,36,"      Transportation and warehousing",5983.4,6169.5,6346.9,6613.4
+15000,Hawaii,45,"      Information",2812.9,2765.8,2756.4,2621.2
+15000,Hawaii,51,"      Finance and insurance",4723.9,4940.7,5004.8,5035.6
+15000,Hawaii,56,"      Real estate and rental and leasing",19814.9,19953.5,20127.2,20357.4
+15000,Hawaii,60,"      Professional, scientific, and technical services",5203.8,5354.8,5376.5,5491.1
+15000,Hawaii,64,"      Management of companies and enterprises",1238.3,1372.6,1356.4,1424.9
+15000,Hawaii,65,"      Administrative and support and waste management and remediation services",3441.3,3455.9,3522.7,3550.8
+15000,Hawaii,69,"      Educational services",1246.3,1245.8,1234.2,1253.9
+15000,Hawaii,70,"      Health care and social assistance",8554.5,8781.5,8828.3,8961.3
+15000,Hawaii,76,"      Arts, entertainment, and recreation",1468.7,1483.0,1532.4,1529.4
+15000,Hawaii,79,"      Accommodation and food services",11366.8,11502.0,11698.7,11786.1
+15000,Hawaii,82,"      Other services (except government and government enterprises)",2778.4,2880.2,2914.2,2966.5
+15000,Hawaii,83,"  Government and government enterprises",22151.9,22672.0,23284.3,23156.3
+15000,Hawaii,84,"    Federal civilian",6261.6,6300.8,6377.7,6401.6
+15000,Hawaii,85,"    Military",6609.4,6715.9,6739.6,6788.2
+15000,Hawaii,86,"    State and local",9280.9,9655.3,10166.9,9966.5
+16000,Idaho,1,All industry total,124689.9,128085.9,130588.0,132709.0
+16000,Idaho,2,"  Private industries",111131.3,114488.8,116821.0,118932.3
+16000,Idaho,3,"      Agriculture, forestry, fishing and hunting",4239.9,4957.1,5569.8,5846.2
+16000,Idaho,6,"      Mining, quarrying, and oil and gas extraction",(D),(D),(D),(D)
+16000,Idaho,10,"      Utilities",1729.4,1895.5,1794.0,1772.0
+16000,Idaho,11,"      Construction",8175.6,8394.9,8609.0,8730.6
+16000,Idaho,12,"      Manufacturing",10785.6,11262.3,11129.1,11395.0
+16000,Idaho,13,"          Durable goods manufacturing",5220.0,5550.4,5656.5,5645.3
+16000,Idaho,25,"          Nondurable goods manufacturing",5565.6,5711.9,5472.7,5749.7
+16000,Idaho,34,"      Wholesale trade",8743.6,8763.6,9045.1,9375.1
+16000,Idaho,35,"      Retail trade",10096.0,10382.5,10451.7,10513.0
+16000,Idaho,36,"      Transportation and warehousing",3655.1,3794.7,3853.4,3907.8
+16000,Idaho,45,"      Information",(D),(D),(D),(D)
+16000,Idaho,51,"      Finance and insurance",6012.8,6106.1,6157.2,6327.7
+16000,Idaho,56,"      Real estate and rental and leasing",19179.3,19560.5,19937.4,20283.5
+16000,Idaho,60,"      Professional, scientific, and technical services",8024.1,8341.8,8528.9,8672.9
+16000,Idaho,64,"      Management of companies and enterprises",1596.4,1517.8,1604.7,1693.7
+16000,Idaho,65,"      Administrative and support and waste management and remediation services",4531.2,4643.2,4601.1,4659.2
+16000,Idaho,69,"      Educational services",1086.4,1096.0,1125.2,1143.8
+16000,Idaho,70,"      Health care and social assistance",10783.3,10890.0,11286.2,11398.7
+16000,Idaho,76,"      Arts, entertainment, and recreation",1057.8,1080.7,1094.1,1109.2
+16000,Idaho,79,"      Accommodation and food services",4387.2,4437.1,4487.2,4502.9
+16000,Idaho,82,"      Other services (except government and government enterprises)",2485.3,2554.6,2642.9,2671.0
+16000,Idaho,83,"  Government and government enterprises",13558.6,13597.1,13767.0,13776.7
+16000,Idaho,84,"    Federal civilian",2786.0,2803.9,2847.8,2867.4
+16000,Idaho,85,"    Military",797.6,811.3,819.9,824.4
+16000,Idaho,86,"    State and local",9975.1,9981.9,10099.3,10084.9
+17000,Illinois,1,All industry total,1130355.0,1144609.0,1154540.1,1162920.2
+17000,Illinois,2,"  Private industries",1027805.8,1040865.7,1048657.3,1055913.8
+17000,Illinois,3,"      Agriculture, forestry, fishing and hunting",12923.1,11572.8,9591.1,10166.0
+17000,Illinois,6,"      Mining, quarrying, and oil and gas extraction",2203.7,2335.5,2270.8,2112.9
+17000,Illinois,10,"      Utilities",20764.7,21116.7,20534.3,20743.7
+17000,Illinois,11,"      Construction",40722.8,40724.3,40195.7,42608.2
+17000,Illinois,12,"      Manufacturing",134608.7,134204.7,135062.5,129828.6
+17000,Illinois,13,"          Durable goods manufacturing",59556.7,59597.8,60362.5,59717.9
+17000,Illinois,25,"          Nondurable goods manufacturing",75051.9,74607.0,74700.1,70110.7
+17000,Illinois,34,"      Wholesale trade",90290.0,89797.7,90843.4,91049.5
+17000,Illinois,35,"      Retail trade",66201.8,65779.6,67277.0,66789.9
+17000,Illinois,36,"      Transportation and warehousing",48587.0,49409.9,50342.2,50599.5
+17000,Illinois,45,"      Information",44239.6,45753.0,46763.6,47719.7
+17000,Illinois,51,"      Finance and insurance",90377.3,95923.1,96843.9,98292.0
+17000,Illinois,56,"      Real estate and rental and leasing",146782.4,148782.8,149070.3,150354.8
+17000,Illinois,60,"      Professional, scientific, and technical services",97058.9,98782.9,99969.0,102304.6
+17000,Illinois,64,"      Management of companies and enterprises",16862.4,16983.5,17694.5,17229.8
+17000,Illinois,65,"      Administrative and support and waste management and remediation services",40106.1,40184.0,40817.5,41170.6
+17000,Illinois,69,"      Educational services",15933.9,15942.7,16280.3,16531.0
+17000,Illinois,70,"      Health care and social assistance",84157.3,85711.2,86336.8,88582.6
+17000,Illinois,76,"      Arts, entertainment, and recreation",13322.6,13835.8,14139.1,14163.8
+17000,Illinois,79,"      Accommodation and food services",37350.3,37780.8,37951.0,38888.9
+17000,Illinois,82,"      Other services (except government and government enterprises)",25313.4,26244.7,26674.2,26777.6
+17000,Illinois,83,"  Government and government enterprises",102549.3,103743.3,105882.9,107006.4
+17000,Illinois,84,"    Federal civilian",16585.1,16761.8,16953.7,17046.4
+17000,Illinois,85,"    Military",4535.0,4908.2,5192.6,5563.2
+17000,Illinois,86,"    State and local",81429.2,82073.4,83736.6,84396.8
+18000,Indiana,1,All industry total,514222.9,515842.2,521420.9,526579.8
+18000,Indiana,2,"  Private industries",470788.9,471986.9,476948.7,481714.6
+18000,Indiana,3,"      Agriculture, forestry, fishing and hunting",7146.5,6669.9,7135.1,7805.2
+18000,Indiana,6,"      Mining, quarrying, and oil and gas extraction",2027.6,2046.3,1948.5,1854.8
+18000,Indiana,10,"      Utilities",8512.6,8551.9,8437.5,8409.1
+18000,Indiana,11,"      Construction",26588.5,26397.4,26966.3,27442.8
+18000,Indiana,12,"      Manufacturing",127493.7,125364.0,124539.4,126244.4
+18000,Indiana,13,"          Durable goods manufacturing",68814.1,69080.7,67805.8,67826.5
+18000,Indiana,25,"          Nondurable goods manufacturing",58679.5,56283.3,56733.7,58417.9
+18000,Indiana,34,"      Wholesale trade",30787.7,31072.3,31491.0,31896.6
+18000,Indiana,35,"      Retail trade",32023.4,31971.4,33340.6,32277.6
+18000,Indiana,36,"      Transportation and warehousing",19673.8,20016.0,20291.4,20336.9
+18000,Indiana,45,"      Information",7784.4,7830.7,8013.7,7874.0
+18000,Indiana,51,"      Finance and insurance",27635.4,28081.0,28353.9,28978.9
+18000,Indiana,56,"      Real estate and rental and leasing",54259.5,54856.0,55476.1,55816.1
+18000,Indiana,60,"      Professional, scientific, and technical services",26751.6,27310.1,27378.6,28677.1
+18000,Indiana,64,"      Management of companies and enterprises",5611.6,5931.3,6131.3,6229.9
+18000,Indiana,65,"      Administrative and support and waste management and remediation services",15231.8,15011.1,15087.5,15209.1
+18000,Indiana,69,"      Educational services",4996.3,4965.9,5093.8,5153.4
+18000,Indiana,70,"      Health care and social assistance",42630.8,43731.5,44593.3,44843.0
+18000,Indiana,76,"      Arts, entertainment, and recreation",5603.6,5823.6,6002.3,5727.7
+18000,Indiana,79,"      Accommodation and food services",14462.8,14559.1,14588.8,14735.6
+18000,Indiana,82,"      Other services (except government and government enterprises)",11567.3,11797.5,12079.6,12202.2
+18000,Indiana,83,"  Government and government enterprises",43434.0,43855.2,44472.2,44865.3
+18000,Indiana,84,"    Federal civilian",6858.7,7013.9,7160.5,7353.4
+18000,Indiana,85,"    Military",1575.2,1629.2,1678.9,1709.6
+18000,Indiana,86,"    State and local",35000.1,35212.1,35632.8,35802.2
+19000,Iowa,1,All industry total,261881.5,264866.7,267073.7,269356.1
+19000,Iowa,2,"  Private industries",235313.7,238018.9,240028.4,241915.4
+19000,Iowa,3,"      Agriculture, forestry, fishing and hunting",15376.7,14982.2,14539.9,15210.2
+19000,Iowa,6,"      Mining, quarrying, and oil and gas extraction",476.6,458.3,419.5,380.5
+19000,Iowa,10,"      Utilities",4033.2,3907.0,3981.2,4007.3
+19000,Iowa,11,"      Construction",12095.4,11999.0,11941.9,12011.6
+19000,Iowa,12,"      Manufacturing",44066.5,44655.9,44351.9,44318.2
+19000,Iowa,13,"          Durable goods manufacturing",21664.5,22168.5,21929.3,21832.6
+19000,Iowa,25,"          Nondurable goods manufacturing",22402.0,22487.4,22422.6,22485.6
+19000,Iowa,34,"      Wholesale trade",15791.6,15802.2,16041.7,16139.9
+19000,Iowa,35,"      Retail trade",15669.7,15641.2,16086.1,15940.1
+19000,Iowa,36,"      Transportation and warehousing",8368.2,8522.5,8696.9,8669.5
+19000,Iowa,45,"      Information",6394.0,6534.0,6699.7,6616.7
+19000,Iowa,51,"      Finance and insurance",38132.9,39476.7,39802.5,40607.7
+19000,Iowa,56,"      Real estate and rental and leasing",24730.5,25155.4,25472.8,25722.6
+19000,Iowa,60,"      Professional, scientific, and technical services",9293.0,9467.8,9689.4,9792.6
+19000,Iowa,64,"      Management of companies and enterprises",3937.0,3981.0,4087.0,4212.9
+19000,Iowa,65,"      Administrative and support and waste management and remediation services",5505.3,5532.6,5578.2,5566.2
+19000,Iowa,69,"      Educational services",1985.9,1951.3,2020.0,2049.1
+19000,Iowa,70,"      Health care and social assistance",16024.1,16229.2,16660.4,16675.6
+19000,Iowa,76,"      Arts, entertainment, and recreation",2130.0,2239.9,2289.5,2266.3
+19000,Iowa,79,"      Accommodation and food services",6016.5,6129.9,6107.3,6133.3
+19000,Iowa,82,"      Other services (except government and government enterprises)",5286.8,5353.0,5562.5,5595.0
+19000,Iowa,83,"  Government and government enterprises",26567.8,26847.8,27045.3,27440.7
+19000,Iowa,84,"    Federal civilian",3013.5,3065.6,3111.6,3164.3
+19000,Iowa,85,"    Military",1448.5,1415.8,1394.2,1386.6
+19000,Iowa,86,"    State and local",22105.8,22366.4,22539.4,22889.8
+20000,Kansas,1,All industry total,226482.4,230706.7,231176.5,233722.7
+20000,Kansas,2,"  Private industries",199612.5,203468.5,203531.7,205919.7
+20000,Kansas,3,"      Agriculture, forestry, fishing and hunting",6886.7,7919.3,6755.2,7915.2
+20000,Kansas,6,"      Mining, quarrying, and oil and gas extraction",1241.5,1294.5,1258.6,1222.0
+20000,Kansas,10,"      Utilities",3857.3,3965.0,3706.2,3716.4
+20000,Kansas,11,"      Construction",9757.7,10084.5,10278.7,10522.5
+20000,Kansas,12,"      Manufacturing",35486.5,36777.1,36680.5,36659.0
+20000,Kansas,13,"          Durable goods manufacturing",15873.5,16431.3,16581.3,16544.0
+20000,Kansas,25,"          Nondurable goods manufacturing",19613.0,20345.8,20099.2,20114.9
+20000,Kansas,34,"      Wholesale trade",14295.5,14364.7,14571.8,14666.2
+20000,Kansas,35,"      Retail trade",14997.9,14883.7,15151.4,15054.1
+20000,Kansas,36,"      Transportation and warehousing",9060.5,9314.3,9476.5,9567.2
+20000,Kansas,45,"      Information",6774.7,5831.0,5018.0,4626.5
+20000,Kansas,51,"      Finance and insurance",11942.9,12165.2,12315.4,12359.6
+20000,Kansas,56,"      Real estate and rental and leasing",29398.0,29812.0,30212.5,30487.4
+20000,Kansas,60,"      Professional, scientific, and technical services",13110.3,13494.8,13862.4,13889.1
+20000,Kansas,64,"      Management of companies and enterprises",4124.6,3997.3,4347.2,4462.1
+20000,Kansas,65,"      Administrative and support and waste management and remediation services",6999.1,7106.9,7151.6,7276.0
+20000,Kansas,69,"      Educational services",1306.6,1360.9,1353.0,1392.9
+20000,Kansas,70,"      Health care and social assistance",17646.3,18146.9,18231.1,18674.7
+20000,Kansas,76,"      Arts, entertainment, and recreation",1177.1,1233.0,1252.7,1286.1
+20000,Kansas,79,"      Accommodation and food services",6293.0,6320.3,6310.5,6393.6
+20000,Kansas,82,"      Other services (except government and government enterprises)",5256.3,5397.3,5598.5,5749.3
+20000,Kansas,83,"  Government and government enterprises",26869.9,27238.2,27644.9,27803.0
+20000,Kansas,84,"    Federal civilian",4082.8,4181.7,4275.8,4330.6
+20000,Kansas,85,"    Military",3493.9,3566.8,3560.4,3546.4
+20000,Kansas,86,"    State and local",19293.1,19489.6,19808.6,19926.0
+21000,Kentucky,1,All industry total,291148.0,294281.0,297238.9,298833.3
+21000,Kentucky,2,"  Private industries",257266.5,260022.7,262389.4,263642.0
+21000,Kentucky,3,"      Agriculture, forestry, fishing and hunting",3778.5,3777.2,4186.4,4692.8
+21000,Kentucky,6,"      Mining, quarrying, and oil and gas extraction",2938.3,2863.5,2671.4,2416.0
+21000,Kentucky,10,"      Utilities",4842.9,5085.3,4806.1,4921.8
+21000,Kentucky,11,"      Construction",12675.1,12468.7,12425.9,12120.4
+21000,Kentucky,12,"      Manufacturing",48554.2,49507.8,48950.9,48857.3
+21000,Kentucky,13,"          Durable goods manufacturing",27166.1,27454.5,27266.7,27010.5
+21000,Kentucky,25,"          Nondurable goods manufacturing",21388.1,22053.3,21684.2,21846.7
+21000,Kentucky,34,"      Wholesale trade",21348.8,21506.9,21929.9,22413.4
+21000,Kentucky,35,"      Retail trade",20009.2,19954.8,20433.6,20343.8
+21000,Kentucky,36,"      Transportation and warehousing",15131.0,15668.1,16084.9,16158.0
+21000,Kentucky,45,"      Information",6126.1,6198.2,6290.6,6187.9
+21000,Kentucky,51,"      Finance and insurance",15826.2,16044.9,16264.2,16297.0
+21000,Kentucky,56,"      Real estate and rental and leasing",33555.8,33927.3,34299.4,34602.5
+21000,Kentucky,60,"      Professional, scientific, and technical services",13029.7,13039.5,13129.1,13361.4
+21000,Kentucky,64,"      Management of companies and enterprises",3471.0,3540.7,3508.4,3504.1
+21000,Kentucky,65,"      Administrative and support and waste management and remediation services",9113.7,9158.4,9210.3,9248.6
+21000,Kentucky,69,"      Educational services",1702.9,1719.5,1751.0,1800.1
+21000,Kentucky,70,"      Health care and social assistance",26479.2,26582.2,27323.2,27438.9
+21000,Kentucky,76,"      Arts, entertainment, and recreation",1726.4,1877.2,1900.2,1980.7
+21000,Kentucky,79,"      Accommodation and food services",10405.6,10435.5,10429.0,10463.5
+21000,Kentucky,82,"      Other services (except government and government enterprises)",6551.9,6666.9,6794.9,6833.7
+21000,Kentucky,83,"  Government and government enterprises",33881.5,34258.4,34849.5,35191.3
+21000,Kentucky,84,"    Federal civilian",5802.2,5877.6,5965.1,6025.1
+21000,Kentucky,85,"    Military",5235.8,5284.5,5349.4,5292.9
+21000,Kentucky,86,"    State and local",22843.4,23096.3,23535.1,23873.4
+22000,Louisiana,1,All industry total,325239.6,329171.4,330303.0,331977.4
+22000,Louisiana,2,"  Private industries",290604.2,294233.0,295169.4,296514.3
+22000,Louisiana,3,"      Agriculture, forestry, fishing and hunting",2359.3,2271.0,2338.9,2643.1
+22000,Louisiana,6,"      Mining, quarrying, and oil and gas extraction",12089.3,12171.7,11413.5,10630.8
+22000,Louisiana,10,"      Utilities",6229.7,6525.0,6109.7,6116.6
+22000,Louisiana,11,"      Construction",20407.9,20996.2,21146.8,20865.7
+22000,Louisiana,12,"      Manufacturing",59751.1,59791.7,59213.5,59955.6
+22000,Louisiana,13,"          Durable goods manufacturing",10431.9,10573.4,10513.2,10418.0
+22000,Louisiana,25,"          Nondurable goods manufacturing",49319.1,49218.3,48700.3,49537.6
+22000,Louisiana,34,"      Wholesale trade",16823.3,16944.2,17335.2,17408.4
+22000,Louisiana,35,"      Retail trade",22905.7,22993.9,23350.6,23118.6
+22000,Louisiana,36,"      Transportation and warehousing",12655.0,12944.9,13417.0,13665.7
+22000,Louisiana,45,"      Information",5557.1,5565.1,5545.6,5513.8
+22000,Louisiana,51,"      Finance and insurance",15289.5,15666.2,15411.8,15378.4
+22000,Louisiana,56,"      Real estate and rental and leasing",37724.1,37985.1,38334.2,38564.9
+22000,Louisiana,60,"      Professional, scientific, and technical services",15543.0,15889.3,16224.5,16437.6
+22000,Louisiana,64,"      Management of companies and enterprises",3100.1,3304.0,3362.2,3629.5
+22000,Louisiana,65,"      Administrative and support and waste management and remediation services",9004.7,9246.0,9655.8,9679.4
+22000,Louisiana,69,"      Educational services",3346.2,3352.5,3425.1,3473.8
+22000,Louisiana,70,"      Health care and social assistance",26026.3,26386.7,26707.1,26839.4
+22000,Louisiana,76,"      Arts, entertainment, and recreation",3543.1,3717.8,3590.5,3723.7
+22000,Louisiana,79,"      Accommodation and food services",11331.4,11350.8,11348.1,11605.2
+22000,Louisiana,82,"      Other services (except government and government enterprises)",6917.4,7130.9,7239.5,7264.2
+22000,Louisiana,83,"  Government and government enterprises",34635.4,34938.4,35133.6,35463.0
+22000,Louisiana,84,"    Federal civilian",5678.6,5763.6,5827.9,5851.9
+22000,Louisiana,85,"    Military",3156.8,3199.0,3127.1,3151.7
+22000,Louisiana,86,"    State and local",25800.0,25975.9,26178.6,26459.4
+23000,Maine,1,All industry total,97865.5,98338.8,99529.7,100962.4
+23000,Maine,2,"  Private industries",86598.9,87095.7,88120.3,89169.8
+23000,Maine,3,"      Agriculture, forestry, fishing and hunting",1153.2,1142.2,1176.8,1216.1
+23000,Maine,6,"      Mining, quarrying, and oil and gas extraction",(D),(D),(D),(D)
+23000,Maine,10,"      Utilities",1587.3,1633.2,1452.6,1441.9
+23000,Maine,11,"      Construction",3646.9,3706.7,3716.5,3737.6
+23000,Maine,12,"      Manufacturing",8374.3,8574.4,8549.1,8626.9
+23000,Maine,13,"          Durable goods manufacturing",4392.1,4531.8,4530.9,4545.0
+23000,Maine,25,"          Nondurable goods manufacturing",3982.2,4042.6,4018.2,4081.8
+23000,Maine,34,"      Wholesale trade",4691.0,4629.8,4561.7,4638.8
+23000,Maine,35,"      Retail trade",8853.3,8832.5,9088.8,9004.1
+23000,Maine,36,"      Transportation and warehousing",1894.4,1915.4,1992.5,1953.8
+23000,Maine,45,"      Information",(D),(D),(D),(D)
+23000,Maine,51,"      Finance and insurance",6735.2,6606.9,6741.5,6785.4
+23000,Maine,56,"      Real estate and rental and leasing",15730.9,15963.3,16155.5,16356.6
+23000,Maine,60,"      Professional, scientific, and technical services",6250.7,6202.0,6379.4,6512.5
+23000,Maine,64,"      Management of companies and enterprises",2746.8,2568.1,2775.8,2938.5
+23000,Maine,65,"      Administrative and support and waste management and remediation services",2717.7,2766.2,2818.7,2769.4
+23000,Maine,69,"      Educational services",1435.4,1432.8,1478.7,1500.7
+23000,Maine,70,"      Health care and social assistance",10567.2,10791.9,10816.0,11139.1
+23000,Maine,76,"      Arts, entertainment, and recreation",1108.5,1152.4,1180.0,1203.8
+23000,Maine,79,"      Accommodation and food services",4926.3,4916.1,4880.9,4924.4
+23000,Maine,82,"      Other services (except government and government enterprises)",2143.5,2176.5,2221.3,2259.2
+23000,Maine,83,"  Government and government enterprises",11266.6,11243.1,11409.4,11792.6
+23000,Maine,84,"    Federal civilian",3006.4,3063.2,3117.6,3155.6
+23000,Maine,85,"    Military",471.8,461.9,431.1,442.0
+23000,Maine,86,"    State and local",7788.4,7717.9,7860.7,8195.0
+24000,Maryland,1,All industry total,537346.4,541683.9,550296.0,554787.1
+24000,Maryland,2,"  Private industries",426844.4,429939.2,436630.7,439962.9
+24000,Maryland,3,"      Agriculture, forestry, fishing and hunting",1252.2,1138.8,1657.8,1851.0
+24000,Maryland,6,"      Mining, quarrying, and oil and gas extraction",347.0,386.2,351.4,344.2
+24000,Maryland,10,"      Utilities",8020.7,7844.3,7953.6,8115.1
+24000,Maryland,11,"      Construction",31917.7,32000.5,32671.4,32346.7
+24000,Maryland,12,"      Manufacturing",28024.5,28646.2,28922.7,28725.7
+24000,Maryland,13,"          Durable goods manufacturing",12579.9,12698.7,13076.1,12763.7
+24000,Maryland,25,"          Nondurable goods manufacturing",15444.5,15947.5,15846.6,15962.0
+24000,Maryland,34,"      Wholesale trade",23895.6,23561.3,24027.6,24232.0
+24000,Maryland,35,"      Retail trade",30826.8,31023.6,31619.8,31318.1
+24000,Maryland,36,"      Transportation and warehousing",12600.5,12601.8,12500.7,12437.8
+24000,Maryland,45,"      Information",22422.0,22873.5,23787.0,23492.6
+24000,Maryland,51,"      Finance and insurance",23153.1,23512.5,23432.7,24098.3
+24000,Maryland,56,"      Real estate and rental and leasing",81153.3,82392.1,83077.7,83929.4
+24000,Maryland,60,"      Professional, scientific, and technical services",55742.2,55801.0,56324.3,57493.0
+24000,Maryland,64,"      Management of companies and enterprises",5819.4,5563.5,5733.0,5848.3
+24000,Maryland,65,"      Administrative and support and waste management and remediation services",17561.6,17263.2,17726.3,17623.3
+24000,Maryland,69,"      Educational services",7984.7,7955.5,8139.7,8261.0
+24000,Maryland,70,"      Health care and social assistance",40960.6,41581.5,42572.7,43263.7
+24000,Maryland,76,"      Arts, entertainment, and recreation",6304.6,6652.5,6837.7,6954.3
+24000,Maryland,79,"      Accommodation and food services",16256.6,16350.6,16221.2,16368.1
+24000,Maryland,82,"      Other services (except government and government enterprises)",12601.2,12790.6,13073.1,13260.2
+24000,Maryland,83,"  Government and government enterprises",110502.0,111744.8,113665.3,114824.2
+24000,Maryland,84,"    Federal civilian",56744.0,57610.0,58440.2,58919.7
+24000,Maryland,85,"    Military",11863.4,12070.5,12147.4,12304.7
+24000,Maryland,86,"    State and local",41894.6,42064.2,43077.7,43599.8
+25000,Massachusetts,1,All industry total,763972.5,777582.3,786043.2,786495.8
+25000,Massachusetts,2,"  Private industries",697767.6,711003.1,718285.3,718231.4
+25000,Massachusetts,3,"      Agriculture, forestry, fishing and hunting",911.0,893.3,887.0,928.5
+25000,Massachusetts,6,"      Mining, quarrying, and oil and gas extraction",257.1,290.0,289.5,295.4
+25000,Massachusetts,10,"      Utilities",12077.0,12318.1,11813.7,11764.8
+25000,Massachusetts,11,"      Construction",29688.5,29870.7,29998.3,30002.3
+25000,Massachusetts,12,"      Manufacturing",60719.9,62135.4,61828.1,61740.5
+25000,Massachusetts,13,"          Durable goods manufacturing",29703.1,30197.5,30443.3,30186.4
+25000,Massachusetts,25,"          Nondurable goods manufacturing",31016.8,31937.9,31384.8,31554.1
+25000,Massachusetts,34,"      Wholesale trade",36161.0,36562.9,36693.1,36168.8
+25000,Massachusetts,35,"      Retail trade",35363.2,35518.8,35519.6,35328.1
+25000,Massachusetts,36,"      Transportation and warehousing",15619.9,15992.0,16323.7,16522.9
+25000,Massachusetts,45,"      Information",47839.5,48462.5,48594.9,48138.0
+25000,Massachusetts,51,"      Finance and insurance",62846.0,64622.8,66297.2,65455.7
+25000,Massachusetts,56,"      Real estate and rental and leasing",108911.5,110072.6,111012.0,112175.0
+25000,Massachusetts,60,"      Professional, scientific, and technical services",110392.1,113285.2,114977.9,114103.8
+25000,Massachusetts,64,"      Management of companies and enterprises",15547.3,16429.3,17013.8,16773.7
+25000,Massachusetts,65,"      Administrative and support and waste management and remediation services",21594.9,22230.8,22770.5,23491.7
+25000,Massachusetts,69,"      Educational services",21783.6,22212.2,22440.5,22749.4
+25000,Massachusetts,70,"      Health care and social assistance",69988.4,71380.8,72867.3,73322.6
+25000,Massachusetts,76,"      Arts, entertainment, and recreation",7896.0,8156.1,8566.0,8386.0
+25000,Massachusetts,79,"      Accommodation and food services",25136.7,25170.9,24897.1,25204.8
+25000,Massachusetts,82,"      Other services (except government and government enterprises)",15033.8,15398.8,15495.1,15679.5
+25000,Massachusetts,83,"  Government and government enterprises",66204.9,66579.2,67757.9,68264.4
+25000,Massachusetts,84,"    Federal civilian",12124.9,12352.8,12530.6,12670.6
+25000,Massachusetts,85,"    Military",7610.2,7805.9,7892.2,7967.9
+25000,Massachusetts,86,"    State and local",46469.8,46420.5,47335.1,47625.9
+26000,Michigan,1,All industry total,691456.8,703328.8,704424.6,710657.5
+26000,Michigan,2,"  Private industries",624164.1,635130.8,635966.6,640952.4
+26000,Michigan,3,"      Agriculture, forestry, fishing and hunting",4738.2,5207.3,5822.6,6093.5
+26000,Michigan,6,"      Mining, quarrying, and oil and gas extraction",1984.6,1946.9,1715.8,1591.1
+26000,Michigan,10,"      Utilities",12206.9,12805.6,11908.8,12061.1
+26000,Michigan,11,"      Construction",28785.7,29240.6,28677.1,29404.8
+26000,Michigan,12,"      Manufacturing",113464.0,116074.0,113790.8,112943.3
+26000,Michigan,13,"          Durable goods manufacturing",84675.8,86898.0,84892.4,83790.0
+26000,Michigan,25,"          Nondurable goods manufacturing",28788.2,29176.0,28898.4,29153.3
+26000,Michigan,34,"      Wholesale trade",45976.9,46866.8,46696.8,47334.3
+26000,Michigan,35,"      Retail trade",49144.2,49264.7,50009.2,49314.3
+26000,Michigan,36,"      Transportation and warehousing",21157.2,21544.3,21633.5,21494.2
+26000,Michigan,45,"      Information",18270.1,18679.0,18935.9,18783.3
+26000,Michigan,51,"      Finance and insurance",35549.8,36183.8,36206.2,37376.7
+26000,Michigan,56,"      Real estate and rental and leasing",95772.7,96933.6,97846.2,98536.1
+26000,Michigan,60,"      Professional, scientific, and technical services",55218.8,56897.5,57139.2,59137.7
+26000,Michigan,64,"      Management of companies and enterprises",12846.5,13119.8,13317.8,13547.7
+26000,Michigan,65,"      Administrative and support and waste management and remediation services",22155.9,22511.9,22506.0,22534.1
+26000,Michigan,69,"      Educational services",5182.0,5239.4,5285.8,5308.2
+26000,Michigan,70,"      Health care and social assistance",57914.4,58220.4,59696.7,60063.5
+26000,Michigan,76,"      Arts, entertainment, and recreation",6123.2,6267.5,6282.4,6600.8
+26000,Michigan,79,"      Accommodation and food services",21084.8,21131.3,21131.5,21281.2
+26000,Michigan,82,"      Other services (except government and government enterprises)",16588.1,16996.1,17364.2,17546.5
+26000,Michigan,83,"  Government and government enterprises",67292.7,68198.0,68458.0,69705.1
+26000,Michigan,84,"    Federal civilian",10999.0,11158.9,11291.9,11373.1
+26000,Michigan,85,"    Military",2137.7,2164.0,2137.2,2169.7
+26000,Michigan,86,"    State and local",54155.9,54875.1,55028.9,56162.2
+27000,Minnesota,1,All industry total,497129.4,503776.8,513063.7,516781.3
+27000,Minnesota,2,"  Private industries",450938.7,456604.2,465337.4,468269.0
+27000,Minnesota,3,"      Agriculture, forestry, fishing and hunting",9113.3,8981.8,8942.8,9740.2
+27000,Minnesota,6,"      Mining, quarrying, and oil and gas extraction",2774.7,2689.1,2411.0,2299.2
+27000,Minnesota,10,"      Utilities",7581.7,7725.7,7528.9,7560.0
+27000,Minnesota,11,"      Construction",24998.9,24834.0,25138.2,25629.9
+27000,Minnesota,12,"      Manufacturing",58704.3,59915.8,61156.8,60740.7
+27000,Minnesota,13,"          Durable goods manufacturing",35536.9,36533.3,37614.2,36767.1
+27000,Minnesota,25,"          Nondurable goods manufacturing",23167.4,23382.5,23542.6,23973.6
+27000,Minnesota,34,"      Wholesale trade",36646.3,36439.8,37405.5,37479.2
+27000,Minnesota,35,"      Retail trade",30066.4,30090.2,30680.5,30535.8
+27000,Minnesota,36,"      Transportation and warehousing",16104.9,16237.7,16353.6,16582.4
+27000,Minnesota,45,"      Information",15674.1,15946.5,16094.8,16051.0
+27000,Minnesota,51,"      Finance and insurance",43166.0,45080.5,46429.6,45418.7
+27000,Minnesota,56,"      Real estate and rental and leasing",63202.8,64404.0,65296.3,65933.3
+27000,Minnesota,60,"      Professional, scientific, and technical services",33680.9,34359.7,35551.4,35858.3
+27000,Minnesota,64,"      Management of companies and enterprises",17337.4,15367.4,16932.5,17724.2
+27000,Minnesota,65,"      Administrative and support and waste management and remediation services",11669.7,11908.2,11940.7,12114.8
+27000,Minnesota,69,"      Educational services",4475.0,4496.6,4584.4,4713.8
+27000,Minnesota,70,"      Health care and social assistance",47210.7,48884.5,49563.5,50210.0
+27000,Minnesota,76,"      Arts, entertainment, and recreation",4678.5,5036.9,4885.1,4917.4
+27000,Minnesota,79,"      Accommodation and food services",13102.8,13164.2,13189.0,13361.3
+27000,Minnesota,82,"      Other services (except government and government enterprises)",10750.4,11041.7,11252.9,11398.9
+27000,Minnesota,83,"  Government and government enterprises",46190.7,47172.6,47726.3,48512.3
+27000,Minnesota,84,"    Federal civilian",5815.8,5949.4,6061.8,6138.2
+27000,Minnesota,85,"    Military",1773.5,1816.4,1869.1,1908.9
+27000,Minnesota,86,"    State and local",38601.4,39406.8,39795.3,40465.2
+28000,Mississippi,1,All industry total,155307.2,157262.6,159268.8,160930.9
+28000,Mississippi,2,"  Private industries",131184.9,132705.2,134613.9,135938.1
+28000,Mississippi,3,"      Agriculture, forestry, fishing and hunting",3597.3,3188.9,4188.1,4620.5
+28000,Mississippi,6,"      Mining, quarrying, and oil and gas extraction",919.5,922.7,851.9,792.7
+28000,Mississippi,10,"      Utilities",4358.3,4293.0,4201.8,4229.4
+28000,Mississippi,11,"      Construction",5698.3,5711.4,5806.7,5987.0
+28000,Mississippi,12,"      Manufacturing",23912.3,24540.9,24370.5,24256.1
+28000,Mississippi,13,"          Durable goods manufacturing",11711.1,12051.6,12010.3,11982.5
+28000,Mississippi,25,"          Nondurable goods manufacturing",12201.3,12489.3,12360.2,12273.6
+28000,Mississippi,34,"      Wholesale trade",8073.4,8063.9,8180.7,8265.4
+28000,Mississippi,35,"      Retail trade",13511.2,13614.0,13869.8,13740.9
+28000,Mississippi,36,"      Transportation and warehousing",6238.2,6333.2,6366.2,6365.3
+28000,Mississippi,45,"      Information",2610.6,2583.2,2612.8,2638.1
+28000,Mississippi,51,"      Finance and insurance",7641.2,7899.7,7845.1,8077.7
+28000,Mississippi,56,"      Real estate and rental and leasing",19720.3,19952.0,20169.6,20367.0
+28000,Mississippi,60,"      Professional, scientific, and technical services",5489.5,5631.3,5755.4,5913.0
+28000,Mississippi,64,"      Management of companies and enterprises",1628.0,1625.5,1678.8,1696.6
+28000,Mississippi,65,"      Administrative and support and waste management and remediation services",4345.6,4408.3,4418.8,4527.4
+28000,Mississippi,69,"      Educational services",945.8,978.5,1009.4,1021.1
+28000,Mississippi,70,"      Health care and social assistance",11577.7,11897.4,12023.9,12191.5
+28000,Mississippi,76,"      Arts, entertainment, and recreation",896.1,907.4,949.8,946.6
+28000,Mississippi,79,"      Accommodation and food services",6504.5,6533.6,6593.4,6570.3
+28000,Mississippi,82,"      Other services (except government and government enterprises)",3517.0,3620.2,3721.1,3731.4
+28000,Mississippi,83,"  Government and government enterprises",24122.4,24557.3,24654.9,24992.8
+28000,Mississippi,84,"    Federal civilian",4523.9,4621.0,4679.5,4738.8
+28000,Mississippi,85,"    Military",2641.9,2714.4,2787.0,2868.9
+28000,Mississippi,86,"    State and local",16956.6,17222.0,17188.4,17385.1
+29000,Missouri,1,All industry total,441480.6,445964.4,451450.9,455958.9
+29000,Missouri,2,"  Private industries",395455.1,399506.9,404486.2,408409.6
+29000,Missouri,3,"      Agriculture, forestry, fishing and hunting",6108.0,5726.5,5966.7,6778.3
+29000,Missouri,6,"      Mining, quarrying, and oil and gas extraction",1315.1,1147.7,1072.5,1021.1
+29000,Missouri,10,"      Utilities",6815.4,6982.0,6454.1,6626.4
+29000,Missouri,11,"      Construction",21284.6,21613.6,21538.5,22133.6
+29000,Missouri,12,"      Manufacturing",51079.2,52205.3,51991.8,51639.8
+29000,Missouri,13,"          Durable goods manufacturing",27195.7,28098.2,27873.4,27466.9
+29000,Missouri,25,"          Nondurable goods manufacturing",23883.5,24107.0,24118.5,24172.9
+29000,Missouri,34,"      Wholesale trade",30355.0,30447.2,30696.7,31149.2
+29000,Missouri,35,"      Retail trade",31590.8,31473.4,32172.0,31826.6
+29000,Missouri,36,"      Transportation and warehousing",15381.8,15766.3,16000.3,16049.3
+29000,Missouri,45,"      Information",14940.7,14863.0,15297.0,14985.9
+29000,Missouri,51,"      Finance and insurance",31589.8,32571.4,33206.9,33605.9
+29000,Missouri,56,"      Real estate and rental and leasing",54698.5,55102.1,55430.4,55955.9
+29000,Missouri,60,"      Professional, scientific, and technical services",30559.3,30846.7,31734.9,32357.4
+29000,Missouri,64,"      Management of companies and enterprises",10315.1,10079.4,10724.4,10769.2
+29000,Missouri,65,"      Administrative and support and waste management and remediation services",13570.8,13473.8,13660.8,13757.1
+29000,Missouri,69,"      Educational services",5193.7,5245.2,5192.9,5371.4
+29000,Missouri,70,"      Health care and social assistance",40813.2,41658.5,42428.5,43298.1
+29000,Missouri,76,"      Arts, entertainment, and recreation",5301.8,5446.4,5740.6,5678.7
+29000,Missouri,79,"      Accommodation and food services",14031.5,14131.5,14184.5,14275.3
+29000,Missouri,82,"      Other services (except government and government enterprises)",10510.5,10726.8,10992.5,11130.5
+29000,Missouri,83,"  Government and government enterprises",46025.5,46457.6,46964.8,47549.3
+29000,Missouri,84,"    Federal civilian",10318.9,10523.7,10649.4,10731.3
+29000,Missouri,85,"    Military",3295.4,3392.2,3401.1,3494.4
+29000,Missouri,86,"    State and local",32411.2,32541.7,32914.3,33323.5
+30000,Montana,1,All industry total,76607.8,77860.1,78848.6,80447.6
+30000,Montana,2,"  Private industries",67023.1,68181.9,69003.1,70435.8
+30000,Montana,3,"      Agriculture, forestry, fishing and hunting",2397.3,2474.8,2250.3,2470.4
+30000,Montana,6,"      Mining, quarrying, and oil and gas extraction",2551.6,2652.7,2613.3,2500.6
+30000,Montana,10,"      Utilities",1350.5,1442.5,1370.5,1410.6
+30000,Montana,11,"      Construction",4944.7,4976.6,4996.4,4997.7
+30000,Montana,12,"      Manufacturing",4480.8,4470.2,4552.5,4574.2
+30000,Montana,13,"          Durable goods manufacturing",1669.4,1723.1,1726.4,1738.7
+30000,Montana,25,"          Nondurable goods manufacturing",2811.4,2747.1,2826.1,2835.5
+30000,Montana,34,"      Wholesale trade",4212.6,4266.2,4368.0,4505.0
+30000,Montana,35,"      Retail trade",5845.6,5913.2,6001.1,6010.4
+30000,Montana,36,"      Transportation and warehousing",3117.0,3156.8,3236.0,3325.7
+30000,Montana,45,"      Information",1853.7,1917.8,1909.2,2005.5
+30000,Montana,51,"      Finance and insurance",3794.2,3890.4,4006.4,4043.3
+30000,Montana,56,"      Real estate and rental and leasing",11318.7,11531.7,11706.0,11844.3
+30000,Montana,60,"      Professional, scientific, and technical services",4764.0,4735.1,5017.4,5335.7
+30000,Montana,64,"      Management of companies and enterprises",307.3,325.9,340.9,349.6
+30000,Montana,65,"      Administrative and support and waste management and remediation services",1961.9,2017.6,2074.3,2116.6
+30000,Montana,69,"      Educational services",408.6,408.2,420.4,424.3
+30000,Montana,70,"      Health care and social assistance",7361.5,7545.3,7548.9,7816.5
+30000,Montana,76,"      Arts, entertainment, and recreation",944.5,976.4,996.1,1118.9
+30000,Montana,79,"      Accommodation and food services",3661.0,3679.8,3743.8,3712.1
+30000,Montana,82,"      Other services (except government and government enterprises)",1747.7,1800.5,1851.6,1874.6
+30000,Montana,83,"  Government and government enterprises",9584.7,9678.1,9845.5,10011.8
+30000,Montana,84,"    Federal civilian",2421.4,2459.3,2480.3,2513.0
+30000,Montana,85,"    Military",697.9,717.2,731.3,744.4
+30000,Montana,86,"    State and local",6465.3,6501.6,6633.9,6754.3
+31000,Nebraska,1,All industry total,186300.8,188962.0,189800.1,191907.7
+31000,Nebraska,2,"  Private industries",166437.5,168745.0,169289.6,171012.4
+31000,Nebraska,3,"      Agriculture, forestry, fishing and hunting",9626.3,10328.4,8867.1,10201.3
+31000,Nebraska,6,"      Mining, quarrying, and oil and gas extraction",281.5,258.7,244.5,223.5
+31000,Nebraska,10,"      Utilities",6877.4,7023.1,6840.9,6810.5
+31000,Nebraska,11,"      Construction",8968.5,8939.4,9130.2,9271.6
+31000,Nebraska,12,"      Manufacturing",20145.3,20340.3,20286.9,20324.8
+31000,Nebraska,13,"          Durable goods manufacturing",7268.8,7539.1,7528.0,7542.5
+31000,Nebraska,25,"          Nondurable goods manufacturing",12876.6,12801.1,12758.9,12782.3
+31000,Nebraska,34,"      Wholesale trade",12226.0,12490.0,12608.0,12587.5
+31000,Nebraska,35,"      Retail trade",10370.4,10430.0,10683.9,10676.7
+31000,Nebraska,36,"      Transportation and warehousing",11199.5,11120.1,11140.9,11121.4
+31000,Nebraska,45,"      Information",5900.4,5967.5,6161.4,6058.1
+31000,Nebraska,51,"      Finance and insurance",24989.4,25346.7,25619.0,25526.6
+31000,Nebraska,56,"      Real estate and rental and leasing",16541.5,16747.0,16957.1,17095.8
+31000,Nebraska,60,"      Professional, scientific, and technical services",7588.3,7826.9,8033.8,8062.5
+31000,Nebraska,64,"      Management of companies and enterprises",3397.0,3254.7,3554.1,3552.8
+31000,Nebraska,65,"      Administrative and support and waste management and remediation services",5025.0,4900.2,4970.3,4880.8
+31000,Nebraska,69,"      Educational services",1166.1,1156.8,1177.1,1207.0
+31000,Nebraska,70,"      Health care and social assistance",13193.7,13457.0,13706.3,13958.2
+31000,Nebraska,76,"      Arts, entertainment, and recreation",1018.3,1072.6,1086.5,1113.4
+31000,Nebraska,79,"      Accommodation and food services",4227.2,4290.3,4360.6,4399.0
+31000,Nebraska,82,"      Other services (except government and government enterprises)",3695.6,3795.4,3861.1,3940.9
+31000,Nebraska,83,"  Government and government enterprises",19863.3,20217.0,20510.5,20895.4
+31000,Nebraska,84,"    Federal civilian",2666.8,2735.6,2812.0,2853.4
+31000,Nebraska,85,"    Military",1373.1,1397.2,1418.5,1438.8
+31000,Nebraska,86,"    State and local",15823.4,16084.2,16280.0,16603.2
+32000,Nevada,1,All industry total,264093.0,267322.6,270553.7,274072.7
+32000,Nevada,2,"  Private industries",239102.1,242192.9,244509.1,247317.5
+32000,Nevada,3,"      Agriculture, forestry, fishing and hunting",429.3,478.8,492.5,517.5
+32000,Nevada,6,"      Mining, quarrying, and oil and gas extraction",4951.3,5316.9,5309.8,5106.0
+32000,Nevada,10,"      Utilities",3561.9,3396.4,3310.8,3329.3
+32000,Nevada,11,"      Construction",20372.2,20640.3,21057.4,21057.7
+32000,Nevada,12,"      Manufacturing",11220.3,11541.8,11180.9,11813.7
+32000,Nevada,13,"          Durable goods manufacturing",7799.2,8138.1,7793.9,8398.2
+32000,Nevada,25,"          Nondurable goods manufacturing",3421.1,3403.7,3387.0,3415.5
+32000,Nevada,34,"      Wholesale trade",10783.0,10856.9,11047.0,11755.3
+32000,Nevada,35,"      Retail trade",18798.6,18940.7,19265.4,19243.5
+32000,Nevada,36,"      Transportation and warehousing",12070.1,12174.4,12133.1,12057.9
+32000,Nevada,45,"      Information",8021.7,8215.6,8697.9,8535.9
+32000,Nevada,51,"      Finance and insurance",15220.9,15402.4,15992.6,16096.4
+32000,Nevada,56,"      Real estate and rental and leasing",39225.3,39802.1,40095.1,40731.4
+32000,Nevada,60,"      Professional, scientific, and technical services",13542.3,14073.7,14010.8,14471.3
+32000,Nevada,64,"      Management of companies and enterprises",7088.4,6963.0,7270.3,7242.1
+32000,Nevada,65,"      Administrative and support and waste management and remediation services",8820.7,8988.0,9081.3,9234.1
+32000,Nevada,69,"      Educational services",1436.0,1425.2,1467.2,1519.0
+32000,Nevada,70,"      Health care and social assistance",15328.4,15707.4,15958.8,16229.6
+32000,Nevada,76,"      Arts, entertainment, and recreation",7268.4,7761.4,7565.8,7797.0
+32000,Nevada,79,"      Accommodation and food services",36303.4,35790.4,35798.6,35736.0
+32000,Nevada,82,"      Other services (except government and government enterprises)",4659.8,4717.5,4773.9,4843.7
+32000,Nevada,83,"  Government and government enterprises",24990.9,25129.7,26044.6,26755.2
+32000,Nevada,84,"    Federal civilian",3857.8,3929.3,3997.6,4015.5
+32000,Nevada,85,"    Military",2247.6,2290.5,2310.8,2342.3
+32000,Nevada,86,"    State and local",18885.5,18909.8,19736.2,20397.4
+33000,New Hampshire,1,All industry total,117630.7,119084.8,119776.7,120854.4
+33000,New Hampshire,2,"  Private industries",106707.4,107994.0,108621.6,109494.1
+33000,New Hampshire,3,"      Agriculture, forestry, fishing and hunting",271.8,264.5,290.4,304.5
+33000,New Hampshire,6,"      Mining, quarrying, and oil and gas extraction",314.9,330.9,304.2,284.9
+33000,New Hampshire,10,"      Utilities",1665.3,1768.1,1570.1,1563.6
+33000,New Hampshire,11,"      Construction",4177.3,4155.5,4140.4,4114.4
+33000,New Hampshire,12,"      Manufacturing",10113.8,10203.0,10238.3,10038.4
+33000,New Hampshire,13,"          Durable goods manufacturing",7087.5,7107.7,7233.1,7058.4
+33000,New Hampshire,25,"          Nondurable goods manufacturing",3026.4,3095.3,3005.2,2980.0
+33000,New Hampshire,34,"      Wholesale trade",8109.1,8124.2,7983.7,8270.0
+33000,New Hampshire,35,"      Retail trade",9427.5,9310.7,9550.6,9291.2
+33000,New Hampshire,36,"      Transportation and warehousing",2016.6,1970.3,2041.6,2050.9
+33000,New Hampshire,45,"      Information",4631.6,4479.9,4738.3,4964.0
+33000,New Hampshire,51,"      Finance and insurance",7309.2,7757.0,7478.8,7598.8
+33000,New Hampshire,56,"      Real estate and rental and leasing",17728.9,18131.9,18306.0,18412.3
+33000,New Hampshire,60,"      Professional, scientific, and technical services",11083.0,11259.6,11299.5,11332.6
+33000,New Hampshire,64,"      Management of companies and enterprises",1925.5,1880.6,2054.1,2049.6
+33000,New Hampshire,65,"      Administrative and support and waste management and remediation services",5058.5,5078.5,5166.7,5254.6
+33000,New Hampshire,69,"      Educational services",2606.1,2600.9,2694.5,2750.0
+33000,New Hampshire,70,"      Health care and social assistance",10564.6,10860.6,10917.9,11234.7
+33000,New Hampshire,76,"      Arts, entertainment, and recreation",1417.1,1477.1,1510.1,1566.5
+33000,New Hampshire,79,"      Accommodation and food services",5389.9,5380.6,5319.8,5383.7
+33000,New Hampshire,82,"      Other services (except government and government enterprises)",2896.6,2959.9,3016.4,3029.4
+33000,New Hampshire,83,"  Government and government enterprises",10923.3,11090.8,11155.1,11360.3
+33000,New Hampshire,84,"    Federal civilian",2043.3,2078.9,2116.6,2147.1
+33000,New Hampshire,85,"    Military",1185.7,1249.2,1253.5,1259.7
+33000,New Hampshire,86,"    State and local",7694.3,7762.7,7785.0,7953.5
+34000,New Jersey,1,All industry total,831942.7,841980.0,850891.1,859187.8
+34000,New Jersey,2,"  Private industries",754828.5,764847.8,772410.6,780485.7
+34000,New Jersey,3,"      Agriculture, forestry, fishing and hunting",1329.3,1340.6,1349.1,1456.5
+34000,New Jersey,6,"      Mining, quarrying, and oil and gas extraction",721.8,823.0,826.5,801.9
+34000,New Jersey,10,"      Utilities",11857.5,11939.3,11731.4,12247.5
+34000,New Jersey,11,"      Construction",29296.8,29614.4,29681.6,29972.2
+34000,New Jersey,12,"      Manufacturing",70831.9,71359.3,71076.1,70222.2
+34000,New Jersey,13,"          Durable goods manufacturing",20897.4,21373.0,21259.6,21501.3
+34000,New Jersey,25,"          Nondurable goods manufacturing",49934.6,49986.4,49816.5,48720.9
+34000,New Jersey,34,"      Wholesale trade",65367.7,65230.6,66013.8,67538.9
+34000,New Jersey,35,"      Retail trade",52508.5,52450.8,53239.4,52771.4
+34000,New Jersey,36,"      Transportation and warehousing",32620.1,32867.0,33717.2,33232.4
+34000,New Jersey,45,"      Information",39517.4,39450.2,39543.7,41615.3
+34000,New Jersey,51,"      Finance and insurance",52960.5,53767.8,54324.0,55135.1
+34000,New Jersey,56,"      Real estate and rental and leasing",134130.1,136388.4,137758.5,138691.7
+34000,New Jersey,60,"      Professional, scientific, and technical services",80691.7,82961.0,83542.8,84834.0
+34000,New Jersey,64,"      Management of companies and enterprises",20841.9,20797.3,22013.1,21829.1
+34000,New Jersey,65,"      Administrative and support and waste management and remediation services",32948.2,33357.2,33426.0,33965.0
+34000,New Jersey,69,"      Educational services",9723.3,9722.3,9980.2,10235.5
+34000,New Jersey,70,"      Health care and social assistance",70089.1,72287.5,73180.3,74664.8
+34000,New Jersey,76,"      Arts, entertainment, and recreation",8524.5,8878.1,8891.2,8857.4
+34000,New Jersey,79,"      Accommodation and food services",23486.8,23822.6,24053.9,24106.9
+34000,New Jersey,82,"      Other services (except government and government enterprises)",17381.3,17790.2,18061.7,18307.8
+34000,New Jersey,83,"  Government and government enterprises",77114.2,77132.2,78480.4,78702.1
+34000,New Jersey,84,"    Federal civilian",9565.1,9711.3,9849.6,9887.8
+34000,New Jersey,85,"    Military",4088.7,4187.3,4242.6,4263.2
+34000,New Jersey,86,"    State and local",63460.5,63233.7,64388.2,64551.1
+35000,New Mexico,1,All industry total,143370.3,147097.4,148249.0,149622.6
+35000,New Mexico,2,"  Private industries",112352.1,115804.1,116887.3,117896.4
+35000,New Mexico,3,"      Agriculture, forestry, fishing and hunting",1486.3,1689.3,1856.3,1897.0
+35000,New Mexico,6,"      Mining, quarrying, and oil and gas extraction",16886.0,18850.2,18491.3,18347.7
+35000,New Mexico,10,"      Utilities",2291.9,2382.4,2291.8,2327.6
+35000,New Mexico,11,"      Construction",6159.1,6115.8,6401.0,6539.3
+35000,New Mexico,12,"      Manufacturing",4602.9,4681.5,4816.5,4995.9
+35000,New Mexico,13,"          Durable goods manufacturing",2237.9,2331.7,2456.9,2625.1
+35000,New Mexico,25,"          Nondurable goods manufacturing",2365.0,2349.8,2359.7,2370.8
+35000,New Mexico,34,"      Wholesale trade",4230.4,4267.2,4339.0,4432.0
+35000,New Mexico,35,"      Retail trade",8685.6,8730.1,8987.4,8839.5
+35000,New Mexico,36,"      Transportation and warehousing",3928.5,4053.5,4292.4,4165.1
+35000,New Mexico,45,"      Information",3625.7,3791.9,3407.5,3546.7
+35000,New Mexico,51,"      Finance and insurance",4958.1,5055.4,5072.9,5164.3
+35000,New Mexico,56,"      Real estate and rental and leasing",17552.7,17798.5,17994.0,18161.1
+35000,New Mexico,60,"      Professional, scientific, and technical services",11835.3,11913.3,12154.3,12299.7
+35000,New Mexico,64,"      Management of companies and enterprises",696.1,706.2,750.7,731.3
+35000,New Mexico,65,"      Administrative and support and waste management and remediation services",4380.9,4398.5,4480.1,4539.6
+35000,New Mexico,69,"      Educational services",723.9,739.9,743.3,770.9
+35000,New Mexico,70,"      Health care and social assistance",10015.9,10300.6,10423.9,10590.2
+35000,New Mexico,76,"      Arts, entertainment, and recreation",1187.0,1240.0,1203.3,1273.3
+35000,New Mexico,79,"      Accommodation and food services",5716.7,5671.2,5685.8,5718.5
+35000,New Mexico,82,"      Other services (except government and government enterprises)",3389.1,3418.7,3495.7,3556.5
+35000,New Mexico,83,"  Government and government enterprises",31018.2,31293.3,31361.7,31726.2
+35000,New Mexico,84,"    Federal civilian",9802.9,9676.4,9699.1,9698.6
+35000,New Mexico,85,"    Military",5396.4,5525.4,5514.0,5562.8
+35000,New Mexico,86,"    State and local",15818.9,16091.5,16148.7,16464.7
+36000,New York,1,All industry total,2256831.2,2310300.3,2347428.9,2373995.4
+36000,New York,2,"  Private industries",2038375.1,2089697.1,2121486.0,2146435.1
+36000,New York,3,"      Agriculture, forestry, fishing and hunting",3085.8,3688.8,4536.1,4676.6
+36000,New York,6,"      Mining, quarrying, and oil and gas extraction",1162.5,1225.6,1210.8,1215.1
+36000,New York,10,"      Utilities",29711.1,29842.5,29575.2,29839.2
+36000,New York,11,"      Construction",66929.0,67283.9,68054.5,66616.0
+36000,New York,12,"      Manufacturing",93440.4,94389.5,93569.2,92270.4
+36000,New York,13,"          Durable goods manufacturing",36212.1,37126.6,37500.1,36872.2
+36000,New York,25,"          Nondurable goods manufacturing",57228.2,57262.9,56069.0,55398.2
+36000,New York,34,"      Wholesale trade",88259.5,88525.4,90271.8,91147.1
+36000,New York,35,"      Retail trade",110136.9,109287.2,111064.9,110429.8
+36000,New York,36,"      Transportation and warehousing",52027.0,52414.3,52539.1,52120.4
+36000,New York,45,"      Information",192591.8,196043.0,197571.4,199410.5
+36000,New York,51,"      Finance and insurance",446663.9,476677.0,487318.6,502663.9
+36000,New York,56,"      Real estate and rental and leasing",311231.3,315538.6,317843.7,321666.1
+36000,New York,60,"      Professional, scientific, and technical services",196656.1,200674.0,203219.3,206956.0
+36000,New York,64,"      Management of companies and enterprises",32902.5,34618.8,35146.9,33118.3
+36000,New York,65,"      Administrative and support and waste management and remediation services",58910.1,60315.6,61936.8,62646.4
+36000,New York,69,"      Educational services",43210.3,43576.4,45249.6,46095.7
+36000,New York,70,"      Health care and social assistance",171048.7,172636.5,178192.4,178625.2
+36000,New York,76,"      Arts, entertainment, and recreation",32982.3,34209.9,34902.9,35772.9
+36000,New York,79,"      Accommodation and food services",65971.8,66589.0,66472.7,67413.5
+36000,New York,82,"      Other services (except government and government enterprises)",41454.3,42161.0,42810.0,43751.8
+36000,New York,83,"  Government and government enterprises",218456.1,220603.1,225942.9,227560.3
+36000,New York,84,"    Federal civilian",25144.9,25542.1,25932.7,26109.2
+36000,New York,85,"    Military",6093.3,6204.1,6216.4,6248.9
+36000,New York,86,"    State and local",187217.9,188857.0,193793.8,195202.3
+37000,North Carolina,1,All industry total,824995.7,837982.5,850974.3,862883.6
+37000,North Carolina,2,"  Private industries",730667.8,740167.3,752628.2,763740.6
+37000,North Carolina,3,"      Agriculture, forestry, fishing and hunting",6279.0,6010.6,6935.6,9027.6
+37000,North Carolina,6,"      Mining, quarrying, and oil and gas extraction",1613.4,1669.2,1460.9,1532.5
+37000,North Carolina,10,"      Utilities",14044.4,14933.0,14395.3,14869.0
+37000,North Carolina,11,"      Construction",40560.4,41086.8,41314.1,41891.0
+37000,North Carolina,12,"      Manufacturing",102238.7,104220.9,104118.4,104957.3
+37000,North Carolina,13,"          Durable goods manufacturing",40315.8,41137.1,41512.8,42056.6
+37000,North Carolina,25,"          Nondurable goods manufacturing",61922.9,63083.8,62605.6,62900.7
+37000,North Carolina,34,"      Wholesale trade",48382.1,48795.3,49550.9,50363.2
+37000,North Carolina,35,"      Retail trade",53600.9,53743.0,54868.3,54317.7
+37000,North Carolina,36,"      Transportation and warehousing",21397.1,21757.6,22168.3,22216.9
+37000,North Carolina,45,"      Information",32173.0,33000.1,34411.8,34443.6
+37000,North Carolina,51,"      Finance and insurance",81627.4,80980.7,83818.9,85392.8
+37000,North Carolina,56,"      Real estate and rental and leasing",105501.8,107292.4,109045.4,110509.6
+37000,North Carolina,60,"      Professional, scientific, and technical services",60205.8,61439.1,62307.5,63209.5
+37000,North Carolina,64,"      Management of companies and enterprises",16396.6,16984.7,17659.3,18053.7
+37000,North Carolina,65,"      Administrative and support and waste management and remediation services",30164.8,30331.3,30588.5,31237.1
+37000,North Carolina,69,"      Educational services",10634.3,10626.9,10785.1,11184.0
+37000,North Carolina,70,"      Health care and social assistance",55313.5,55909.9,57121.5,57999.0
+37000,North Carolina,76,"      Arts, entertainment, and recreation",7356.5,7432.3,7661.8,7641.4
+37000,North Carolina,79,"      Accommodation and food services",25459.1,25696.6,25795.6,26029.4
+37000,North Carolina,82,"      Other services (except government and government enterprises)",17719.2,18256.8,18621.0,18865.2
+37000,North Carolina,83,"  Government and government enterprises",94327.8,97815.2,98346.1,99143.0
+37000,North Carolina,84,"    Federal civilian",15483.9,15858.7,16175.4,16432.6
+37000,North Carolina,85,"    Military",14116.4,14440.7,15271.9,15333.9
+37000,North Carolina,86,"    State and local",64727.5,67515.9,66898.8,67376.4
+38000,North Dakota,1,All industry total,79469.9,80374.2,79952.6,80436.3
+38000,North Dakota,2,"  Private industries",71277.0,72007.6,71445.5,71808.7
+38000,North Dakota,3,"      Agriculture, forestry, fishing and hunting",5782.6,5429.8,4547.7,4834.2
+38000,North Dakota,6,"      Mining, quarrying, and oil and gas extraction",12052.2,12486.3,12105.0,11875.6
+38000,North Dakota,10,"      Utilities",1813.2,1727.4,1713.5,1680.2
+38000,North Dakota,11,"      Construction",4078.9,4224.5,4301.1,4345.9
+38000,North Dakota,12,"      Manufacturing",6914.5,6982.9,6877.4,6835.0
+38000,North Dakota,13,"          Durable goods manufacturing",4611.5,4585.4,4535.5,4484.7
+38000,North Dakota,25,"          Nondurable goods manufacturing",2303.0,2397.5,2341.8,2350.3
+38000,North Dakota,34,"      Wholesale trade",5820.4,5858.0,5970.4,6048.9
+38000,North Dakota,35,"      Retail trade",4702.2,4691.7,4818.0,4788.1
+38000,North Dakota,36,"      Transportation and warehousing",3417.0,3527.0,3524.3,3567.4
+38000,North Dakota,45,"      Information",1722.2,1723.7,1767.8,1741.7
+38000,North Dakota,51,"      Finance and insurance",3578.1,3679.2,3690.2,3810.1
+38000,North Dakota,56,"      Real estate and rental and leasing",7198.6,7214.8,7264.6,7297.2
+38000,North Dakota,60,"      Professional, scientific, and technical services",2362.9,2432.2,2486.1,2553.2
+38000,North Dakota,64,"      Management of companies and enterprises",760.8,749.9,797.8,810.2
+38000,North Dakota,65,"      Administrative and support and waste management and remediation services",1203.7,1217.9,1241.4,1238.3
+38000,North Dakota,69,"      Educational services",254.4,257.8,266.9,273.9
+38000,North Dakota,70,"      Health care and social assistance",5885.1,6073.8,6303.8,6314.7
+38000,North Dakota,76,"      Arts, entertainment, and recreation",380.0,347.4,354.1,370.9
+38000,North Dakota,79,"      Accommodation and food services",1952.5,1960.4,1954.7,1938.1
+38000,North Dakota,82,"      Other services (except government and government enterprises)",1397.4,1422.8,1460.7,1485.1
+38000,North Dakota,83,"  Government and government enterprises",8192.9,8366.7,8507.2,8627.6
+38000,North Dakota,84,"    Federal civilian",949.9,1021.8,1084.2,1112.2
+38000,North Dakota,85,"    Military",1177.1,1209.2,1229.3,1246.3
+38000,North Dakota,86,"    State and local",6065.9,6135.7,6193.7,6269.1
+39000,Ohio,1,All industry total,906420.3,919588.2,928590.4,937963.4
+39000,Ohio,2,"  Private industries",814917.0,825447.3,835103.9,841903.0
+39000,Ohio,3,"      Agriculture, forestry, fishing and hunting",6040.1,5842.5,6748.2,7397.1
+39000,Ohio,6,"      Mining, quarrying, and oil and gas extraction",6149.8,6400.4,6186.9,5975.1
+39000,Ohio,10,"      Utilities",14679.3,13824.6,13788.0,13469.8
+39000,Ohio,11,"      Construction",36931.9,37648.3,38652.4,39708.6
+39000,Ohio,12,"      Manufacturing",129629.2,132254.3,132114.2,132384.0
+39000,Ohio,13,"          Durable goods manufacturing",68837.6,70778.5,70360.0,69994.5
+39000,Ohio,25,"          Nondurable goods manufacturing",60791.6,61475.8,61754.2,62389.5
+39000,Ohio,34,"      Wholesale trade",56108.8,56575.5,56678.4,57637.8
+39000,Ohio,35,"      Retail trade",59461.5,58877.1,60100.6,59412.0
+39000,Ohio,36,"      Transportation and warehousing",29657.3,30607.0,30956.5,30924.0
+39000,Ohio,45,"      Information",20943.0,21471.0,21777.1,21520.0
+39000,Ohio,51,"      Finance and insurance",101645.0,104058.6,103356.7,105328.6
+39000,Ohio,56,"      Real estate and rental and leasing",109905.6,111181.3,112551.7,113658.5
+39000,Ohio,60,"      Professional, scientific, and technical services",50805.9,51536.4,52456.3,52872.0
+39000,Ohio,64,"      Management of companies and enterprises",26895.3,27042.4,29087.0,28976.9
+39000,Ohio,65,"      Administrative and support and waste management and remediation services",27624.9,27429.1,27524.7,27792.8
+39000,Ohio,69,"      Educational services",7505.9,7519.0,7641.3,7741.0
+39000,Ohio,70,"      Health care and social assistance",77953.0,79234.6,81092.4,81918.7
+39000,Ohio,76,"      Arts, entertainment, and recreation",8542.9,9120.8,8888.6,9220.9
+39000,Ohio,79,"      Accommodation and food services",25039.5,25083.6,25213.0,25362.2
+39000,Ohio,82,"      Other services (except government and government enterprises)",19398.0,19740.9,20290.0,20602.9
+39000,Ohio,83,"  Government and government enterprises",91503.3,94140.9,93486.5,96060.4
+39000,Ohio,84,"    Federal civilian",16081.3,16344.2,16623.6,16798.5
+39000,Ohio,85,"    Military",7059.9,7479.9,7772.8,7957.9
+39000,Ohio,86,"    State and local",68362.1,70316.7,69090.1,71303.9
+40000,Oklahoma,1,All industry total,259448.6,262979.1,265426.1,266926.7
+40000,Oklahoma,2,"  Private industries",218449.0,221268.4,223763.6,224563.8
+40000,Oklahoma,3,"      Agriculture, forestry, fishing and hunting",3638.1,3963.6,4245.2,4613.2
+40000,Oklahoma,6,"      Mining, quarrying, and oil and gas extraction",21413.9,22046.1,21686.3,20473.9
+40000,Oklahoma,10,"      Utilities",5052.2,5452.0,5208.2,5100.1
+40000,Oklahoma,11,"      Construction",10231.1,10333.8,10490.0,10720.8
+40000,Oklahoma,12,"      Manufacturing",22806.4,23419.7,23987.2,23937.8
+40000,Oklahoma,13,"          Durable goods manufacturing",12905.4,13230.5,13608.1,13598.1
+40000,Oklahoma,25,"          Nondurable goods manufacturing",9901.0,10189.2,10379.1,10339.7
+40000,Oklahoma,34,"      Wholesale trade",13419.0,13423.9,13670.4,13959.2
+40000,Oklahoma,35,"      Retail trade",18464.0,18458.0,18858.8,18726.4
+40000,Oklahoma,36,"      Transportation and warehousing",15576.7,15142.1,14783.4,14576.7
+40000,Oklahoma,45,"      Information",5636.1,5754.0,5812.9,5575.6
+40000,Oklahoma,51,"      Finance and insurance",11182.3,11357.0,11450.0,11761.6
+40000,Oklahoma,56,"      Real estate and rental and leasing",28899.5,29239.0,29522.4,29759.0
+40000,Oklahoma,60,"      Professional, scientific, and technical services",11531.4,11664.2,12078.9,12453.3
+40000,Oklahoma,64,"      Management of companies and enterprises",4265.2,4088.8,4361.9,4335.4
+40000,Oklahoma,65,"      Administrative and support and waste management and remediation services",8729.5,8843.6,8925.7,8991.0
+40000,Oklahoma,69,"      Educational services",1649.2,1640.7,1667.8,1697.0
+40000,Oklahoma,70,"      Health care and social assistance",20157.7,20432.1,20885.3,21399.8
+40000,Oklahoma,76,"      Arts, entertainment, and recreation",1789.2,1870.7,1777.4,1982.2
+40000,Oklahoma,79,"      Accommodation and food services",8174.3,8166.2,8275.6,8351.1
+40000,Oklahoma,82,"      Other services (except government and government enterprises)",5833.4,5972.9,6076.1,6149.7
+40000,Oklahoma,83,"  Government and government enterprises",40999.6,41710.7,41662.5,42362.9
+40000,Oklahoma,84,"    Federal civilian",8505.7,8604.2,8744.2,8817.5
+40000,Oklahoma,85,"    Military",3608.7,3633.3,3756.4,3833.2
+40000,Oklahoma,86,"    State and local",28885.2,29473.2,29162.0,29712.1
+41000,Oregon,1,All industry total,321685.3,328498.9,333198.3,337618.0
+41000,Oregon,2,"  Private industries",281387.8,287369.4,290587.9,294772.5
+41000,Oregon,3,"      Agriculture, forestry, fishing and hunting",5488.6,5620.9,6042.3,6063.4
+41000,Oregon,6,"      Mining, quarrying, and oil and gas extraction",391.6,423.5,415.9,407.6
+41000,Oregon,10,"      Utilities",4700.2,4886.9,4824.1,4996.0
+41000,Oregon,11,"      Construction",16725.4,16938.1,17083.9,16829.9
+41000,Oregon,12,"      Manufacturing",35228.9,36476.7,36906.1,37524.7
+41000,Oregon,13,"          Durable goods manufacturing",27450.1,28482.3,29114.4,29749.5
+41000,Oregon,25,"          Nondurable goods manufacturing",7778.8,7994.4,7791.7,7775.2
+41000,Oregon,34,"      Wholesale trade",17564.4,17765.7,18113.2,18354.7
+41000,Oregon,35,"      Retail trade",19454.9,19918.3,19972.1,20109.8
+41000,Oregon,36,"      Transportation and warehousing",9745.0,10139.8,10121.1,10240.1
+41000,Oregon,45,"      Information",14928.4,15429.3,15154.7,15621.9
+41000,Oregon,51,"      Finance and insurance",14757.7,15161.8,15384.0,15561.1
+41000,Oregon,56,"      Real estate and rental and leasing",48390.2,49154.1,49682.8,50200.2
+41000,Oregon,60,"      Professional, scientific, and technical services",20549.6,20666.3,20907.8,21441.5
+41000,Oregon,64,"      Management of companies and enterprises",9912.9,10059.9,9680.3,10296.8
+41000,Oregon,65,"      Administrative and support and waste management and remediation services",9265.9,9457.2,9634.4,9665.7
+41000,Oregon,69,"      Educational services",2550.0,2559.1,2620.5,2634.8
+41000,Oregon,70,"      Health care and social assistance",29923.0,30424.3,31475.5,32063.4
+41000,Oregon,76,"      Arts, entertainment, and recreation",2943.4,3125.9,3198.1,3225.8
+41000,Oregon,79,"      Accommodation and food services",11130.4,11159.6,11246.8,11259.4
+41000,Oregon,82,"      Other services (except government and government enterprises)",7737.1,8001.8,8124.3,8275.6
+41000,Oregon,83,"  Government and government enterprises",40297.5,41129.5,42610.4,42845.5
+41000,Oregon,84,"    Federal civilian",5790.4,5869.8,5968.3,6001.8
+41000,Oregon,85,"    Military",814.8,822.1,814.1,822.6
+41000,Oregon,86,"    State and local",33692.3,34437.6,35828.1,36021.1
+42000,Pennsylvania,1,All industry total,989552.2,1003336.1,1014937.8,1023669.6
+42000,Pennsylvania,2,"  Private industries",903962.4,917023.4,927359.2,935306.2
+42000,Pennsylvania,3,"      Agriculture, forestry, fishing and hunting",4002.5,4153.2,5304.0,5710.4
+42000,Pennsylvania,6,"      Mining, quarrying, and oil and gas extraction",14490.9,15024.2,13867.8,13266.0
+42000,Pennsylvania,10,"      Utilities",15680.4,15232.8,14876.2,15028.9
+42000,Pennsylvania,11,"      Construction",41024.8,41161.9,40947.0,41625.1
+42000,Pennsylvania,12,"      Manufacturing",106851.2,108618.5,107628.6,108126.9
+42000,Pennsylvania,13,"          Durable goods manufacturing",49932.9,50911.2,51045.1,51136.9
+42000,Pennsylvania,25,"          Nondurable goods manufacturing",56918.3,57707.3,56583.6,56990.0
+42000,Pennsylvania,34,"      Wholesale trade",57229.3,57851.4,58398.8,59756.1
+42000,Pennsylvania,35,"      Retail trade",63032.8,62911.8,64080.0,63281.4
+42000,Pennsylvania,36,"      Transportation and warehousing",38597.3,38797.0,39315.6,39552.9
+42000,Pennsylvania,45,"      Information",41061.1,41369.6,41848.5,41856.3
+42000,Pennsylvania,51,"      Finance and insurance",70175.4,71959.0,72495.3,73935.1
+42000,Pennsylvania,56,"      Real estate and rental and leasing",127542.3,129398.9,130263.7,131783.4
+42000,Pennsylvania,60,"      Professional, scientific, and technical services",79700.9,81616.7,82659.3,84266.0
+42000,Pennsylvania,64,"      Management of companies and enterprises",31075.2,31343.6,33402.7,32708.0
+42000,Pennsylvania,65,"      Administrative and support and waste management and remediation services",26437.1,26807.5,27092.9,27331.3
+42000,Pennsylvania,69,"      Educational services",23551.8,23895.7,24415.4,24791.4
+42000,Pennsylvania,70,"      Health care and social assistance",102468.3,104685.3,107342.7,108499.7
+42000,Pennsylvania,76,"      Arts, entertainment, and recreation",11812.7,12086.5,12627.3,12396.9
+42000,Pennsylvania,79,"      Accommodation and food services",26228.0,26639.6,26702.6,27014.4
+42000,Pennsylvania,82,"      Other services (except government and government enterprises)",23000.6,23470.3,24090.7,24376.0
+42000,Pennsylvania,83,"  Government and government enterprises",85589.8,86312.7,87578.5,88363.4
+42000,Pennsylvania,84,"    Federal civilian",20064.8,20319.0,20607.4,20819.1
+42000,Pennsylvania,85,"    Military",3462.1,3546.6,3591.6,3640.6
+42000,Pennsylvania,86,"    State and local",62062.9,62447.1,63379.5,63903.7
+44000,Rhode Island,1,All industry total,79189.8,79782.3,80925.7,81626.8
+44000,Rhode Island,2,"  Private industries",69212.1,69815.6,70772.1,71489.6
+44000,Rhode Island,3,"      Agriculture, forestry, fishing and hunting",(D),(D),(D),(D)
+44000,Rhode Island,6,"      Mining, quarrying, and oil and gas extraction",(D),(D),(D),(D)
+44000,Rhode Island,10,"      Utilities",1523.3,1387.2,1364.5,1421.4
+44000,Rhode Island,11,"      Construction",3197.0,3274.0,3328.0,3288.4
+44000,Rhode Island,12,"      Manufacturing",5351.2,5518.5,5543.8,5443.2
+44000,Rhode Island,13,"          Durable goods manufacturing",3508.8,3684.9,3693.8,3611.8
+44000,Rhode Island,25,"          Nondurable goods manufacturing",1842.4,1833.6,1850.1,1831.5
+44000,Rhode Island,34,"      Wholesale trade",4167.6,4200.9,4177.6,4084.1
+44000,Rhode Island,35,"      Retail trade",5240.3,5276.3,5396.7,5358.6
+44000,Rhode Island,36,"      Transportation and warehousing",1405.1,1424.4,1467.7,1540.1
+44000,Rhode Island,45,"      Information",1866.6,1891.4,1856.7,1938.2
+44000,Rhode Island,51,"      Finance and insurance",7256.1,7280.7,7440.7,7555.4
+44000,Rhode Island,56,"      Real estate and rental and leasing",11972.8,12183.2,12316.6,12463.1
+44000,Rhode Island,60,"      Professional, scientific, and technical services",5434.4,5554.8,5663.9,5904.4
+44000,Rhode Island,64,"      Management of companies and enterprises",2007.4,1792.0,1870.3,1956.7
+44000,Rhode Island,65,"      Administrative and support and waste management and remediation services",2688.0,2706.1,2774.8,2754.4
+44000,Rhode Island,69,"      Educational services",2413.9,2468.6,2519.3,2544.5
+44000,Rhode Island,70,"      Health care and social assistance",8117.7,8280.3,8442.4,8516.6
+44000,Rhode Island,76,"      Arts, entertainment, and recreation",908.9,883.6,873.3,901.0
+44000,Rhode Island,79,"      Accommodation and food services",3637.3,3636.0,3641.7,3691.5
+44000,Rhode Island,82,"      Other services (except government and government enterprises)",1751.3,1793.1,1831.0,1857.9
+44000,Rhode Island,83,"  Government and government enterprises",9977.7,9966.7,10153.5,10137.2
+44000,Rhode Island,84,"    Federal civilian",2380.9,2424.0,2469.8,2480.2
+44000,Rhode Island,85,"    Military",1500.2,1498.4,1525.4,1517.9
+44000,Rhode Island,86,"    State and local",6096.7,6044.3,6158.2,6139.1
+45000,South Carolina,1,All industry total,348621.1,354148.4,358994.5,366533.6
+45000,South Carolina,2,"  Private industries",303619.4,308209.1,312140.2,318955.7
+45000,South Carolina,3,"      Agriculture, forestry, fishing and hunting",2249.5,2096.6,1316.4,2349.9
+45000,South Carolina,6,"      Mining, quarrying, and oil and gas extraction",954.7,938.8,918.3,915.5
+45000,South Carolina,10,"      Utilities",6587.5,6807.1,6612.7,6987.0
+45000,South Carolina,11,"      Construction",18457.2,19088.9,19572.0,20538.1
+45000,South Carolina,12,"      Manufacturing",47982.9,47660.6,47589.9,47953.5
+45000,South Carolina,13,"          Durable goods manufacturing",27202.1,27757.1,27977.4,28413.9
+45000,South Carolina,25,"          Nondurable goods manufacturing",20780.8,19903.5,19612.5,19539.6
+45000,South Carolina,34,"      Wholesale trade",21646.9,21606.7,22092.0,22347.5
+45000,South Carolina,35,"      Retail trade",27661.3,28117.0,28820.3,28976.0
+45000,South Carolina,36,"      Transportation and warehousing",8774.6,8986.4,9147.3,9100.6
+45000,South Carolina,45,"      Information",9015.3,9062.9,9350.3,9479.6
+45000,South Carolina,51,"      Finance and insurance",16659.6,17230.2,17588.8,18217.2
+45000,South Carolina,56,"      Real estate and rental and leasing",55288.4,56247.4,57296.0,57950.7
+45000,South Carolina,60,"      Professional, scientific, and technical services",21276.9,22066.4,22749.7,23366.5
+45000,South Carolina,64,"      Management of companies and enterprises",3384.3,3500.8,3648.0,3781.3
+45000,South Carolina,65,"      Administrative and support and waste management and remediation services",12462.7,12584.5,12718.5,12999.6
+45000,South Carolina,69,"      Educational services",2353.2,2473.1,2434.2,2540.4
+45000,South Carolina,70,"      Health care and social assistance",22123.8,22578.8,22930.9,23587.3
+45000,South Carolina,76,"      Arts, entertainment, and recreation",2466.0,2548.1,2603.1,2708.5
+45000,South Carolina,79,"      Accommodation and food services",16071.3,16236.5,16165.3,16444.9
+45000,South Carolina,82,"      Other services (except government and government enterprises)",8203.2,8378.3,8586.5,8711.6
+45000,South Carolina,83,"  Government and government enterprises",45001.7,45939.3,46854.2,47577.9
+45000,South Carolina,84,"    Federal civilian",6586.8,6730.0,6892.7,7035.0
+45000,South Carolina,85,"    Military",5079.8,5233.6,5255.5,5265.2
+45000,South Carolina,86,"    State and local",33335.1,33975.7,34706.0,35277.7
+46000,South Dakota,1,All industry total,75511.6,76448.7,77039.9,78182.9
+46000,South Dakota,2,"  Private industries",67586.5,68422.9,68881.5,69948.1
+46000,South Dakota,3,"      Agriculture, forestry, fishing and hunting",6141.4,6313.8,5934.5,6351.7
+46000,South Dakota,6,"      Mining, quarrying, and oil and gas extraction",225.6,212.4,200.9,172.9
+46000,South Dakota,10,"      Utilities",1266.0,1218.9,1224.3,1222.6
+46000,South Dakota,11,"      Construction",3511.8,3486.8,3560.1,3612.0
+46000,South Dakota,12,"      Manufacturing",5402.3,5525.5,5540.8,5505.6
+46000,South Dakota,13,"          Durable goods manufacturing",3456.0,3547.1,3538.0,3515.1
+46000,South Dakota,25,"          Nondurable goods manufacturing",1946.4,1978.4,2002.8,1990.4
+46000,South Dakota,34,"      Wholesale trade",5148.1,5159.9,5196.8,5365.1
+46000,South Dakota,35,"      Retail trade",5720.7,5691.5,5799.1,5761.2
+46000,South Dakota,36,"      Transportation and warehousing",1726.9,1738.1,1763.5,1791.4
+46000,South Dakota,45,"      Information",1594.7,1632.2,1651.1,1627.0
+46000,South Dakota,51,"      Finance and insurance",11786.4,11983.1,12191.6,12448.9
+46000,South Dakota,56,"      Real estate and rental and leasing",7321.6,7453.1,7534.1,7604.8
+46000,South Dakota,60,"      Professional, scientific, and technical services",2891.4,2910.5,2988.9,3053.2
+46000,South Dakota,64,"      Management of companies and enterprises",912.2,846.8,912.6,848.4
+46000,South Dakota,65,"      Administrative and support and waste management and remediation services",1224.8,1230.8,1250.3,1282.9
+46000,South Dakota,69,"      Educational services",407.4,406.2,413.9,420.3
+46000,South Dakota,70,"      Health care and social assistance",7085.4,7356.6,7461.1,7539.3
+46000,South Dakota,76,"      Arts, entertainment, and recreation",516.6,546.4,553.6,560.1
+46000,South Dakota,79,"      Accommodation and food services",3012.7,3010.1,2966.5,3019.9
+46000,South Dakota,82,"      Other services (except government and government enterprises)",1690.6,1700.6,1737.7,1760.8
+46000,South Dakota,83,"  Government and government enterprises",7925.2,8025.7,8158.5,8234.9
+46000,South Dakota,84,"    Federal civilian",1422.6,1485.7,1540.1,1571.8
+46000,South Dakota,85,"    Military",709.6,720.4,723.7,730.0
+46000,South Dakota,86,"    State and local",5793.0,5819.6,5894.7,5933.1
+47000,Tennessee,1,All industry total,548931.9,559342.9,566351.4,570178.8
+47000,Tennessee,2,"  Private industries",497207.4,506567.6,513007.6,516061.9
+47000,Tennessee,3,"      Agriculture, forestry, fishing and hunting",2288.6,2203.3,2564.0,2917.8
+47000,Tennessee,6,"      Mining, quarrying, and oil and gas extraction",1414.3,1547.5,1465.2,1443.5
+47000,Tennessee,10,"      Utilities",6229.9,6424.6,6247.8,6511.8
+47000,Tennessee,11,"      Construction",23887.7,24235.9,24331.3,24131.7
+47000,Tennessee,12,"      Manufacturing",67520.0,68805.5,68639.7,68444.8
+47000,Tennessee,13,"          Durable goods manufacturing",37104.7,38070.4,37929.1,37985.7
+47000,Tennessee,25,"          Nondurable goods manufacturing",30415.3,30735.1,30710.5,30459.1
+47000,Tennessee,34,"      Wholesale trade",36958.9,37019.9,37322.9,37327.7
+47000,Tennessee,35,"      Retail trade",43126.4,43755.5,44546.0,43773.2
+47000,Tennessee,36,"      Transportation and warehousing",25971.3,26831.5,27657.3,27360.1
+47000,Tennessee,45,"      Information",19673.2,20082.6,21200.2,21307.2
+47000,Tennessee,51,"      Finance and insurance",30775.7,31257.3,31640.2,32583.8
+47000,Tennessee,56,"      Real estate and rental and leasing",68151.1,69426.6,70399.2,71300.8
+47000,Tennessee,60,"      Professional, scientific, and technical services",34676.9,35551.4,36137.0,36595.8
+47000,Tennessee,64,"      Management of companies and enterprises",8829.4,9422.9,9844.3,10058.9
+47000,Tennessee,65,"      Administrative and support and waste management and remediation services",20450.7,20517.1,20279.6,20448.4
+47000,Tennessee,69,"      Educational services",5545.2,5638.1,5690.3,5830.4
+47000,Tennessee,70,"      Health care and social assistance",50821.2,51644.9,52242.4,53038.3
+47000,Tennessee,76,"      Arts, entertainment, and recreation",12196.5,12995.5,13580.7,13843.9
+47000,Tennessee,79,"      Accommodation and food services",24901.1,24968.7,24844.1,24745.5
+47000,Tennessee,82,"      Other services (except government and government enterprises)",13789.2,14238.7,14375.6,14398.3
+47000,Tennessee,83,"  Government and government enterprises",51724.5,52775.3,53343.8,54116.9
+47000,Tennessee,84,"    Federal civilian",12083.1,12357.1,12689.9,12905.0
+47000,Tennessee,85,"    Military",2051.7,2074.9,2084.4,2117.2
+47000,Tennessee,86,"    State and local",37589.6,38343.3,38569.6,39094.7
+48000,Texas,1,All industry total,2704775.3,2759359.1,2794321.0,2820609.4
+48000,Texas,2,"  Private industries",2462015.4,2512394.7,2543885.9,2569034.4
+48000,Texas,3,"      Agriculture, forestry, fishing and hunting",14911.6,16534.8,18477.5,19910.2
+48000,Texas,6,"      Mining, quarrying, and oil and gas extraction",209628.5,213601.7,207582.2,198675.4
+48000,Texas,10,"      Utilities",40768.4,42261.4,44470.9,45415.5
+48000,Texas,11,"      Construction",133546.3,135377.8,137549.5,140834.5
+48000,Texas,12,"      Manufacturing",320447.5,329432.3,334755.5,338459.4
+48000,Texas,13,"          Durable goods manufacturing",132686.6,137335.0,138689.2,139589.2
+48000,Texas,25,"          Nondurable goods manufacturing",187760.9,192097.2,196066.3,198870.2
+48000,Texas,34,"      Wholesale trade",212502.7,212894.4,215818.5,219675.2
+48000,Texas,35,"      Retail trade",165970.9,167131.9,170585.8,170784.6
+48000,Texas,36,"      Transportation and warehousing",101992.7,104732.3,106323.5,106994.8
+48000,Texas,45,"      Information",103282.0,107499.1,107923.9,107262.7
+48000,Texas,51,"      Finance and insurance",162140.5,167627.1,170842.6,174733.7
+48000,Texas,56,"      Real estate and rental and leasing",347780.8,354166.0,359023.7,364104.0
+48000,Texas,60,"      Professional, scientific, and technical services",202667.8,206608.6,210771.7,214962.5
+48000,Texas,64,"      Management of companies and enterprises",37248.1,39875.9,39234.4,40155.2
+48000,Texas,65,"      Administrative and support and waste management and remediation services",90325.9,91170.0,92216.7,93941.6
+48000,Texas,69,"      Educational services",18849.3,19167.5,19495.4,20025.7
+48000,Texas,70,"      Health care and social assistance",153525.8,155206.9,158380.3,160781.7
+48000,Texas,76,"      Arts, entertainment, and recreation",17865.1,18638.3,18856.8,18901.7
+48000,Texas,79,"      Accommodation and food services",76994.5,77850.6,78166.6,79113.9
+48000,Texas,82,"      Other services (except government and government enterprises)",51566.9,52618.2,53410.5,54302.1
+48000,Texas,83,"  Government and government enterprises",242759.9,246964.4,250435.2,251575.1
+48000,Texas,84,"    Federal civilian",40923.6,41711.0,42572.6,43243.6
+48000,Texas,85,"    Military",20468.8,21047.4,21271.0,21614.2
+48000,Texas,86,"    State and local",181367.5,184206.0,186591.5,186717.3
+49000,Utah,1,All industry total,294041.8,298445.5,301146.6,304251.1
+49000,Utah,2,"  Private industries",262438.2,266549.5,269931.9,273509.5
+49000,Utah,3,"      Agriculture, forestry, fishing and hunting",1167.3,1242.2,1417.4,1489.5
+49000,Utah,6,"      Mining, quarrying, and oil and gas extraction",4827.7,4962.8,4543.3,4418.5
+49000,Utah,10,"      Utilities",6666.1,6934.7,6802.0,6828.9
+49000,Utah,11,"      Construction",23346.8,23561.6,23975.0,24220.2
+49000,Utah,12,"      Manufacturing",28658.0,29059.2,29122.8,29400.5
+49000,Utah,13,"          Durable goods manufacturing",16133.4,16235.3,16578.2,16554.3
+49000,Utah,25,"          Nondurable goods manufacturing",12524.6,12823.9,12544.6,12846.2
+49000,Utah,34,"      Wholesale trade",14394.8,14393.6,14863.6,15061.3
+49000,Utah,35,"      Retail trade",21843.6,21915.2,22052.0,21929.7
+49000,Utah,36,"      Transportation and warehousing",9622.0,9742.3,10073.1,10069.0
+49000,Utah,45,"      Information",14166.1,14383.6,14777.6,14674.6
+49000,Utah,51,"      Finance and insurance",26075.0,26256.0,26861.7,27312.2
+49000,Utah,56,"      Real estate and rental and leasing",40551.9,41375.4,41957.3,42784.7
+49000,Utah,60,"      Professional, scientific, and technical services",22091.4,22564.7,22911.9,23355.9
+49000,Utah,64,"      Management of companies and enterprises",3113.1,3272.7,3479.0,3579.7
+49000,Utah,65,"      Administrative and support and waste management and remediation services",8178.7,8151.6,8300.3,8635.8
+49000,Utah,69,"      Educational services",3772.6,3879.0,3942.0,4019.9
+49000,Utah,70,"      Health care and social assistance",16248.0,16844.7,16651.8,16991.7
+49000,Utah,76,"      Arts, entertainment, and recreation",2534.5,2621.8,2750.6,3036.1
+49000,Utah,79,"      Accommodation and food services",8056.5,8106.4,8052.0,8172.6
+49000,Utah,82,"      Other services (except government and government enterprises)",7124.2,7281.9,7398.3,7528.7
+49000,Utah,83,"  Government and government enterprises",31603.6,31895.9,31214.7,30741.6
+49000,Utah,84,"    Federal civilian",6986.9,7060.0,7220.6,7306.6
+49000,Utah,85,"    Military",1862.3,1903.1,1930.5,1953.2
+49000,Utah,86,"    State and local",22754.3,22932.8,22063.7,21481.8
+50000,Vermont,1,All industry total,45267.4,46030.7,46660.0,47146.2
+50000,Vermont,2,"  Private industries",39295.7,39975.3,40565.8,40941.9
+50000,Vermont,3,"      Agriculture, forestry, fishing and hunting",(D),(D),(D),(D)
+50000,Vermont,6,"      Mining, quarrying, and oil and gas extraction",262.9,298.3,311.2,307.3
+50000,Vermont,10,"      Utilities",1097.9,1135.4,1092.5,1080.9
+50000,Vermont,11,"      Construction",1734.7,1739.2,1737.5,1744.5
+50000,Vermont,12,"      Manufacturing",3301.9,3416.7,3405.5,3407.1
+50000,Vermont,13,"          Durable goods manufacturing",1895.0,1972.2,1979.6,1967.8
+50000,Vermont,25,"          Nondurable goods manufacturing",1406.9,1444.5,1425.8,1439.3
+50000,Vermont,34,"      Wholesale trade",2180.4,2123.2,2175.9,2226.7
+50000,Vermont,35,"      Retail trade",3915.6,3889.7,3992.5,3931.8
+50000,Vermont,36,"      Transportation and warehousing",731.8,754.0,771.9,769.4
+50000,Vermont,45,"      Information",(D),(D),(D),(D)
+50000,Vermont,51,"      Finance and insurance",2346.7,2359.5,2316.0,2363.5
+50000,Vermont,56,"      Real estate and rental and leasing",6168.5,6277.9,6352.0,6402.0
+50000,Vermont,60,"      Professional, scientific, and technical services",3533.4,3638.4,3694.3,3744.4
+50000,Vermont,64,"      Management of companies and enterprises",338.5,345.9,396.2,396.3
+50000,Vermont,65,"      Administrative and support and waste management and remediation services",1586.6,1597.0,1604.0,1674.1
+50000,Vermont,69,"      Educational services",984.3,987.5,1013.7,1027.7
+50000,Vermont,70,"      Health care and social assistance",4868.7,4986.7,5039.5,5161.1
+50000,Vermont,76,"      Arts, entertainment, and recreation",580.2,600.2,613.2,631.7
+50000,Vermont,79,"      Accommodation and food services",2902.1,2918.1,2958.0,2946.4
+50000,Vermont,82,"      Other services (except government and government enterprises)",1067.9,1090.3,1130.0,1144.6
+50000,Vermont,83,"  Government and government enterprises",5971.7,6055.4,6094.3,6204.2
+50000,Vermont,84,"    Federal civilian",1323.4,1348.0,1375.4,1397.7
+50000,Vermont,85,"    Military",220.3,217.4,227.9,232.1
+50000,Vermont,86,"    State and local",4427.9,4489.9,4491.0,4574.4
+51000,Virginia,1,All industry total,746599.7,757687.2,766029.3,776619.1
+51000,Virginia,2,"  Private industries",623223.9,632841.5,639330.5,648073.8
+51000,Virginia,3,"      Agriculture, forestry, fishing and hunting",1732.6,1729.0,2568.3,2991.0
+51000,Virginia,6,"      Mining, quarrying, and oil and gas extraction",2423.6,2561.1,2334.8,2252.6
+51000,Virginia,10,"      Utilities",10265.5,10854.9,10314.4,10263.5
+51000,Virginia,11,"      Construction",36680.8,37069.7,37534.1,37773.7
+51000,Virginia,12,"      Manufacturing",51664.8,51555.0,51213.3,51094.8
+51000,Virginia,13,"          Durable goods manufacturing",23098.0,23382.7,23657.0,23455.6
+51000,Virginia,25,"          Nondurable goods manufacturing",28566.8,28172.3,27556.3,27639.2
+51000,Virginia,34,"      Wholesale trade",33269.2,33452.6,34116.6,34695.0
+51000,Virginia,35,"      Retail trade",43666.6,43920.8,44675.4,44401.5
+51000,Virginia,36,"      Transportation and warehousing",20630.1,21476.0,21016.9,20913.3
+51000,Virginia,45,"      Information",32605.2,32984.0,34178.1,34437.6
+51000,Virginia,51,"      Finance and insurance",42613.3,43211.7,42751.4,43211.9
+51000,Virginia,56,"      Real estate and rental and leasing",104200.9,105756.0,106988.9,108245.1
+51000,Virginia,60,"      Professional, scientific, and technical services",96845.5,99312.7,99080.2,101805.8
+51000,Virginia,64,"      Management of companies and enterprises",18541.8,18395.9,20223.1,20885.4
+51000,Virginia,65,"      Administrative and support and waste management and remediation services",26055.7,26774.1,26747.0,27756.2
+51000,Virginia,69,"      Educational services",6295.4,6426.7,6329.6,6524.9
+51000,Virginia,70,"      Health care and social assistance",49247.9,50216.1,51256.5,52050.6
+51000,Virginia,76,"      Arts, entertainment, and recreation",6088.9,6191.7,6459.1,6594.9
+51000,Virginia,79,"      Accommodation and food services",22149.6,22237.3,22316.7,22495.1
+51000,Virginia,82,"      Other services (except government and government enterprises)",18246.5,18716.2,19226.1,19680.6
+51000,Virginia,83,"  Government and government enterprises",123375.8,124845.7,126698.9,128545.3
+51000,Virginia,84,"    Federal civilian",43494.9,43957.9,44677.5,45394.1
+51000,Virginia,85,"    Military",22386.5,22430.7,22978.3,23273.2
+51000,Virginia,86,"    State and local",57494.4,58457.1,59043.1,59878.1
+53000,Washington,1,All industry total,831633.4,855921.2,862187.0,874312.6
+53000,Washington,2,"  Private industries",738333.9,761123.6,766329.5,777159.3
+53000,Washington,3,"      Agriculture, forestry, fishing and hunting",8231.9,8817.3,9070.8,9737.4
+53000,Washington,6,"      Mining, quarrying, and oil and gas extraction",551.6,611.7,561.7,547.9
+53000,Washington,10,"      Utilities",7028.2,7319.9,6969.5,6837.7
+53000,Washington,11,"      Construction",34831.4,34991.2,35332.5,35040.9
+53000,Washington,12,"      Manufacturing",62907.8,64354.1,64106.3,62734.5
+53000,Washington,13,"          Durable goods manufacturing",43080.8,44635.7,44821.1,43396.6
+53000,Washington,25,"          Nondurable goods manufacturing",19827.0,19718.5,19285.2,19338.0
+53000,Washington,34,"      Wholesale trade",39478.9,40239.2,41577.5,43055.1
+53000,Washington,35,"      Retail trade",84097.1,90333.9,86257.6,90541.0
+53000,Washington,36,"      Transportation and warehousing",25692.3,26512.7,26830.5,27035.6
+53000,Washington,45,"      Information",138770.1,143587.2,144100.5,148142.3
+53000,Washington,51,"      Finance and insurance",29232.1,29336.7,29844.6,30280.2
+53000,Washington,56,"      Real estate and rental and leasing",109172.2,110919.6,112521.6,113719.2
+53000,Washington,60,"      Professional, scientific, and technical services",63690.9,66307.3,67462.6,66646.8
+53000,Washington,64,"      Management of companies and enterprises",11427.4,12645.1,13840.0,14168.9
+53000,Washington,65,"      Administrative and support and waste management and remediation services",22469.7,22821.3,23074.4,23393.3
+53000,Washington,69,"      Educational services",4201.4,4187.5,4244.0,4261.8
+53000,Washington,70,"      Health care and social assistance",49776.9,50756.5,52338.7,53169.7
+53000,Washington,76,"      Arts, entertainment, and recreation",6038.8,6432.1,6606.4,6233.0
+53000,Washington,79,"      Accommodation and food services",24423.9,24238.8,24494.6,24456.6
+53000,Washington,82,"      Other services (except government and government enterprises)",16311.2,16711.6,17095.9,17157.4
+53000,Washington,83,"  Government and government enterprises",93299.5,94797.6,95857.5,97153.2
+53000,Washington,84,"    Federal civilian",16129.9,16366.5,16612.4,16684.8
+53000,Washington,85,"    Military",9098.9,9254.1,9321.3,9377.7
+53000,Washington,86,"    State and local",68070.7,69177.1,69923.8,71090.8
+54000,West Virginia,1,All industry total,105740.4,106745.5,106237.6,107177.1
+54000,West Virginia,2,"  Private industries",90420.2,91108.7,90728.8,91377.8
+54000,West Virginia,3,"      Agriculture, forestry, fishing and hunting",481.5,463.1,615.6,683.6
+54000,West Virginia,6,"      Mining, quarrying, and oil and gas extraction",14963.1,14721.3,13796.9,13484.6
+54000,West Virginia,10,"      Utilities",2802.4,2943.4,2859.2,2784.3
+54000,West Virginia,11,"      Construction",4506.6,4306.1,4195.8,4205.5
+54000,West Virginia,12,"      Manufacturing",8722.0,8996.2,8903.4,9078.5
+54000,West Virginia,13,"          Durable goods manufacturing",4309.5,4367.8,4314.8,4365.6
+54000,West Virginia,25,"          Nondurable goods manufacturing",4412.5,4628.3,4588.5,4713.0
+54000,West Virginia,34,"      Wholesale trade",4865.4,4873.0,4926.6,5026.4
+54000,West Virginia,35,"      Retail trade",7815.1,7742.8,7955.3,7904.5
+54000,West Virginia,36,"      Transportation and warehousing",2776.1,2847.3,2906.1,2822.8
+54000,West Virginia,45,"      Information",1860.3,1932.1,1924.0,1944.0
+54000,West Virginia,51,"      Finance and insurance",4020.6,4008.4,4054.9,4180.1
+54000,West Virginia,56,"      Real estate and rental and leasing",11372.1,11418.9,11511.4,11619.4
+54000,West Virginia,60,"      Professional, scientific, and technical services",4345.5,4445.9,4461.7,4574.6
+54000,West Virginia,64,"      Management of companies and enterprises",957.9,970.6,1005.7,1028.9
+54000,West Virginia,65,"      Administrative and support and waste management and remediation services",2809.4,2793.2,2755.4,2802.1
+54000,West Virginia,69,"      Educational services",508.8,535.4,541.5,550.8
+54000,West Virginia,70,"      Health care and social assistance",11566.9,12005.1,12132.3,12481.6
+54000,West Virginia,76,"      Arts, entertainment, and recreation",592.7,587.1,613.4,604.1
+54000,West Virginia,79,"      Accommodation and food services",3301.7,3318.8,3320.0,3355.5
+54000,West Virginia,82,"      Other services (except government and government enterprises)",2152.1,2200.0,2249.6,2246.4
+54000,West Virginia,83,"  Government and government enterprises",15320.2,15636.8,15508.8,15799.4
+54000,West Virginia,84,"    Federal civilian",4768.5,4840.2,4877.9,4947.2
+54000,West Virginia,85,"    Military",493.6,502.4,511.6,511.0
+54000,West Virginia,86,"    State and local",10058.1,10294.3,10119.2,10341.2
+55000,Wisconsin,1,All industry total,444740.2,450289.6,457304.8,460860.0
+55000,Wisconsin,2,"  Private industries",400169.4,405492.6,411677.8,415059.0
+55000,Wisconsin,3,"      Agriculture, forestry, fishing and hunting",5952.3,6771.4,7995.8,8100.8
+55000,Wisconsin,6,"      Mining, quarrying, and oil and gas extraction",760.3,822.0,823.0,794.6
+55000,Wisconsin,10,"      Utilities",6711.5,6771.7,6518.9,6539.3
+55000,Wisconsin,11,"      Construction",20350.7,20406.6,20825.7,21179.4
+55000,Wisconsin,12,"      Manufacturing",72939.8,73610.5,73305.2,73386.8
+55000,Wisconsin,13,"          Durable goods manufacturing",40566.6,41076.8,40847.2,40565.1
+55000,Wisconsin,25,"          Nondurable goods manufacturing",32373.1,32533.7,32458.0,32821.7
+55000,Wisconsin,34,"      Wholesale trade",27798.9,28140.6,28531.4,28675.7
+55000,Wisconsin,35,"      Retail trade",29128.1,29008.8,29624.6,29422.8
+55000,Wisconsin,36,"      Transportation and warehousing",13954.5,14148.3,14449.4,14479.9
+55000,Wisconsin,45,"      Information",17544.2,17423.2,17945.1,17760.7
+55000,Wisconsin,51,"      Finance and insurance",36066.5,37030.4,37418.7,38199.3
+55000,Wisconsin,56,"      Real estate and rental and leasing",53892.9,54628.2,55414.9,56082.1
+55000,Wisconsin,60,"      Professional, scientific, and technical services",22427.6,22786.1,23123.6,23540.3
+55000,Wisconsin,64,"      Management of companies and enterprises",10849.8,11018.8,11763.5,11908.0
+55000,Wisconsin,65,"      Administrative and support and waste management and remediation services",11048.3,11005.2,11185.1,11305.0
+55000,Wisconsin,69,"      Educational services",4548.5,4590.1,4685.4,4766.7
+55000,Wisconsin,70,"      Health care and social assistance",38687.2,39287.6,40018.2,40542.5
+55000,Wisconsin,76,"      Arts, entertainment, and recreation",3865.4,3998.9,3990.1,4054.9
+55000,Wisconsin,79,"      Accommodation and food services",13300.6,13330.8,13421.7,13468.5
+55000,Wisconsin,82,"      Other services (except government and government enterprises)",10342.3,10713.5,10637.7,10851.6
+55000,Wisconsin,83,"  Government and government enterprises",44570.8,44797.0,45627.0,45801.0
+55000,Wisconsin,84,"    Federal civilian",5622.8,5714.3,5791.7,5839.6
+55000,Wisconsin,85,"    Military",1086.2,1114.0,1132.0,1151.9
+55000,Wisconsin,86,"    State and local",37861.8,37968.7,38703.4,38809.5
+56000,Wyoming,1,All industry total,50716.5,51530.8,51928.0,51817.3
+56000,Wyoming,2,"  Private industries",42895.8,43647.8,43950.0,43790.8
+56000,Wyoming,3,"      Agriculture, forestry, fishing and hunting",(D),(D),(D),(D)
+56000,Wyoming,6,"      Mining, quarrying, and oil and gas extraction",7255.0,7201.4,6794.2,6442.4
+56000,Wyoming,10,"      Utilities",1274.8,1255.7,1258.5,1241.5
+56000,Wyoming,11,"      Construction",3160.4,3108.7,3224.1,3242.1
+56000,Wyoming,12,"      Manufacturing",3904.1,4113.8,4038.7,3994.3
+56000,Wyoming,13,"          Durable goods manufacturing",(D),(D),(D),(D)
+56000,Wyoming,25,"          Nondurable goods manufacturing",(D),(D),(D),(D)
+56000,Wyoming,34,"      Wholesale trade",1781.0,1775.8,1834.4,1849.3
+56000,Wyoming,35,"      Retail trade",3244.5,3245.4,3344.9,3303.6
+56000,Wyoming,36,"      Transportation and warehousing",3876.4,3993.2,4048.3,4236.1
+56000,Wyoming,45,"      Information",(D),(D),(D),(D)
+56000,Wyoming,51,"      Finance and insurance",1571.9,1667.8,1782.9,1870.8
+56000,Wyoming,56,"      Real estate and rental and leasing",6136.7,6226.9,6308.6,6382.8
+56000,Wyoming,60,"      Professional, scientific, and technical services",2071.5,2098.1,2189.6,2300.8
+56000,Wyoming,64,"      Management of companies and enterprises",284.0,278.9,297.2,269.1
+56000,Wyoming,65,"      Administrative and support and waste management and remediation services",978.2,1099.0,1203.6,953.1
+56000,Wyoming,69,"      Educational services",186.4,187.3,193.7,196.2
+56000,Wyoming,70,"      Health care and social assistance",2189.0,2222.0,2249.8,2278.6
+56000,Wyoming,76,"      Arts, entertainment, and recreation",477.5,497.2,511.6,504.4
+56000,Wyoming,79,"      Accommodation and food services",2068.3,2130.5,2163.9,2140.7
+56000,Wyoming,82,"      Other services (except government and government enterprises)",890.1,924.5,927.6,937.6
+56000,Wyoming,83,"  Government and government enterprises",7820.7,7883.0,7978.0,8026.5
+56000,Wyoming,84,"    Federal civilian",1353.0,1360.8,1373.2,1384.4
+56000,Wyoming,85,"    Military",580.0,593.5,607.4,617.5
+56000,Wyoming,86,"    State and local",5887.6,5928.7,5997.4,6024.5
+91000,New England,1,All industry total,1453899.4,1476091.2,1492172.8,1499941.8
+91000,New England,2,"  Private industries",1317475.8,1338790.4,1353347.8,1359252.5
+91000,New England,3,"      Agriculture, forestry, fishing and hunting",3313.2,3347.8,3537.6,3678.7
+91000,New England,6,"      Mining, quarrying, and oil and gas extraction",1258.7,1376.0,1359.8,1358.7
+91000,New England,10,"      Utilities",23505.1,23847.6,22893.1,22844.7
+91000,New England,11,"      Construction",52940.9,53258.8,53424.5,53530.8
+91000,New England,12,"      Manufacturing",128805.9,131825.1,131325.3,131001.3
+91000,New England,13,"          Durable goods manufacturing",77546.4,79671.7,79933.3,79352.2
+91000,New England,25,"          Nondurable goods manufacturing",51259.5,52153.4,51391.9,51649.1
+91000,New England,34,"      Wholesale trade",74622.2,74930.9,75179.9,75325.7
+91000,New England,35,"      Retail trade",84491.9,84354.0,85485.8,84627.9
+91000,New England,36,"      Transportation and warehousing",29093.3,30016.6,31011.3,31702.1
+91000,New England,45,"      Information",75674.1,76745.6,77219.9,76816.1
+91000,New England,51,"      Finance and insurance",131317.3,134279.5,136795.3,137197.7
+91000,New England,56,"      Real estate and rental and leasing",207248.2,209909.9,211637.9,213835.3
+91000,New England,60,"      Professional, scientific, and technical services",162177.9,166086.5,168707.9,168551.4
+91000,New England,64,"      Management of companies and enterprises",30408.1,30902.3,32495.1,32364.1
+91000,New England,65,"      Administrative and support and waste management and remediation services",43915.8,44661.0,45592.8,46613.7
+91000,New England,69,"      Educational services",37794.3,38389.8,38995.6,39556.8
+91000,New England,70,"      Health care and social assistance",134317.9,137031.0,139314.4,140947.2
+91000,New England,76,"      Arts, entertainment, and recreation",15781.6,16317.4,16815.5,16825.5
+91000,New England,79,"      Accommodation and food services",51116.3,51135.6,50775.3,51351.1
+91000,New England,82,"      Other services (except government and government enterprises)",29693.2,30374.9,30780.8,31123.6
+91000,New England,83,"  Government and government enterprises",136423.6,137300.8,138825.0,140689.3
+91000,New England,84,"    Federal civilian",24953.9,25343.0,25719.3,25980.1
+91000,New England,85,"    Military",13856.8,14082.0,14161.8,14334.3
+91000,New England,86,"    State and local",97612.9,97875.8,98943.8,100374.9
+92000,Mideast,1,All industry total,4904094.0,4990511.2,5060413.6,5114225.5
+92000,Mideast,2,"  Private industries",4346373.1,4427466.1,4487839.7,4536829.5
+92000,Mideast,3,"      Agriculture, forestry, fishing and hunting",10501.5,11038.9,14033.5,15010.6
+92000,Mideast,6,"      Mining, quarrying, and oil and gas extraction",(D),(D),(D),(D)
+92000,Mideast,10,"      Utilities",68400.1,67974.5,67157.7,68256.2
+92000,Mideast,11,"      Construction",175199.5,175893.3,177316.9,176595.7
+92000,Mideast,12,"      Manufacturing",(D),(D),(D),(D)
+92000,Mideast,13,"          Durable goods manufacturing",121317.7,123850.4,124654.3,123994.1
+92000,Mideast,25,"          Nondurable goods manufacturing",(D),(D),(D),(D)
+92000,Mideast,34,"      Wholesale trade",239957.1,240473.6,243986.5,248116.8
+92000,Mideast,35,"      Retail trade",263433.4,262601.2,267080.8,264824.9
+92000,Mideast,36,"      Transportation and warehousing",138917.5,139750.0,141220.1,140528.9
+92000,Mideast,45,"      Information",308662.2,312757.6,316249.6,320787.6
+92000,Mideast,51,"      Finance and insurance",628523.8,662637.2,674624.3,693798.8
+92000,Mideast,56,"      Real estate and rental and leasing",691999.0,701918.7,707696.5,715038.0
+92000,Mideast,60,"      Professional, scientific, and technical services",456493.0,465887.3,471409.3,479986.6
+92000,Mideast,64,"      Management of companies and enterprises",93706.1,95563.3,99584.1,96783.3
+92000,Mideast,65,"      Administrative and support and waste management and remediation services",143639.3,145539.1,148076.5,149644.4
+92000,Mideast,69,"      Educational services",90504.5,91370.1,94125.3,95859.1
+92000,Mideast,70,"      Health care and social assistance",401029.4,407870.0,418381.5,422500.5
+92000,Mideast,76,"      Arts, entertainment, and recreation",61858.8,64127.9,65653.6,66511.0
+92000,Mideast,79,"      Accommodation and food services",141164.5,142816.4,142760.1,144657.8
+92000,Mideast,82,"      Other services (except government and government enterprises)",108476.0,110445.9,112504.5,114346.9
+92000,Mideast,83,"  Government and government enterprises",557720.8,563045.1,572573.9,577396.0
+92000,Mideast,84,"    Federal civilian",160232.3,162333.8,164531.3,165922.8
+92000,Mideast,85,"    Military",30866.4,31533.0,31371.4,31716.4
+92000,Mideast,86,"    State and local",366622.2,369178.3,376671.2,379756.7
+93000,Great Lakes,1,All industry total,3687195.3,3733657.8,3766280.8,3798980.9
+93000,Great Lakes,2,"  Private industries",3337845.2,3378923.3,3408354.3,3435542.8
+93000,Great Lakes,3,"      Agriculture, forestry, fishing and hunting",36800.3,36063.9,37292.7,39562.6
+93000,Great Lakes,6,"      Mining, quarrying, and oil and gas extraction",13126.0,13551.1,12945.0,12328.5
+93000,Great Lakes,10,"      Utilities",62875.0,63070.5,61187.4,61222.9
+93000,Great Lakes,11,"      Construction",153379.7,154417.3,155317.2,160343.7
+93000,Great Lakes,12,"      Manufacturing",578135.2,581507.6,578812.1,574787.1
+93000,Great Lakes,13,"          Durable goods manufacturing",322450.9,327431.9,324267.9,321893.9
+93000,Great Lakes,25,"          Nondurable goods manufacturing",255684.3,254075.7,254544.3,252893.1
+93000,Great Lakes,34,"      Wholesale trade",250962.2,252452.9,254241.0,256593.9
+93000,Great Lakes,35,"      Retail trade",235958.9,234901.6,240351.9,237216.6
+93000,Great Lakes,36,"      Transportation and warehousing",133029.8,135725.5,137673.0,137834.5
+93000,Great Lakes,45,"      Information",108781.3,111156.8,113435.3,113657.7
+93000,Great Lakes,51,"      Finance and insurance",291274.1,301276.8,302179.3,308175.5
+93000,Great Lakes,56,"      Real estate and rental and leasing",460613.2,466381.9,470359.2,474447.6
+93000,Great Lakes,60,"      Professional, scientific, and technical services",252262.8,257313.1,260066.6,266531.7
+93000,Great Lakes,64,"      Management of companies and enterprises",73065.6,74095.9,77994.1,77892.4
+93000,Great Lakes,65,"      Administrative and support and waste management and remediation services",116166.9,116141.3,117120.7,118011.7
+93000,Great Lakes,69,"      Educational services",38166.6,38257.1,38986.7,39500.5
+93000,Great Lakes,70,"      Health care and social assistance",301342.8,306185.3,311737.5,315950.4
+93000,Great Lakes,76,"      Arts, entertainment, and recreation",37457.7,39046.6,39302.5,39768.1
+93000,Great Lakes,79,"      Accommodation and food services",111238.0,111885.5,112306.0,113736.4
+93000,Great Lakes,82,"      Other services (except government and government enterprises)",83209.1,85492.7,87045.8,87980.9
+93000,Great Lakes,83,"  Government and government enterprises",349350.0,354734.5,357926.5,363438.1
+93000,Great Lakes,84,"    Federal civilian",56146.9,56993.2,57821.4,58411.1
+93000,Great Lakes,85,"    Military",16394.0,17295.3,17913.4,18552.3
+93000,Great Lakes,86,"    State and local",276809.1,280446.0,282191.8,286474.7
+94000,Plains,1,All industry total,1768256.1,1791099.5,1809557.5,1826346.0
+94000,Plains,2,"  Private industries",1586620.9,1606774.0,1623000.2,1637282.9
+94000,Plains,3,"      Agriculture, forestry, fishing and hunting",59035.0,59681.7,55554.0,61031.2
+94000,Plains,6,"      Mining, quarrying, and oil and gas extraction",18367.1,18547.0,17712.0,17194.9
+94000,Plains,10,"      Utilities",32244.3,32549.1,31449.2,31623.3
+94000,Plains,11,"      Construction",84695.9,85181.8,85888.7,87527.1
+94000,Plains,12,"      Manufacturing",221798.6,226402.8,226886.0,226023.0
+94000,Plains,13,"          Durable goods manufacturing",115606.8,118903.0,119599.6,118152.9
+94000,Plains,25,"          Nondurable goods manufacturing",106191.8,107499.8,107286.4,107870.1
+94000,Plains,34,"      Wholesale trade",120282.8,120561.7,122490.9,123435.9
+94000,Plains,35,"      Retail trade",113118.1,112901.7,115391.1,114582.6
+94000,Plains,36,"      Transportation and warehousing",65258.9,66225.9,66956.0,67348.6
+94000,Plains,45,"      Information",53000.7,52498.1,52689.8,51706.9
+94000,Plains,51,"      Finance and insurance",165185.6,170302.7,173255.3,173777.4
+94000,Plains,56,"      Real estate and rental and leasing",203091.4,205888.3,208167.8,210097.0
+94000,Plains,60,"      Professional, scientific, and technical services",99486.2,101338.4,104346.9,105566.2
+94000,Plains,64,"      Management of companies and enterprises",40784.0,38276.5,41355.5,42379.8
+94000,Plains,65,"      Administrative and support and waste management and remediation services",45198.4,45370.4,45793.2,46116.2
+94000,Plains,69,"      Educational services",14789.1,14874.6,15008.1,15428.2
+94000,Plains,70,"      Health care and social assistance",147858.5,151806.5,154354.7,156670.6
+94000,Plains,76,"      Arts, entertainment, and recreation",15202.3,15922.6,16162.2,16192.9
+94000,Plains,79,"      Accommodation and food services",48636.2,49006.7,49073.0,49520.6
+94000,Plains,82,"      Other services (except government and government enterprises)",38587.7,39437.5,40465.8,41060.5
+94000,Plains,83,"  Government and government enterprises",181635.2,184325.5,186557.3,189063.1
+94000,Plains,84,"    Federal civilian",28270.3,28963.5,29534.9,29901.9
+94000,Plains,85,"    Military",13271.1,13518.0,13596.4,13751.4
+94000,Plains,86,"    State and local",140093.8,141844.0,143426.0,145409.8
+95000,Southeast,1,All industry total,6403483.9,6494421.0,6582545.4,6660897.2
+95000,Southeast,2,"  Private industries",5671019.0,5749199.6,5829042.3,5898756.2
+95000,Southeast,3,"      Agriculture, forestry, fishing and hunting",46811.0,44887.9,48802.3,57549.4
+95000,Southeast,6,"      Mining, quarrying, and oil and gas extraction",44275.0,44920.2,42098.7,40516.1
+95000,Southeast,10,"      Utilities",111403.8,114324.9,110761.1,113170.9
+95000,Southeast,11,"      Construction",325427.0,330064.5,333361.1,335349.6
+95000,Southeast,12,"      Manufacturing",649045.2,658757.2,657806.0,659451.5
+95000,Southeast,13,"          Durable goods manufacturing",323269.2,330893.4,332226.5,331513.2
+95000,Southeast,25,"          Nondurable goods manufacturing",325776.0,327863.8,325579.5,327938.3
+95000,Southeast,34,"      Wholesale trade",398736.1,400798.7,409180.0,411494.9
+95000,Southeast,35,"      Retail trade",458012.8,459164.7,468705.3,465601.6
+95000,Southeast,36,"      Transportation and warehousing",228244.6,232421.8,236442.7,236847.1
+95000,Southeast,45,"      Information",229556.1,233078.5,240570.6,238602.6
+95000,Southeast,51,"      Finance and insurance",409572.6,415122.1,421376.0,432734.8
+95000,Southeast,56,"      Real estate and rental and leasing",966092.4,981347.1,995847.9,1008154.0
+95000,Southeast,60,"      Professional, scientific, and technical services",475508.4,485669.5,493070.3,502943.6
+95000,Southeast,64,"      Management of companies and enterprises",110532.9,110925.7,117312.6,122728.7
+95000,Southeast,65,"      Administrative and support and waste management and remediation services",225032.4,227717.1,229722.4,233462.2
+95000,Southeast,69,"      Educational services",57656.2,58482.6,59258.7,61004.3
+95000,Southeast,70,"      Health care and social assistance",482416.7,490660.5,499273.6,508016.2
+95000,Southeast,76,"      Arts, entertainment, and recreation",69729.7,72662.1,73738.5,75756.6
+95000,Southeast,79,"      Accommodation and food services",238449.2,239885.9,240612.7,242136.5
+95000,Southeast,82,"      Other services (except government and government enterprises)",144516.7,148308.5,151101.8,153235.5
+95000,Southeast,83,"  Government and government enterprises",732464.9,745221.4,753503.1,762140.9
+95000,Southeast,84,"    Federal civilian",161985.0,164790.0,167968.7,170494.3
+95000,Southeast,85,"    Military",87768.7,88898.2,90544.7,91416.6
+95000,Southeast,86,"    State and local",482711.2,491533.2,494989.7,500230.0
+96000,Southwest,1,All industry total,3663482.6,3735404.9,3782670.3,3820981.2
+96000,Southwest,2,"  Private industries",3291608.1,3357521.1,3401105.7,3436675.6
+96000,Southwest,3,"      Agriculture, forestry, fishing and hunting",22508.7,24903.5,27482.2,29441.6
+96000,Southwest,6,"      Mining, quarrying, and oil and gas extraction",254105.4,261270.1,254112.8,243762.6
+96000,Southwest,10,"      Utilities",58339.7,60961.2,62357.4,63519.1
+96000,Southwest,11,"      Construction",186385.2,188357.6,191340.1,195053.6
+96000,Southwest,12,"      Manufacturing",392622.8,403085.8,410462.3,414848.1
+96000,Southwest,13,"          Durable goods manufacturing",184518.9,190334.9,193642.0,195200.7
+96000,Southwest,25,"          Nondurable goods manufacturing",208103.9,212750.9,216820.2,219647.4
+96000,Southwest,34,"      Wholesale trade",260083.6,260726.8,264872.9,269466.9
+96000,Southwest,35,"      Retail trade",234662.8,236570.9,240914.2,240979.5
+96000,Southwest,36,"      Transportation and warehousing",140104.6,143000.4,144578.5,145319.6
+96000,Southwest,45,"      Information",131449.5,136569.2,136967.8,135958.8
+96000,Southwest,51,"      Finance and insurance",218775.0,226285.0,231149.1,237530.6
+96000,Southwest,56,"      Real estate and rental and leasing",490997.4,499664.7,506424.3,513596.2
+96000,Southwest,60,"      Professional, scientific, and technical services",256878.0,261709.0,267195.1,272729.5
+96000,Southwest,64,"      Management of companies and enterprises",49933.4,51952.5,52115.7,53324.2
+96000,Southwest,65,"      Administrative and support and waste management and remediation services",127729.0,128913.6,130378.8,132432.1
+96000,Southwest,69,"      Educational services",26972.3,27320.7,27773.5,28503.9
+96000,Southwest,70,"      Health care and social assistance",230429.2,233319.7,237866.6,242183.7
+96000,Southwest,76,"      Arts, entertainment, and recreation",26422.4,27385.4,27810.1,27973.9
+96000,Southwest,79,"      Accommodation and food services",111503.1,112326.6,112911.7,114409.6
+96000,Southwest,82,"      Other services (except government and government enterprises)",71706.0,73198.2,74392.9,75642.0
+96000,Southwest,83,"  Government and government enterprises",371874.5,377883.8,381564.6,384305.6
+96000,Southwest,84,"    Federal civilian",70035.4,71025.7,72279.3,73191.9
+96000,Southwest,85,"    Military",34477.5,35192.4,35447.5,35934.0
+96000,Southwest,86,"    State and local",267361.6,271665.7,273837.8,275179.7
+97000,Rocky Mountain,1,All industry total,1091097.6,1112076.2,1124330.2,1136742.2
+97000,Rocky Mountain,2,"  Private industries",966577.1,986148.9,998222.5,1009713.2
+97000,Rocky Mountain,3,"      Agriculture, forestry, fishing and hunting",(D),(D),(D),(D)
+97000,Rocky Mountain,6,"      Mining, quarrying, and oil and gas extraction",(D),(D),(D),(D)
+97000,Rocky Mountain,10,"      Utilities",17388.8,18192.6,17544.5,17469.3
+97000,Rocky Mountain,11,"      Construction",71954.7,72657.7,73528.1,74001.4
+97000,Rocky Mountain,12,"      Manufacturing",77675.1,79022.6,78851.8,79623.1
+97000,Rocky Mountain,13,"          Durable goods manufacturing",(D),(D),(D),(D)
+97000,Rocky Mountain,25,"          Nondurable goods manufacturing",(D),(D),(D),(D)
+97000,Rocky Mountain,34,"      Wholesale trade",58887.9,59234.4,60451.5,61816.4
+97000,Rocky Mountain,35,"      Retail trade",73261.5,73975.6,74947.1,74637.3
+97000,Rocky Mountain,36,"      Transportation and warehousing",39048.3,40271.2,41116.0,41313.0
+97000,Rocky Mountain,45,"      Information",52262.9,53359.0,54729.8,53829.3
+97000,Rocky Mountain,51,"      Finance and insurance",67703.8,68955.6,70137.7,71304.9
+97000,Rocky Mountain,56,"      Real estate and rental and leasing",163795.3,166724.5,169043.9,171376.4
+97000,Rocky Mountain,60,"      Professional, scientific, and technical services",96277.6,98441.4,100682.9,103081.6
+97000,Rocky Mountain,64,"      Management of companies and enterprises",15660.5,16053.4,16973.0,17061.2
+97000,Rocky Mountain,65,"      Administrative and support and waste management and remediation services",31648.4,32031.7,32305.5,32618.8
+97000,Rocky Mountain,69,"      Educational services",10015.5,10146.7,10212.2,10381.2
+97000,Rocky Mountain,70,"      Health care and social assistance",69521.8,71707.3,72102.9,73771.1
+97000,Rocky Mountain,76,"      Arts, entertainment, and recreation",13333.9,13692.8,13964.8,15029.0
+97000,Rocky Mountain,79,"      Accommodation and food services",39443.2,39674.7,39864.8,39908.0
+97000,Rocky Mountain,82,"      Other services (except government and government enterprises)",24983.1,25495.1,26002.6,26333.7
+97000,Rocky Mountain,83,"  Government and government enterprises",124520.5,125927.4,126107.7,127028.9
+97000,Rocky Mountain,84,"    Federal civilian",26276.1,26524.0,26936.3,27199.6
+97000,Rocky Mountain,85,"    Military",11509.5,11751.8,11944.6,12090.0
+97000,Rocky Mountain,86,"    State and local",86734.9,87651.6,87226.8,87739.3
+98000,Far West,1,All industry total,5578857.8,5654527.3,5732779.3,5804143.5
+98000,Far West,2,"  Private industries",4959617.1,5026492.3,5092463.9,5150782.9
+98000,Far West,3,"      Agriculture, forestry, fishing and hunting",(D),(D),(D),(D)
+98000,Far West,6,"      Mining, quarrying, and oil and gas extraction",25418.2,26933.8,25968.1,26159.7
+98000,Far West,10,"      Utilities",78338.6,78866.8,77393.7,76298.5
+98000,Far West,11,"      Construction",237514.6,239960.3,242051.0,239690.0
+98000,Far West,12,"      Manufacturing",(D),(D),(D),(D)
+98000,Far West,13,"          Durable goods manufacturing",(D),(D),(D),(D)
+98000,Far West,25,"          Nondurable goods manufacturing",180576.0,183207.9,177763.4,178231.7
+98000,Far West,34,"      Wholesale trade",277435.4,280665.6,287051.2,290639.5
+98000,Far West,35,"      Retail trade",365801.2,374428.4,372578.5,380592.0
+98000,Far West,36,"      Transportation and warehousing",191732.6,197225.9,197879.8,201365.6
+98000,Far West,45,"      Information",593866.1,604755.6,618379.2,634997.9
+98000,Far West,51,"      Finance and insurance",237726.6,237135.5,242432.7,244077.2
+98000,Far West,56,"      Real estate and rental and leasing",790948.6,800642.9,809567.5,817042.8
+98000,Far West,60,"      Professional, scientific, and technical services",499067.9,500807.1,511718.8,508283.4
+98000,Far West,64,"      Management of companies and enterprises",107226.9,115032.3,113628.3,129216.4
+98000,Far West,65,"      Administrative and support and waste management and remediation services",163525.9,165781.0,166867.1,169036.8
+98000,Far West,69,"      Educational services",51641.3,51675.1,52802.6,53686.6
+98000,Far West,70,"      Health care and social assistance",382486.8,391737.1,397101.7,407618.8
+98000,Far West,76,"      Arts, entertainment, and recreation",75236.9,76576.1,77409.1,77396.5
+98000,Far West,79,"      Accommodation and food services",209419.5,212005.5,213929.4,213764.0
+98000,Far West,82,"      Other services (except government and government enterprises)",108643.5,110553.6,112847.5,113953.6
+98000,Far West,83,"  Government and government enterprises",619240.6,628035.0,640315.4,653360.6
+98000,Far West,84,"    Federal civilian",94074.8,95041.6,96199.4,96773.9
+98000,Far West,85,"    Military",55464.1,55134.2,56444.2,56472.0
+98000,Far West,86,"    State and local",469701.8,477859.2,487671.7,500114.7
+
+Legend/Footnotes
+"1. For levels: millions of dollars, seasonally adjusted at annual rates; for annualized percent change and compound growth rate: seasonally adjusted at annual rates. Industry detail is based on the 2017 North American Industry Classification System (NAICS). Calculations are performed on unrounded data."
+"* For the all industry total, government and government enterprises, federal civilian, and military, the difference between the United States and sum-of-states reflects overseas activity, economic activity taking place outside the borders of the United States by the military and associated federal civilian support staff."
+(D) Not shown to avoid disclosure of confidential information; estimates are included in higher-level totals.
+"  Last updated: January 23, 2026-- new statistics for 2025:Q3."
