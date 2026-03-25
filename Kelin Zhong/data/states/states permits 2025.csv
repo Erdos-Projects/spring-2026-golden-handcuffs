@@ -1,0 +1,613 @@
+time,state_name,state_abbr,units_total_thousand
+2025-01,Alabama,AL,1.66
+2025-01,Alaska,AK,0.029
+2025-01,Arizona,AZ,3.672
+2025-01,Arkansas,AR,1.152
+2025-01,California,CA,6.657
+2025-01,Colorado,CO,2.133
+2025-01,Connecticut,CT,0.29
+2025-01,Delaware,DE,0.401
+2025-01,District of Columbia,DC,0.26
+2025-01,Florida,FL,16.872
+2025-01,Georgia,GA,5.142
+2025-01,Hawaii,HI,0.363
+2025-01,Idaho,ID,1.149
+2025-01,Illinois,IL,0.896
+2025-01,Indiana,IN,2.79
+2025-01,Iowa,IA,0.825
+2025-01,Kansas,KS,0.505
+2025-01,Kentucky,KY,0.876
+2025-01,Louisiana,LA,1.08
+2025-01,Maine,ME,0.49
+2025-01,Maryland,MD,1.408
+2025-01,Massachusetts,MA,0.877
+2025-01,Michigan,MI,1.16
+2025-01,Minnesota,MN,0.951
+2025-01,Mississippi,MS,0.551
+2025-01,Missouri,MO,1.268
+2025-01,Montana,MT,0.271
+2025-01,Nebraska,NE,0.876
+2025-01,Nevada,NV,1.999
+2025-01,New Hampshire,NH,0.27
+2025-01,New Jersey,NJ,2.913
+2025-01,New Mexico,NM,0.509
+2025-01,New York,NY,2.828
+2025-01,North Carolina,NC,6.868
+2025-01,North Dakota,ND,0.048
+2025-01,Ohio,OH,1.73
+2025-01,Oklahoma,OK,1.095
+2025-01,Oregon,OR,0.996
+2025-01,Pennsylvania,PA,1.793
+2025-01,Rhode Island,RI,0.106
+2025-01,South Carolina,SC,3.903
+2025-01,South Dakota,SD,0.336
+2025-01,Tennessee,TN,3.329
+2025-01,Texas,TX,17.187
+2025-01,Utah,UT,2.104
+2025-01,Vermont,VT,0.223
+2025-01,Virginia,VA,3.96
+2025-01,Washington,WA,2.826
+2025-01,West Virginia,WV,0.238
+2025-01,Wisconsin,WI,1.513
+2025-01,Wyoming,WY,0.139
+2025-02,Alabama,AL,1.386
+2025-02,Alaska,AK,0.032
+2025-02,Arizona,AZ,3.747
+2025-02,Arkansas,AR,1.029
+2025-02,California,CA,7.247
+2025-02,Colorado,CO,2.342
+2025-02,Connecticut,CT,0.225
+2025-02,Delaware,DE,0.6
+2025-02,District of Columbia,DC,0.018
+2025-02,Florida,FL,14.857
+2025-02,Georgia,GA,5.192
+2025-02,Hawaii,HI,0.242
+2025-02,Idaho,ID,1.085
+2025-02,Illinois,IL,1.121
+2025-02,Indiana,IN,2.003
+2025-02,Iowa,IA,0.955
+2025-02,Kansas,KS,0.624
+2025-02,Kentucky,KY,0.889
+2025-02,Louisiana,LA,1.204
+2025-02,Maine,ME,0.357
+2025-02,Maryland,MD,1.456
+2025-02,Massachusetts,MA,0.845
+2025-02,Michigan,MI,1.467
+2025-02,Minnesota,MN,1.081
+2025-02,Mississippi,MS,0.651
+2025-02,Missouri,MO,1.121
+2025-02,Montana,MT,0.281
+2025-02,Nebraska,NE,1.185
+2025-02,Nevada,NV,1.377
+2025-02,New Hampshire,NH,0.205
+2025-02,New Jersey,NJ,2.215
+2025-02,New Mexico,NM,0.56
+2025-02,New York,NY,1.285
+2025-02,North Carolina,NC,7.678
+2025-02,North Dakota,ND,0.05
+2025-02,Ohio,OH,3.099
+2025-02,Oklahoma,OK,1.353
+2025-02,Oregon,OR,0.836
+2025-02,Pennsylvania,PA,2.282
+2025-02,Rhode Island,RI,0.107
+2025-02,South Carolina,SC,3.835
+2025-02,South Dakota,SD,0.176
+2025-02,Tennessee,TN,3.256
+2025-02,Texas,TX,16.459
+2025-02,Utah,UT,1.863
+2025-02,Vermont,VT,0.091
+2025-02,Virginia,VA,2.618
+2025-02,Washington,WA,2.105
+2025-02,West Virginia,WV,0.273
+2025-02,Wisconsin,WI,1.291
+2025-02,Wyoming,WY,0.139
+2025-03,Alabama,AL,1.598
+2025-03,Alaska,AK,0.123
+2025-03,Arizona,AZ,5.024
+2025-03,Arkansas,AR,1.675
+2025-03,California,CA,7.337
+2025-03,Colorado,CO,2.607
+2025-03,Connecticut,CT,0.369
+2025-03,Delaware,DE,0.514
+2025-03,District of Columbia,DC,0.018
+2025-03,Florida,FL,14.771
+2025-03,Georgia,GA,5.482
+2025-03,Hawaii,HI,0.299
+2025-03,Idaho,ID,1.893
+2025-03,Illinois,IL,1.338
+2025-03,Indiana,IN,2.402
+2025-03,Iowa,IA,1.273
+2025-03,Kansas,KS,0.891
+2025-03,Kentucky,KY,1.459
+2025-03,Louisiana,LA,1.297
+2025-03,Maine,ME,0.724
+2025-03,Maryland,MD,1.007
+2025-03,Massachusetts,MA,0.941
+2025-03,Michigan,MI,1.905
+2025-03,Minnesota,MN,1.589
+2025-03,Mississippi,MS,0.728
+2025-03,Missouri,MO,1.343
+2025-03,Montana,MT,0.464
+2025-03,Nebraska,NE,0.796
+2025-03,Nevada,NV,1.886
+2025-03,New Hampshire,NH,0.28
+2025-03,New Jersey,NJ,3.337
+2025-03,New Mexico,NM,0.911
+2025-03,New York,NY,2.116
+2025-03,North Carolina,NC,8.873
+2025-03,North Dakota,ND,0.176
+2025-03,Ohio,OH,3.241
+2025-03,Oklahoma,OK,1.35
+2025-03,Oregon,OR,1.371
+2025-03,Pennsylvania,PA,2.363
+2025-03,Rhode Island,RI,0.083
+2025-03,South Carolina,SC,4.28
+2025-03,South Dakota,SD,0.539
+2025-03,Tennessee,TN,4.801
+2025-03,Texas,TX,19.08
+2025-03,Utah,UT,2.224
+2025-03,Vermont,VT,0.115
+2025-03,Virginia,VA,2.792
+2025-03,Washington,WA,2.579
+2025-03,West Virginia,WV,0.346
+2025-03,Wisconsin,WI,1.447
+2025-03,Wyoming,WY,0.153
+2025-04,Alabama,AL,1.59
+2025-04,Alaska,AK,0.083
+2025-04,Arizona,AZ,5.235
+2025-04,Arkansas,AR,1.458
+2025-04,California,CA,9.097
+2025-04,Colorado,CO,3.233
+2025-04,Connecticut,CT,0.621
+2025-04,Delaware,DE,0.533
+2025-04,District of Columbia,DC,0.027
+2025-04,Florida,FL,13.851
+2025-04,Georgia,GA,6.081
+2025-04,Hawaii,HI,0.348
+2025-04,Idaho,ID,1.93
+2025-04,Illinois,IL,1.563
+2025-04,Indiana,IN,2.864
+2025-04,Iowa,IA,1.175
+2025-04,Kansas,KS,0.972
+2025-04,Kentucky,KY,1.578
+2025-04,Louisiana,LA,1.464
+2025-04,Maine,ME,0.663
+2025-04,Maryland,MD,1.253
+2025-04,Massachusetts,MA,1.101
+2025-04,Michigan,MI,2.049
+2025-04,Minnesota,MN,2.297
+2025-04,Mississippi,MS,0.661
+2025-04,Missouri,MO,1.354
+2025-04,Montana,MT,0.442
+2025-04,Nebraska,NE,0.823
+2025-04,Nevada,NV,2.185
+2025-04,New Hampshire,NH,0.376
+2025-04,New Jersey,NJ,2.544
+2025-04,New Mexico,NM,0.679
+2025-04,New York,NY,2.84
+2025-04,North Carolina,NC,7.279
+2025-04,North Dakota,ND,0.209
+2025-04,Ohio,OH,2.419
+2025-04,Oklahoma,OK,1.814
+2025-04,Oregon,OR,1.19
+2025-04,Pennsylvania,PA,2.327
+2025-04,Rhode Island,RI,0.119
+2025-04,South Carolina,SC,3.977
+2025-04,South Dakota,SD,0.597
+2025-04,Tennessee,TN,3.986
+2025-04,Texas,TX,22.3
+2025-04,Utah,UT,2.129
+2025-04,Vermont,VT,0.187
+2025-04,Virginia,VA,2.878
+2025-04,Washington,WA,3.004
+2025-04,West Virginia,WV,0.385
+2025-04,Wisconsin,WI,1.969
+2025-04,Wyoming,WY,0.203
+2025-05,Alabama,AL,1.447
+2025-05,Alaska,AK,0.136
+2025-05,Arizona,AZ,4.515
+2025-05,Arkansas,AR,0.789
+2025-05,California,CA,9.346
+2025-05,Colorado,CO,3.479
+2025-05,Connecticut,CT,0.776
+2025-05,Delaware,DE,0.596
+2025-05,District of Columbia,DC,0.005
+2025-05,Florida,FL,14.564
+2025-05,Georgia,GA,4.969
+2025-05,Hawaii,HI,0.354
+2025-05,Idaho,ID,1.636
+2025-05,Illinois,IL,2.192
+2025-05,Indiana,IN,2.647
+2025-05,Iowa,IA,0.952
+2025-05,Kansas,KS,0.981
+2025-05,Kentucky,KY,1.345
+2025-05,Louisiana,LA,1.101
+2025-05,Maine,ME,0.618
+2025-05,Maryland,MD,1.755
+2025-05,Massachusetts,MA,1.085
+2025-05,Michigan,MI,2.046
+2025-05,Minnesota,MN,2.024
+2025-05,Mississippi,MS,0.784
+2025-05,Missouri,MO,1.291
+2025-05,Montana,MT,0.405
+2025-05,Nebraska,NE,0.941
+2025-05,Nevada,NV,1.559
+2025-05,New Hampshire,NH,0.47
+2025-05,New Jersey,NJ,2.404
+2025-05,New Mexico,NM,0.664
+2025-05,New York,NY,3.091
+2025-05,North Carolina,NC,7.349
+2025-05,North Dakota,ND,0.306
+2025-05,Ohio,OH,4.004
+2025-05,Oklahoma,OK,1.066
+2025-05,Oregon,OR,1.119
+2025-05,Pennsylvania,PA,2.022
+2025-05,Rhode Island,RI,0.143
+2025-05,South Carolina,SC,4.44
+2025-05,South Dakota,SD,0.372
+2025-05,Tennessee,TN,3.358
+2025-05,Texas,TX,18.642
+2025-05,Utah,UT,1.941
+2025-05,Vermont,VT,0.17
+2025-05,Virginia,VA,2.581
+2025-05,Washington,WA,2.785
+2025-05,West Virginia,WV,0.398
+2025-05,Wisconsin,WI,3.038
+2025-05,Wyoming,WY,0.204
+2025-06,Alabama,AL,1.337
+2025-06,Alaska,AK,0.072
+2025-06,Arizona,AZ,4.553
+2025-06,Arkansas,AR,1.363
+2025-06,California,CA,9.751
+2025-06,Colorado,CO,2.748
+2025-06,Connecticut,CT,0.356
+2025-06,Delaware,DE,0.617
+2025-06,District of Columbia,DC,0.21
+2025-06,Florida,FL,19.538
+2025-06,Georgia,GA,4.194
+2025-06,Hawaii,HI,0.263
+2025-06,Idaho,ID,1.718
+2025-06,Illinois,IL,2.163
+2025-06,Indiana,IN,2.975
+2025-06,Iowa,IA,1.688
+2025-06,Kansas,KS,1.094
+2025-06,Kentucky,KY,1.206
+2025-06,Louisiana,LA,1.202
+2025-06,Maine,ME,0.574
+2025-06,Maryland,MD,1.027
+2025-06,Massachusetts,MA,0.704
+2025-06,Michigan,MI,2.358
+2025-06,Minnesota,MN,1.504
+2025-06,Mississippi,MS,0.695
+2025-06,Missouri,MO,2.036
+2025-06,Montana,MT,0.3
+2025-06,Nebraska,NE,1.045
+2025-06,Nevada,NV,0.917
+2025-06,New Hampshire,NH,0.313
+2025-06,New Jersey,NJ,2.655
+2025-06,New Mexico,NM,0.88
+2025-06,New York,NY,2.857
+2025-06,North Carolina,NC,7.421
+2025-06,North Dakota,ND,0.377
+2025-06,Ohio,OH,3.21
+2025-06,Oklahoma,OK,1.326
+2025-06,Oregon,OR,1.254
+2025-06,Pennsylvania,PA,2.335
+2025-06,Rhode Island,RI,0.2
+2025-06,South Carolina,SC,4.264
+2025-06,South Dakota,SD,0.551
+2025-06,Tennessee,TN,3.962
+2025-06,Texas,TX,18.712
+2025-06,Utah,UT,1.795
+2025-06,Vermont,VT,0.144
+2025-06,Virginia,VA,2.598
+2025-06,Washington,WA,3.147
+2025-06,West Virginia,WV,0.357
+2025-06,Wisconsin,WI,1.779
+2025-06,Wyoming,WY,0.168
+2025-07,Alabama,AL,1.502
+2025-07,Alaska,AK,0.07
+2025-07,Arizona,AZ,4.52
+2025-07,Arkansas,AR,1.204
+2025-07,California,CA,7.463
+2025-07,Colorado,CO,2.218
+2025-07,Connecticut,CT,0.969
+2025-07,Delaware,DE,0.601
+2025-07,District of Columbia,DC,0.082
+2025-07,Florida,FL,14.661
+2025-07,Georgia,GA,5.548
+2025-07,Hawaii,HI,0.307
+2025-07,Idaho,ID,1.474
+2025-07,Illinois,IL,2.129
+2025-07,Indiana,IN,2.689
+2025-07,Iowa,IA,0.973
+2025-07,Kansas,KS,0.9
+2025-07,Kentucky,KY,1.233
+2025-07,Louisiana,LA,1.082
+2025-07,Maine,ME,0.576
+2025-07,Maryland,MD,1.173
+2025-07,Massachusetts,MA,1.094
+2025-07,Michigan,MI,2.287
+2025-07,Minnesota,MN,2.103
+2025-07,Mississippi,MS,0.647
+2025-07,Missouri,MO,1.195
+2025-07,Montana,MT,0.38
+2025-07,Nebraska,NE,1.051
+2025-07,Nevada,NV,1.24
+2025-07,New Hampshire,NH,0.409
+2025-07,New Jersey,NJ,2.638
+2025-07,New Mexico,NM,0.601
+2025-07,New York,NY,2.891
+2025-07,North Carolina,NC,7.156
+2025-07,North Dakota,ND,0.303
+2025-07,Ohio,OH,2.775
+2025-07,Oklahoma,OK,1.135
+2025-07,Oregon,OR,1.473
+2025-07,Pennsylvania,PA,1.955
+2025-07,Rhode Island,RI,0.147
+2025-07,South Carolina,SC,3.77
+2025-07,South Dakota,SD,0.529
+2025-07,Tennessee,TN,4.132
+2025-07,Texas,TX,19.248
+2025-07,Utah,UT,1.822
+2025-07,Vermont,VT,0.194
+2025-07,Virginia,VA,2.577
+2025-07,Washington,WA,2.679
+2025-07,West Virginia,WV,0.427
+2025-07,Wisconsin,WI,3.059
+2025-07,Wyoming,WY,0.197
+2025-08,Alabama,AL,1.463
+2025-08,Alaska,AK,0.09
+2025-08,Arizona,AZ,2.523
+2025-08,Arkansas,AR,1.659
+2025-08,California,CA,8.883
+2025-08,Colorado,CO,2.83
+2025-08,Connecticut,CT,1.023
+2025-08,Delaware,DE,0.48
+2025-08,District of Columbia,DC,0.461
+2025-08,Florida,FL,13.594
+2025-08,Georgia,GA,4.18
+2025-08,Hawaii,HI,0.332
+2025-08,Idaho,ID,1.407
+2025-08,Illinois,IL,1.79
+2025-08,Indiana,IN,2.129
+2025-08,Iowa,IA,1.251
+2025-08,Kansas,KS,0.749
+2025-08,Kentucky,KY,1.627
+2025-08,Louisiana,LA,1.497
+2025-08,Maine,ME,0.505
+2025-08,Maryland,MD,0.902
+2025-08,Massachusetts,MA,0.911
+2025-08,Michigan,MI,2.234
+2025-08,Minnesota,MN,2.441
+2025-08,Mississippi,MS,0.613
+2025-08,Missouri,MO,1.711
+2025-08,Montana,MT,0.938
+2025-08,Nebraska,NE,0.574
+2025-08,Nevada,NV,0.798
+2025-08,New Hampshire,NH,0.44
+2025-08,New Jersey,NJ,2.513
+2025-08,New Mexico,NM,0.538
+2025-08,New York,NY,2.988
+2025-08,North Carolina,NC,7.124
+2025-08,North Dakota,ND,0.351
+2025-08,Ohio,OH,2.318
+2025-08,Oklahoma,OK,1.446
+2025-08,Oregon,OR,1.248
+2025-08,Pennsylvania,PA,1.83
+2025-08,Rhode Island,RI,0.143
+2025-08,South Carolina,SC,3.661
+2025-08,South Dakota,SD,0.674
+2025-08,Tennessee,TN,3.313
+2025-08,Texas,TX,14.273
+2025-08,Utah,UT,2.81
+2025-08,Vermont,VT,0.198
+2025-08,Virginia,VA,2.717
+2025-08,Washington,WA,3.101
+2025-08,West Virginia,WV,0.308
+2025-08,Wisconsin,WI,2.154
+2025-08,Wyoming,WY,0.153
+2025-09,Alabama,AL,1.881
+2025-09,Alaska,AK,0.083
+2025-09,Arizona,AZ,3.384
+2025-09,Arkansas,AR,1.514
+2025-09,California,CA,9.275
+2025-09,Colorado,CO,2.389
+2025-09,Connecticut,CT,0.472
+2025-09,Delaware,DE,0.479
+2025-09,District of Columbia,DC,0.259
+2025-09,Florida,FL,13.353
+2025-09,Georgia,GA,5.134
+2025-09,Hawaii,HI,0.133
+2025-09,Idaho,ID,1.391
+2025-09,Illinois,IL,1.797
+2025-09,Indiana,IN,2.689
+2025-09,Iowa,IA,0.889
+2025-09,Kansas,KS,0.682
+2025-09,Kentucky,KY,1.297
+2025-09,Louisiana,LA,1.244
+2025-09,Maine,ME,0.536
+2025-09,Maryland,MD,0.716
+2025-09,Massachusetts,MA,1.582
+2025-09,Michigan,MI,2.472
+2025-09,Minnesota,MN,1.799
+2025-09,Mississippi,MS,0.737
+2025-09,Missouri,MO,1.891
+2025-09,Montana,MT,0.543
+2025-09,Nebraska,NE,0.814
+2025-09,Nevada,NV,1.095
+2025-09,New Hampshire,NH,0.521
+2025-09,New Jersey,NJ,2.476
+2025-09,New Mexico,NM,0.545
+2025-09,New York,NY,3.495
+2025-09,North Carolina,NC,6.827
+2025-09,North Dakota,ND,0.183
+2025-09,Ohio,OH,3.345
+2025-09,Oklahoma,OK,1.154
+2025-09,Oregon,OR,1.207
+2025-09,Pennsylvania,PA,2.146
+2025-09,Rhode Island,RI,0.183
+2025-09,South Carolina,SC,3.566
+2025-09,South Dakota,SD,0.428
+2025-09,Tennessee,TN,3.447
+2025-09,Texas,TX,17.624
+2025-09,Utah,UT,2.339
+2025-09,Vermont,VT,0.666
+2025-09,Virginia,VA,1.826
+2025-09,Washington,WA,3.081
+2025-09,West Virginia,WV,0.429
+2025-09,Wisconsin,WI,2.045
+2025-09,Wyoming,WY,0.146
+2025-10,Alabama,AL,1.397
+2025-10,Alaska,AK,0.067
+2025-10,Arizona,AZ,4.221
+2025-10,Arkansas,AR,1.441
+2025-10,California,CA,8.86
+2025-10,Colorado,CO,2.998
+2025-10,Connecticut,CT,0.805
+2025-10,Delaware,DE,0.416
+2025-10,District of Columbia,DC,0.057
+2025-10,Florida,FL,15.2
+2025-10,Georgia,GA,6.163
+2025-10,Hawaii,HI,0.258
+2025-10,Idaho,ID,1.75
+2025-10,Illinois,IL,1.869
+2025-10,Indiana,IN,2.763
+2025-10,Iowa,IA,1.65
+2025-10,Kansas,KS,0.701
+2025-10,Kentucky,KY,1.073
+2025-10,Louisiana,LA,1.266
+2025-10,Maine,ME,0.691
+2025-10,Maryland,MD,0.95
+2025-10,Massachusetts,MA,1.245
+2025-10,Michigan,MI,2.555
+2025-10,Minnesota,MN,1.838
+2025-10,Mississippi,MS,0.695
+2025-10,Missouri,MO,1.52
+2025-10,Montana,MT,0.616
+2025-10,Nebraska,NE,1.109
+2025-10,Nevada,NV,2.341
+2025-10,New Hampshire,NH,0.425
+2025-10,New Jersey,NJ,2.869
+2025-10,New Mexico,NM,0.535
+2025-10,New York,NY,3.464
+2025-10,North Carolina,NC,6.129
+2025-10,North Dakota,ND,0.18
+2025-10,Ohio,OH,2.973
+2025-10,Oklahoma,OK,1.288
+2025-10,Oregon,OR,1.612
+2025-10,Pennsylvania,PA,2.201
+2025-10,Rhode Island,RI,0.164
+2025-10,South Carolina,SC,3.659
+2025-10,South Dakota,SD,0.416
+2025-10,Tennessee,TN,3.449
+2025-10,Texas,TX,16.557
+2025-10,Utah,UT,2.441
+2025-10,Vermont,VT,0.229
+2025-10,Virginia,VA,3.143
+2025-10,Washington,WA,3.523
+2025-10,West Virginia,WV,0.265
+2025-10,Wisconsin,WI,2.796
+2025-10,Wyoming,WY,0.137
+2025-11,Alabama,AL,1.537
+2025-11,Alaska,AK,0.05
+2025-11,Arizona,AZ,3.761
+2025-11,Arkansas,AR,0.695
+2025-11,California,CA,7.863
+2025-11,Colorado,CO,3.04
+2025-11,Connecticut,CT,0.26
+2025-11,Delaware,DE,0.364
+2025-11,District of Columbia,DC,0.164
+2025-11,Florida,FL,9.652
+2025-11,Georgia,GA,3.357
+2025-11,Hawaii,HI,0.233
+2025-11,Idaho,ID,1.107
+2025-11,Illinois,IL,1.123
+2025-11,Indiana,IN,1.629
+2025-11,Iowa,IA,0.822
+2025-11,Kansas,KS,0.923
+2025-11,Kentucky,KY,0.933
+2025-11,Louisiana,LA,0.913
+2025-11,Maine,ME,0.479
+2025-11,Maryland,MD,1.487
+2025-11,Massachusetts,MA,0.766
+2025-11,Michigan,MI,1.491
+2025-11,Minnesota,MN,1.117
+2025-11,Mississippi,MS,0.625
+2025-11,Missouri,MO,1.087
+2025-11,Montana,MT,0.304
+2025-11,Nebraska,NE,0.649
+2025-11,Nevada,NV,1.062
+2025-11,New Hampshire,NH,0.318
+2025-11,New Jersey,NJ,2.269
+2025-11,New Mexico,NM,0.642
+2025-11,New York,NY,2.74
+2025-11,North Carolina,NC,5.445
+2025-11,North Dakota,ND,0.173
+2025-11,Ohio,OH,2.309
+2025-11,Oklahoma,OK,0.753
+2025-11,Oregon,OR,1.181
+2025-11,Pennsylvania,PA,1.935
+2025-11,Rhode Island,RI,0.101
+2025-11,South Carolina,SC,3.157
+2025-11,South Dakota,SD,0.241
+2025-11,Tennessee,TN,3.469
+2025-11,Texas,TX,12.706
+2025-11,Utah,UT,1.988
+2025-11,Vermont,VT,0.123
+2025-11,Virginia,VA,1.932
+2025-11,Washington,WA,2.343
+2025-11,West Virginia,WV,0.194
+2025-11,Wisconsin,WI,2.282
+2025-11,Wyoming,WY,0.258
+2025-12,Alabama,AL,2.167
+2025-12,Alaska,AK,0.052
+2025-12,Arizona,AZ,6.157
+2025-12,Arkansas,AR,1.486
+2025-12,California,CA,10.384
+2025-12,Colorado,CO,3.434
+2025-12,Connecticut,CT,0.72
+2025-12,Delaware,DE,0.635
+2025-12,District of Columbia,DC,0.03
+2025-12,Florida,FL,13.22
+2025-12,Georgia,GA,4.133
+2025-12,Hawaii,HI,0.32
+2025-12,Idaho,ID,1.129
+2025-12,Illinois,IL,0.999
+2025-12,Indiana,IN,1.862
+2025-12,Iowa,IA,0.741
+2025-12,Kansas,KS,0.816
+2025-12,Kentucky,KY,0.924
+2025-12,Louisiana,LA,1.12
+2025-12,Maine,ME,0.355
+2025-12,Maryland,MD,0.631
+2025-12,Massachusetts,MA,0.905
+2025-12,Michigan,MI,1.583
+2025-12,Minnesota,MN,1.569
+2025-12,Mississippi,MS,0.824
+2025-12,Missouri,MO,1.166
+2025-12,Montana,MT,0.242
+2025-12,Nebraska,NE,0.919
+2025-12,Nevada,NV,1.331
+2025-12,New Hampshire,NH,0.362
+2025-12,New Jersey,NJ,3.405
+2025-12,New Mexico,NM,0.783
+2025-12,New York,NY,7.671
+2025-12,North Carolina,NC,5.269
+2025-12,North Dakota,ND,0.04
+2025-12,Ohio,OH,2.171
+2025-12,Oklahoma,OK,1.502
+2025-12,Oregon,OR,1.473
+2025-12,Pennsylvania,PA,2.307
+2025-12,Rhode Island,RI,0.169
+2025-12,South Carolina,SC,2.998
+2025-12,South Dakota,SD,0.452
+2025-12,Tennessee,TN,3.076
+2025-12,Texas,TX,15.571
+2025-12,Utah,UT,2.774
+2025-12,Vermont,VT,0.108
+2025-12,Virginia,VA,2.019
+2025-12,Washington,WA,3.147
+2025-12,West Virginia,WV,0.374
+2025-12,Wisconsin,WI,1.829
+2025-12,Wyoming,WY,0.2

@@ -1,0 +1,613 @@
+time,state_name,state_abbr,units_total_thousand
+2018-01,Alabama,AL,1.212
+2018-01,Alaska,AK,0.111
+2018-01,Arizona,AZ,3.531
+2018-01,Arkansas,AR,1.278
+2018-01,California,CA,8.73
+2018-01,Colorado,CO,3.875
+2018-01,Connecticut,CT,0.342
+2018-01,Delaware,DE,0.501
+2018-01,District of Columbia,DC,0.087
+2018-01,Florida,FL,11.346
+2018-01,Georgia,GA,5.01
+2018-01,Hawaii,HI,0.224
+2018-01,Idaho,ID,0.911
+2018-01,Illinois,IL,0.733
+2018-01,Indiana,IN,1.008
+2018-01,Iowa,IA,0.459
+2018-01,Kansas,KS,0.451
+2018-01,Kentucky,KY,0.854
+2018-01,Louisiana,LA,1.168
+2018-01,Maine,ME,0.193
+2018-01,Maryland,MD,1.36
+2018-01,Massachusetts,MA,1.369
+2018-01,Michigan,MI,1.209
+2018-01,Minnesota,MN,1.706
+2018-01,Mississippi,MS,0.453
+2018-01,Missouri,MO,0.84
+2018-01,Montana,MT,0.138
+2018-01,Nebraska,NE,0.313
+2018-01,Nevada,NV,1.189
+2018-01,New Hampshire,NH,0.332
+2018-01,New Jersey,NJ,1.51
+2018-01,New Mexico,NM,0.393
+2018-01,New York,NY,2.382
+2018-01,North Carolina,NC,6.168
+2018-01,North Dakota,ND,0.036
+2018-01,Ohio,OH,1.487
+2018-01,Oklahoma,OK,0.905
+2018-01,Oregon,OR,1.905
+2018-01,Pennsylvania,PA,1.256
+2018-01,Rhode Island,RI,0.059
+2018-01,South Carolina,SC,2.811
+2018-01,South Dakota,SD,0.166
+2018-01,Tennessee,TN,2.76
+2018-01,Texas,TX,15.207
+2018-01,Utah,UT,2.363
+2018-01,Vermont,VT,0.057
+2018-01,Virginia,VA,2.437
+2018-01,Washington,WA,2.838
+2018-01,West Virginia,WV,0.159
+2018-01,Wisconsin,WI,0.766
+2018-01,Wyoming,WY,0.076
+2018-02,Alabama,AL,1.225
+2018-02,Alaska,AK,0.111
+2018-02,Arizona,AZ,3.005
+2018-02,Arkansas,AR,0.654
+2018-02,California,CA,8.016
+2018-02,Colorado,CO,4.177
+2018-02,Connecticut,CT,0.47
+2018-02,Delaware,DE,0.445
+2018-02,District of Columbia,DC,0.275
+2018-02,Florida,FL,10.235
+2018-02,Georgia,GA,3.956
+2018-02,Hawaii,HI,0.701
+2018-02,Idaho,ID,1.226
+2018-02,Illinois,IL,0.946
+2018-02,Indiana,IN,1.269
+2018-02,Iowa,IA,0.406
+2018-02,Kansas,KS,0.401
+2018-02,Kentucky,KY,0.7
+2018-02,Louisiana,LA,1.028
+2018-02,Maine,ME,0.291
+2018-02,Maryland,MD,1.055
+2018-02,Massachusetts,MA,0.864
+2018-02,Michigan,MI,1.125
+2018-02,Minnesota,MN,1.221
+2018-02,Mississippi,MS,0.482
+2018-02,Missouri,MO,0.858
+2018-02,Montana,MT,0.179
+2018-02,Nebraska,NE,0.68
+2018-02,Nevada,NV,1.588
+2018-02,New Hampshire,NH,0.314
+2018-02,New Jersey,NJ,2.235
+2018-02,New Mexico,NM,0.44
+2018-02,New York,NY,2.276
+2018-02,North Carolina,NC,6.325
+2018-02,North Dakota,ND,0.044
+2018-02,Ohio,OH,1.545
+2018-02,Oklahoma,OK,0.847
+2018-02,Oregon,OR,1.694
+2018-02,Pennsylvania,PA,1.586
+2018-02,Rhode Island,RI,0.089
+2018-02,South Carolina,SC,2.608
+2018-02,South Dakota,SD,0.353
+2018-02,Tennessee,TN,2.423
+2018-02,Texas,TX,12.204
+2018-02,Utah,UT,2.15
+2018-02,Vermont,VT,0.072
+2018-02,Virginia,VA,3.048
+2018-02,Washington,WA,3.044
+2018-02,West Virginia,WV,0.192
+2018-02,Wisconsin,WI,0.9
+2018-02,Wyoming,WY,0.113
+2018-03,Alabama,AL,1.136
+2018-03,Alaska,AK,0.14
+2018-03,Arizona,AZ,3.132
+2018-03,Arkansas,AR,1.244
+2018-03,California,CA,11.546
+2018-03,Colorado,CO,5.473
+2018-03,Connecticut,CT,0.321
+2018-03,Delaware,DE,0.507
+2018-03,District of Columbia,DC,0.359
+2018-03,Florida,FL,11.321
+2018-03,Georgia,GA,5.989
+2018-03,Hawaii,HI,0.355
+2018-03,Idaho,ID,1.48
+2018-03,Illinois,IL,2.224
+2018-03,Indiana,IN,2.36
+2018-03,Iowa,IA,1.025
+2018-03,Kansas,KS,0.773
+2018-03,Kentucky,KY,1.23
+2018-03,Louisiana,LA,1.449
+2018-03,Maine,ME,0.248
+2018-03,Maryland,MD,1.99
+2018-03,Massachusetts,MA,1.291
+2018-03,Michigan,MI,1.644
+2018-03,Minnesota,MN,1.65
+2018-03,Mississippi,MS,0.568
+2018-03,Missouri,MO,1.789
+2018-03,Montana,MT,0.295
+2018-03,Nebraska,NE,0.585
+2018-03,Nevada,NV,1.577
+2018-03,New Hampshire,NH,0.247
+2018-03,New Jersey,NJ,2.319
+2018-03,New Mexico,NM,0.635
+2018-03,New York,NY,3.841
+2018-03,North Carolina,NC,5.582
+2018-03,North Dakota,ND,0.129
+2018-03,Ohio,OH,1.799
+2018-03,Oklahoma,OK,0.899
+2018-03,Oregon,OR,1.661
+2018-03,Pennsylvania,PA,1.948
+2018-03,Rhode Island,RI,0.118
+2018-03,South Carolina,SC,3.337
+2018-03,South Dakota,SD,0.418
+2018-03,Tennessee,TN,3.022
+2018-03,Texas,TX,15.486
+2018-03,Utah,UT,2.417
+2018-03,Vermont,VT,0.137
+2018-03,Virginia,VA,2.914
+2018-03,Washington,WA,5.006
+2018-03,West Virginia,WV,0.268
+2018-03,Wisconsin,WI,1.522
+2018-03,Wyoming,WY,0.166
+2018-04,Alabama,AL,1.353
+2018-04,Alaska,AK,0.129
+2018-04,Arizona,AZ,4.261
+2018-04,Arkansas,AR,1.088
+2018-04,California,CA,10.136
+2018-04,Colorado,CO,3.672
+2018-04,Connecticut,CT,0.29
+2018-04,Delaware,DE,0.532
+2018-04,District of Columbia,DC,0.063
+2018-04,Florida,FL,13.793
+2018-04,Georgia,GA,4.471
+2018-04,Hawaii,HI,0.265
+2018-04,Idaho,ID,1.117
+2018-04,Illinois,IL,1.985
+2018-04,Indiana,IN,2.345
+2018-04,Iowa,IA,1.294
+2018-04,Kansas,KS,0.792
+2018-04,Kentucky,KY,1.769
+2018-04,Louisiana,LA,1.48
+2018-04,Maine,ME,0.343
+2018-04,Maryland,MD,1.555
+2018-04,Massachusetts,MA,0.813
+2018-04,Michigan,MI,2.129
+2018-04,Minnesota,MN,1.86
+2018-04,Mississippi,MS,0.676
+2018-04,Missouri,MO,1.487
+2018-04,Montana,MT,0.422
+2018-04,Nebraska,NE,1.41
+2018-04,Nevada,NV,1.51
+2018-04,New Hampshire,NH,0.226
+2018-04,New Jersey,NJ,1.611
+2018-04,New Mexico,NM,0.429
+2018-04,New York,NY,2.3
+2018-04,North Carolina,NC,6.368
+2018-04,North Dakota,ND,0.321
+2018-04,Ohio,OH,2.089
+2018-04,Oklahoma,OK,0.94
+2018-04,Oregon,OR,1.595
+2018-04,Pennsylvania,PA,2.062
+2018-04,Rhode Island,RI,0.093
+2018-04,South Carolina,SC,3.219
+2018-04,South Dakota,SD,0.467
+2018-04,Tennessee,TN,3.658
+2018-04,Texas,TX,19.795
+2018-04,Utah,UT,2.028
+2018-04,Vermont,VT,0.1
+2018-04,Virginia,VA,2.909
+2018-04,Washington,WA,4.15
+2018-04,West Virginia,WV,0.296
+2018-04,Wisconsin,WI,2.015
+2018-04,Wyoming,WY,0.149
+2018-05,Alabama,AL,1.546
+2018-05,Alaska,AK,0.186
+2018-05,Arizona,AZ,3.621
+2018-05,Arkansas,AR,0.792
+2018-05,California,CA,12.089
+2018-05,Colorado,CO,3.675
+2018-05,Connecticut,CT,0.383
+2018-05,Delaware,DE,0.677
+2018-05,District of Columbia,DC,0.112
+2018-05,Florida,FL,11.192
+2018-05,Georgia,GA,5.6
+2018-05,Hawaii,HI,0.348
+2018-05,Idaho,ID,1.311
+2018-05,Illinois,IL,2.998
+2018-05,Indiana,IN,2.537
+2018-05,Iowa,IA,1.279
+2018-05,Kansas,KS,1.001
+2018-05,Kentucky,KY,1.055
+2018-05,Louisiana,LA,1.655
+2018-05,Maine,ME,0.429
+2018-05,Maryland,MD,1.391
+2018-05,Massachusetts,MA,2.238
+2018-05,Michigan,MI,2.148
+2018-05,Minnesota,MN,2.908
+2018-05,Mississippi,MS,0.677
+2018-05,Missouri,MO,1.587
+2018-05,Montana,MT,0.38
+2018-05,Nebraska,NE,0.781
+2018-05,Nevada,NV,2.08
+2018-05,New Hampshire,NH,0.377
+2018-05,New Jersey,NJ,2.353
+2018-05,New Mexico,NM,0.417
+2018-05,New York,NY,4.844
+2018-05,North Carolina,NC,6.649
+2018-05,North Dakota,ND,0.571
+2018-05,Ohio,OH,3.147
+2018-05,Oklahoma,OK,1.081
+2018-05,Oregon,OR,1.416
+2018-05,Pennsylvania,PA,2.559
+2018-05,Rhode Island,RI,0.152
+2018-05,South Carolina,SC,3.072
+2018-05,South Dakota,SD,0.604
+2018-05,Tennessee,TN,3.665
+2018-05,Texas,TX,16.526
+2018-05,Utah,UT,2.486
+2018-05,Vermont,VT,0.172
+2018-05,Virginia,VA,2.432
+2018-05,Washington,WA,3.318
+2018-05,West Virginia,WV,0.29
+2018-05,Wisconsin,WI,2.033
+2018-05,Wyoming,WY,0.194
+2018-06,Alabama,AL,1.225
+2018-06,Alaska,AK,0.221
+2018-06,Arizona,AZ,3.557
+2018-06,Arkansas,AR,0.916
+2018-06,California,CA,12.952
+2018-06,Colorado,CO,3.674
+2018-06,Connecticut,CT,0.413
+2018-06,Delaware,DE,0.489
+2018-06,District of Columbia,DC,0.799
+2018-06,Florida,FL,12.957
+2018-06,Georgia,GA,4.016
+2018-06,Hawaii,HI,0.464
+2018-06,Idaho,ID,1.4
+2018-06,Illinois,IL,1.896
+2018-06,Indiana,IN,1.71
+2018-06,Iowa,IA,1.209
+2018-06,Kansas,KS,0.586
+2018-06,Kentucky,KY,1.466
+2018-06,Louisiana,LA,1.401
+2018-06,Maine,ME,0.467
+2018-06,Maryland,MD,1.334
+2018-06,Massachusetts,MA,1.587
+2018-06,Michigan,MI,1.758
+2018-06,Minnesota,MN,2.621
+2018-06,Mississippi,MS,0.799
+2018-06,Missouri,MO,1.797
+2018-06,Montana,MT,0.436
+2018-06,Nebraska,NE,0.57
+2018-06,Nevada,NV,1.163
+2018-06,New Hampshire,NH,0.476
+2018-06,New Jersey,NJ,2.909
+2018-06,New Mexico,NM,0.497
+2018-06,New York,NY,3.276
+2018-06,North Carolina,NC,5.519
+2018-06,North Dakota,ND,0.304
+2018-06,Ohio,OH,1.737
+2018-06,Oklahoma,OK,0.833
+2018-06,Oregon,OR,1.347
+2018-06,Pennsylvania,PA,2.127
+2018-06,Rhode Island,RI,0.088
+2018-06,South Carolina,SC,3.438
+2018-06,South Dakota,SD,0.342
+2018-06,Tennessee,TN,3.616
+2018-06,Texas,TX,19.086
+2018-06,Utah,UT,2.535
+2018-06,Vermont,VT,0.153
+2018-06,Virginia,VA,2.886
+2018-06,Washington,WA,4.124
+2018-06,West Virginia,WV,0.314
+2018-06,Wisconsin,WI,1.953
+2018-06,Wyoming,WY,0.196
+2018-07,Alabama,AL,1.278
+2018-07,Alaska,AK,0.133
+2018-07,Arizona,AZ,4.509
+2018-07,Arkansas,AR,0.774
+2018-07,California,CA,9.497
+2018-07,Colorado,CO,3.283
+2018-07,Connecticut,CT,0.494
+2018-07,Delaware,DE,0.499
+2018-07,District of Columbia,DC,0.03
+2018-07,Florida,FL,12.952
+2018-07,Georgia,GA,4.666
+2018-07,Hawaii,HI,0.27
+2018-07,Idaho,ID,1.205
+2018-07,Illinois,IL,1.621
+2018-07,Indiana,IN,1.958
+2018-07,Iowa,IA,1.365
+2018-07,Kansas,KS,0.714
+2018-07,Kentucky,KY,1.097
+2018-07,Louisiana,LA,1.148
+2018-07,Maine,ME,0.347
+2018-07,Maryland,MD,1.81
+2018-07,Massachusetts,MA,1.038
+2018-07,Michigan,MI,1.645
+2018-07,Minnesota,MN,2.595
+2018-07,Mississippi,MS,0.677
+2018-07,Missouri,MO,0.897
+2018-07,Montana,MT,0.398
+2018-07,Nebraska,NE,0.604
+2018-07,Nevada,NV,1.236
+2018-07,New Hampshire,NH,0.321
+2018-07,New Jersey,NJ,1.96
+2018-07,New Mexico,NM,0.413
+2018-07,New York,NY,4.095
+2018-07,North Carolina,NC,6.055
+2018-07,North Dakota,ND,0.308
+2018-07,Ohio,OH,2.603
+2018-07,Oklahoma,OK,0.794
+2018-07,Oregon,OR,1.345
+2018-07,Pennsylvania,PA,2.597
+2018-07,Rhode Island,RI,0.099
+2018-07,South Carolina,SC,3.021
+2018-07,South Dakota,SD,0.365
+2018-07,Tennessee,TN,3.744
+2018-07,Texas,TX,16.171
+2018-07,Utah,UT,2.032
+2018-07,Vermont,VT,0.187
+2018-07,Virginia,VA,2.956
+2018-07,Washington,WA,3.023
+2018-07,West Virginia,WV,0.206
+2018-07,Wisconsin,WI,1.829
+2018-07,Wyoming,WY,0.169
+2018-08,Alabama,AL,1.381
+2018-08,Alaska,AK,0.165
+2018-08,Arizona,AZ,3.738
+2018-08,Arkansas,AR,0.715
+2018-08,California,CA,8.826
+2018-08,Colorado,CO,3.32
+2018-08,Connecticut,CT,0.349
+2018-08,Delaware,DE,0.535
+2018-08,District of Columbia,DC,0.34
+2018-08,Florida,FL,12.439
+2018-08,Georgia,GA,4.476
+2018-08,Hawaii,HI,0.332
+2018-08,Idaho,ID,1.379
+2018-08,Illinois,IL,1.853
+2018-08,Indiana,IN,2.098
+2018-08,Iowa,IA,1.016
+2018-08,Kansas,KS,1.346
+2018-08,Kentucky,KY,1.526
+2018-08,Louisiana,LA,1.767
+2018-08,Maine,ME,0.375
+2018-08,Maryland,MD,2.181
+2018-08,Massachusetts,MA,0.864
+2018-08,Michigan,MI,2.176
+2018-08,Minnesota,MN,4.176
+2018-08,Mississippi,MS,0.572
+2018-08,Missouri,MO,1.58
+2018-08,Montana,MT,0.339
+2018-08,Nebraska,NE,0.789
+2018-08,Nevada,NV,1.352
+2018-08,New Hampshire,NH,0.328
+2018-08,New Jersey,NJ,2.083
+2018-08,New Mexico,NM,0.416
+2018-08,New York,NY,2.825
+2018-08,North Carolina,NC,7.348
+2018-08,North Dakota,ND,0.404
+2018-08,Ohio,OH,1.962
+2018-08,Oklahoma,OK,0.867
+2018-08,Oregon,OR,1.706
+2018-08,Pennsylvania,PA,1.84
+2018-08,Rhode Island,RI,0.187
+2018-08,South Carolina,SC,3.612
+2018-08,South Dakota,SD,0.624
+2018-08,Tennessee,TN,3.737
+2018-08,Texas,TX,15.564
+2018-08,Utah,UT,2.406
+2018-08,Vermont,VT,0.137
+2018-08,Virginia,VA,2.214
+2018-08,Washington,WA,4.338
+2018-08,West Virginia,WV,0.509
+2018-08,Wisconsin,WI,1.666
+2018-08,Wyoming,WY,0.155
+2018-09,Alabama,AL,1.04
+2018-09,Alaska,AK,0.128
+2018-09,Arizona,AZ,3.23
+2018-09,Arkansas,AR,0.72
+2018-09,California,CA,7.424
+2018-09,Colorado,CO,4.166
+2018-09,Connecticut,CT,0.269
+2018-09,Delaware,DE,0.44
+2018-09,District of Columbia,DC,0.228
+2018-09,Florida,FL,10.481
+2018-09,Georgia,GA,4.264
+2018-09,Hawaii,HI,0.487
+2018-09,Idaho,ID,1.407
+2018-09,Illinois,IL,2.482
+2018-09,Indiana,IN,1.361
+2018-09,Iowa,IA,0.736
+2018-09,Kansas,KS,0.766
+2018-09,Kentucky,KY,1.364
+2018-09,Louisiana,LA,1.354
+2018-09,Maine,ME,0.457
+2018-09,Maryland,MD,1.535
+2018-09,Massachusetts,MA,0.905
+2018-09,Michigan,MI,1.614
+2018-09,Minnesota,MN,2.215
+2018-09,Mississippi,MS,0.524
+2018-09,Missouri,MO,0.87
+2018-09,Montana,MT,0.396
+2018-09,Nebraska,NE,0.718
+2018-09,Nevada,NV,1.118
+2018-09,New Hampshire,NH,0.253
+2018-09,New Jersey,NJ,2.076
+2018-09,New Mexico,NM,0.309
+2018-09,New York,NY,2.122
+2018-09,North Carolina,NC,4.247
+2018-09,North Dakota,ND,0.675
+2018-09,Ohio,OH,1.478
+2018-09,Oklahoma,OK,0.716
+2018-09,Oregon,OR,1.433
+2018-09,Pennsylvania,PA,1.83
+2018-09,Rhode Island,RI,0.072
+2018-09,South Carolina,SC,2.62
+2018-09,South Dakota,SD,0.455
+2018-09,Tennessee,TN,3.799
+2018-09,Texas,TX,13.362
+2018-09,Utah,UT,2.091
+2018-09,Vermont,VT,0.181
+2018-09,Virginia,VA,3.306
+2018-09,Washington,WA,3.392
+2018-09,West Virginia,WV,0.248
+2018-09,Wisconsin,WI,1.877
+2018-09,Wyoming,WY,0.139
+2018-10,Alabama,AL,1.13
+2018-10,Alaska,AK,0.129
+2018-10,Arizona,AZ,3.156
+2018-10,Arkansas,AR,0.707
+2018-10,California,CA,8.745
+2018-10,Colorado,CO,3.326
+2018-10,Connecticut,CT,0.439
+2018-10,Delaware,DE,0.569
+2018-10,District of Columbia,DC,1.023
+2018-10,Florida,FL,12.123
+2018-10,Georgia,GA,5.778
+2018-10,Hawaii,HI,0.364
+2018-10,Idaho,ID,1.329
+2018-10,Illinois,IL,2.117
+2018-10,Indiana,IN,2.083
+2018-10,Iowa,IA,1.452
+2018-10,Kansas,KS,1.34
+2018-10,Kentucky,KY,1.303
+2018-10,Louisiana,LA,1.285
+2018-10,Maine,ME,0.485
+2018-10,Maryland,MD,1.271
+2018-10,Massachusetts,MA,1.155
+2018-10,Michigan,MI,2.936
+2018-10,Minnesota,MN,2.631
+2018-10,Mississippi,MS,0.695
+2018-10,Missouri,MO,1.671
+2018-10,Montana,MT,0.42
+2018-10,Nebraska,NE,0.69
+2018-10,Nevada,NV,1.736
+2018-10,New Hampshire,NH,0.447
+2018-10,New Jersey,NJ,2.376
+2018-10,New Mexico,NM,0.423
+2018-10,New York,NY,2.748
+2018-10,North Carolina,NC,5.022
+2018-10,North Dakota,ND,0.342
+2018-10,Ohio,OH,2.167
+2018-10,Oklahoma,OK,1.092
+2018-10,Oregon,OR,2.008
+2018-10,Pennsylvania,PA,2.768
+2018-10,Rhode Island,RI,0.091
+2018-10,South Carolina,SC,2.856
+2018-10,South Dakota,SD,0.457
+2018-10,Tennessee,TN,3.956
+2018-10,Texas,TX,13.241
+2018-10,Utah,UT,2.146
+2018-10,Vermont,VT,0.286
+2018-10,Virginia,VA,2.415
+2018-10,Washington,WA,3.606
+2018-10,West Virginia,WV,0.221
+2018-10,Wisconsin,WI,1.638
+2018-10,Wyoming,WY,0.172
+2018-11,Alabama,AL,1.111
+2018-11,Alaska,AK,0.106
+2018-11,Arizona,AZ,2.563
+2018-11,Arkansas,AR,0.759
+2018-11,California,CA,7.741
+2018-11,Colorado,CO,3.649
+2018-11,Connecticut,CT,0.354
+2018-11,Delaware,DE,0.548
+2018-11,District of Columbia,DC,0.662
+2018-11,Florida,FL,12.159
+2018-11,Georgia,GA,4.924
+2018-11,Hawaii,HI,0.27
+2018-11,Idaho,ID,1.138
+2018-11,Illinois,IL,2.494
+2018-11,Indiana,IN,1.552
+2018-11,Iowa,IA,0.759
+2018-11,Kansas,KS,0.499
+2018-11,Kentucky,KY,0.792
+2018-11,Louisiana,LA,0.983
+2018-11,Maine,ME,0.335
+2018-11,Maryland,MD,1.477
+2018-11,Massachusetts,MA,1.023
+2018-11,Michigan,MI,1.353
+2018-11,Minnesota,MN,1.787
+2018-11,Mississippi,MS,0.496
+2018-11,Missouri,MO,1.357
+2018-11,Montana,MT,0.24
+2018-11,Nebraska,NE,0.74
+2018-11,Nevada,NV,1.632
+2018-11,New Hampshire,NH,0.232
+2018-11,New Jersey,NJ,2.058
+2018-11,New Mexico,NM,0.324
+2018-11,New York,NY,3.575
+2018-11,North Carolina,NC,4.571
+2018-11,North Dakota,ND,0.111
+2018-11,Ohio,OH,1.87
+2018-11,Oklahoma,OK,0.748
+2018-11,Oregon,OR,1.824
+2018-11,Pennsylvania,PA,1.64
+2018-11,Rhode Island,RI,0.08
+2018-11,South Carolina,SC,2.718
+2018-11,South Dakota,SD,0.19
+2018-11,Tennessee,TN,2.679
+2018-11,Texas,TX,15.265
+2018-11,Utah,UT,1.91
+2018-11,Vermont,VT,0.153
+2018-11,Virginia,VA,2.073
+2018-11,Washington,WA,3.941
+2018-11,West Virginia,WV,0.233
+2018-11,Wisconsin,WI,1.168
+2018-11,Wyoming,WY,0.133
+2018-12,Alabama,AL,0.865
+2018-12,Alaska,AK,0.136
+2018-12,Arizona,AZ,3.166
+2018-12,Arkansas,AR,0.789
+2018-12,California,CA,10.709
+2018-12,Colorado,CO,4.293
+2018-12,Connecticut,CT,0.525
+2018-12,Delaware,DE,0.5
+2018-12,District of Columbia,DC,0.637
+2018-12,Florida,FL,11.548
+2018-12,Georgia,GA,3.316
+2018-12,Hawaii,HI,0.222
+2018-12,Idaho,ID,0.938
+2018-12,Illinois,IL,1.204
+2018-12,Indiana,IN,1.091
+2018-12,Iowa,IA,0.417
+2018-12,Kansas,KS,0.379
+2018-12,Kentucky,KY,0.887
+2018-12,Louisiana,LA,0.979
+2018-12,Maine,ME,0.282
+2018-12,Maryland,MD,1.314
+2018-12,Massachusetts,MA,1.339
+2018-12,Michigan,MI,0.981
+2018-12,Minnesota,MN,0.987
+2018-12,Mississippi,MS,0.496
+2018-12,Missouri,MO,0.654
+2018-12,Montana,MT,0.324
+2018-12,Nebraska,NE,0.435
+2018-12,Nevada,NV,1.14
+2018-12,New Hampshire,NH,0.185
+2018-12,New Jersey,NJ,1.701
+2018-12,New Mexico,NM,0.349
+2018-12,New York,NY,3.277
+2018-12,North Carolina,NC,5.512
+2018-12,North Dakota,ND,0.112
+2018-12,Ohio,OH,1.155
+2018-12,Oklahoma,OK,0.634
+2018-12,Oregon,OR,1.495
+2018-12,Pennsylvania,PA,1.63
+2018-12,Rhode Island,RI,0.064
+2018-12,South Carolina,SC,2.843
+2018-12,South Dakota,SD,0.171
+2018-12,Tennessee,TN,2.139
+2018-12,Texas,TX,14.984
+2018-12,Utah,UT,2.21
+2018-12,Vermont,VT,0.097
+2018-12,Virginia,VA,1.665
+2018-12,Washington,WA,3.564
+2018-12,West Virginia,WV,0.213
+2018-12,Wisconsin,WI,0.697
+2018-12,Wyoming,WY,0.101
