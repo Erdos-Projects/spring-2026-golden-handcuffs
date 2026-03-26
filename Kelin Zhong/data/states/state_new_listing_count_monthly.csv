@@ -1,0 +1,5917 @@
+time,state_name,state_abbr,new_listing_count
+2016-07,Alabama,AL,7756.0
+2016-07,Alaska,AK,1224.0
+2016-07,Arizona,AZ,12196.0
+2016-07,Arkansas,AR,4376.0
+2016-07,California,CA,47100.0
+2016-07,Colorado,CO,13240.0
+2016-07,Connecticut,CT,5688.0
+2016-07,Delaware,DE,1848.0
+2016-07,District of Columbia,DC,888.0
+2016-07,Florida,FL,42536.0
+2016-07,Georgia,GA,18700.0
+2016-07,Hawaii,HI,1780.0
+2016-07,Idaho,ID,4532.0
+2016-07,Illinois,IL,19576.0
+2016-07,Indiana,IN,10640.0
+2016-07,Iowa,IA,4712.0
+2016-07,Kansas,KS,4424.0
+2016-07,Kentucky,KY,5792.0
+2016-07,Louisiana,LA,5480.0
+2016-07,Maine,ME,2900.0
+2016-07,Maryland,MD,10100.0
+2016-07,Massachusetts,MA,8864.0
+2016-07,Michigan,MI,17464.0
+2016-07,Minnesota,MN,11768.0
+2016-07,Mississippi,MS,3332.0
+2016-07,Missouri,MO,10328.0
+2016-07,Montana,MT,2076.0
+2016-07,Nebraska,NE,2492.0
+2016-07,Nevada,NV,5556.0
+2016-07,New Hampshire,NH,2724.0
+2016-07,New Jersey,NJ,15680.0
+2016-07,New Mexico,NM,3416.0
+2016-07,New York,NY,19320.0
+2016-07,North Carolina,NC,17380.0
+2016-07,North Dakota,ND,920.0
+2016-07,Ohio,OH,17472.0
+2016-07,Oklahoma,OK,6092.0
+2016-07,Oregon,OR,8516.0
+2016-07,Pennsylvania,PA,17828.0
+2016-07,Rhode Island,RI,1568.0
+2016-07,South Carolina,SC,8976.0
+2016-07,South Dakota,SD,1172.0
+2016-07,Tennessee,TN,11528.0
+2016-07,Texas,TX,39148.0
+2016-07,Utah,UT,5808.0
+2016-07,Vermont,VT,1456.0
+2016-07,Virginia,VA,13756.0
+2016-07,Washington,WA,13136.0
+2016-07,West Virginia,WV,1988.0
+2016-07,Wisconsin,WI,9276.0
+2016-07,Wyoming,WY,1292.0
+2016-08,Alabama,AL,6884.0
+2016-08,Alaska,AK,1082.0
+2016-08,Arizona,AZ,12218.0
+2016-08,Arkansas,AR,3954.0
+2016-08,California,CA,45164.0
+2016-08,Colorado,CO,12520.0
+2016-08,Connecticut,CT,4924.0
+2016-08,Delaware,DE,1774.0
+2016-08,District of Columbia,DC,714.0
+2016-08,Florida,FL,41430.0
+2016-08,Georgia,GA,17082.0
+2016-08,Hawaii,HI,1734.0
+2016-08,Idaho,ID,4148.0
+2016-08,Illinois,IL,17858.0
+2016-08,Indiana,IN,9850.0
+2016-08,Iowa,IA,4456.0
+2016-08,Kansas,KS,4040.0
+2016-08,Kentucky,KY,5474.0
+2016-08,Louisiana,LA,4942.0
+2016-08,Maine,ME,2622.0
+2016-08,Maryland,MD,9226.0
+2016-08,Massachusetts,MA,8220.0
+2016-08,Michigan,MI,14642.0
+2016-08,Minnesota,MN,10264.0
+2016-08,Mississippi,MS,3302.0
+2016-08,Missouri,MO,9446.0
+2016-08,Montana,MT,1718.0
+2016-08,Nebraska,NE,2372.0
+2016-08,Nevada,NV,5580.0
+2016-08,New Hampshire,NH,2466.0
+2016-08,New Jersey,NJ,13298.0
+2016-08,New Mexico,NM,3126.0
+2016-08,New York,NY,16990.0
+2016-08,North Carolina,NC,16046.0
+2016-08,North Dakota,ND,1010.0
+2016-08,Ohio,OH,16024.0
+2016-08,Oklahoma,OK,5832.0
+2016-08,Oregon,OR,8184.0
+2016-08,Pennsylvania,PA,16564.0
+2016-08,Rhode Island,RI,1598.0
+2016-08,South Carolina,SC,8500.0
+2016-08,South Dakota,SD,1100.0
+2016-08,Tennessee,TN,11270.0
+2016-08,Texas,TX,34468.0
+2016-08,Utah,UT,5840.0
+2016-08,Vermont,VT,1372.0
+2016-08,Virginia,VA,12936.0
+2016-08,Washington,WA,12964.0
+2016-08,West Virginia,WV,2046.0
+2016-08,Wisconsin,WI,8210.0
+2016-08,Wyoming,WY,1114.0
+2016-09,Alabama,AL,6676.0
+2016-09,Alaska,AK,898.0
+2016-09,Arizona,AZ,12886.0
+2016-09,Arkansas,AR,3800.0
+2016-09,California,CA,41326.0
+2016-09,Colorado,CO,10848.0
+2016-09,Connecticut,CT,5476.0
+2016-09,Delaware,DE,2154.0
+2016-09,District of Columbia,DC,1134.0
+2016-09,Florida,FL,40684.0
+2016-09,Georgia,GA,16564.0
+2016-09,Hawaii,HI,1558.0
+2016-09,Idaho,ID,3412.0
+2016-09,Illinois,IL,17256.0
+2016-09,Indiana,IN,9144.0
+2016-09,Iowa,IA,4138.0
+2016-09,Kansas,KS,3770.0
+2016-09,Kentucky,KY,5216.0
+2016-09,Louisiana,LA,4780.0
+2016-09,Maine,ME,2352.0
+2016-09,Maryland,MD,9382.0
+2016-09,Massachusetts,MA,9958.0
+2016-09,Michigan,MI,13060.0
+2016-09,Minnesota,MN,9414.0
+2016-09,Mississippi,MS,2860.0
+2016-09,Missouri,MO,8934.0
+2016-09,Montana,MT,1522.0
+2016-09,Nebraska,NE,2206.0
+2016-09,Nevada,NV,5166.0
+2016-09,New Hampshire,NH,2482.0
+2016-09,New Jersey,NJ,14856.0
+2016-09,New Mexico,NM,2624.0
+2016-09,New York,NY,17562.0
+2016-09,North Carolina,NC,16314.0
+2016-09,North Dakota,ND,944.0
+2016-09,Ohio,OH,14134.0
+2016-09,Oklahoma,OK,5448.0
+2016-09,Oregon,OR,6968.0
+2016-09,Pennsylvania,PA,17836.0
+2016-09,Rhode Island,RI,1524.0
+2016-09,South Carolina,SC,8228.0
+2016-09,South Dakota,SD,1014.0
+2016-09,Tennessee,TN,10436.0
+2016-09,Texas,TX,31578.0
+2016-09,Utah,UT,5036.0
+2016-09,Vermont,VT,1072.0
+2016-09,Virginia,VA,12788.0
+2016-09,Washington,WA,10688.0
+2016-09,West Virginia,WV,1734.0
+2016-09,Wisconsin,WI,7196.0
+2016-09,Wyoming,WY,930.0
+2016-10,Alabama,AL,6096.0
+2016-10,Alaska,AK,788.0
+2016-10,Arizona,AZ,13464.0
+2016-10,Arkansas,AR,3776.0
+2016-10,California,CA,39896.0
+2016-10,Colorado,CO,9768.0
+2016-10,Connecticut,CT,4892.0
+2016-10,Delaware,DE,1592.0
+2016-10,District of Columbia,DC,928.0
+2016-10,Florida,FL,40220.0
+2016-10,Georgia,GA,15692.0
+2016-10,Hawaii,HI,1788.0
+2016-10,Idaho,ID,2904.0
+2016-10,Illinois,IL,15252.0
+2016-10,Indiana,IN,8524.0
+2016-10,Iowa,IA,3900.0
+2016-10,Kansas,KS,3500.0
+2016-10,Kentucky,KY,4888.0
+2016-10,Louisiana,LA,5132.0
+2016-10,Maine,ME,2016.0
+2016-10,Maryland,MD,8928.0
+2016-10,Massachusetts,MA,8396.0
+2016-10,Michigan,MI,12316.0
+2016-10,Minnesota,MN,8444.0
+2016-10,Mississippi,MS,2820.0
+2016-10,Missouri,MO,8384.0
+2016-10,Montana,MT,1552.0
+2016-10,Nebraska,NE,2124.0
+2016-10,Nevada,NV,4772.0
+2016-10,New Hampshire,NH,1768.0
+2016-10,New Jersey,NJ,11916.0
+2016-10,New Mexico,NM,2572.0
+2016-10,New York,NY,16028.0
+2016-10,North Carolina,NC,13948.0
+2016-10,North Dakota,ND,852.0
+2016-10,Ohio,OH,14020.0
+2016-10,Oklahoma,OK,4976.0
+2016-10,Oregon,OR,6032.0
+2016-10,Pennsylvania,PA,15316.0
+2016-10,Rhode Island,RI,1288.0
+2016-10,South Carolina,SC,7276.0
+2016-10,South Dakota,SD,860.0
+2016-10,Tennessee,TN,9744.0
+2016-10,Texas,TX,30980.0
+2016-10,Utah,UT,4692.0
+2016-10,Vermont,VT,804.0
+2016-10,Virginia,VA,11100.0
+2016-10,Washington,WA,9700.0
+2016-10,West Virginia,WV,1848.0
+2016-10,Wisconsin,WI,6596.0
+2016-10,Wyoming,WY,896.0
+2016-11,Alabama,AL,5332.0
+2016-11,Alaska,AK,600.0
+2016-11,Arizona,AZ,12174.0
+2016-11,Arkansas,AR,3464.0
+2016-11,California,CA,34064.0
+2016-11,Colorado,CO,8064.0
+2016-11,Connecticut,CT,3926.0
+2016-11,Delaware,DE,1378.0
+2016-11,District of Columbia,DC,836.0
+2016-11,Florida,FL,41930.0
+2016-11,Georgia,GA,13854.0
+2016-11,Hawaii,HI,1704.0
+2016-11,Idaho,ID,2482.0
+2016-11,Illinois,IL,12820.0
+2016-11,Indiana,IN,7334.0
+2016-11,Iowa,IA,3344.0
+2016-11,Kansas,KS,3086.0
+2016-11,Kentucky,KY,4168.0
+2016-11,Louisiana,LA,4278.0
+2016-11,Maine,ME,1608.0
+2016-11,Maryland,MD,7602.0
+2016-11,Massachusetts,MA,6172.0
+2016-11,Michigan,MI,10298.0
+2016-11,Minnesota,MN,6076.0
+2016-11,Mississippi,MS,2460.0
+2016-11,Missouri,MO,7380.0
+2016-11,Montana,MT,1102.0
+2016-11,Nebraska,NE,1810.0
+2016-11,Nevada,NV,4318.0
+2016-11,New Hampshire,NH,1624.0
+2016-11,New Jersey,NJ,10602.0
+2016-11,New Mexico,NM,2224.0
+2016-11,New York,NY,13916.0
+2016-11,North Carolina,NC,12504.0
+2016-11,North Dakota,ND,614.0
+2016-11,Ohio,OH,11936.0
+2016-11,Oklahoma,OK,4668.0
+2016-11,Oregon,OR,4854.0
+2016-11,Pennsylvania,PA,12946.0
+2016-11,Rhode Island,RI,1138.0
+2016-11,South Carolina,SC,7226.0
+2016-11,South Dakota,SD,726.0
+2016-11,Tennessee,TN,9116.0
+2016-11,Texas,TX,27726.0
+2016-11,Utah,UT,4300.0
+2016-11,Vermont,VT,670.0
+2016-11,Virginia,VA,9626.0
+2016-11,Washington,WA,6606.0
+2016-11,West Virginia,WV,1556.0
+2016-11,Wisconsin,WI,6660.0
+2016-11,Wyoming,WY,686.0
+2016-12,Alabama,AL,4912.0
+2016-12,Alaska,AK,488.0
+2016-12,Arizona,AZ,10160.0
+2016-12,Arkansas,AR,2960.0
+2016-12,California,CA,23476.0
+2016-12,Colorado,CO,5852.0
+2016-12,Connecticut,CT,3140.0
+2016-12,Delaware,DE,1004.0
+2016-12,District of Columbia,DC,484.0
+2016-12,Florida,FL,36888.0
+2016-12,Georgia,GA,10328.0
+2016-12,Hawaii,HI,1608.0
+2016-12,Idaho,ID,1844.0
+2016-12,Illinois,IL,8684.0
+2016-12,Indiana,IN,5036.0
+2016-12,Iowa,IA,2292.0
+2016-12,Kansas,KS,2012.0
+2016-12,Kentucky,KY,3484.0
+2016-12,Louisiana,LA,3732.0
+2016-12,Maine,ME,1188.0
+2016-12,Maryland,MD,5728.0
+2016-12,Massachusetts,MA,3872.0
+2016-12,Michigan,MI,7160.0
+2016-12,Minnesota,MN,3732.0
+2016-12,Mississippi,MS,1916.0
+2016-12,Missouri,MO,5208.0
+2016-12,Montana,MT,824.0
+2016-12,Nebraska,NE,1184.0
+2016-12,Nevada,NV,3552.0
+2016-12,New Hampshire,NH,1184.0
+2016-12,New Jersey,NJ,8768.0
+2016-12,New Mexico,NM,1900.0
+2016-12,New York,NY,9920.0
+2016-12,North Carolina,NC,10400.0
+2016-12,North Dakota,ND,456.0
+2016-12,Ohio,OH,8476.0
+2016-12,Oklahoma,OK,3808.0
+2016-12,Oregon,OR,3500.0
+2016-12,Pennsylvania,PA,9432.0
+2016-12,Rhode Island,RI,764.0
+2016-12,South Carolina,SC,5808.0
+2016-12,South Dakota,SD,460.0
+2016-12,Tennessee,TN,6792.0
+2016-12,Texas,TX,23588.0
+2016-12,Utah,UT,2504.0
+2016-12,Vermont,VT,564.0
+2016-12,Virginia,VA,8048.0
+2016-12,Washington,WA,5624.0
+2016-12,West Virginia,WV,1128.0
+2016-12,Wisconsin,WI,3136.0
+2016-12,Wyoming,WY,540.0
+2017-01,Alabama,AL,6444.0
+2017-01,Alaska,AK,702.0
+2017-01,Arizona,AZ,13392.0
+2017-01,Arkansas,AR,3854.0
+2017-01,California,CA,33748.0
+2017-01,Colorado,CO,7610.0
+2017-01,Connecticut,CT,4264.0
+2017-01,Delaware,DE,1438.0
+2017-01,District of Columbia,DC,840.0
+2017-01,Florida,FL,48092.0
+2017-01,Georgia,GA,15320.0
+2017-01,Hawaii,HI,1766.0
+2017-01,Idaho,ID,1918.0
+2017-01,Illinois,IL,14406.0
+2017-01,Indiana,IN,6658.0
+2017-01,Iowa,IA,3182.0
+2017-01,Kansas,KS,2994.0
+2017-01,Kentucky,KY,4576.0
+2017-01,Louisiana,LA,4856.0
+2017-01,Maine,ME,1440.0
+2017-01,Maryland,MD,7294.0
+2017-01,Massachusetts,MA,5690.0
+2017-01,Michigan,MI,9260.0
+2017-01,Minnesota,MN,5618.0
+2017-01,Mississippi,MS,2882.0
+2017-01,Missouri,MO,6788.0
+2017-01,Montana,MT,1096.0
+2017-01,Nebraska,NE,1518.0
+2017-01,Nevada,NV,4580.0
+2017-01,New Hampshire,NH,1502.0
+2017-01,New Jersey,NJ,12344.0
+2017-01,New Mexico,NM,2364.0
+2017-01,New York,NY,14310.0
+2017-01,North Carolina,NC,13430.0
+2017-01,North Dakota,ND,666.0
+2017-01,Ohio,OH,11284.0
+2017-01,Oklahoma,OK,5022.0
+2017-01,Oregon,OR,4148.0
+2017-01,Pennsylvania,PA,12936.0
+2017-01,Rhode Island,RI,1102.0
+2017-01,South Carolina,SC,8086.0
+2017-01,South Dakota,SD,640.0
+2017-01,Tennessee,TN,8786.0
+2017-01,Texas,TX,30662.0
+2017-01,Utah,UT,3840.0
+2017-01,Vermont,VT,770.0
+2017-01,Virginia,VA,10092.0
+2017-01,Washington,WA,6838.0
+2017-01,West Virginia,WV,1410.0
+2017-01,Wisconsin,WI,4936.0
+2017-01,Wyoming,WY,740.0
+2017-02,Alabama,AL,7272.0
+2017-02,Alaska,AK,766.0
+2017-02,Arizona,AZ,14490.0
+2017-02,Arkansas,AR,4336.0
+2017-02,California,CA,37180.0
+2017-02,Colorado,CO,9238.0
+2017-02,Connecticut,CT,4880.0
+2017-02,Delaware,DE,1728.0
+2017-02,District of Columbia,DC,936.0
+2017-02,Florida,FL,48218.0
+2017-02,Georgia,GA,16990.0
+2017-02,Hawaii,HI,1866.0
+2017-02,Idaho,ID,2656.0
+2017-02,Illinois,IL,19054.0
+2017-02,Indiana,IN,8078.0
+2017-02,Iowa,IA,3910.0
+2017-02,Kansas,KS,3838.0
+2017-02,Kentucky,KY,4892.0
+2017-02,Louisiana,LA,4894.0
+2017-02,Maine,ME,1526.0
+2017-02,Maryland,MD,8638.0
+2017-02,Massachusetts,MA,6422.0
+2017-02,Michigan,MI,10452.0
+2017-02,Minnesota,MN,7948.0
+2017-02,Mississippi,MS,3234.0
+2017-02,Missouri,MO,9172.0
+2017-02,Montana,MT,1342.0
+2017-02,Nebraska,NE,1946.0
+2017-02,Nevada,NV,4930.0
+2017-02,New Hampshire,NH,1596.0
+2017-02,New Jersey,NJ,14396.0
+2017-02,New Mexico,NM,2602.0
+2017-02,New York,NY,18702.0
+2017-02,North Carolina,NC,16146.0
+2017-02,North Dakota,ND,690.0
+2017-02,Ohio,OH,12956.0
+2017-02,Oklahoma,OK,5780.0
+2017-02,Oregon,OR,5688.0
+2017-02,Pennsylvania,PA,15010.0
+2017-02,Rhode Island,RI,674.0
+2017-02,South Carolina,SC,9178.0
+2017-02,South Dakota,SD,794.0
+2017-02,Tennessee,TN,9820.0
+2017-02,Texas,TX,34000.0
+2017-02,Utah,UT,4508.0
+2017-02,Vermont,VT,848.0
+2017-02,Virginia,VA,13214.0
+2017-02,Washington,WA,7524.0
+2017-02,West Virginia,WV,1716.0
+2017-02,Wisconsin,WI,6400.0
+2017-02,Wyoming,WY,796.0
+2017-03,Alabama,AL,7862.0
+2017-03,Alaska,AK,1040.0
+2017-03,Arizona,AZ,15272.0
+2017-03,Arkansas,AR,4278.0
+2017-03,California,CA,42852.0
+2017-03,Colorado,CO,11736.0
+2017-03,Connecticut,CT,5974.0
+2017-03,Delaware,DE,1844.0
+2017-03,District of Columbia,DC,992.0
+2017-03,Florida,FL,48128.0
+2017-03,Georgia,GA,19700.0
+2017-03,Hawaii,HI,2028.0
+2017-03,Idaho,ID,3630.0
+2017-03,Illinois,IL,21762.0
+2017-03,Indiana,IN,9674.0
+2017-03,Iowa,IA,4708.0
+2017-03,Kansas,KS,4566.0
+2017-03,Kentucky,KY,5708.0
+2017-03,Louisiana,LA,5658.0
+2017-03,Maine,ME,2082.0
+2017-03,Maryland,MD,11330.0
+2017-03,Massachusetts,MA,8908.0
+2017-03,Michigan,MI,13200.0
+2017-03,Minnesota,MN,10766.0
+2017-03,Mississippi,MS,3334.0
+2017-03,Missouri,MO,10354.0
+2017-03,Montana,MT,1704.0
+2017-03,Nebraska,NE,2470.0
+2017-03,Nevada,NV,5708.0
+2017-03,New Hampshire,NH,2360.0
+2017-03,New Jersey,NJ,16044.0
+2017-03,New Mexico,NM,3046.0
+2017-03,New York,NY,19358.0
+2017-03,North Carolina,NC,18348.0
+2017-03,North Dakota,ND,976.0
+2017-03,Ohio,OH,15930.0
+2017-03,Oklahoma,OK,6308.0
+2017-03,Oregon,OR,6804.0
+2017-03,Pennsylvania,PA,17776.0
+2017-03,Rhode Island,RI,1552.0
+2017-03,South Carolina,SC,10538.0
+2017-03,South Dakota,SD,1086.0
+2017-03,Tennessee,TN,11124.0
+2017-03,Texas,TX,40378.0
+2017-03,Utah,UT,5508.0
+2017-03,Vermont,VT,946.0
+2017-03,Virginia,VA,15792.0
+2017-03,Washington,WA,9928.0
+2017-03,West Virginia,WV,1986.0
+2017-03,Wisconsin,WI,8492.0
+2017-03,Wyoming,WY,984.0
+2017-04,Alabama,AL,8080.0
+2017-04,Alaska,AK,1284.0
+2017-04,Arizona,AZ,14640.0
+2017-04,Arkansas,AR,4476.0
+2017-04,California,CA,46968.0
+2017-04,Colorado,CO,12132.0
+2017-04,Connecticut,CT,6920.0
+2017-04,Delaware,DE,2016.0
+2017-04,District of Columbia,DC,1160.0
+2017-04,Florida,FL,47012.0
+2017-04,Georgia,GA,20356.0
+2017-04,Hawaii,HI,2020.0
+2017-04,Idaho,ID,4196.0
+2017-04,Illinois,IL,22328.0
+2017-04,Indiana,IN,10600.0
+2017-04,Iowa,IA,5268.0
+2017-04,Kansas,KS,4628.0
+2017-04,Kentucky,KY,5920.0
+2017-04,Louisiana,LA,5832.0
+2017-04,Maine,ME,2652.0
+2017-04,Maryland,MD,11816.0
+2017-04,Massachusetts,MA,11212.0
+2017-04,Michigan,MI,14552.0
+2017-04,Minnesota,MN,11992.0
+2017-04,Mississippi,MS,3312.0
+2017-04,Missouri,MO,11164.0
+2017-04,Montana,MT,2300.0
+2017-04,Nebraska,NE,2656.0
+2017-04,Nevada,NV,5944.0
+2017-04,New Hampshire,NH,2824.0
+2017-04,New Jersey,NJ,16748.0
+2017-04,New Mexico,NM,3348.0
+2017-04,New York,NY,23964.0
+2017-04,North Carolina,NC,18460.0
+2017-04,North Dakota,ND,1168.0
+2017-04,Ohio,OH,17304.0
+2017-04,Oklahoma,OK,6184.0
+2017-04,Oregon,OR,7788.0
+2017-04,Pennsylvania,PA,20592.0
+2017-04,Rhode Island,RI,1780.0
+2017-04,South Carolina,SC,9524.0
+2017-04,South Dakota,SD,1260.0
+2017-04,Tennessee,TN,11608.0
+2017-04,Texas,TX,40332.0
+2017-04,Utah,UT,6088.0
+2017-04,Vermont,VT,1100.0
+2017-04,Virginia,VA,16912.0
+2017-04,Washington,WA,11352.0
+2017-04,West Virginia,WV,2036.0
+2017-04,Wisconsin,WI,10040.0
+2017-04,Wyoming,WY,1200.0
+2017-05,Alabama,AL,8078.0
+2017-05,Alaska,AK,1430.0
+2017-05,Arizona,AZ,14538.0
+2017-05,Arkansas,AR,4640.0
+2017-05,California,CA,48258.0
+2017-05,Colorado,CO,13584.0
+2017-05,Connecticut,CT,7592.0
+2017-05,Delaware,DE,2004.0
+2017-05,District of Columbia,DC,1292.0
+2017-05,Florida,FL,46072.0
+2017-05,Georgia,GA,20352.0
+2017-05,Hawaii,HI,1926.0
+2017-05,Idaho,ID,4848.0
+2017-05,Illinois,IL,23084.0
+2017-05,Indiana,IN,10900.0
+2017-05,Iowa,IA,5282.0
+2017-05,Kansas,KS,4726.0
+2017-05,Kentucky,KY,6198.0
+2017-05,Louisiana,LA,5754.0
+2017-05,Maine,ME,3806.0
+2017-05,Maryland,MD,11774.0
+2017-05,Massachusetts,MA,12058.0
+2017-05,Michigan,MI,19300.0
+2017-05,Minnesota,MN,13190.0
+2017-05,Mississippi,MS,3332.0
+2017-05,Missouri,MO,11040.0
+2017-05,Montana,MT,2470.0
+2017-05,Nebraska,NE,2722.0
+2017-05,Nevada,NV,5976.0
+2017-05,New Hampshire,NH,3502.0
+2017-05,New Jersey,NJ,17482.0
+2017-05,New Mexico,NM,3702.0
+2017-05,New York,NY,24392.0
+2017-05,North Carolina,NC,19446.0
+2017-05,North Dakota,ND,1292.0
+2017-05,Ohio,OH,17944.0
+2017-05,Oklahoma,OK,6468.0
+2017-05,Oregon,OR,9294.0
+2017-05,Pennsylvania,PA,21010.0
+2017-05,Rhode Island,RI,2030.0
+2017-05,South Carolina,SC,10194.0
+2017-05,South Dakota,SD,1348.0
+2017-05,Tennessee,TN,12276.0
+2017-05,Texas,TX,44326.0
+2017-05,Utah,UT,6704.0
+2017-05,Vermont,VT,1630.0
+2017-05,Virginia,VA,17336.0
+2017-05,Washington,WA,14246.0
+2017-05,West Virginia,WV,2292.0
+2017-05,Wisconsin,WI,10730.0
+2017-05,Wyoming,WY,1322.0
+2017-06,Alabama,AL,7622.0
+2017-06,Alaska,AK,1466.0
+2017-06,Arizona,AZ,13356.0
+2017-06,Arkansas,AR,4584.0
+2017-06,California,CA,47302.0
+2017-06,Colorado,CO,14742.0
+2017-06,Connecticut,CT,6330.0
+2017-06,Delaware,DE,1962.0
+2017-06,District of Columbia,DC,1206.0
+2017-06,Florida,FL,42740.0
+2017-06,Georgia,GA,19356.0
+2017-06,Hawaii,HI,1908.0
+2017-06,Idaho,ID,4662.0
+2017-06,Illinois,IL,21794.0
+2017-06,Indiana,IN,11030.0
+2017-06,Iowa,IA,5084.0
+2017-06,Kansas,KS,4640.0
+2017-06,Kentucky,KY,6346.0
+2017-06,Louisiana,LA,5272.0
+2017-06,Maine,ME,3450.0
+2017-06,Maryland,MD,10662.0
+2017-06,Massachusetts,MA,11750.0
+2017-06,Michigan,MI,19628.0
+2017-06,Minnesota,MN,12012.0
+2017-06,Mississippi,MS,3316.0
+2017-06,Missouri,MO,10716.0
+2017-06,Montana,MT,2448.0
+2017-06,Nebraska,NE,2624.0
+2017-06,Nevada,NV,5910.0
+2017-06,New Hampshire,NH,3228.0
+2017-06,New Jersey,NJ,15818.0
+2017-06,New Mexico,NM,3494.0
+2017-06,New York,NY,21704.0
+2017-06,North Carolina,NC,17704.0
+2017-06,North Dakota,ND,1226.0
+2017-06,Ohio,OH,17660.0
+2017-06,Oklahoma,OK,6692.0
+2017-06,Oregon,OR,8874.0
+2017-06,Pennsylvania,PA,19892.0
+2017-06,Rhode Island,RI,1784.0
+2017-06,South Carolina,SC,9740.0
+2017-06,South Dakota,SD,1348.0
+2017-06,Tennessee,TN,11844.0
+2017-06,Texas,TX,42370.0
+2017-06,Utah,UT,6810.0
+2017-06,Vermont,VT,1480.0
+2017-06,Virginia,VA,14770.0
+2017-06,Washington,WA,13856.0
+2017-06,West Virginia,WV,2150.0
+2017-06,Wisconsin,WI,9658.0
+2017-06,Wyoming,WY,1428.0
+2017-07,Alabama,AL,7772.0
+2017-07,Alaska,AK,1368.0
+2017-07,Arizona,AZ,12744.0
+2017-07,Arkansas,AR,4944.0
+2017-07,California,CA,44520.0
+2017-07,Colorado,CO,13344.0
+2017-07,Connecticut,CT,5612.0
+2017-07,Delaware,DE,1768.0
+2017-07,District of Columbia,DC,852.0
+2017-07,Florida,FL,44084.0
+2017-07,Georgia,GA,18760.0
+2017-07,Hawaii,HI,1856.0
+2017-07,Idaho,ID,4896.0
+2017-07,Illinois,IL,20184.0
+2017-07,Indiana,IN,10716.0
+2017-07,Iowa,IA,5116.0
+2017-07,Kansas,KS,4564.0
+2017-07,Kentucky,KY,6048.0
+2017-07,Louisiana,LA,5420.0
+2017-07,Maine,ME,3292.0
+2017-07,Maryland,MD,10224.0
+2017-07,Massachusetts,MA,8248.0
+2017-07,Michigan,MI,20356.0
+2017-07,Minnesota,MN,11196.0
+2017-07,Mississippi,MS,3252.0
+2017-07,Missouri,MO,10792.0
+2017-07,Montana,MT,2132.0
+2017-07,Nebraska,NE,2524.0
+2017-07,Nevada,NV,5744.0
+2017-07,New Hampshire,NH,2864.0
+2017-07,New Jersey,NJ,14296.0
+2017-07,New Mexico,NM,3236.0
+2017-07,New York,NY,19700.0
+2017-07,North Carolina,NC,18324.0
+2017-07,North Dakota,ND,1176.0
+2017-07,Ohio,OH,17236.0
+2017-07,Oklahoma,OK,6484.0
+2017-07,Oregon,OR,8768.0
+2017-07,Pennsylvania,PA,18332.0
+2017-07,Rhode Island,RI,1708.0
+2017-07,South Carolina,SC,9536.0
+2017-07,South Dakota,SD,1344.0
+2017-07,Tennessee,TN,11952.0
+2017-07,Texas,TX,41612.0
+2017-07,Utah,UT,5908.0
+2017-07,Vermont,VT,1312.0
+2017-07,Virginia,VA,14340.0
+2017-07,Washington,WA,14176.0
+2017-07,West Virginia,WV,2088.0
+2017-07,Wisconsin,WI,9180.0
+2017-07,Wyoming,WY,1248.0
+2017-08,Alabama,AL,7198.0
+2017-08,Alaska,AK,1354.0
+2017-08,Arizona,AZ,12668.0
+2017-08,Arkansas,AR,4460.0
+2017-08,California,CA,44252.0
+2017-08,Colorado,CO,11952.0
+2017-08,Connecticut,CT,6408.0
+2017-08,Delaware,DE,1616.0
+2017-08,District of Columbia,DC,814.0
+2017-08,Florida,FL,44696.0
+2017-08,Georgia,GA,18050.0
+2017-08,Hawaii,HI,1922.0
+2017-08,Idaho,ID,4488.0
+2017-08,Illinois,IL,18986.0
+2017-08,Indiana,IN,11308.0
+2017-08,Iowa,IA,4550.0
+2017-08,Kansas,KS,4156.0
+2017-08,Kentucky,KY,5744.0
+2017-08,Louisiana,LA,5114.0
+2017-08,Maine,ME,2938.0
+2017-08,Maryland,MD,9828.0
+2017-08,Massachusetts,MA,8474.0
+2017-08,Michigan,MI,18872.0
+2017-08,Minnesota,MN,10336.0
+2017-08,Mississippi,MS,3038.0
+2017-08,Missouri,MO,9458.0
+2017-08,Montana,MT,1942.0
+2017-08,Nebraska,NE,2352.0
+2017-08,Nevada,NV,5570.0
+2017-08,New Hampshire,NH,2714.0
+2017-08,New Jersey,NJ,14148.0
+2017-08,New Mexico,NM,3196.0
+2017-08,New York,NY,17690.0
+2017-08,North Carolina,NC,16358.0
+2017-08,North Dakota,ND,1044.0
+2017-08,Ohio,OH,16344.0
+2017-08,Oklahoma,OK,5918.0
+2017-08,Oregon,OR,8558.0
+2017-08,Pennsylvania,PA,17156.0
+2017-08,Rhode Island,RI,1680.0
+2017-08,South Carolina,SC,8744.0
+2017-08,South Dakota,SD,1272.0
+2017-08,Tennessee,TN,11048.0
+2017-08,Texas,TX,37956.0
+2017-08,Utah,UT,6318.0
+2017-08,Vermont,VT,1194.0
+2017-08,Virginia,VA,13848.0
+2017-08,Washington,WA,13004.0
+2017-08,West Virginia,WV,2134.0
+2017-08,Wisconsin,WI,8514.0
+2017-08,Wyoming,WY,1126.0
+2017-09,Alabama,AL,6364.0
+2017-09,Alaska,AK,1064.0
+2017-09,Arizona,AZ,13020.0
+2017-09,Arkansas,AR,3896.0
+2017-09,California,CA,40636.0
+2017-09,Colorado,CO,10484.0
+2017-09,Connecticut,CT,5188.0
+2017-09,Delaware,DE,1764.0
+2017-09,District of Columbia,DC,1120.0
+2017-09,Florida,FL,34132.0
+2017-09,Georgia,GA,15860.0
+2017-09,Hawaii,HI,1800.0
+2017-09,Idaho,ID,3892.0
+2017-09,Illinois,IL,17820.0
+2017-09,Indiana,IN,9140.0
+2017-09,Iowa,IA,4432.0
+2017-09,Kansas,KS,4068.0
+2017-09,Kentucky,KY,5228.0
+2017-09,Louisiana,LA,4868.0
+2017-09,Maine,ME,2604.0
+2017-09,Maryland,MD,9288.0
+2017-09,Massachusetts,MA,8856.0
+2017-09,Michigan,MI,15168.0
+2017-09,Minnesota,MN,9248.0
+2017-09,Mississippi,MS,2716.0
+2017-09,Missouri,MO,8856.0
+2017-09,Montana,MT,1648.0
+2017-09,Nebraska,NE,2256.0
+2017-09,Nevada,NV,5108.0
+2017-09,New Hampshire,NH,2312.0
+2017-09,New Jersey,NJ,13864.0
+2017-09,New Mexico,NM,2824.0
+2017-09,New York,NY,19944.0
+2017-09,North Carolina,NC,14576.0
+2017-09,North Dakota,ND,1016.0
+2017-09,Ohio,OH,14624.0
+2017-09,Oklahoma,OK,5544.0
+2017-09,Oregon,OR,7328.0
+2017-09,Pennsylvania,PA,16000.0
+2017-09,Rhode Island,RI,1408.0
+2017-09,South Carolina,SC,7916.0
+2017-09,South Dakota,SD,1072.0
+2017-09,Tennessee,TN,10552.0
+2017-09,Texas,TX,32244.0
+2017-09,Utah,UT,5404.0
+2017-09,Vermont,VT,1060.0
+2017-09,Virginia,VA,11908.0
+2017-09,Washington,WA,12744.0
+2017-09,West Virginia,WV,1740.0
+2017-09,Wisconsin,WI,7384.0
+2017-09,Wyoming,WY,1020.0
+2017-10,Alabama,AL,6190.0
+2017-10,Alaska,AK,820.0
+2017-10,Arizona,AZ,13128.0
+2017-10,Arkansas,AR,3736.0
+2017-10,California,CA,38428.0
+2017-10,Colorado,CO,9386.0
+2017-10,Connecticut,CT,4750.0
+2017-10,Delaware,DE,2600.0
+2017-10,District of Columbia,DC,1114.0
+2017-10,Florida,FL,42470.0
+2017-10,Georgia,GA,15410.0
+2017-10,Hawaii,HI,1986.0
+2017-10,Idaho,ID,3018.0
+2017-10,Illinois,IL,15044.0
+2017-10,Indiana,IN,8444.0
+2017-10,Iowa,IA,3802.0
+2017-10,Kansas,KS,3606.0
+2017-10,Kentucky,KY,4980.0
+2017-10,Louisiana,LA,4854.0
+2017-10,Maine,ME,2238.0
+2017-10,Maryland,MD,9218.0
+2017-10,Massachusetts,MA,8076.0
+2017-10,Michigan,MI,14548.0
+2017-10,Minnesota,MN,7758.0
+2017-10,Mississippi,MS,2770.0
+2017-10,Missouri,MO,8180.0
+2017-10,Montana,MT,1394.0
+2017-10,Nebraska,NE,2156.0
+2017-10,Nevada,NV,4836.0
+2017-10,New Hampshire,NH,2102.0
+2017-10,New Jersey,NJ,13650.0
+2017-10,New Mexico,NM,2824.0
+2017-10,New York,NY,17572.0
+2017-10,North Carolina,NC,13960.0
+2017-10,North Dakota,ND,838.0
+2017-10,Ohio,OH,13646.0
+2017-10,Oklahoma,OK,5296.0
+2017-10,Oregon,OR,6174.0
+2017-10,Pennsylvania,PA,18148.0
+2017-10,Rhode Island,RI,1304.0
+2017-10,South Carolina,SC,8310.0
+2017-10,South Dakota,SD,996.0
+2017-10,Tennessee,TN,9992.0
+2017-10,Texas,TX,32682.0
+2017-10,Utah,UT,4836.0
+2017-10,Vermont,VT,924.0
+2017-10,Virginia,VA,11956.0
+2017-10,Washington,WA,11968.0
+2017-10,West Virginia,WV,1822.0
+2017-10,Wisconsin,WI,6242.0
+2017-10,Wyoming,WY,784.0
+2017-11,Alabama,AL,5790.0
+2017-11,Alaska,AK,716.0
+2017-11,Arizona,AZ,12320.0
+2017-11,Arkansas,AR,3418.0
+2017-11,California,CA,33626.0
+2017-11,Colorado,CO,7856.0
+2017-11,Connecticut,CT,3966.0
+2017-11,Delaware,DE,1352.0
+2017-11,District of Columbia,DC,876.0
+2017-11,Florida,FL,42934.0
+2017-11,Georgia,GA,15060.0
+2017-11,Hawaii,HI,1852.0
+2017-11,Idaho,ID,2682.0
+2017-11,Illinois,IL,13068.0
+2017-11,Indiana,IN,7550.0
+2017-11,Iowa,IA,3206.0
+2017-11,Kansas,KS,3190.0
+2017-11,Kentucky,KY,4334.0
+2017-11,Louisiana,LA,4850.0
+2017-11,Maine,ME,1584.0
+2017-11,Maryland,MD,7842.0
+2017-11,Massachusetts,MA,6532.0
+2017-11,Michigan,MI,11804.0
+2017-11,Minnesota,MN,5582.0
+2017-11,Mississippi,MS,2656.0
+2017-11,Missouri,MO,7530.0
+2017-11,Montana,MT,1104.0
+2017-11,Nebraska,NE,1854.0
+2017-11,Nevada,NV,4308.0
+2017-11,New Hampshire,NH,1546.0
+2017-11,New Jersey,NJ,11684.0
+2017-11,New Mexico,NM,2410.0
+2017-11,New York,NY,14592.0
+2017-11,North Carolina,NC,12930.0
+2017-11,North Dakota,ND,618.0
+2017-11,Ohio,OH,11544.0
+2017-11,Oklahoma,OK,5000.0
+2017-11,Oregon,OR,5508.0
+2017-11,Pennsylvania,PA,13710.0
+2017-11,Rhode Island,RI,1072.0
+2017-11,South Carolina,SC,7850.0
+2017-11,South Dakota,SD,792.0
+2017-11,Tennessee,TN,9528.0
+2017-11,Texas,TX,29790.0
+2017-11,Utah,UT,4330.0
+2017-11,Vermont,VT,694.0
+2017-11,Virginia,VA,9480.0
+2017-11,Washington,WA,9758.0
+2017-11,West Virginia,WV,1466.0
+2017-11,Wisconsin,WI,4780.0
+2017-11,Wyoming,WY,754.0
+2017-12,Alabama,AL,4880.0
+2017-12,Alaska,AK,528.0
+2017-12,Arizona,AZ,9676.0
+2017-12,Arkansas,AR,3020.0
+2017-12,California,CA,24220.0
+2017-12,Colorado,CO,5936.0
+2017-12,Connecticut,CT,2680.0
+2017-12,Delaware,DE,1028.0
+2017-12,District of Columbia,DC,496.0
+2017-12,Florida,FL,36324.0
+2017-12,Georgia,GA,10944.0
+2017-12,Hawaii,HI,1632.0
+2017-12,Idaho,ID,2092.0
+2017-12,Illinois,IL,9344.0
+2017-12,Indiana,IN,5336.0
+2017-12,Iowa,IA,2544.0
+2017-12,Kansas,KS,2576.0
+2017-12,Kentucky,KY,3272.0
+2017-12,Louisiana,LA,4032.0
+2017-12,Maine,ME,1164.0
+2017-12,Maryland,MD,5636.0
+2017-12,Massachusetts,MA,3884.0
+2017-12,Michigan,MI,8424.0
+2017-12,Minnesota,MN,3980.0
+2017-12,Mississippi,MS,2048.0
+2017-12,Missouri,MO,5716.0
+2017-12,Montana,MT,1032.0
+2017-12,Nebraska,NE,1460.0
+2017-12,Nevada,NV,4016.0
+2017-12,New Hampshire,NH,1024.0
+2017-12,New Jersey,NJ,9052.0
+2017-12,New Mexico,NM,1824.0
+2017-12,New York,NY,9268.0
+2017-12,North Carolina,NC,9524.0
+2017-12,North Dakota,ND,428.0
+2017-12,Ohio,OH,8724.0
+2017-12,Oklahoma,OK,3904.0
+2017-12,Oregon,OR,4012.0
+2017-12,Pennsylvania,PA,9440.0
+2017-12,Rhode Island,RI,764.0
+2017-12,South Carolina,SC,6120.0
+2017-12,South Dakota,SD,584.0
+2017-12,Tennessee,TN,7496.0
+2017-12,Texas,TX,24032.0
+2017-12,Utah,UT,3292.0
+2017-12,Vermont,VT,556.0
+2017-12,Virginia,VA,7996.0
+2017-12,Washington,WA,6500.0
+2017-12,West Virginia,WV,1280.0
+2017-12,Wisconsin,WI,3380.0
+2017-12,Wyoming,WY,552.0
+2018-01,Alabama,AL,6048.0
+2018-01,Alaska,AK,808.0
+2018-01,Arizona,AZ,13718.0
+2018-01,Arkansas,AR,3436.0
+2018-01,California,CA,35038.0
+2018-01,Colorado,CO,8264.0
+2018-01,Connecticut,CT,3738.0
+2018-01,Delaware,DE,1266.0
+2018-01,District of Columbia,DC,780.0
+2018-01,Florida,FL,49626.0
+2018-01,Georgia,GA,14528.0
+2018-01,Hawaii,HI,2032.0
+2018-01,Idaho,ID,2444.0
+2018-01,Illinois,IL,14122.0
+2018-01,Indiana,IN,5874.0
+2018-01,Iowa,IA,3024.0
+2018-01,Kansas,KS,2980.0
+2018-01,Kentucky,KY,3750.0
+2018-01,Louisiana,LA,4616.0
+2018-01,Maine,ME,1392.0
+2018-01,Maryland,MD,6884.0
+2018-01,Massachusetts,MA,4872.0
+2018-01,Michigan,MI,10052.0
+2018-01,Minnesota,MN,5280.0
+2018-01,Mississippi,MS,2484.0
+2018-01,Missouri,MO,6812.0
+2018-01,Montana,MT,1230.0
+2018-01,Nebraska,NE,1628.0
+2018-01,Nevada,NV,4494.0
+2018-01,New Hampshire,NH,1286.0
+2018-01,New Jersey,NJ,12048.0
+2018-01,New Mexico,NM,2390.0
+2018-01,New York,NY,13492.0
+2018-01,North Carolina,NC,12692.0
+2018-01,North Dakota,ND,754.0
+2018-01,Ohio,OH,9722.0
+2018-01,Oklahoma,OK,5012.0
+2018-01,Oregon,OR,5306.0
+2018-01,Pennsylvania,PA,11654.0
+2018-01,Rhode Island,RI,834.0
+2018-01,South Carolina,SC,8002.0
+2018-01,South Dakota,SD,774.0
+2018-01,Tennessee,TN,8084.0
+2018-01,Texas,TX,31654.0
+2018-01,Utah,UT,4332.0
+2018-01,Vermont,VT,700.0
+2018-01,Virginia,VA,9686.0
+2018-01,Washington,WA,8534.0
+2018-01,West Virginia,WV,1448.0
+2018-01,Wisconsin,WI,4652.0
+2018-01,Wyoming,WY,864.0
+2018-02,Alabama,AL,7254.0
+2018-02,Alaska,AK,894.0
+2018-02,Arizona,AZ,14006.0
+2018-02,Arkansas,AR,4054.0
+2018-02,California,CA,40040.0
+2018-02,Colorado,CO,9190.0
+2018-02,Connecticut,CT,4966.0
+2018-02,Delaware,DE,1700.0
+2018-02,District of Columbia,DC,826.0
+2018-02,Florida,FL,49350.0
+2018-02,Georgia,GA,17540.0
+2018-02,Hawaii,HI,1958.0
+2018-02,Idaho,ID,2944.0
+2018-02,Illinois,IL,16956.0
+2018-02,Indiana,IN,7254.0
+2018-02,Iowa,IA,3336.0
+2018-02,Kansas,KS,3232.0
+2018-02,Kentucky,KY,4660.0
+2018-02,Louisiana,LA,5284.0
+2018-02,Maine,ME,1464.0
+2018-02,Maryland,MD,8494.0
+2018-02,Massachusetts,MA,6626.0
+2018-02,Michigan,MI,10588.0
+2018-02,Minnesota,MN,7548.0
+2018-02,Mississippi,MS,3206.0
+2018-02,Missouri,MO,8204.0
+2018-02,Montana,MT,1344.0
+2018-02,Nebraska,NE,1814.0
+2018-02,Nevada,NV,5338.0
+2018-02,New Hampshire,NH,1718.0
+2018-02,New Jersey,NJ,14536.0
+2018-02,New Mexico,NM,2810.0
+2018-02,New York,NY,16342.0
+2018-02,North Carolina,NC,15848.0
+2018-02,North Dakota,ND,820.0
+2018-02,Ohio,OH,12230.0
+2018-02,Oklahoma,OK,5546.0
+2018-02,Oregon,OR,5694.0
+2018-02,Pennsylvania,PA,13868.0
+2018-02,Rhode Island,RI,1084.0
+2018-02,South Carolina,SC,9074.0
+2018-02,South Dakota,SD,842.0
+2018-02,Tennessee,TN,10232.0
+2018-02,Texas,TX,33948.0
+2018-02,Utah,UT,4702.0
+2018-02,Vermont,VT,850.0
+2018-02,Virginia,VA,12568.0
+2018-02,Washington,WA,9866.0
+2018-02,West Virginia,WV,1712.0
+2018-02,Wisconsin,WI,5722.0
+2018-02,Wyoming,WY,864.0
+2018-03,Alabama,AL,8100.0
+2018-03,Alaska,AK,1168.0
+2018-03,Arizona,AZ,14624.0
+2018-03,Arkansas,AR,4124.0
+2018-03,California,CA,42436.0
+2018-03,Colorado,CO,11640.0
+2018-03,Connecticut,CT,5728.0
+2018-03,Delaware,DE,1872.0
+2018-03,District of Columbia,DC,1064.0
+2018-03,Florida,FL,53332.0
+2018-03,Georgia,GA,19452.0
+2018-03,Hawaii,HI,1808.0
+2018-03,Idaho,ID,3476.0
+2018-03,Illinois,IL,22128.0
+2018-03,Indiana,IN,9280.0
+2018-03,Iowa,IA,4484.0
+2018-03,Kansas,KS,4460.0
+2018-03,Kentucky,KY,5760.0
+2018-03,Louisiana,LA,6328.0
+2018-03,Maine,ME,2132.0
+2018-03,Maryland,MD,11032.0
+2018-03,Massachusetts,MA,8448.0
+2018-03,Michigan,MI,14244.0
+2018-03,Minnesota,MN,9620.0
+2018-03,Mississippi,MS,3324.0
+2018-03,Missouri,MO,10348.0
+2018-03,Montana,MT,1732.0
+2018-03,Nebraska,NE,2528.0
+2018-03,Nevada,NV,4972.0
+2018-03,New Hampshire,NH,2120.0
+2018-03,New Jersey,NJ,15496.0
+2018-03,New Mexico,NM,2980.0
+2018-03,New York,NY,17944.0
+2018-03,North Carolina,NC,18136.0
+2018-03,North Dakota,ND,952.0
+2018-03,Ohio,OH,15144.0
+2018-03,Oklahoma,OK,5536.0
+2018-03,Oregon,OR,7452.0
+2018-03,Pennsylvania,PA,16604.0
+2018-03,Rhode Island,RI,1332.0
+2018-03,South Carolina,SC,10536.0
+2018-03,South Dakota,SD,1012.0
+2018-03,Tennessee,TN,11684.0
+2018-03,Texas,TX,38496.0
+2018-03,Utah,UT,5364.0
+2018-03,Vermont,VT,928.0
+2018-03,Virginia,VA,15232.0
+2018-03,Washington,WA,11580.0
+2018-03,West Virginia,WV,1892.0
+2018-03,Wisconsin,WI,8096.0
+2018-03,Wyoming,WY,1100.0
+2018-04,Alabama,AL,8282.0
+2018-04,Alaska,AK,1268.0
+2018-04,Arizona,AZ,15162.0
+2018-04,Arkansas,AR,4830.0
+2018-04,California,CA,47994.0
+2018-04,Colorado,CO,12716.0
+2018-04,Connecticut,CT,7148.0
+2018-04,Delaware,DE,2012.0
+2018-04,District of Columbia,DC,1222.0
+2018-04,Florida,FL,48354.0
+2018-04,Georgia,GA,20414.0
+2018-04,Hawaii,HI,2186.0
+2018-04,Idaho,ID,4302.0
+2018-04,Illinois,IL,23054.0
+2018-04,Indiana,IN,9966.0
+2018-04,Iowa,IA,4930.0
+2018-04,Kansas,KS,4858.0
+2018-04,Kentucky,KY,6038.0
+2018-04,Louisiana,LA,5988.0
+2018-04,Maine,ME,2654.0
+2018-04,Maryland,MD,12158.0
+2018-04,Massachusetts,MA,11124.0
+2018-04,Michigan,MI,16260.0
+2018-04,Minnesota,MN,10994.0
+2018-04,Mississippi,MS,3592.0
+2018-04,Missouri,MO,11024.0
+2018-04,Montana,MT,2068.0
+2018-04,Nebraska,NE,2982.0
+2018-04,Nevada,NV,5408.0
+2018-04,New Hampshire,NH,3004.0
+2018-04,New Jersey,NJ,18272.0
+2018-04,New Mexico,NM,3428.0
+2018-04,New York,NY,21914.0
+2018-04,North Carolina,NC,19342.0
+2018-04,North Dakota,ND,1164.0
+2018-04,Ohio,OH,16816.0
+2018-04,Oklahoma,OK,6576.0
+2018-04,Oregon,OR,8150.0
+2018-04,Pennsylvania,PA,20132.0
+2018-04,Rhode Island,RI,1700.0
+2018-04,South Carolina,SC,10778.0
+2018-04,South Dakota,SD,1206.0
+2018-04,Tennessee,TN,12818.0
+2018-04,Texas,TX,43488.0
+2018-04,Utah,UT,6140.0
+2018-04,Vermont,VT,1090.0
+2018-04,Virginia,VA,17344.0
+2018-04,Washington,WA,14312.0
+2018-04,West Virginia,WV,2166.0
+2018-04,Wisconsin,WI,8454.0
+2018-04,Wyoming,WY,1112.0
+2018-05,Alabama,AL,8020.0
+2018-05,Alaska,AK,1450.0
+2018-05,Arizona,AZ,14608.0
+2018-05,Arkansas,AR,4666.0
+2018-05,California,CA,49628.0
+2018-05,Colorado,CO,13388.0
+2018-05,Connecticut,CT,7076.0
+2018-05,Delaware,DE,2100.0
+2018-05,District of Columbia,DC,1174.0
+2018-05,Florida,FL,47160.0
+2018-05,Georgia,GA,20572.0
+2018-05,Hawaii,HI,1944.0
+2018-05,Idaho,ID,4676.0
+2018-05,Illinois,IL,23860.0
+2018-05,Indiana,IN,11162.0
+2018-05,Iowa,IA,5226.0
+2018-05,Kansas,KS,4866.0
+2018-05,Kentucky,KY,6344.0
+2018-05,Louisiana,LA,6130.0
+2018-05,Maine,ME,3656.0
+2018-05,Maryland,MD,11674.0
+2018-05,Massachusetts,MA,11904.0
+2018-05,Michigan,MI,20228.0
+2018-05,Minnesota,MN,13116.0
+2018-05,Mississippi,MS,3466.0
+2018-05,Missouri,MO,11098.0
+2018-05,Montana,MT,2550.0
+2018-05,Nebraska,NE,2852.0
+2018-05,Nevada,NV,5774.0
+2018-05,New Hampshire,NH,3432.0
+2018-05,New Jersey,NJ,18732.0
+2018-05,New Mexico,NM,3646.0
+2018-05,New York,NY,23606.0
+2018-05,North Carolina,NC,20178.0
+2018-05,North Dakota,ND,1340.0
+2018-05,Ohio,OH,18372.0
+2018-05,Oklahoma,OK,6784.0
+2018-05,Oregon,OR,8780.0
+2018-05,Pennsylvania,PA,20758.0
+2018-05,Rhode Island,RI,1940.0
+2018-05,South Carolina,SC,10836.0
+2018-05,South Dakota,SD,1404.0
+2018-05,Tennessee,TN,12914.0
+2018-05,Texas,TX,44082.0
+2018-05,Utah,UT,6406.0
+2018-05,Vermont,VT,1618.0
+2018-05,Virginia,VA,17018.0
+2018-05,Washington,WA,16990.0
+2018-05,West Virginia,WV,2250.0
+2018-05,Wisconsin,WI,10058.0
+2018-05,Wyoming,WY,1292.0
+2018-06,Alabama,AL,7744.0
+2018-06,Alaska,AK,1452.0
+2018-06,Arizona,AZ,13520.0
+2018-06,Arkansas,AR,4432.0
+2018-06,California,CA,48380.0
+2018-06,Colorado,CO,13448.0
+2018-06,Connecticut,CT,6464.0
+2018-06,Delaware,DE,1980.0
+2018-06,District of Columbia,DC,1100.0
+2018-06,Florida,FL,44744.0
+2018-06,Georgia,GA,19588.0
+2018-06,Hawaii,HI,1984.0
+2018-06,Idaho,ID,4612.0
+2018-06,Illinois,IL,21732.0
+2018-06,Indiana,IN,10900.0
+2018-06,Iowa,IA,5104.0
+2018-06,Kansas,KS,4712.0
+2018-06,Kentucky,KY,6292.0
+2018-06,Louisiana,LA,5884.0
+2018-06,Maine,ME,3584.0
+2018-06,Maryland,MD,10832.0
+2018-06,Massachusetts,MA,11916.0
+2018-06,Michigan,MI,19748.0
+2018-06,Minnesota,MN,12556.0
+2018-06,Mississippi,MS,3448.0
+2018-06,Missouri,MO,11052.0
+2018-06,Montana,MT,2544.0
+2018-06,Nebraska,NE,2936.0
+2018-06,Nevada,NV,5680.0
+2018-06,New Hampshire,NH,3280.0
+2018-06,New Jersey,NJ,16288.0
+2018-06,New Mexico,NM,3300.0
+2018-06,New York,NY,22440.0
+2018-06,North Carolina,NC,18052.0
+2018-06,North Dakota,ND,1236.0
+2018-06,Ohio,OH,18000.0
+2018-06,Oklahoma,OK,6552.0
+2018-06,Oregon,OR,8536.0
+2018-06,Pennsylvania,PA,19200.0
+2018-06,Rhode Island,RI,1876.0
+2018-06,South Carolina,SC,10136.0
+2018-06,South Dakota,SD,1292.0
+2018-06,Tennessee,TN,12816.0
+2018-06,Texas,TX,43712.0
+2018-06,Utah,UT,6248.0
+2018-06,Vermont,VT,1392.0
+2018-06,Virginia,VA,15104.0
+2018-06,Washington,WA,15972.0
+2018-06,West Virginia,WV,2204.0
+2018-06,Wisconsin,WI,9252.0
+2018-06,Wyoming,WY,1196.0
+2018-07,Alabama,AL,7520.0
+2018-07,Alaska,AK,1370.0
+2018-07,Arizona,AZ,12606.0
+2018-07,Arkansas,AR,4556.0
+2018-07,California,CA,47884.0
+2018-07,Colorado,CO,12192.0
+2018-07,Connecticut,CT,5296.0
+2018-07,Delaware,DE,1676.0
+2018-07,District of Columbia,DC,1010.0
+2018-07,Florida,FL,44034.0
+2018-07,Georgia,GA,18618.0
+2018-07,Hawaii,HI,2078.0
+2018-07,Idaho,ID,4326.0
+2018-07,Illinois,IL,20796.0
+2018-07,Indiana,IN,10632.0
+2018-07,Iowa,IA,4828.0
+2018-07,Kansas,KS,4228.0
+2018-07,Kentucky,KY,5946.0
+2018-07,Louisiana,LA,5584.0
+2018-07,Maine,ME,3216.0
+2018-07,Maryland,MD,10394.0
+2018-07,Massachusetts,MA,9400.0
+2018-07,Michigan,MI,20132.0
+2018-07,Minnesota,MN,11596.0
+2018-07,Mississippi,MS,3092.0
+2018-07,Missouri,MO,10678.0
+2018-07,Montana,MT,2188.0
+2018-07,Nebraska,NE,2818.0
+2018-07,Nevada,NV,5836.0
+2018-07,New Hampshire,NH,2716.0
+2018-07,New Jersey,NJ,15462.0
+2018-07,New Mexico,NM,3054.0
+2018-07,New York,NY,20650.0
+2018-07,North Carolina,NC,17292.0
+2018-07,North Dakota,ND,1160.0
+2018-07,Ohio,OH,17826.0
+2018-07,Oklahoma,OK,6420.0
+2018-07,Oregon,OR,8800.0
+2018-07,Pennsylvania,PA,18126.0
+2018-07,Rhode Island,RI,1726.0
+2018-07,South Carolina,SC,9418.0
+2018-07,South Dakota,SD,1314.0
+2018-07,Tennessee,TN,12466.0
+2018-07,Texas,TX,41334.0
+2018-07,Utah,UT,5776.0
+2018-07,Vermont,VT,1274.0
+2018-07,Virginia,VA,13592.0
+2018-07,Washington,WA,15638.0
+2018-07,West Virginia,WV,2148.0
+2018-07,Wisconsin,WI,9016.0
+2018-07,Wyoming,WY,1164.0
+2018-08,Alabama,AL,7252.0
+2018-08,Alaska,AK,1282.0
+2018-08,Arizona,AZ,12868.0
+2018-08,Arkansas,AR,4142.0
+2018-08,California,CA,44016.0
+2018-08,Colorado,CO,11392.0
+2018-08,Connecticut,CT,4894.0
+2018-08,Delaware,DE,1708.0
+2018-08,District of Columbia,DC,762.0
+2018-08,Florida,FL,42754.0
+2018-08,Georgia,GA,17438.0
+2018-08,Hawaii,HI,1870.0
+2018-08,Idaho,ID,4072.0
+2018-08,Illinois,IL,19056.0
+2018-08,Indiana,IN,10018.0
+2018-08,Iowa,IA,4672.0
+2018-08,Kansas,KS,4170.0
+2018-08,Kentucky,KY,5984.0
+2018-08,Louisiana,LA,5314.0
+2018-08,Maine,ME,3002.0
+2018-08,Maryland,MD,9982.0
+2018-08,Massachusetts,MA,9044.0
+2018-08,Michigan,MI,19774.0
+2018-08,Minnesota,MN,10962.0
+2018-08,Mississippi,MS,3030.0
+2018-08,Missouri,MO,10106.0
+2018-08,Montana,MT,2070.0
+2018-08,Nebraska,NE,2488.0
+2018-08,Nevada,NV,6576.0
+2018-08,New Hampshire,NH,2712.0
+2018-08,New Jersey,NJ,14380.0
+2018-08,New Mexico,NM,3132.0
+2018-08,New York,NY,18182.0
+2018-08,North Carolina,NC,16732.0
+2018-08,North Dakota,ND,1070.0
+2018-08,Ohio,OH,16606.0
+2018-08,Oklahoma,OK,5890.0
+2018-08,Oregon,OR,8220.0
+2018-08,Pennsylvania,PA,16740.0
+2018-08,Rhode Island,RI,1620.0
+2018-08,South Carolina,SC,9820.0
+2018-08,South Dakota,SD,1170.0
+2018-08,Tennessee,TN,12328.0
+2018-08,Texas,TX,37338.0
+2018-08,Utah,UT,6228.0
+2018-08,Vermont,VT,1136.0
+2018-08,Virginia,VA,13320.0
+2018-08,Washington,WA,14838.0
+2018-08,West Virginia,WV,2054.0
+2018-08,Wisconsin,WI,8558.0
+2018-08,Wyoming,WY,1070.0
+2018-09,Alabama,AL,6564.0
+2018-09,Alaska,AK,900.0
+2018-09,Arizona,AZ,12920.0
+2018-09,Arkansas,AR,4040.0
+2018-09,California,CA,43532.0
+2018-09,Colorado,CO,10472.0
+2018-09,Connecticut,CT,5168.0
+2018-09,Delaware,DE,1620.0
+2018-09,District of Columbia,DC,1300.0
+2018-09,Florida,FL,42124.0
+2018-09,Georgia,GA,16180.0
+2018-09,Hawaii,HI,1692.0
+2018-09,Idaho,ID,3724.0
+2018-09,Illinois,IL,17632.0
+2018-09,Indiana,IN,9300.0
+2018-09,Iowa,IA,4376.0
+2018-09,Kansas,KS,3768.0
+2018-09,Kentucky,KY,5180.0
+2018-09,Louisiana,LA,5000.0
+2018-09,Maine,ME,2520.0
+2018-09,Maryland,MD,9592.0
+2018-09,Massachusetts,MA,9524.0
+2018-09,Michigan,MI,15320.0
+2018-09,Minnesota,MN,9256.0
+2018-09,Mississippi,MS,2824.0
+2018-09,Missouri,MO,9152.0
+2018-09,Montana,MT,1764.0
+2018-09,Nebraska,NE,2428.0
+2018-09,Nevada,NV,6352.0
+2018-09,New Hampshire,NH,2368.0
+2018-09,New Jersey,NJ,15652.0
+2018-09,New Mexico,NM,2656.0
+2018-09,New York,NY,18548.0
+2018-09,North Carolina,NC,13536.0
+2018-09,North Dakota,ND,924.0
+2018-09,Ohio,OH,14912.0
+2018-09,Oklahoma,OK,5216.0
+2018-09,Oregon,OR,7620.0
+2018-09,Pennsylvania,PA,16140.0
+2018-09,Rhode Island,RI,1644.0
+2018-09,South Carolina,SC,8344.0
+2018-09,South Dakota,SD,1116.0
+2018-09,Tennessee,TN,11400.0
+2018-09,Texas,TX,32924.0
+2018-09,Utah,UT,5688.0
+2018-09,Vermont,VT,1080.0
+2018-09,Virginia,VA,11972.0
+2018-09,Washington,WA,13460.0
+2018-09,West Virginia,WV,1908.0
+2018-09,Wisconsin,WI,7372.0
+2018-09,Wyoming,WY,912.0
+2018-10,Alabama,AL,6016.0
+2018-10,Alaska,AK,862.0
+2018-10,Arizona,AZ,12970.0
+2018-10,Arkansas,AR,3740.0
+2018-10,California,CA,41226.0
+2018-10,Colorado,CO,9102.0
+2018-10,Connecticut,CT,4536.0
+2018-10,Delaware,DE,1608.0
+2018-10,District of Columbia,DC,1068.0
+2018-10,Florida,FL,44876.0
+2018-10,Georgia,GA,16232.0
+2018-10,Hawaii,HI,1904.0
+2018-10,Idaho,ID,3292.0
+2018-10,Illinois,IL,15372.0
+2018-10,Indiana,IN,8824.0
+2018-10,Iowa,IA,3916.0
+2018-10,Kansas,KS,3830.0
+2018-10,Kentucky,KY,5022.0
+2018-10,Louisiana,LA,4818.0
+2018-10,Maine,ME,2090.0
+2018-10,Maryland,MD,9232.0
+2018-10,Massachusetts,MA,8648.0
+2018-10,Michigan,MI,14580.0
+2018-10,Minnesota,MN,7388.0
+2018-10,Mississippi,MS,2664.0
+2018-10,Missouri,MO,8774.0
+2018-10,Montana,MT,1430.0
+2018-10,Nebraska,NE,2242.0
+2018-10,Nevada,NV,5322.0
+2018-10,New Hampshire,NH,1758.0
+2018-10,New Jersey,NJ,13738.0
+2018-10,New Mexico,NM,2448.0
+2018-10,New York,NY,17088.0
+2018-10,North Carolina,NC,14092.0
+2018-10,North Dakota,ND,886.0
+2018-10,Ohio,OH,13932.0
+2018-10,Oklahoma,OK,4920.0
+2018-10,Oregon,OR,6116.0
+2018-10,Pennsylvania,PA,15550.0
+2018-10,Rhode Island,RI,1412.0
+2018-10,South Carolina,SC,8564.0
+2018-10,South Dakota,SD,988.0
+2018-10,Tennessee,TN,10304.0
+2018-10,Texas,TX,31534.0
+2018-10,Utah,UT,5270.0
+2018-10,Vermont,VT,760.0
+2018-10,Virginia,VA,11302.0
+2018-10,Washington,WA,11572.0
+2018-10,West Virginia,WV,1652.0
+2018-10,Wisconsin,WI,6312.0
+2018-10,Wyoming,WY,804.0
+2018-11,Alabama,AL,5548.0
+2018-11,Alaska,AK,630.0
+2018-11,Arizona,AZ,12256.0
+2018-11,Arkansas,AR,3376.0
+2018-11,California,CA,37200.0
+2018-11,Colorado,CO,7986.0
+2018-11,Connecticut,CT,3606.0
+2018-11,Delaware,DE,1356.0
+2018-11,District of Columbia,DC,852.0
+2018-11,Florida,FL,44556.0
+2018-11,Georgia,GA,14266.0
+2018-11,Hawaii,HI,1888.0
+2018-11,Idaho,ID,2610.0
+2018-11,Illinois,IL,12570.0
+2018-11,Indiana,IN,7136.0
+2018-11,Iowa,IA,3372.0
+2018-11,Kansas,KS,3364.0
+2018-11,Kentucky,KY,4156.0
+2018-11,Louisiana,LA,4350.0
+2018-11,Maine,ME,1578.0
+2018-11,Maryland,MD,7814.0
+2018-11,Massachusetts,MA,6566.0
+2018-11,Michigan,MI,12410.0
+2018-11,Minnesota,MN,5716.0
+2018-11,Mississippi,MS,2318.0
+2018-11,Missouri,MO,7062.0
+2018-11,Montana,MT,1182.0
+2018-11,Nebraska,NE,1908.0
+2018-11,Nevada,NV,5172.0
+2018-11,New Hampshire,NH,1494.0
+2018-11,New Jersey,NJ,11430.0
+2018-11,New Mexico,NM,2028.0
+2018-11,New York,NY,14234.0
+2018-11,North Carolina,NC,12820.0
+2018-11,North Dakota,ND,638.0
+2018-11,Ohio,OH,12012.0
+2018-11,Oklahoma,OK,4670.0
+2018-11,Oregon,OR,5246.0
+2018-11,Pennsylvania,PA,12798.0
+2018-11,Rhode Island,RI,1014.0
+2018-11,South Carolina,SC,7738.0
+2018-11,South Dakota,SD,762.0
+2018-11,Tennessee,TN,9336.0
+2018-11,Texas,TX,30658.0
+2018-11,Utah,UT,4446.0
+2018-11,Vermont,VT,638.0
+2018-11,Virginia,VA,9528.0
+2018-11,Washington,WA,9912.0
+2018-11,West Virginia,WV,1510.0
+2018-11,Wisconsin,WI,5054.0
+2018-11,Wyoming,WY,772.0
+2018-12,Alabama,AL,4928.0
+2018-12,Alaska,AK,468.0
+2018-12,Arizona,AZ,9328.0
+2018-12,Arkansas,AR,2764.0
+2018-12,California,CA,25284.0
+2018-12,Colorado,CO,5900.0
+2018-12,Connecticut,CT,2920.0
+2018-12,Delaware,DE,1032.0
+2018-12,District of Columbia,DC,584.0
+2018-12,Florida,FL,38220.0
+2018-12,Georgia,GA,11976.0
+2018-12,Hawaii,HI,1680.0
+2018-12,Idaho,ID,1968.0
+2018-12,Illinois,IL,9028.0
+2018-12,Indiana,IN,5084.0
+2018-12,Iowa,IA,2352.0
+2018-12,Kansas,KS,2476.0
+2018-12,Kentucky,KY,3280.0
+2018-12,Louisiana,LA,3800.0
+2018-12,Maine,ME,1200.0
+2018-12,Maryland,MD,6120.0
+2018-12,Massachusetts,MA,3708.0
+2018-12,Michigan,MI,8980.0
+2018-12,Minnesota,MN,4156.0
+2018-12,Mississippi,MS,2236.0
+2018-12,Missouri,MO,5596.0
+2018-12,Montana,MT,956.0
+2018-12,Nebraska,NE,1276.0
+2018-12,Nevada,NV,3724.0
+2018-12,New Hampshire,NH,1072.0
+2018-12,New Jersey,NJ,8968.0
+2018-12,New Mexico,NM,1860.0
+2018-12,New York,NY,10464.0
+2018-12,North Carolina,NC,9188.0
+2018-12,North Dakota,ND,468.0
+2018-12,Ohio,OH,8528.0
+2018-12,Oklahoma,OK,3900.0
+2018-12,Oregon,OR,3748.0
+2018-12,Pennsylvania,PA,9692.0
+2018-12,Rhode Island,RI,840.0
+2018-12,South Carolina,SC,6568.0
+2018-12,South Dakota,SD,564.0
+2018-12,Tennessee,TN,8988.0
+2018-12,Texas,TX,24468.0
+2018-12,Utah,UT,3324.0
+2018-12,Vermont,VT,468.0
+2018-12,Virginia,VA,6832.0
+2018-12,Washington,WA,6168.0
+2018-12,West Virginia,WV,1176.0
+2018-12,Wisconsin,WI,3460.0
+2018-12,Wyoming,WY,540.0
+2019-01,Alabama,AL,6422.0
+2019-01,Alaska,AK,768.0
+2019-01,Arizona,AZ,13310.0
+2019-01,Arkansas,AR,3778.0
+2019-01,California,CA,35422.0
+2019-01,Colorado,CO,8624.0
+2019-01,Connecticut,CT,3846.0
+2019-01,Delaware,DE,1288.0
+2019-01,District of Columbia,DC,722.0
+2019-01,Florida,FL,51570.0
+2019-01,Georgia,GA,16050.0
+2019-01,Hawaii,HI,2158.0
+2019-01,Idaho,ID,2470.0
+2019-01,Illinois,IL,13610.0
+2019-01,Indiana,IN,5936.0
+2019-01,Iowa,IA,3006.0
+2019-01,Kansas,KS,2864.0
+2019-01,Kentucky,KY,4568.0
+2019-01,Louisiana,LA,5244.0
+2019-01,Maine,ME,1612.0
+2019-01,Maryland,MD,6750.0
+2019-01,Massachusetts,MA,5648.0
+2019-01,Michigan,MI,10712.0
+2019-01,Minnesota,MN,5712.0
+2019-01,Mississippi,MS,2732.0
+2019-01,Missouri,MO,6534.0
+2019-01,Montana,MT,1240.0
+2019-01,Nebraska,NE,1770.0
+2019-01,Nevada,NV,5406.0
+2019-01,New Hampshire,NH,1408.0
+2019-01,New Jersey,NJ,12656.0
+2019-01,New Mexico,NM,2194.0
+2019-01,New York,NY,15652.0
+2019-01,North Carolina,NC,13768.0
+2019-01,North Dakota,ND,802.0
+2019-01,Ohio,OH,10164.0
+2019-01,Oklahoma,OK,5004.0
+2019-01,Oregon,OR,5446.0
+2019-01,Pennsylvania,PA,12322.0
+2019-01,Rhode Island,RI,940.0
+2019-01,South Carolina,SC,9038.0
+2019-01,South Dakota,SD,746.0
+2019-01,Tennessee,TN,9716.0
+2019-01,Texas,TX,33990.0
+2019-01,Utah,UT,4390.0
+2019-01,Vermont,VT,706.0
+2019-01,Virginia,VA,9932.0
+2019-01,Washington,WA,8178.0
+2019-01,West Virginia,WV,1452.0
+2019-01,Wisconsin,WI,4906.0
+2019-01,Wyoming,WY,698.0
+2019-02,Alabama,AL,7050.0
+2019-02,Alaska,AK,886.0
+2019-02,Arizona,AZ,13314.0
+2019-02,Arkansas,AR,3922.0
+2019-02,California,CA,35952.0
+2019-02,Colorado,CO,9334.0
+2019-02,Connecticut,CT,4456.0
+2019-02,Delaware,DE,1536.0
+2019-02,District of Columbia,DC,844.0
+2019-02,Florida,FL,49304.0
+2019-02,Georgia,GA,17838.0
+2019-02,Hawaii,HI,2138.0
+2019-02,Idaho,ID,2640.0
+2019-02,Illinois,IL,16838.0
+2019-02,Indiana,IN,6600.0
+2019-02,Iowa,IA,2834.0
+2019-02,Kansas,KS,3234.0
+2019-02,Kentucky,KY,4380.0
+2019-02,Louisiana,LA,5366.0
+2019-02,Maine,ME,1554.0
+2019-02,Maryland,MD,7964.0
+2019-02,Massachusetts,MA,5922.0
+2019-02,Michigan,MI,10374.0
+2019-02,Minnesota,MN,6244.0
+2019-02,Mississippi,MS,2990.0
+2019-02,Missouri,MO,7248.0
+2019-02,Montana,MT,1218.0
+2019-02,Nebraska,NE,1638.0
+2019-02,Nevada,NV,5416.0
+2019-02,New Hampshire,NH,1476.0
+2019-02,New Jersey,NJ,13484.0
+2019-02,New Mexico,NM,2564.0
+2019-02,New York,NY,14448.0
+2019-02,North Carolina,NC,15036.0
+2019-02,North Dakota,ND,652.0
+2019-02,Ohio,OH,11506.0
+2019-02,Oklahoma,OK,4888.0
+2019-02,Oregon,OR,5474.0
+2019-02,Pennsylvania,PA,12770.0
+2019-02,Rhode Island,RI,1072.0
+2019-02,South Carolina,SC,9200.0
+2019-02,South Dakota,SD,636.0
+2019-02,Tennessee,TN,9954.0
+2019-02,Texas,TX,35982.0
+2019-02,Utah,UT,4438.0
+2019-02,Vermont,VT,756.0
+2019-02,Virginia,VA,11340.0
+2019-02,Washington,WA,8430.0
+2019-02,West Virginia,WV,1592.0
+2019-02,Wisconsin,WI,4772.0
+2019-02,Wyoming,WY,770.0
+2019-03,Alabama,AL,7084.0
+2019-03,Alaska,AK,1076.0
+2019-03,Arizona,AZ,13428.0
+2019-03,Arkansas,AR,4336.0
+2019-03,California,CA,41744.0
+2019-03,Colorado,CO,11292.0
+2019-03,Connecticut,CT,5744.0
+2019-03,Delaware,DE,1920.0
+2019-03,District of Columbia,DC,1136.0
+2019-03,Florida,FL,49268.0
+2019-03,Georgia,GA,18756.0
+2019-03,Hawaii,HI,2032.0
+2019-03,Idaho,ID,3240.0
+2019-03,Illinois,IL,19876.0
+2019-03,Indiana,IN,8592.0
+2019-03,Iowa,IA,4276.0
+2019-03,Kansas,KS,3780.0
+2019-03,Kentucky,KY,5312.0
+2019-03,Louisiana,LA,5604.0
+2019-03,Maine,ME,1836.0
+2019-03,Maryland,MD,10052.0
+2019-03,Massachusetts,MA,8244.0
+2019-03,Michigan,MI,13792.0
+2019-03,Minnesota,MN,8244.0
+2019-03,Mississippi,MS,3172.0
+2019-03,Missouri,MO,9044.0
+2019-03,Montana,MT,1600.0
+2019-03,Nebraska,NE,2240.0
+2019-03,Nevada,NV,5396.0
+2019-03,New Hampshire,NH,2052.0
+2019-03,New Jersey,NJ,15812.0
+2019-03,New Mexico,NM,2664.0
+2019-03,New York,NY,17856.0
+2019-03,North Carolina,NC,16644.0
+2019-03,North Dakota,ND,920.0
+2019-03,Ohio,OH,15060.0
+2019-03,Oklahoma,OK,5700.0
+2019-03,Oregon,OR,6296.0
+2019-03,Pennsylvania,PA,16956.0
+2019-03,Rhode Island,RI,1412.0
+2019-03,South Carolina,SC,9872.0
+2019-03,South Dakota,SD,888.0
+2019-03,Tennessee,TN,10944.0
+2019-03,Texas,TX,39640.0
+2019-03,Utah,UT,5292.0
+2019-03,Vermont,VT,784.0
+2019-03,Virginia,VA,14480.0
+2019-03,Washington,WA,11412.0
+2019-03,West Virginia,WV,1904.0
+2019-03,Wisconsin,WI,7828.0
+2019-03,Wyoming,WY,884.0
+2019-04,Alabama,AL,8024.0
+2019-04,Alaska,AK,1298.0
+2019-04,Arizona,AZ,14362.0
+2019-04,Arkansas,AR,4908.0
+2019-04,California,CA,48124.0
+2019-04,Colorado,CO,13670.0
+2019-04,Connecticut,CT,6800.0
+2019-04,Delaware,DE,2256.0
+2019-04,District of Columbia,DC,1440.0
+2019-04,Florida,FL,48732.0
+2019-04,Georgia,GA,20974.0
+2019-04,Hawaii,HI,2224.0
+2019-04,Idaho,ID,3978.0
+2019-04,Illinois,IL,23014.0
+2019-04,Indiana,IN,10436.0
+2019-04,Iowa,IA,5664.0
+2019-04,Kansas,KS,4860.0
+2019-04,Kentucky,KY,6158.0
+2019-04,Louisiana,LA,5898.0
+2019-04,Maine,ME,2498.0
+2019-04,Maryland,MD,12340.0
+2019-04,Massachusetts,MA,11040.0
+2019-04,Michigan,MI,17720.0
+2019-04,Minnesota,MN,10670.0
+2019-04,Mississippi,MS,3414.0
+2019-04,Missouri,MO,11194.0
+2019-04,Montana,MT,2164.0
+2019-04,Nebraska,NE,2764.0
+2019-04,Nevada,NV,5708.0
+2019-04,New Hampshire,NH,2594.0
+2019-04,New Jersey,NJ,17572.0
+2019-04,New Mexico,NM,3164.0
+2019-04,New York,NY,22972.0
+2019-04,North Carolina,NC,19170.0
+2019-04,North Dakota,ND,1226.0
+2019-04,Ohio,OH,17324.0
+2019-04,Oklahoma,OK,6576.0
+2019-04,Oregon,OR,7920.0
+2019-04,Pennsylvania,PA,20276.0
+2019-04,Rhode Island,RI,1814.0
+2019-04,South Carolina,SC,10650.0
+2019-04,South Dakota,SD,1298.0
+2019-04,Tennessee,TN,12972.0
+2019-04,Texas,TX,44210.0
+2019-04,Utah,UT,6548.0
+2019-04,Vermont,VT,1020.0
+2019-04,Virginia,VA,17206.0
+2019-04,Washington,WA,15342.0
+2019-04,West Virginia,WV,2288.0
+2019-04,Wisconsin,WI,9166.0
+2019-04,Wyoming,WY,1096.0
+2019-05,Alabama,AL,8198.0
+2019-05,Alaska,AK,1444.0
+2019-05,Arizona,AZ,14024.0
+2019-05,Arkansas,AR,4442.0
+2019-05,California,CA,48840.0
+2019-05,Colorado,CO,14392.0
+2019-05,Connecticut,CT,7354.0
+2019-05,Delaware,DE,2126.0
+2019-05,District of Columbia,DC,1284.0
+2019-05,Florida,FL,47558.0
+2019-05,Georgia,GA,21544.0
+2019-05,Hawaii,HI,1942.0
+2019-05,Idaho,ID,4836.0
+2019-05,Illinois,IL,23166.0
+2019-05,Indiana,IN,10982.0
+2019-05,Iowa,IA,5532.0
+2019-05,Kansas,KS,4774.0
+2019-05,Kentucky,KY,6200.0
+2019-05,Louisiana,LA,5796.0
+2019-05,Maine,ME,3442.0
+2019-05,Maryland,MD,12238.0
+2019-05,Massachusetts,MA,11792.0
+2019-05,Michigan,MI,19524.0
+2019-05,Minnesota,MN,13380.0
+2019-05,Mississippi,MS,3564.0
+2019-05,Missouri,MO,10884.0
+2019-05,Montana,MT,2562.0
+2019-05,Nebraska,NE,3048.0
+2019-05,Nevada,NV,7068.0
+2019-05,New Hampshire,NH,3220.0
+2019-05,New Jersey,NJ,17718.0
+2019-05,New Mexico,NM,3266.0
+2019-05,New York,NY,26296.0
+2019-05,North Carolina,NC,20040.0
+2019-05,North Dakota,ND,1378.0
+2019-05,Ohio,OH,17968.0
+2019-05,Oklahoma,OK,6438.0
+2019-05,Oregon,OR,9494.0
+2019-05,Pennsylvania,PA,20402.0
+2019-05,Rhode Island,RI,1918.0
+2019-05,South Carolina,SC,10852.0
+2019-05,South Dakota,SD,1558.0
+2019-05,Tennessee,TN,13048.0
+2019-05,Texas,TX,44562.0
+2019-05,Utah,UT,6734.0
+2019-05,Vermont,VT,1534.0
+2019-05,Virginia,VA,17108.0
+2019-05,Washington,WA,18544.0
+2019-05,West Virginia,WV,2414.0
+2019-05,Wisconsin,WI,9886.0
+2019-05,Wyoming,WY,1236.0
+2019-06,Alabama,AL,7876.0
+2019-06,Alaska,AK,1368.0
+2019-06,Arizona,AZ,12356.0
+2019-06,Arkansas,AR,4432.0
+2019-06,California,CA,48168.0
+2019-06,Colorado,CO,14524.0
+2019-06,Connecticut,CT,6188.0
+2019-06,Delaware,DE,1916.0
+2019-06,District of Columbia,DC,1176.0
+2019-06,Florida,FL,43840.0
+2019-06,Georgia,GA,21860.0
+2019-06,Hawaii,HI,1872.0
+2019-06,Idaho,ID,4656.0
+2019-06,Illinois,IL,22344.0
+2019-06,Indiana,IN,10976.0
+2019-06,Iowa,IA,5288.0
+2019-06,Kansas,KS,4872.0
+2019-06,Kentucky,KY,6116.0
+2019-06,Louisiana,LA,5948.0
+2019-06,Maine,ME,3692.0
+2019-06,Maryland,MD,11176.0
+2019-06,Massachusetts,MA,10772.0
+2019-06,Michigan,MI,20176.0
+2019-06,Minnesota,MN,13156.0
+2019-06,Mississippi,MS,3184.0
+2019-06,Missouri,MO,10984.0
+2019-06,Montana,MT,2608.0
+2019-06,Nebraska,NE,2892.0
+2019-06,Nevada,NV,6788.0
+2019-06,New Hampshire,NH,3156.0
+2019-06,New Jersey,NJ,15688.0
+2019-06,New Mexico,NM,3328.0
+2019-06,New York,NY,21824.0
+2019-06,North Carolina,NC,18604.0
+2019-06,North Dakota,ND,1292.0
+2019-06,Ohio,OH,17572.0
+2019-06,Oklahoma,OK,6140.0
+2019-06,Oregon,OR,8916.0
+2019-06,Pennsylvania,PA,18796.0
+2019-06,Rhode Island,RI,1740.0
+2019-06,South Carolina,SC,11356.0
+2019-06,South Dakota,SD,1492.0
+2019-06,Tennessee,TN,12488.0
+2019-06,Texas,TX,45428.0
+2019-06,Utah,UT,6464.0
+2019-06,Vermont,VT,1572.0
+2019-06,Virginia,VA,14788.0
+2019-06,Washington,WA,16300.0
+2019-06,West Virginia,WV,2200.0
+2019-06,Wisconsin,WI,9692.0
+2019-06,Wyoming,WY,1448.0
+2019-07,Alabama,AL,7582.0
+2019-07,Alaska,AK,1262.0
+2019-07,Arizona,AZ,11294.0
+2019-07,Arkansas,AR,4148.0
+2019-07,California,CA,42634.0
+2019-07,Colorado,CO,12370.0
+2019-07,Connecticut,CT,5154.0
+2019-07,Delaware,DE,1734.0
+2019-07,District of Columbia,DC,964.0
+2019-07,Florida,FL,43146.0
+2019-07,Georgia,GA,18532.0
+2019-07,Hawaii,HI,6076.0
+2019-07,Idaho,ID,4378.0
+2019-07,Illinois,IL,20028.0
+2019-07,Indiana,IN,10766.0
+2019-07,Iowa,IA,4996.0
+2019-07,Kansas,KS,4446.0
+2019-07,Kentucky,KY,5890.0
+2019-07,Louisiana,LA,5268.0
+2019-07,Maine,ME,3398.0
+2019-07,Maryland,MD,10134.0
+2019-07,Massachusetts,MA,8464.0
+2019-07,Michigan,MI,19374.0
+2019-07,Minnesota,MN,11710.0
+2019-07,Mississippi,MS,3022.0
+2019-07,Missouri,MO,10432.0
+2019-07,Montana,MT,2270.0
+2019-07,Nebraska,NE,2680.0
+2019-07,Nevada,NV,6180.0
+2019-07,New Hampshire,NH,2624.0
+2019-07,New Jersey,NJ,13948.0
+2019-07,New Mexico,NM,3122.0
+2019-07,New York,NY,19540.0
+2019-07,North Carolina,NC,18144.0
+2019-07,North Dakota,ND,1064.0
+2019-07,Ohio,OH,16872.0
+2019-07,Oklahoma,OK,6186.0
+2019-07,Oregon,OR,8380.0
+2019-07,Pennsylvania,PA,17044.0
+2019-07,Rhode Island,RI,1458.0
+2019-07,South Carolina,SC,10046.0
+2019-07,South Dakota,SD,1444.0
+2019-07,Tennessee,TN,12126.0
+2019-07,Texas,TX,42204.0
+2019-07,Utah,UT,5674.0
+2019-07,Vermont,VT,1308.0
+2019-07,Virginia,VA,13732.0
+2019-07,Washington,WA,16144.0
+2019-07,West Virginia,WV,2002.0
+2019-07,Wisconsin,WI,8700.0
+2019-07,Wyoming,WY,1302.0
+2019-08,Alabama,AL,6936.0
+2019-08,Alaska,AK,1168.0
+2019-08,Arizona,AZ,11328.0
+2019-08,Arkansas,AR,3916.0
+2019-08,California,CA,39652.0
+2019-08,Colorado,CO,11196.0
+2019-08,Connecticut,CT,4896.0
+2019-08,Delaware,DE,1828.0
+2019-08,District of Columbia,DC,908.0
+2019-08,Florida,FL,42380.0
+2019-08,Georgia,GA,17924.0
+2019-08,Hawaii,HI,1876.0
+2019-08,Idaho,ID,4012.0
+2019-08,Illinois,IL,18388.0
+2019-08,Indiana,IN,10092.0
+2019-08,Iowa,IA,4564.0
+2019-08,Kansas,KS,4076.0
+2019-08,Kentucky,KY,5484.0
+2019-08,Louisiana,LA,5164.0
+2019-08,Maine,ME,2908.0
+2019-08,Maryland,MD,9436.0
+2019-08,Massachusetts,MA,8188.0
+2019-08,Michigan,MI,18728.0
+2019-08,Minnesota,MN,10832.0
+2019-08,Mississippi,MS,2920.0
+2019-08,Missouri,MO,9712.0
+2019-08,Montana,MT,2048.0
+2019-08,Nebraska,NE,2572.0
+2019-08,Nevada,NV,5776.0
+2019-08,New Hampshire,NH,2512.0
+2019-08,New Jersey,NJ,13044.0
+2019-08,New Mexico,NM,2836.0
+2019-08,New York,NY,18952.0
+2019-08,North Carolina,NC,20832.0
+2019-08,North Dakota,ND,960.0
+2019-08,Ohio,OH,15904.0
+2019-08,Oklahoma,OK,5652.0
+2019-08,Oregon,OR,7420.0
+2019-08,Pennsylvania,PA,15736.0
+2019-08,Rhode Island,RI,1372.0
+2019-08,South Carolina,SC,9696.0
+2019-08,South Dakota,SD,1340.0
+2019-08,Tennessee,TN,11724.0
+2019-08,Texas,TX,38728.0
+2019-08,Utah,UT,5120.0
+2019-08,Vermont,VT,1184.0
+2019-08,Virginia,VA,12796.0
+2019-08,Washington,WA,13388.0
+2019-08,West Virginia,WV,1844.0
+2019-08,Wisconsin,WI,7740.0
+2019-08,Wyoming,WY,1140.0
+2019-09,Alabama,AL,6724.0
+2019-09,Alaska,AK,956.0
+2019-09,Arizona,AZ,12016.0
+2019-09,Arkansas,AR,3678.0
+2019-09,California,CA,37622.0
+2019-09,Colorado,CO,10336.0
+2019-09,Connecticut,CT,4666.0
+2019-09,Delaware,DE,1976.0
+2019-09,District of Columbia,DC,948.0
+2019-09,Florida,FL,41908.0
+2019-09,Georgia,GA,17196.0
+2019-09,Hawaii,HI,1912.0
+2019-09,Idaho,ID,3714.0
+2019-09,Illinois,IL,17236.0
+2019-09,Indiana,IN,9678.0
+2019-09,Iowa,IA,4320.0
+2019-09,Kansas,KS,3788.0
+2019-09,Kentucky,KY,5174.0
+2019-09,Louisiana,LA,4790.0
+2019-09,Maine,ME,2454.0
+2019-09,Maryland,MD,9148.0
+2019-09,Massachusetts,MA,8188.0
+2019-09,Michigan,MI,16686.0
+2019-09,Minnesota,MN,9724.0
+2019-09,Mississippi,MS,2802.0
+2019-09,Missouri,MO,9212.0
+2019-09,Montana,MT,1728.0
+2019-09,Nebraska,NE,2478.0
+2019-09,Nevada,NV,5604.0
+2019-09,New Hampshire,NH,2390.0
+2019-09,New Jersey,NJ,12788.0
+2019-09,New Mexico,NM,2710.0
+2019-09,New York,NY,17988.0
+2019-09,North Carolina,NC,18304.0
+2019-09,North Dakota,ND,880.0
+2019-09,Ohio,OH,14924.0
+2019-09,Oklahoma,OK,5156.0
+2019-09,Oregon,OR,6456.0
+2019-09,Pennsylvania,PA,15128.0
+2019-09,Rhode Island,RI,1278.0
+2019-09,South Carolina,SC,9206.0
+2019-09,South Dakota,SD,1224.0
+2019-09,Tennessee,TN,11206.0
+2019-09,Texas,TX,36522.0
+2019-09,Utah,UT,5138.0
+2019-09,Vermont,VT,1084.0
+2019-09,Virginia,VA,12098.0
+2019-09,Washington,WA,11236.0
+2019-09,West Virginia,WV,1768.0
+2019-09,Wisconsin,WI,7236.0
+2019-09,Wyoming,WY,964.0
+2019-10,Alabama,AL,6280.0
+2019-10,Alaska,AK,782.0
+2019-10,Arizona,AZ,12272.0
+2019-10,Arkansas,AR,3592.0
+2019-10,California,CA,35332.0
+2019-10,Colorado,CO,9446.0
+2019-10,Connecticut,CT,4382.0
+2019-10,Delaware,DE,1932.0
+2019-10,District of Columbia,DC,954.0
+2019-10,Florida,FL,41592.0
+2019-10,Georgia,GA,16712.0
+2019-10,Hawaii,HI,1940.0
+2019-10,Idaho,ID,3516.0
+2019-10,Illinois,IL,15462.0
+2019-10,Indiana,IN,8902.0
+2019-10,Iowa,IA,3976.0
+2019-10,Kansas,KS,3548.0
+2019-10,Kentucky,KY,4902.0
+2019-10,Louisiana,LA,4492.0
+2019-10,Maine,ME,2010.0
+2019-10,Maryland,MD,8836.0
+2019-10,Massachusetts,MA,8028.0
+2019-10,Michigan,MI,14812.0
+2019-10,Minnesota,MN,8402.0
+2019-10,Mississippi,MS,2606.0
+2019-10,Missouri,MO,8838.0
+2019-10,Montana,MT,1380.0
+2019-10,Nebraska,NE,2388.0
+2019-10,Nevada,NV,5318.0
+2019-10,New Hampshire,NH,2060.0
+2019-10,New Jersey,NJ,12140.0
+2019-10,New Mexico,NM,2494.0
+2019-10,New York,NY,17252.0
+2019-10,North Carolina,NC,15510.0
+2019-10,North Dakota,ND,780.0
+2019-10,Ohio,OH,14270.0
+2019-10,Oklahoma,OK,4888.0
+2019-10,Oregon,OR,5656.0
+2019-10,Pennsylvania,PA,14148.0
+2019-10,Rhode Island,RI,1218.0
+2019-10,South Carolina,SC,8878.0
+2019-10,South Dakota,SD,1128.0
+2019-10,Tennessee,TN,10862.0
+2019-10,Texas,TX,34406.0
+2019-10,Utah,UT,5008.0
+2019-10,Vermont,VT,906.0
+2019-10,Virginia,VA,11452.0
+2019-10,Washington,WA,9006.0
+2019-10,West Virginia,WV,1640.0
+2019-10,Wisconsin,WI,6672.0
+2019-10,Wyoming,WY,792.0
+2019-11,Alabama,AL,5540.0
+2019-11,Alaska,AK,628.0
+2019-11,Arizona,AZ,10852.0
+2019-11,Arkansas,AR,3088.0
+2019-11,California,CA,29616.0
+2019-11,Colorado,CO,7096.0
+2019-11,Connecticut,CT,3492.0
+2019-11,Delaware,DE,1412.0
+2019-11,District of Columbia,DC,744.0
+2019-11,Florida,FL,42204.0
+2019-11,Georgia,GA,13352.0
+2019-11,Hawaii,HI,1828.0
+2019-11,Idaho,ID,2556.0
+2019-11,Illinois,IL,11264.0
+2019-11,Indiana,IN,6708.0
+2019-11,Iowa,IA,3400.0
+2019-11,Kansas,KS,3060.0
+2019-11,Kentucky,KY,4196.0
+2019-11,Louisiana,LA,4356.0
+2019-11,Maine,ME,1468.0
+2019-11,Maryland,MD,7356.0
+2019-11,Massachusetts,MA,5764.0
+2019-11,Michigan,MI,10656.0
+2019-11,Minnesota,MN,6232.0
+2019-11,Mississippi,MS,2412.0
+2019-11,Missouri,MO,7400.0
+2019-11,Montana,MT,1040.0
+2019-11,Nebraska,NE,1900.0
+2019-11,Nevada,NV,4696.0
+2019-11,New Hampshire,NH,1444.0
+2019-11,New Jersey,NJ,10700.0
+2019-11,New Mexico,NM,2132.0
+2019-11,New York,NY,13708.0
+2019-11,North Carolina,NC,13116.0
+2019-11,North Dakota,ND,660.0
+2019-11,Ohio,OH,10836.0
+2019-11,Oklahoma,OK,4232.0
+2019-11,Oregon,OR,4320.0
+2019-11,Pennsylvania,PA,11388.0
+2019-11,Rhode Island,RI,1016.0
+2019-11,South Carolina,SC,7820.0
+2019-11,South Dakota,SD,756.0
+2019-11,Tennessee,TN,9220.0
+2019-11,Texas,TX,30016.0
+2019-11,Utah,UT,3876.0
+2019-11,Vermont,VT,568.0
+2019-11,Virginia,VA,9024.0
+2019-11,Washington,WA,6800.0
+2019-11,West Virginia,WV,1508.0
+2019-11,Wisconsin,WI,4636.0
+2019-11,Wyoming,WY,620.0
+2019-12,Alabama,AL,4610.0
+2019-12,Alaska,AK,544.0
+2019-12,Arizona,AZ,8078.0
+2019-12,Arkansas,AR,2782.0
+2019-12,California,CA,19588.0
+2019-12,Colorado,CO,6308.0
+2019-12,Connecticut,CT,2294.0
+2019-12,Delaware,DE,884.0
+2019-12,District of Columbia,DC,420.0
+2019-12,Florida,FL,33628.0
+2019-12,Georgia,GA,11088.0
+2019-12,Hawaii,HI,1514.0
+2019-12,Idaho,ID,1942.0
+2019-12,Illinois,IL,8680.0
+2019-12,Indiana,IN,4750.0
+2019-12,Iowa,IA,2348.0
+2019-12,Kansas,KS,2008.0
+2019-12,Kentucky,KY,3248.0
+2019-12,Louisiana,LA,3584.0
+2019-12,Maine,ME,1024.0
+2019-12,Maryland,MD,4968.0
+2019-12,Massachusetts,MA,2952.0
+2019-12,Michigan,MI,8056.0
+2019-12,Minnesota,MN,3842.0
+2019-12,Mississippi,MS,2014.0
+2019-12,Missouri,MO,4714.0
+2019-12,Montana,MT,868.0
+2019-12,Nebraska,NE,1314.0
+2019-12,Nevada,NV,7058.0
+2019-12,New Hampshire,NH,882.0
+2019-12,New Jersey,NJ,6862.0
+2019-12,New Mexico,NM,1600.0
+2019-12,New York,NY,9118.0
+2019-12,North Carolina,NC,9656.0
+2019-12,North Dakota,ND,472.0
+2019-12,Ohio,OH,7800.0
+2019-12,Oklahoma,OK,3820.0
+2019-12,Oregon,OR,3042.0
+2019-12,Pennsylvania,PA,7656.0
+2019-12,Rhode Island,RI,602.0
+2019-12,South Carolina,SC,5972.0
+2019-12,South Dakota,SD,570.0
+2019-12,Tennessee,TN,6938.0
+2019-12,Texas,TX,25198.0
+2019-12,Utah,UT,2842.0
+2019-12,Vermont,VT,474.0
+2019-12,Virginia,VA,7084.0
+2019-12,Washington,WA,4660.0
+2019-12,West Virginia,WV,1008.0
+2019-12,Wisconsin,WI,3138.0
+2019-12,Wyoming,WY,546.0
+2020-01,Alabama,AL,6216.0
+2020-01,Alaska,AK,674.0
+2020-01,Arizona,AZ,11714.0
+2020-01,Arkansas,AR,3724.0
+2020-01,California,CA,32302.0
+2020-01,Colorado,CO,7682.0
+2020-01,Connecticut,CT,3830.0
+2020-01,Delaware,DE,1372.0
+2020-01,District of Columbia,DC,798.0
+2020-01,Florida,FL,47790.0
+2020-01,Georgia,GA,14920.0
+2020-01,Hawaii,HI,1846.0
+2020-01,Idaho,ID,2422.0
+2020-01,Illinois,IL,13840.0
+2020-01,Indiana,IN,6490.0
+2020-01,Iowa,IA,2988.0
+2020-01,Kansas,KS,2964.0
+2020-01,Kentucky,KY,4276.0
+2020-01,Louisiana,LA,4722.0
+2020-01,Maine,ME,1324.0
+2020-01,Maryland,MD,6820.0
+2020-01,Massachusetts,MA,5530.0
+2020-01,Michigan,MI,10276.0
+2020-01,Minnesota,MN,5392.0
+2020-01,Mississippi,MS,2764.0
+2020-01,Missouri,MO,6420.0
+2020-01,Montana,MT,1254.0
+2020-01,Nebraska,NE,1870.0
+2020-01,Nevada,NV,4640.0
+2020-01,New Hampshire,NH,1338.0
+2020-01,New Jersey,NJ,11644.0
+2020-01,New Mexico,NM,2176.0
+2020-01,New York,NY,15516.0
+2020-01,North Carolina,NC,13966.0
+2020-01,North Dakota,ND,656.0
+2020-01,Ohio,OH,10796.0
+2020-01,Oklahoma,OK,4896.0
+2020-01,Oregon,OR,4376.0
+2020-01,Pennsylvania,PA,10718.0
+2020-01,Rhode Island,RI,1018.0
+2020-01,South Carolina,SC,8560.0
+2020-01,South Dakota,SD,722.0
+2020-01,Tennessee,TN,9618.0
+2020-01,Texas,TX,34090.0
+2020-01,Utah,UT,4080.0
+2020-01,Vermont,VT,680.0
+2020-01,Virginia,VA,10100.0
+2020-01,Washington,WA,5680.0
+2020-01,West Virginia,WV,1606.0
+2020-01,Wisconsin,WI,4454.0
+2020-01,Wyoming,WY,718.0
+2020-02,Alabama,AL,6572.0
+2020-02,Alaska,AK,820.0
+2020-02,Arizona,AZ,12376.0
+2020-02,Arkansas,AR,3656.0
+2020-02,California,CA,35508.0
+2020-02,Colorado,CO,8176.0
+2020-02,Connecticut,CT,4768.0
+2020-02,Delaware,DE,1708.0
+2020-02,District of Columbia,DC,836.0
+2020-02,Florida,FL,46364.0
+2020-02,Georgia,GA,15872.0
+2020-02,Hawaii,HI,1856.0
+2020-02,Idaho,ID,2940.0
+2020-02,Illinois,IL,17276.0
+2020-02,Indiana,IN,7120.0
+2020-02,Iowa,IA,4028.0
+2020-02,Kansas,KS,3272.0
+2020-02,Kentucky,KY,4416.0
+2020-02,Louisiana,LA,4936.0
+2020-02,Maine,ME,1384.0
+2020-02,Maryland,MD,8244.0
+2020-02,Massachusetts,MA,6644.0
+2020-02,Michigan,MI,12420.0
+2020-02,Minnesota,MN,7432.0
+2020-02,Mississippi,MS,2800.0
+2020-02,Missouri,MO,7912.0
+2020-02,Montana,MT,1312.0
+2020-02,Nebraska,NE,1992.0
+2020-02,Nevada,NV,5276.0
+2020-02,New Hampshire,NH,1728.0
+2020-02,New Jersey,NJ,13244.0
+2020-02,New Mexico,NM,2464.0
+2020-02,New York,NY,16292.0
+2020-02,North Carolina,NC,15040.0
+2020-02,North Dakota,ND,780.0
+2020-02,Ohio,OH,12044.0
+2020-02,Oklahoma,OK,4960.0
+2020-02,Oregon,OR,5372.0
+2020-02,Pennsylvania,PA,12432.0
+2020-02,Rhode Island,RI,1140.0
+2020-02,South Carolina,SC,9212.0
+2020-02,South Dakota,SD,816.0
+2020-02,Tennessee,TN,9716.0
+2020-02,Texas,TX,36952.0
+2020-02,Utah,UT,4476.0
+2020-02,Vermont,VT,724.0
+2020-02,Virginia,VA,12036.0
+2020-02,Washington,WA,8544.0
+2020-02,West Virginia,WV,1644.0
+2020-02,Wisconsin,WI,5564.0
+2020-02,Wyoming,WY,796.0
+2020-03,Alabama,AL,7328.0
+2020-03,Alaska,AK,1048.0
+2020-03,Arizona,AZ,14164.0
+2020-03,Arkansas,AR,4116.0
+2020-03,California,CA,36270.0
+2020-03,Colorado,CO,11534.0
+2020-03,Connecticut,CT,5286.0
+2020-03,Delaware,DE,1894.0
+2020-03,District of Columbia,DC,1032.0
+2020-03,Florida,FL,46502.0
+2020-03,Georgia,GA,17754.0
+2020-03,Hawaii,HI,1896.0
+2020-03,Idaho,ID,3810.0
+2020-03,Illinois,IL,18818.0
+2020-03,Indiana,IN,8980.0
+2020-03,Iowa,IA,4768.0
+2020-03,Kansas,KS,4262.0
+2020-03,Kentucky,KY,5168.0
+2020-03,Louisiana,LA,5616.0
+2020-03,Maine,ME,1862.0
+2020-03,Maryland,MD,10400.0
+2020-03,Massachusetts,MA,9146.0
+2020-03,Michigan,MI,14284.0
+2020-03,Minnesota,MN,10188.0
+2020-03,Mississippi,MS,3212.0
+2020-03,Missouri,MO,9536.0
+2020-03,Montana,MT,1746.0
+2020-03,Nebraska,NE,2698.0
+2020-03,Nevada,NV,6320.0
+2020-03,New Hampshire,NH,2102.0
+2020-03,New Jersey,NJ,13214.0
+2020-03,New Mexico,NM,2630.0
+2020-03,New York,NY,16934.0
+2020-03,North Carolina,NC,18642.0
+2020-03,North Dakota,ND,1056.0
+2020-03,Ohio,OH,14320.0
+2020-03,Oklahoma,OK,5562.0
+2020-03,Oregon,OR,6942.0
+2020-03,Pennsylvania,PA,14488.0
+2020-03,Rhode Island,RI,1262.0
+2020-03,South Carolina,SC,10576.0
+2020-03,South Dakota,SD,1254.0
+2020-03,Tennessee,TN,11360.0
+2020-03,Texas,TX,41458.0
+2020-03,Utah,UT,6058.0
+2020-03,Vermont,VT,840.0
+2020-03,Virginia,VA,15366.0
+2020-03,Washington,WA,11246.0
+2020-03,West Virginia,WV,1732.0
+2020-03,Wisconsin,WI,7746.0
+2020-03,Wyoming,WY,1010.0
+2020-04,Alabama,AL,5910.0
+2020-04,Alaska,AK,866.0
+2020-04,Arizona,AZ,10808.0
+2020-04,Arkansas,AR,3334.0
+2020-04,California,CA,27096.0
+2020-04,Colorado,CO,7062.0
+2020-04,Connecticut,CT,3392.0
+2020-04,Delaware,DE,1226.0
+2020-04,District of Columbia,DC,716.0
+2020-04,Florida,FL,30544.0
+2020-04,Georgia,GA,14094.0
+2020-04,Hawaii,HI,1388.0
+2020-04,Idaho,ID,3358.0
+2020-04,Illinois,IL,11882.0
+2020-04,Indiana,IN,6436.0
+2020-04,Iowa,IA,3892.0
+2020-04,Kansas,KS,3318.0
+2020-04,Kentucky,KY,3934.0
+2020-04,Louisiana,LA,3504.0
+2020-04,Maine,ME,1494.0
+2020-04,Maryland,MD,7360.0
+2020-04,Massachusetts,MA,5612.0
+2020-04,Michigan,MI,5188.0
+2020-04,Minnesota,MN,8408.0
+2020-04,Mississippi,MS,2306.0
+2020-04,Missouri,MO,7706.0
+2020-04,Montana,MT,1364.0
+2020-04,Nebraska,NE,2074.0
+2020-04,Nevada,NV,4406.0
+2020-04,New Hampshire,NH,1502.0
+2020-04,New Jersey,NJ,7336.0
+2020-04,New Mexico,NM,2072.0
+2020-04,New York,NY,9274.0
+2020-04,North Carolina,NC,13066.0
+2020-04,North Dakota,ND,790.0
+2020-04,Ohio,OH,10690.0
+2020-04,Oklahoma,OK,4646.0
+2020-04,Oregon,OR,5164.0
+2020-04,Pennsylvania,PA,5276.0
+2020-04,Rhode Island,RI,848.0
+2020-04,South Carolina,SC,7512.0
+2020-04,South Dakota,SD,1154.0
+2020-04,Tennessee,TN,9970.0
+2020-04,Texas,TX,30792.0
+2020-04,Utah,UT,5028.0
+2020-04,Vermont,VT,366.0
+2020-04,Virginia,VA,11678.0
+2020-04,Washington,WA,7308.0
+2020-04,West Virginia,WV,1346.0
+2020-04,Wisconsin,WI,5592.0
+2020-04,Wyoming,WY,808.0
+2020-05,Alabama,AL,7148.0
+2020-05,Alaska,AK,1232.0
+2020-05,Arizona,AZ,11620.0
+2020-05,Arkansas,AR,3792.0
+2020-05,California,CA,37912.0
+2020-05,Colorado,CO,12748.0
+2020-05,Connecticut,CT,5372.0
+2020-05,Delaware,DE,1588.0
+2020-05,District of Columbia,DC,900.0
+2020-05,Florida,FL,40072.0
+2020-05,Georgia,GA,16512.0
+2020-05,Hawaii,HI,1408.0
+2020-05,Idaho,ID,3944.0
+2020-05,Illinois,IL,17428.0
+2020-05,Indiana,IN,9152.0
+2020-05,Iowa,IA,4712.0
+2020-05,Kansas,KS,3872.0
+2020-05,Kentucky,KY,4740.0
+2020-05,Louisiana,LA,4820.0
+2020-05,Maine,ME,2332.0
+2020-05,Maryland,MD,8448.0
+2020-05,Massachusetts,MA,8752.0
+2020-05,Michigan,MI,16580.0
+2020-05,Minnesota,MN,10652.0
+2020-05,Mississippi,MS,2836.0
+2020-05,Missouri,MO,9268.0
+2020-05,Montana,MT,1960.0
+2020-05,Nebraska,NE,2572.0
+2020-05,Nevada,NV,5028.0
+2020-05,New Hampshire,NH,2392.0
+2020-05,New Jersey,NJ,11596.0
+2020-05,New Mexico,NM,2448.0
+2020-05,New York,NY,16152.0
+2020-05,North Carolina,NC,16384.0
+2020-05,North Dakota,ND,1172.0
+2020-05,Ohio,OH,13808.0
+2020-05,Oklahoma,OK,5528.0
+2020-05,Oregon,OR,6012.0
+2020-05,Pennsylvania,PA,12480.0
+2020-05,Rhode Island,RI,1244.0
+2020-05,South Carolina,SC,9188.0
+2020-05,South Dakota,SD,1316.0
+2020-05,Tennessee,TN,11236.0
+2020-05,Texas,TX,40252.0
+2020-05,Utah,UT,5872.0
+2020-05,Vermont,VT,992.0
+2020-05,Virginia,VA,12176.0
+2020-05,Washington,WA,10336.0
+2020-05,West Virginia,WV,1672.0
+2020-05,Wisconsin,WI,7312.0
+2020-05,Wyoming,WY,1168.0
+2020-06,Alabama,AL,7520.0
+2020-06,Alaska,AK,1464.0
+2020-06,Arizona,AZ,11496.0
+2020-06,Arkansas,AR,4172.0
+2020-06,California,CA,39012.0
+2020-06,Colorado,CO,14020.0
+2020-06,Connecticut,CT,6836.0
+2020-06,Delaware,DE,1834.0
+2020-06,District of Columbia,DC,1112.0
+2020-06,Florida,FL,43542.0
+2020-06,Georgia,GA,17402.0
+2020-06,Hawaii,HI,1604.0
+2020-06,Idaho,ID,3952.0
+2020-06,Illinois,IL,21352.0
+2020-06,Indiana,IN,9606.0
+2020-06,Iowa,IA,4978.0
+2020-06,Kansas,KS,4252.0
+2020-06,Kentucky,KY,5304.0
+2020-06,Louisiana,LA,5284.0
+2020-06,Maine,ME,2904.0
+2020-06,Maryland,MD,9672.0
+2020-06,Massachusetts,MA,10358.0
+2020-06,Michigan,MI,17392.0
+2020-06,Minnesota,MN,11202.0
+2020-06,Mississippi,MS,3268.0
+2020-06,Missouri,MO,10058.0
+2020-06,Montana,MT,2218.0
+2020-06,Nebraska,NE,2616.0
+2020-06,Nevada,NV,5262.0
+2020-06,New Hampshire,NH,2622.0
+2020-06,New Jersey,NJ,15420.0
+2020-06,New Mexico,NM,2768.0
+2020-06,New York,NY,22274.0
+2020-06,North Carolina,NC,17084.0
+2020-06,North Dakota,ND,1228.0
+2020-06,Ohio,OH,15580.0
+2020-06,Oklahoma,OK,5980.0
+2020-06,Oregon,OR,6650.0
+2020-06,Pennsylvania,PA,18206.0
+2020-06,Rhode Island,RI,1388.0
+2020-06,South Carolina,SC,9520.0
+2020-06,South Dakota,SD,1246.0
+2020-06,Tennessee,TN,11522.0
+2020-06,Texas,TX,42044.0
+2020-06,Utah,UT,5840.0
+2020-06,Vermont,VT,1368.0
+2020-06,Virginia,VA,13348.0
+2020-06,Washington,WA,11310.0
+2020-06,West Virginia,WV,1938.0
+2020-06,Wisconsin,WI,8324.0
+2020-06,Wyoming,WY,1304.0
+2020-07,Alabama,AL,7600.0
+2020-07,Alaska,AK,1234.0
+2020-07,Arizona,AZ,11996.0
+2020-07,Arkansas,AR,4118.0
+2020-07,California,CA,41480.0
+2020-07,Colorado,CO,13176.0
+2020-07,Connecticut,CT,6468.0
+2020-07,Delaware,DE,1804.0
+2020-07,District of Columbia,DC,1160.0
+2020-07,Florida,FL,42666.0
+2020-07,Georgia,GA,17076.0
+2020-07,Hawaii,HI,1636.0
+2020-07,Idaho,ID,3920.0
+2020-07,Illinois,IL,20842.0
+2020-07,Indiana,IN,9640.0
+2020-07,Iowa,IA,4684.0
+2020-07,Kansas,KS,4048.0
+2020-07,Kentucky,KY,5346.0
+2020-07,Louisiana,LA,5266.0
+2020-07,Maine,ME,2736.0
+2020-07,Maryland,MD,9684.0
+2020-07,Massachusetts,MA,9576.0
+2020-07,Michigan,MI,16736.0
+2020-07,Minnesota,MN,11302.0
+2020-07,Mississippi,MS,3294.0
+2020-07,Missouri,MO,9742.0
+2020-07,Montana,MT,2116.0
+2020-07,Nebraska,NE,2614.0
+2020-07,Nevada,NV,5686.0
+2020-07,New Hampshire,NH,2370.0
+2020-07,New Jersey,NJ,15592.0
+2020-07,New Mexico,NM,2858.0
+2020-07,New York,NY,23494.0
+2020-07,North Carolina,NC,17164.0
+2020-07,North Dakota,ND,1088.0
+2020-07,Ohio,OH,15570.0
+2020-07,Oklahoma,OK,5886.0
+2020-07,Oregon,OR,7192.0
+2020-07,Pennsylvania,PA,16602.0
+2020-07,Rhode Island,RI,1474.0
+2020-07,South Carolina,SC,9886.0
+2020-07,South Dakota,SD,1204.0
+2020-07,Tennessee,TN,11036.0
+2020-07,Texas,TX,40286.0
+2020-07,Utah,UT,5434.0
+2020-07,Vermont,VT,1304.0
+2020-07,Virginia,VA,13926.0
+2020-07,Washington,WA,12036.0
+2020-07,West Virginia,WV,1864.0
+2020-07,Wisconsin,WI,8100.0
+2020-07,Wyoming,WY,1182.0
+2020-08,Alabama,AL,7568.0
+2020-08,Alaska,AK,1272.0
+2020-08,Arizona,AZ,13016.0
+2020-08,Arkansas,AR,4000.0
+2020-08,California,CA,42816.0
+2020-08,Colorado,CO,12432.0
+2020-08,Connecticut,CT,6364.0
+2020-08,Delaware,DE,1836.0
+2020-08,District of Columbia,DC,1124.0
+2020-08,Florida,FL,43628.0
+2020-08,Georgia,GA,17576.0
+2020-08,Hawaii,HI,1820.0
+2020-08,Idaho,ID,4036.0
+2020-08,Illinois,IL,19912.0
+2020-08,Indiana,IN,9516.0
+2020-08,Iowa,IA,4336.0
+2020-08,Kansas,KS,4064.0
+2020-08,Kentucky,KY,5264.0
+2020-08,Louisiana,LA,4936.0
+2020-08,Maine,ME,2624.0
+2020-08,Maryland,MD,9676.0
+2020-08,Massachusetts,MA,9264.0
+2020-08,Michigan,MI,16696.0
+2020-08,Minnesota,MN,11264.0
+2020-08,Mississippi,MS,2836.0
+2020-08,Missouri,MO,9688.0
+2020-08,Montana,MT,2320.0
+2020-08,Nebraska,NE,2476.0
+2020-08,Nevada,NV,6160.0
+2020-08,New Hampshire,NH,2740.0
+2020-08,New Jersey,NJ,15456.0
+2020-08,New Mexico,NM,2952.0
+2020-08,New York,NY,22164.0
+2020-08,North Carolina,NC,17344.0
+2020-08,North Dakota,ND,1120.0
+2020-08,Ohio,OH,15892.0
+2020-08,Oklahoma,OK,5544.0
+2020-08,Oregon,OR,6996.0
+2020-08,Pennsylvania,PA,16008.0
+2020-08,Rhode Island,RI,1420.0
+2020-08,South Carolina,SC,9696.0
+2020-08,South Dakota,SD,1088.0
+2020-08,Tennessee,TN,11656.0
+2020-08,Texas,TX,39084.0
+2020-08,Utah,UT,5724.0
+2020-08,Vermont,VT,1328.0
+2020-08,Virginia,VA,13820.0
+2020-08,Washington,WA,11384.0
+2020-08,West Virginia,WV,1876.0
+2020-08,Wisconsin,WI,8480.0
+2020-08,Wyoming,WY,1180.0
+2020-09,Alabama,AL,6578.0
+2020-09,Alaska,AK,1034.0
+2020-09,Arizona,AZ,13510.0
+2020-09,Arkansas,AR,3822.0
+2020-09,California,CA,43898.0
+2020-09,Colorado,CO,11602.0
+2020-09,Connecticut,CT,6390.0
+2020-09,Delaware,DE,1892.0
+2020-09,District of Columbia,DC,1376.0
+2020-09,Florida,FL,42872.0
+2020-09,Georgia,GA,16460.0
+2020-09,Hawaii,HI,1690.0
+2020-09,Idaho,ID,3418.0
+2020-09,Illinois,IL,18706.0
+2020-09,Indiana,IN,9832.0
+2020-09,Iowa,IA,4206.0
+2020-09,Kansas,KS,3836.0
+2020-09,Kentucky,KY,5086.0
+2020-09,Louisiana,LA,4320.0
+2020-09,Maine,ME,2700.0
+2020-09,Maryland,MD,10200.0
+2020-09,Massachusetts,MA,10344.0
+2020-09,Michigan,MI,15304.0
+2020-09,Minnesota,MN,10684.0
+2020-09,Mississippi,MS,2858.0
+2020-09,Missouri,MO,9618.0
+2020-09,Montana,MT,1712.0
+2020-09,Nebraska,NE,2490.0
+2020-09,Nevada,NV,6166.0
+2020-09,New Hampshire,NH,2474.0
+2020-09,New Jersey,NJ,15440.0
+2020-09,New Mexico,NM,2824.0
+2020-09,New York,NY,22422.0
+2020-09,North Carolina,NC,17078.0
+2020-09,North Dakota,ND,1088.0
+2020-09,Ohio,OH,15530.0
+2020-09,Oklahoma,OK,5562.0
+2020-09,Oregon,OR,5988.0
+2020-09,Pennsylvania,PA,15972.0
+2020-09,Rhode Island,RI,1580.0
+2020-09,South Carolina,SC,9728.0
+2020-09,South Dakota,SD,1076.0
+2020-09,Tennessee,TN,10932.0
+2020-09,Texas,TX,35496.0
+2020-09,Utah,UT,5252.0
+2020-09,Vermont,VT,1180.0
+2020-09,Virginia,VA,13710.0
+2020-09,Washington,WA,13524.0
+2020-09,West Virginia,WV,1800.0
+2020-09,Wisconsin,WI,8012.0
+2020-09,Wyoming,WY,990.0
+2020-10,Alabama,AL,6600.0
+2020-10,Alaska,AK,788.0
+2020-10,Arizona,AZ,13948.0
+2020-10,Arkansas,AR,3696.0
+2020-10,California,CA,43116.0
+2020-10,Colorado,CO,10776.0
+2020-10,Connecticut,CT,5796.0
+2020-10,Delaware,DE,1852.0
+2020-10,District of Columbia,DC,1224.0
+2020-10,Florida,FL,45376.0
+2020-10,Georgia,GA,16748.0
+2020-10,Hawaii,HI,1640.0
+2020-10,Idaho,ID,3372.0
+2020-10,Illinois,IL,16824.0
+2020-10,Indiana,IN,8812.0
+2020-10,Iowa,IA,3996.0
+2020-10,Kansas,KS,3748.0
+2020-10,Kentucky,KY,5064.0
+2020-10,Louisiana,LA,4244.0
+2020-10,Maine,ME,2516.0
+2020-10,Maryland,MD,9332.0
+2020-10,Massachusetts,MA,9204.0
+2020-10,Michigan,MI,14228.0
+2020-10,Minnesota,MN,9532.0
+2020-10,Mississippi,MS,2872.0
+2020-10,Missouri,MO,9236.0
+2020-10,Montana,MT,1524.0
+2020-10,Nebraska,NE,2376.0
+2020-10,Nevada,NV,5728.0
+2020-10,New Hampshire,NH,2236.0
+2020-10,New Jersey,NJ,13948.0
+2020-10,New Mexico,NM,2740.0
+2020-10,New York,NY,21416.0
+2020-10,North Carolina,NC,16880.0
+2020-10,North Dakota,ND,816.0
+2020-10,Ohio,OH,15252.0
+2020-10,Oklahoma,OK,5436.0
+2020-10,Oregon,OR,5696.0
+2020-10,Pennsylvania,PA,14568.0
+2020-10,Rhode Island,RI,1408.0
+2020-10,South Carolina,SC,9020.0
+2020-10,South Dakota,SD,848.0
+2020-10,Tennessee,TN,10552.0
+2020-10,Texas,TX,34948.0
+2020-10,Utah,UT,5092.0
+2020-10,Vermont,VT,992.0
+2020-10,Virginia,VA,12924.0
+2020-10,Washington,WA,10024.0
+2020-10,West Virginia,WV,1824.0
+2020-10,Wisconsin,WI,6548.0
+2020-10,Wyoming,WY,864.0
+2020-11,Alabama,AL,6116.0
+2020-11,Alaska,AK,656.0
+2020-11,Arizona,AZ,11428.0
+2020-11,Arkansas,AR,3268.0
+2020-11,California,CA,33774.0
+2020-11,Colorado,CO,7886.0
+2020-11,Connecticut,CT,4392.0
+2020-11,Delaware,DE,1592.0
+2020-11,District of Columbia,DC,978.0
+2020-11,Florida,FL,40284.0
+2020-11,Georgia,GA,14006.0
+2020-11,Hawaii,HI,1648.0
+2020-11,Idaho,ID,2412.0
+2020-11,Illinois,IL,12722.0
+2020-11,Indiana,IN,7300.0
+2020-11,Iowa,IA,3248.0
+2020-11,Kansas,KS,3050.0
+2020-11,Kentucky,KY,4262.0
+2020-11,Louisiana,LA,4222.0
+2020-11,Maine,ME,1754.0
+2020-11,Maryland,MD,7570.0
+2020-11,Massachusetts,MA,6880.0
+2020-11,Michigan,MI,10876.0
+2020-11,Minnesota,MN,5988.0
+2020-11,Mississippi,MS,2526.0
+2020-11,Missouri,MO,7482.0
+2020-11,Montana,MT,1044.0
+2020-11,Nebraska,NE,1834.0
+2020-11,Nevada,NV,4930.0
+2020-11,New Hampshire,NH,1724.0
+2020-11,New Jersey,NJ,10986.0
+2020-11,New Mexico,NM,2084.0
+2020-11,New York,NY,15346.0
+2020-11,North Carolina,NC,13794.0
+2020-11,North Dakota,ND,652.0
+2020-11,Ohio,OH,11648.0
+2020-11,Oklahoma,OK,4972.0
+2020-11,Oregon,OR,4508.0
+2020-11,Pennsylvania,PA,11796.0
+2020-11,Rhode Island,RI,1210.0
+2020-11,South Carolina,SC,8350.0
+2020-11,South Dakota,SD,720.0
+2020-11,Tennessee,TN,9446.0
+2020-11,Texas,TX,31722.0
+2020-11,Utah,UT,3946.0
+2020-11,Vermont,VT,704.0
+2020-11,Virginia,VA,10690.0
+2020-11,Washington,WA,7176.0
+2020-11,West Virginia,WV,1436.0
+2020-11,Wisconsin,WI,4818.0
+2020-11,Wyoming,WY,708.0
+2020-12,Alabama,AL,6350.0
+2020-12,Alaska,AK,494.0
+2020-12,Arizona,AZ,9148.0
+2020-12,Arkansas,AR,2694.0
+2020-12,California,CA,26804.0
+2020-12,Colorado,CO,6172.0
+2020-12,Connecticut,CT,3130.0
+2020-12,Delaware,DE,1326.0
+2020-12,District of Columbia,DC,704.0
+2020-12,Florida,FL,36846.0
+2020-12,Georgia,GA,11938.0
+2020-12,Hawaii,HI,1536.0
+2020-12,Idaho,ID,2148.0
+2020-12,Illinois,IL,9918.0
+2020-12,Indiana,IN,5586.0
+2020-12,Iowa,IA,2488.0
+2020-12,Kansas,KS,2480.0
+2020-12,Kentucky,KY,3458.0
+2020-12,Louisiana,LA,3644.0
+2020-12,Maine,ME,1158.0
+2020-12,Maryland,MD,5986.0
+2020-12,Massachusetts,MA,4182.0
+2020-12,Michigan,MI,8698.0
+2020-12,Minnesota,MN,4718.0
+2020-12,Mississippi,MS,3000.0
+2020-12,Missouri,MO,6084.0
+2020-12,Montana,MT,976.0
+2020-12,Nebraska,NE,1630.0
+2020-12,Nevada,NV,4230.0
+2020-12,New Hampshire,NH,1080.0
+2020-12,New Jersey,NJ,7830.0
+2020-12,New Mexico,NM,1902.0
+2020-12,New York,NY,14466.0
+2020-12,North Carolina,NC,11534.0
+2020-12,North Dakota,ND,552.0
+2020-12,Ohio,OH,8798.0
+2020-12,Oklahoma,OK,4496.0
+2020-12,Oregon,OR,3842.0
+2020-12,Pennsylvania,PA,8340.0
+2020-12,Rhode Island,RI,870.0
+2020-12,South Carolina,SC,7238.0
+2020-12,South Dakota,SD,526.0
+2020-12,Tennessee,TN,7548.0
+2020-12,Texas,TX,27402.0
+2020-12,Utah,UT,3318.0
+2020-12,Vermont,VT,500.0
+2020-12,Virginia,VA,8268.0
+2020-12,Washington,WA,5906.0
+2020-12,West Virginia,WV,1080.0
+2020-12,Wisconsin,WI,3632.0
+2020-12,Wyoming,WY,604.0
+2021-01,Alabama,AL,6628.0
+2021-01,Alaska,AK,748.0
+2021-01,Arizona,AZ,11512.0
+2021-01,Arkansas,AR,3116.0
+2021-01,California,CA,32868.0
+2021-01,Colorado,CO,7864.0
+2021-01,Connecticut,CT,3608.0
+2021-01,Delaware,DE,1324.0
+2021-01,District of Columbia,DC,952.0
+2021-01,Florida,FL,42060.0
+2021-01,Georgia,GA,13908.0
+2021-01,Hawaii,HI,1492.0
+2021-01,Idaho,ID,2132.0
+2021-01,Illinois,IL,13012.0
+2021-01,Indiana,IN,5808.0
+2021-01,Iowa,IA,3072.0
+2021-01,Kansas,KS,2784.0
+2021-01,Kentucky,KY,3756.0
+2021-01,Louisiana,LA,4400.0
+2021-01,Maine,ME,1240.0
+2021-01,Maryland,MD,6856.0
+2021-01,Massachusetts,MA,5384.0
+2021-01,Michigan,MI,8716.0
+2021-01,Minnesota,MN,5156.0
+2021-01,Mississippi,MS,2804.0
+2021-01,Missouri,MO,6512.0
+2021-01,Montana,MT,1076.0
+2021-01,Nebraska,NE,1624.0
+2021-01,Nevada,NV,4592.0
+2021-01,New Hampshire,NH,1212.0
+2021-01,New Jersey,NJ,9688.0
+2021-01,New Mexico,NM,2156.0
+2021-01,New York,NY,15284.0
+2021-01,North Carolina,NC,12960.0
+2021-01,North Dakota,ND,720.0
+2021-01,Ohio,OH,9424.0
+2021-01,Oklahoma,OK,4760.0
+2021-01,Oregon,OR,4612.0
+2021-01,Pennsylvania,PA,9924.0
+2021-01,Rhode Island,RI,936.0
+2021-01,South Carolina,SC,8484.0
+2021-01,South Dakota,SD,676.0
+2021-01,Tennessee,TN,8676.0
+2021-01,Texas,TX,31804.0
+2021-01,Utah,UT,3372.0
+2021-01,Vermont,VT,600.0
+2021-01,Virginia,VA,10056.0
+2021-01,Washington,WA,7012.0
+2021-01,West Virginia,WV,1248.0
+2021-01,Wisconsin,WI,4288.0
+2021-01,Wyoming,WY,820.0
+2021-02,Alabama,AL,8870.0
+2021-02,Alaska,AK,848.0
+2021-02,Arizona,AZ,11708.0
+2021-02,Arkansas,AR,3300.0
+2021-02,California,CA,36670.0
+2021-02,Colorado,CO,8910.0
+2021-02,Connecticut,CT,3604.0
+2021-02,Delaware,DE,1262.0
+2021-02,District of Columbia,DC,928.0
+2021-02,Florida,FL,43618.0
+2021-02,Georgia,GA,15124.0
+2021-02,Hawaii,HI,1704.0
+2021-02,Idaho,ID,2658.0
+2021-02,Illinois,IL,13928.0
+2021-02,Indiana,IN,5652.0
+2021-02,Iowa,IA,3116.0
+2021-02,Kansas,KS,2664.0
+2021-02,Kentucky,KY,3728.0
+2021-02,Louisiana,LA,4798.0
+2021-02,Maine,ME,1324.0
+2021-02,Maryland,MD,6732.0
+2021-02,Massachusetts,MA,5580.0
+2021-02,Michigan,MI,8822.0
+2021-02,Minnesota,MN,6390.0
+2021-02,Mississippi,MS,3488.0
+2021-02,Missouri,MO,6458.0
+2021-02,Montana,MT,1156.0
+2021-02,Nebraska,NE,1748.0
+2021-02,Nevada,NV,5266.0
+2021-02,New Hampshire,NH,1264.0
+2021-02,New Jersey,NJ,9838.0
+2021-02,New Mexico,NM,2390.0
+2021-02,New York,NY,13772.0
+2021-02,North Carolina,NC,14062.0
+2021-02,North Dakota,ND,680.0
+2021-02,Ohio,OH,9760.0
+2021-02,Oklahoma,OK,5202.0
+2021-02,Oregon,OR,4760.0
+2021-02,Pennsylvania,PA,9880.0
+2021-02,Rhode Island,RI,862.0
+2021-02,South Carolina,SC,9350.0
+2021-02,South Dakota,SD,714.0
+2021-02,Tennessee,TN,9246.0
+2021-02,Texas,TX,31454.0
+2021-02,Utah,UT,3982.0
+2021-02,Vermont,VT,698.0
+2021-02,Virginia,VA,10324.0
+2021-02,Washington,WA,7372.0
+2021-02,West Virginia,WV,1174.0
+2021-02,Wisconsin,WI,4522.0
+2021-02,Wyoming,WY,776.0
+2021-03,Alabama,AL,7306.0
+2021-03,Alaska,AK,972.0
+2021-03,Arizona,AZ,13106.0
+2021-03,Arkansas,AR,3614.0
+2021-03,California,CA,41256.0
+2021-03,Colorado,CO,10234.0
+2021-03,Connecticut,CT,5376.0
+2021-03,Delaware,DE,1466.0
+2021-03,District of Columbia,DC,1212.0
+2021-03,Florida,FL,47676.0
+2021-03,Georgia,GA,16950.0
+2021-03,Hawaii,HI,1778.0
+2021-03,Idaho,ID,3324.0
+2021-03,Illinois,IL,18626.0
+2021-03,Indiana,IN,7558.0
+2021-03,Iowa,IA,4008.0
+2021-03,Kansas,KS,3846.0
+2021-03,Kentucky,KY,4780.0
+2021-03,Louisiana,LA,4994.0
+2021-03,Maine,ME,1742.0
+2021-03,Maryland,MD,9444.0
+2021-03,Massachusetts,MA,8110.0
+2021-03,Michigan,MI,11884.0
+2021-03,Minnesota,MN,8766.0
+2021-03,Mississippi,MS,3566.0
+2021-03,Missouri,MO,9126.0
+2021-03,Montana,MT,1590.0
+2021-03,Nebraska,NE,2202.0
+2021-03,Nevada,NV,5712.0
+2021-03,New Hampshire,NH,1798.0
+2021-03,New Jersey,NJ,13256.0
+2021-03,New Mexico,NM,2666.0
+2021-03,New York,NY,19978.0
+2021-03,North Carolina,NC,15962.0
+2021-03,North Dakota,ND,1018.0
+2021-03,Ohio,OH,13108.0
+2021-03,Oklahoma,OK,6162.0
+2021-03,Oregon,OR,6178.0
+2021-03,Pennsylvania,PA,13666.0
+2021-03,Rhode Island,RI,1250.0
+2021-03,South Carolina,SC,9838.0
+2021-03,South Dakota,SD,1046.0
+2021-03,Tennessee,TN,9922.0
+2021-03,Texas,TX,36250.0
+2021-03,Utah,UT,4722.0
+2021-03,Vermont,VT,896.0
+2021-03,Virginia,VA,13874.0
+2021-03,Washington,WA,10938.0
+2021-03,West Virginia,WV,1716.0
+2021-03,Wisconsin,WI,6288.0
+2021-03,Wyoming,WY,884.0
+2021-04,Alabama,AL,7354.0
+2021-04,Alaska,AK,1110.0
+2021-04,Arizona,AZ,13258.0
+2021-04,Arkansas,AR,4008.0
+2021-04,California,CA,43210.0
+2021-04,Colorado,CO,10808.0
+2021-04,Connecticut,CT,5882.0
+2021-04,Delaware,DE,1670.0
+2021-04,District of Columbia,DC,1302.0
+2021-04,Florida,FL,46308.0
+2021-04,Georgia,GA,17726.0
+2021-04,Hawaii,HI,1862.0
+2021-04,Idaho,ID,3390.0
+2021-04,Illinois,IL,20532.0
+2021-04,Indiana,IN,8574.0
+2021-04,Iowa,IA,4854.0
+2021-04,Kansas,KS,4208.0
+2021-04,Kentucky,KY,5262.0
+2021-04,Louisiana,LA,5168.0
+2021-04,Maine,ME,2068.0
+2021-04,Maryland,MD,10404.0
+2021-04,Massachusetts,MA,8934.0
+2021-04,Michigan,MI,13344.0
+2021-04,Minnesota,MN,9892.0
+2021-04,Mississippi,MS,3674.0
+2021-04,Missouri,MO,9982.0
+2021-04,Montana,MT,1772.0
+2021-04,Nebraska,NE,2862.0
+2021-04,Nevada,NV,5964.0
+2021-04,New Hampshire,NH,2082.0
+2021-04,New Jersey,NJ,13960.0
+2021-04,New Mexico,NM,2724.0
+2021-04,New York,NY,22114.0
+2021-04,North Carolina,NC,16892.0
+2021-04,North Dakota,ND,1130.0
+2021-04,Ohio,OH,14358.0
+2021-04,Oklahoma,OK,6586.0
+2021-04,Oregon,OR,6682.0
+2021-04,Pennsylvania,PA,16168.0
+2021-04,Rhode Island,RI,1284.0
+2021-04,South Carolina,SC,9930.0
+2021-04,South Dakota,SD,1158.0
+2021-04,Tennessee,TN,10682.0
+2021-04,Texas,TX,39868.0
+2021-04,Utah,UT,4924.0
+2021-04,Vermont,VT,934.0
+2021-04,Virginia,VA,15708.0
+2021-04,Washington,WA,11020.0
+2021-04,West Virginia,WV,1844.0
+2021-04,Wisconsin,WI,7276.0
+2021-04,Wyoming,WY,920.0
+2021-05,Alabama,AL,7460.0
+2021-05,Alaska,AK,1356.0
+2021-05,Arizona,AZ,13412.0
+2021-05,Arkansas,AR,4168.0
+2021-05,California,CA,44680.0
+2021-05,Colorado,CO,11664.0
+2021-05,Connecticut,CT,6628.0
+2021-05,Delaware,DE,1768.0
+2021-05,District of Columbia,DC,1300.0
+2021-05,Florida,FL,47524.0
+2021-05,Georgia,GA,18292.0
+2021-05,Hawaii,HI,1856.0
+2021-05,Idaho,ID,3740.0
+2021-05,Illinois,IL,21568.0
+2021-05,Indiana,IN,9240.0
+2021-05,Iowa,IA,4820.0
+2021-05,Kansas,KS,4444.0
+2021-05,Kentucky,KY,5444.0
+2021-05,Louisiana,LA,5368.0
+2021-05,Maine,ME,2524.0
+2021-05,Maryland,MD,10928.0
+2021-05,Massachusetts,MA,9936.0
+2021-05,Michigan,MI,15516.0
+2021-05,Minnesota,MN,11036.0
+2021-05,Mississippi,MS,3836.0
+2021-05,Missouri,MO,10376.0
+2021-05,Montana,MT,1904.0
+2021-05,Nebraska,NE,2672.0
+2021-05,Nevada,NV,6108.0
+2021-05,New Hampshire,NH,2164.0
+2021-05,New Jersey,NJ,14960.0
+2021-05,New Mexico,NM,3056.0
+2021-05,New York,NY,23608.0
+2021-05,North Carolina,NC,17492.0
+2021-05,North Dakota,ND,1156.0
+2021-05,Ohio,OH,16628.0
+2021-05,Oklahoma,OK,6804.0
+2021-05,Oregon,OR,7332.0
+2021-05,Pennsylvania,PA,16960.0
+2021-05,Rhode Island,RI,1472.0
+2021-05,South Carolina,SC,9956.0
+2021-05,South Dakota,SD,1180.0
+2021-05,Tennessee,TN,11268.0
+2021-05,Texas,TX,41400.0
+2021-05,Utah,UT,5504.0
+2021-05,Vermont,VT,1080.0
+2021-05,Virginia,VA,16416.0
+2021-05,Washington,WA,11852.0
+2021-05,West Virginia,WV,2004.0
+2021-05,Wisconsin,WI,8316.0
+2021-05,Wyoming,WY,1080.0
+2021-06,Alabama,AL,7830.0
+2021-06,Alaska,AK,1464.0
+2021-06,Arizona,AZ,13260.0
+2021-06,Arkansas,AR,4266.0
+2021-06,California,CA,45542.0
+2021-06,Colorado,CO,13652.0
+2021-06,Connecticut,CT,6652.0
+2021-06,Delaware,DE,1940.0
+2021-06,District of Columbia,DC,1384.0
+2021-06,Florida,FL,46122.0
+2021-06,Georgia,GA,19270.0
+2021-06,Hawaii,HI,1856.0
+2021-06,Idaho,ID,4186.0
+2021-06,Illinois,IL,22194.0
+2021-06,Indiana,IN,10240.0
+2021-06,Iowa,IA,5118.0
+2021-06,Kansas,KS,4516.0
+2021-06,Kentucky,KY,5550.0
+2021-06,Louisiana,LA,5600.0
+2021-06,Maine,ME,2896.0
+2021-06,Maryland,MD,11500.0
+2021-06,Massachusetts,MA,11200.0
+2021-06,Michigan,MI,17200.0
+2021-06,Minnesota,MN,11918.0
+2021-06,Mississippi,MS,3916.0
+2021-06,Missouri,MO,10640.0
+2021-06,Montana,MT,2190.0
+2021-06,Nebraska,NE,2912.0
+2021-06,Nevada,NV,6154.0
+2021-06,New Hampshire,NH,2692.0
+2021-06,New Jersey,NJ,15468.0
+2021-06,New Mexico,NM,2988.0
+2021-06,New York,NY,22790.0
+2021-06,North Carolina,NC,17810.0
+2021-06,North Dakota,ND,1204.0
+2021-06,Ohio,OH,17542.0
+2021-06,Oklahoma,OK,7314.0
+2021-06,Oregon,OR,7634.0
+2021-06,Pennsylvania,PA,18736.0
+2021-06,Rhode Island,RI,1618.0
+2021-06,South Carolina,SC,10174.0
+2021-06,South Dakota,SD,1342.0
+2021-06,Tennessee,TN,11780.0
+2021-06,Texas,TX,45674.0
+2021-06,Utah,UT,5744.0
+2021-06,Vermont,VT,1210.0
+2021-06,Virginia,VA,16246.0
+2021-06,Washington,WA,12788.0
+2021-06,West Virginia,WV,1902.0
+2021-06,Wisconsin,WI,9212.0
+2021-06,Wyoming,WY,1186.0
+2021-07,Alabama,AL,8344.0
+2021-07,Alaska,AK,1424.0
+2021-07,Arizona,AZ,13148.0
+2021-07,Arkansas,AR,4628.0
+2021-07,California,CA,44652.0
+2021-07,Colorado,CO,12636.0
+2021-07,Connecticut,CT,5488.0
+2021-07,Delaware,DE,1848.0
+2021-07,District of Columbia,DC,1172.0
+2021-07,Florida,FL,45324.0
+2021-07,Georgia,GA,18644.0
+2021-07,Hawaii,HI,1724.0
+2021-07,Idaho,ID,4360.0
+2021-07,Illinois,IL,21160.0
+2021-07,Indiana,IN,10352.0
+2021-07,Iowa,IA,4348.0
+2021-07,Kansas,KS,4348.0
+2021-07,Kentucky,KY,5928.0
+2021-07,Louisiana,LA,5356.0
+2021-07,Maine,ME,2772.0
+2021-07,Maryland,MD,11344.0
+2021-07,Massachusetts,MA,8452.0
+2021-07,Michigan,MI,17512.0
+2021-07,Minnesota,MN,11380.0
+2021-07,Mississippi,MS,4600.0
+2021-07,Missouri,MO,10772.0
+2021-07,Montana,MT,1952.0
+2021-07,Nebraska,NE,2800.0
+2021-07,Nevada,NV,6304.0
+2021-07,New Hampshire,NH,2372.0
+2021-07,New Jersey,NJ,13908.0
+2021-07,New Mexico,NM,2952.0
+2021-07,New York,NY,21080.0
+2021-07,North Carolina,NC,17640.0
+2021-07,North Dakota,ND,1112.0
+2021-07,Ohio,OH,17460.0
+2021-07,Oklahoma,OK,7464.0
+2021-07,Oregon,OR,7632.0
+2021-07,Pennsylvania,PA,17392.0
+2021-07,Rhode Island,RI,1452.0
+2021-07,South Carolina,SC,10916.0
+2021-07,South Dakota,SD,1200.0
+2021-07,Tennessee,TN,12480.0
+2021-07,Texas,TX,44364.0
+2021-07,Utah,UT,5576.0
+2021-07,Vermont,VT,1212.0
+2021-07,Virginia,VA,15400.0
+2021-07,Washington,WA,11848.0
+2021-07,West Virginia,WV,1984.0
+2021-07,Wisconsin,WI,8532.0
+2021-07,Wyoming,WY,1116.0
+2021-08,Alabama,AL,7826.0
+2021-08,Alaska,AK,1324.0
+2021-08,Arizona,AZ,13392.0
+2021-08,Arkansas,AR,4444.0
+2021-08,California,CA,42426.0
+2021-08,Colorado,CO,11744.0
+2021-08,Connecticut,CT,5120.0
+2021-08,Delaware,DE,1866.0
+2021-08,District of Columbia,DC,894.0
+2021-08,Florida,FL,44384.0
+2021-08,Georgia,GA,18126.0
+2021-08,Hawaii,HI,1728.0
+2021-08,Idaho,ID,4160.0
+2021-08,Illinois,IL,18972.0
+2021-08,Indiana,IN,10242.0
+2021-08,Iowa,IA,4352.0
+2021-08,Kansas,KS,4030.0
+2021-08,Kentucky,KY,5758.0
+2021-08,Louisiana,LA,5070.0
+2021-08,Maine,ME,2530.0
+2021-08,Maryland,MD,10554.0
+2021-08,Massachusetts,MA,8116.0
+2021-08,Michigan,MI,16570.0
+2021-08,Minnesota,MN,10714.0
+2021-08,Mississippi,MS,4482.0
+2021-08,Missouri,MO,10098.0
+2021-08,Montana,MT,1934.0
+2021-08,Nebraska,NE,2602.0
+2021-08,Nevada,NV,6428.0
+2021-08,New Hampshire,NH,2348.0
+2021-08,New Jersey,NJ,12764.0
+2021-08,New Mexico,NM,2976.0
+2021-08,New York,NY,20176.0
+2021-08,North Carolina,NC,17190.0
+2021-08,North Dakota,ND,954.0
+2021-08,Ohio,OH,16474.0
+2021-08,Oklahoma,OK,7090.0
+2021-08,Oregon,OR,7278.0
+2021-08,Pennsylvania,PA,16506.0
+2021-08,Rhode Island,RI,1460.0
+2021-08,South Carolina,SC,11260.0
+2021-08,South Dakota,SD,1156.0
+2021-08,Tennessee,TN,11860.0
+2021-08,Texas,TX,40866.0
+2021-08,Utah,UT,5742.0
+2021-08,Vermont,VT,1012.0
+2021-08,Virginia,VA,14080.0
+2021-08,Washington,WA,11554.0
+2021-08,West Virginia,WV,1922.0
+2021-08,Wisconsin,WI,8256.0
+2021-08,Wyoming,WY,1030.0
+2021-09,Alabama,AL,6716.0
+2021-09,Alaska,AK,1038.0
+2021-09,Arizona,AZ,12560.0
+2021-09,Arkansas,AR,3980.0
+2021-09,California,CA,39772.0
+2021-09,Colorado,CO,10772.0
+2021-09,Connecticut,CT,4654.0
+2021-09,Delaware,DE,1890.0
+2021-09,District of Columbia,DC,1570.0
+2021-09,Florida,FL,42080.0
+2021-09,Georgia,GA,16422.0
+2021-09,Hawaii,HI,1920.0
+2021-09,Idaho,ID,3836.0
+2021-09,Illinois,IL,17184.0
+2021-09,Indiana,IN,9568.0
+2021-09,Iowa,IA,4104.0
+2021-09,Kansas,KS,3784.0
+2021-09,Kentucky,KY,5152.0
+2021-09,Louisiana,LA,3286.0
+2021-09,Maine,ME,2288.0
+2021-09,Maryland,MD,9626.0
+2021-09,Massachusetts,MA,9454.0
+2021-09,Michigan,MI,14606.0
+2021-09,Minnesota,MN,9666.0
+2021-09,Mississippi,MS,2718.0
+2021-09,Missouri,MO,9336.0
+2021-09,Montana,MT,1560.0
+2021-09,Nebraska,NE,2442.0
+2021-09,Nevada,NV,5940.0
+2021-09,New Hampshire,NH,2082.0
+2021-09,New Jersey,NJ,11556.0
+2021-09,New Mexico,NM,2668.0
+2021-09,New York,NY,19730.0
+2021-09,North Carolina,NC,16306.0
+2021-09,North Dakota,ND,878.0
+2021-09,Ohio,OH,14922.0
+2021-09,Oklahoma,OK,6156.0
+2021-09,Oregon,OR,6722.0
+2021-09,Pennsylvania,PA,15384.0
+2021-09,Rhode Island,RI,1436.0
+2021-09,South Carolina,SC,9168.0
+2021-09,South Dakota,SD,1016.0
+2021-09,Tennessee,TN,11030.0
+2021-09,Texas,TX,37762.0
+2021-09,Utah,UT,5236.0
+2021-09,Vermont,VT,916.0
+2021-09,Virginia,VA,13004.0
+2021-09,Washington,WA,11254.0
+2021-09,West Virginia,WV,1732.0
+2021-09,Wisconsin,WI,7598.0
+2021-09,Wyoming,WY,880.0
+2021-10,Alabama,AL,6452.0
+2021-10,Alaska,AK,920.0
+2021-10,Arizona,AZ,12404.0
+2021-10,Arkansas,AR,3792.0
+2021-10,California,CA,38752.0
+2021-10,Colorado,CO,9976.0
+2021-10,Connecticut,CT,4344.0
+2021-10,Delaware,DE,1688.0
+2021-10,District of Columbia,DC,1200.0
+2021-10,Florida,FL,41760.0
+2021-10,Georgia,GA,15940.0
+2021-10,Hawaii,HI,1712.0
+2021-10,Idaho,ID,3116.0
+2021-10,Illinois,IL,15472.0
+2021-10,Indiana,IN,9088.0
+2021-10,Iowa,IA,4180.0
+2021-10,Kansas,KS,3616.0
+2021-10,Kentucky,KY,4968.0
+2021-10,Louisiana,LA,4332.0
+2021-10,Maine,ME,1904.0
+2021-10,Maryland,MD,9192.0
+2021-10,Massachusetts,MA,7736.0
+2021-10,Michigan,MI,13512.0
+2021-10,Minnesota,MN,8280.0
+2021-10,Mississippi,MS,2664.0
+2021-10,Missouri,MO,8676.0
+2021-10,Montana,MT,1368.0
+2021-10,Nebraska,NE,2356.0
+2021-10,Nevada,NV,5744.0
+2021-10,New Hampshire,NH,1792.0
+2021-10,New Jersey,NJ,10976.0
+2021-10,New Mexico,NM,2392.0
+2021-10,New York,NY,17364.0
+2021-10,North Carolina,NC,15936.0
+2021-10,North Dakota,ND,868.0
+2021-10,Ohio,OH,14356.0
+2021-10,Oklahoma,OK,6032.0
+2021-10,Oregon,OR,6316.0
+2021-10,Pennsylvania,PA,14788.0
+2021-10,Rhode Island,RI,1264.0
+2021-10,South Carolina,SC,9352.0
+2021-10,South Dakota,SD,928.0
+2021-10,Tennessee,TN,10344.0
+2021-10,Texas,TX,35068.0
+2021-10,Utah,UT,4856.0
+2021-10,Vermont,VT,712.0
+2021-10,Virginia,VA,12156.0
+2021-10,Washington,WA,9628.0
+2021-10,West Virginia,WV,1684.0
+2021-10,Wisconsin,WI,6572.0
+2021-10,Wyoming,WY,804.0
+2021-11,Alabama,AL,6008.0
+2021-11,Alaska,AK,592.0
+2021-11,Arizona,AZ,11372.0
+2021-11,Arkansas,AR,3336.0
+2021-11,California,CA,31338.0
+2021-11,Colorado,CO,7854.0
+2021-11,Connecticut,CT,3582.0
+2021-11,Delaware,DE,1456.0
+2021-11,District of Columbia,DC,1002.0
+2021-11,Florida,FL,39178.0
+2021-11,Georgia,GA,14778.0
+2021-11,Hawaii,HI,1724.0
+2021-11,Idaho,ID,2722.0
+2021-11,Illinois,IL,12648.0
+2021-11,Indiana,IN,8092.0
+2021-11,Iowa,IA,3276.0
+2021-11,Kansas,KS,2970.0
+2021-11,Kentucky,KY,4562.0
+2021-11,Louisiana,LA,4234.0
+2021-11,Maine,ME,1454.0
+2021-11,Maryland,MD,7646.0
+2021-11,Massachusetts,MA,6088.0
+2021-11,Michigan,MI,11286.0
+2021-11,Minnesota,MN,6192.0
+2021-11,Mississippi,MS,2310.0
+2021-11,Missouri,MO,7772.0
+2021-11,Montana,MT,990.0
+2021-11,Nebraska,NE,1898.0
+2021-11,Nevada,NV,5010.0
+2021-11,New Hampshire,NH,1500.0
+2021-11,New Jersey,NJ,9194.0
+2021-11,New Mexico,NM,2082.0
+2021-11,New York,NY,14018.0
+2021-11,North Carolina,NC,15002.0
+2021-11,North Dakota,ND,680.0
+2021-11,Ohio,OH,12244.0
+2021-11,Oklahoma,OK,5540.0
+2021-11,Oregon,OR,4738.0
+2021-11,Pennsylvania,PA,12448.0
+2021-11,Rhode Island,RI,1096.0
+2021-11,South Carolina,SC,8792.0
+2021-11,South Dakota,SD,760.0
+2021-11,Tennessee,TN,9818.0
+2021-11,Texas,TX,33856.0
+2021-11,Utah,UT,4158.0
+2021-11,Vermont,VT,514.0
+2021-11,Virginia,VA,10258.0
+2021-11,Washington,WA,7348.0
+2021-11,West Virginia,WV,1558.0
+2021-11,Wisconsin,WI,4936.0
+2021-11,Wyoming,WY,610.0
+2021-12,Alabama,AL,5152.0
+2021-12,Alaska,AK,428.0
+2021-12,Arizona,AZ,9404.0
+2021-12,Arkansas,AR,2922.0
+2021-12,California,CA,23192.0
+2021-12,Colorado,CO,5474.0
+2021-12,Connecticut,CT,2518.0
+2021-12,Delaware,DE,1082.0
+2021-12,District of Columbia,DC,562.0
+2021-12,Florida,FL,34156.0
+2021-12,Georgia,GA,12036.0
+2021-12,Hawaii,HI,1506.0
+2021-12,Idaho,ID,1948.0
+2021-12,Illinois,IL,9040.0
+2021-12,Indiana,IN,5842.0
+2021-12,Iowa,IA,2560.0
+2021-12,Kansas,KS,2548.0
+2021-12,Kentucky,KY,3518.0
+2021-12,Louisiana,LA,3530.0
+2021-12,Maine,ME,1024.0
+2021-12,Maryland,MD,5484.0
+2021-12,Massachusetts,MA,3740.0
+2021-12,Michigan,MI,8068.0
+2021-12,Minnesota,MN,3882.0
+2021-12,Mississippi,MS,2004.0
+2021-12,Missouri,MO,5620.0
+2021-12,Montana,MT,822.0
+2021-12,Nebraska,NE,1416.0
+2021-12,Nevada,NV,3994.0
+2021-12,New Hampshire,NH,968.0
+2021-12,New Jersey,NJ,6636.0
+2021-12,New Mexico,NM,1714.0
+2021-12,New York,NY,11308.0
+2021-12,North Carolina,NC,10832.0
+2021-12,North Dakota,ND,488.0
+2021-12,Ohio,OH,8766.0
+2021-12,Oklahoma,OK,3956.0
+2021-12,Oregon,OR,3614.0
+2021-12,Pennsylvania,PA,8858.0
+2021-12,Rhode Island,RI,726.0
+2021-12,South Carolina,SC,6852.0
+2021-12,South Dakota,SD,538.0
+2021-12,Tennessee,TN,7508.0
+2021-12,Texas,TX,27114.0
+2021-12,Utah,UT,3134.0
+2021-12,Vermont,VT,414.0
+2021-12,Virginia,VA,7424.0
+2021-12,Washington,WA,5404.0
+2021-12,West Virginia,WV,1192.0
+2021-12,Wisconsin,WI,3224.0
+2021-12,Wyoming,WY,582.0
+2022-01,Alabama,AL,5820.0
+2022-01,Alaska,AK,512.0
+2022-01,Arizona,AZ,10592.0
+2022-01,Arkansas,AR,3000.0
+2022-01,California,CA,30324.0
+2022-01,Colorado,CO,6748.0
+2022-01,Connecticut,CT,2756.0
+2022-01,Delaware,DE,1176.0
+2022-01,District of Columbia,DC,928.0
+2022-01,Florida,FL,39724.0
+2022-01,Georgia,GA,13312.0
+2022-01,Hawaii,HI,1620.0
+2022-01,Idaho,ID,2212.0
+2022-01,Illinois,IL,10872.0
+2022-01,Indiana,IN,5856.0
+2022-01,Iowa,IA,2528.0
+2022-01,Kansas,KS,2296.0
+2022-01,Kentucky,KY,3368.0
+2022-01,Louisiana,LA,4212.0
+2022-01,Maine,ME,872.0
+2022-01,Maryland,MD,6060.0
+2022-01,Massachusetts,MA,4056.0
+2022-01,Michigan,MI,8652.0
+2022-01,Minnesota,MN,4648.0
+2022-01,Mississippi,MS,2216.0
+2022-01,Missouri,MO,6028.0
+2022-01,Montana,MT,952.0
+2022-01,Nebraska,NE,1524.0
+2022-01,Nevada,NV,4524.0
+2022-01,New Hampshire,NH,904.0
+2022-01,New Jersey,NJ,7952.0
+2022-01,New Mexico,NM,1964.0
+2022-01,New York,NY,11276.0
+2022-01,North Carolina,NC,10864.0
+2022-01,North Dakota,ND,492.0
+2022-01,Ohio,OH,9104.0
+2022-01,Oklahoma,OK,5076.0
+2022-01,Oregon,OR,4180.0
+2022-01,Pennsylvania,PA,9540.0
+2022-01,Rhode Island,RI,736.0
+2022-01,South Carolina,SC,6980.0
+2022-01,South Dakota,SD,612.0
+2022-01,Tennessee,TN,7496.0
+2022-01,Texas,TX,30620.0
+2022-01,Utah,UT,3304.0
+2022-01,Vermont,VT,404.0
+2022-01,Virginia,VA,7672.0
+2022-01,Washington,WA,6144.0
+2022-01,West Virginia,WV,988.0
+2022-01,Wisconsin,WI,3812.0
+2022-01,Wyoming,WY,540.0
+2022-02,Alabama,AL,6554.0
+2022-02,Alaska,AK,674.0
+2022-02,Arizona,AZ,11670.0
+2022-02,Arkansas,AR,3128.0
+2022-02,California,CA,34992.0
+2022-02,Colorado,CO,8050.0
+2022-02,Connecticut,CT,3240.0
+2022-02,Delaware,DE,1364.0
+2022-02,District of Columbia,DC,1040.0
+2022-02,Florida,FL,42718.0
+2022-02,Georgia,GA,15112.0
+2022-02,Hawaii,HI,1822.0
+2022-02,Idaho,ID,2736.0
+2022-02,Illinois,IL,13410.0
+2022-02,Indiana,IN,6382.0
+2022-02,Iowa,IA,3188.0
+2022-02,Kansas,KS,2830.0
+2022-02,Kentucky,KY,4066.0
+2022-02,Louisiana,LA,4492.0
+2022-02,Maine,ME,1114.0
+2022-02,Maryland,MD,7260.0
+2022-02,Massachusetts,MA,5356.0
+2022-02,Michigan,MI,9044.0
+2022-02,Minnesota,MN,6344.0
+2022-02,Mississippi,MS,2458.0
+2022-02,Missouri,MO,6614.0
+2022-02,Montana,MT,1184.0
+2022-02,Nebraska,NE,1960.0
+2022-02,Nevada,NV,5104.0
+2022-02,New Hampshire,NH,1126.0
+2022-02,New Jersey,NJ,9632.0
+2022-02,New Mexico,NM,2142.0
+2022-02,New York,NY,14826.0
+2022-02,North Carolina,NC,12344.0
+2022-02,North Dakota,ND,666.0
+2022-02,Ohio,OH,9788.0
+2022-02,Oklahoma,OK,4428.0
+2022-02,Oregon,OR,5260.0
+2022-02,Pennsylvania,PA,11322.0
+2022-02,Rhode Island,RI,820.0
+2022-02,South Carolina,SC,8586.0
+2022-02,South Dakota,SD,794.0
+2022-02,Tennessee,TN,9006.0
+2022-02,Texas,TX,32302.0
+2022-02,Utah,UT,4394.0
+2022-02,Vermont,VT,594.0
+2022-02,Virginia,VA,10390.0
+2022-02,Washington,WA,7916.0
+2022-02,West Virginia,WV,1314.0
+2022-02,Wisconsin,WI,4416.0
+2022-02,Wyoming,WY,616.0
+2022-03,Alabama,AL,7412.0
+2022-03,Alaska,AK,998.0
+2022-03,Arizona,AZ,12396.0
+2022-03,Arkansas,AR,3828.0
+2022-03,California,CA,39556.0
+2022-03,Colorado,CO,10110.0
+2022-03,Connecticut,CT,4164.0
+2022-03,Delaware,DE,1612.0
+2022-03,District of Columbia,DC,1194.0
+2022-03,Florida,FL,45336.0
+2022-03,Georgia,GA,16708.0
+2022-03,Hawaii,HI,1722.0
+2022-03,Idaho,ID,3338.0
+2022-03,Illinois,IL,16462.0
+2022-03,Indiana,IN,12398.0
+2022-03,Iowa,IA,3880.0
+2022-03,Kansas,KS,3702.0
+2022-03,Kentucky,KY,4886.0
+2022-03,Louisiana,LA,4786.0
+2022-03,Maine,ME,1364.0
+2022-03,Maryland,MD,8622.0
+2022-03,Massachusetts,MA,9220.0
+2022-03,Michigan,MI,11718.0
+2022-03,Minnesota,MN,7736.0
+2022-03,Mississippi,MS,2906.0
+2022-03,Missouri,MO,8278.0
+2022-03,Montana,MT,1252.0
+2022-03,Nebraska,NE,2272.0
+2022-03,Nevada,NV,5466.0
+2022-03,New Hampshire,NH,1492.0
+2022-03,New Jersey,NJ,11458.0
+2022-03,New Mexico,NM,2388.0
+2022-03,New York,NY,18134.0
+2022-03,North Carolina,NC,15168.0
+2022-03,North Dakota,ND,772.0
+2022-03,Ohio,OH,12798.0
+2022-03,Oklahoma,OK,5464.0
+2022-03,Oregon,OR,6334.0
+2022-03,Pennsylvania,PA,14166.0
+2022-03,Rhode Island,RI,1120.0
+2022-03,South Carolina,SC,9298.0
+2022-03,South Dakota,SD,876.0
+2022-03,Tennessee,TN,10350.0
+2022-03,Texas,TX,35972.0
+2022-03,Utah,UT,4654.0
+2022-03,Vermont,VT,702.0
+2022-03,Virginia,VA,12472.0
+2022-03,Washington,WA,9446.0
+2022-03,West Virginia,WV,1678.0
+2022-03,Wisconsin,WI,5590.0
+2022-03,Wyoming,WY,708.0
+2022-04,Alabama,AL,8128.0
+2022-04,Alaska,AK,1140.0
+2022-04,Arizona,AZ,13144.0
+2022-04,Arkansas,AR,4356.0
+2022-04,California,CA,42968.0
+2022-04,Colorado,CO,12384.0
+2022-04,Connecticut,CT,5016.0
+2022-04,Delaware,DE,1592.0
+2022-04,District of Columbia,DC,1288.0
+2022-04,Florida,FL,47464.0
+2022-04,Georgia,GA,17980.0
+2022-04,Hawaii,HI,1884.0
+2022-04,Idaho,ID,3848.0
+2022-04,Illinois,IL,18496.0
+2022-04,Indiana,IN,9308.0
+2022-04,Iowa,IA,4596.0
+2022-04,Kansas,KS,4560.0
+2022-04,Kentucky,KY,4772.0
+2022-04,Louisiana,LA,5388.0
+2022-04,Maine,ME,1956.0
+2022-04,Maryland,MD,9680.0
+2022-04,Massachusetts,MA,9748.0
+2022-04,Michigan,MI,13824.0
+2022-04,Minnesota,MN,9064.0
+2022-04,Mississippi,MS,3092.0
+2022-04,Missouri,MO,9984.0
+2022-04,Montana,MT,1728.0
+2022-04,Nebraska,NE,2692.0
+2022-04,Nevada,NV,6008.0
+2022-04,New Hampshire,NH,2016.0
+2022-04,New Jersey,NJ,12896.0
+2022-04,New Mexico,NM,2572.0
+2022-04,New York,NY,19232.0
+2022-04,North Carolina,NC,16892.0
+2022-04,North Dakota,ND,980.0
+2022-04,Ohio,OH,15384.0
+2022-04,Oklahoma,OK,5856.0
+2022-04,Oregon,OR,7024.0
+2022-04,Pennsylvania,PA,16172.0
+2022-04,Rhode Island,RI,1220.0
+2022-04,South Carolina,SC,10024.0
+2022-04,South Dakota,SD,1052.0
+2022-04,Tennessee,TN,11768.0
+2022-04,Texas,TX,41912.0
+2022-04,Utah,UT,5184.0
+2022-04,Vermont,VT,752.0
+2022-04,Virginia,VA,14484.0
+2022-04,Washington,WA,10696.0
+2022-04,West Virginia,WV,1844.0
+2022-04,Wisconsin,WI,7268.0
+2022-04,Wyoming,WY,868.0
+2022-05,Alabama,AL,8450.0
+2022-05,Alaska,AK,1260.0
+2022-05,Arizona,AZ,15010.0
+2022-05,Arkansas,AR,4432.0
+2022-05,California,CA,44888.0
+2022-05,Colorado,CO,13362.0
+2022-05,Connecticut,CT,5546.0
+2022-05,Delaware,DE,1698.0
+2022-05,District of Columbia,DC,1270.0
+2022-05,Florida,FL,51418.0
+2022-05,Georgia,GA,19606.0
+2022-05,Hawaii,HI,1738.0
+2022-05,Idaho,ID,4566.0
+2022-05,Illinois,IL,19308.0
+2022-05,Indiana,IN,10460.0
+2022-05,Iowa,IA,4678.0
+2022-05,Kansas,KS,4746.0
+2022-05,Kentucky,KY,5624.0
+2022-05,Louisiana,LA,5314.0
+2022-05,Maine,ME,2582.0
+2022-05,Maryland,MD,10160.0
+2022-05,Massachusetts,MA,9444.0
+2022-05,Michigan,MI,16208.0
+2022-05,Minnesota,MN,11116.0
+2022-05,Mississippi,MS,3192.0
+2022-05,Missouri,MO,9950.0
+2022-05,Montana,MT,2138.0
+2022-05,Nebraska,NE,2628.0
+2022-05,Nevada,NV,6596.0
+2022-05,New Hampshire,NH,2302.0
+2022-05,New Jersey,NJ,13402.0
+2022-05,New Mexico,NM,2820.0
+2022-05,New York,NY,20664.0
+2022-05,North Carolina,NC,19096.0
+2022-05,North Dakota,ND,1080.0
+2022-05,Ohio,OH,16152.0
+2022-05,Oklahoma,OK,6248.0
+2022-05,Oregon,OR,7590.0
+2022-05,Pennsylvania,PA,17124.0
+2022-05,Rhode Island,RI,1388.0
+2022-05,South Carolina,SC,11370.0
+2022-05,South Dakota,SD,1266.0
+2022-05,Tennessee,TN,12800.0
+2022-05,Texas,TX,45564.0
+2022-05,Utah,UT,6586.0
+2022-05,Vermont,VT,1018.0
+2022-05,Virginia,VA,15390.0
+2022-05,Washington,WA,13340.0
+2022-05,West Virginia,WV,1980.0
+2022-05,Wisconsin,WI,8056.0
+2022-05,Wyoming,WY,1054.0
+2022-06,Alabama,AL,8626.0
+2022-06,Alaska,AK,1394.0
+2022-06,Arizona,AZ,15080.0
+2022-06,Arkansas,AR,4508.0
+2022-06,California,CA,42830.0
+2022-06,Colorado,CO,14116.0
+2022-06,Connecticut,CT,5426.0
+2022-06,Delaware,DE,1764.0
+2022-06,District of Columbia,DC,1242.0
+2022-06,Florida,FL,51344.0
+2022-06,Georgia,GA,19816.0
+2022-06,Hawaii,HI,1700.0
+2022-06,Idaho,ID,4958.0
+2022-06,Illinois,IL,19036.0
+2022-06,Indiana,IN,10862.0
+2022-06,Iowa,IA,4860.0
+2022-06,Kansas,KS,4938.0
+2022-06,Kentucky,KY,5934.0
+2022-06,Louisiana,LA,5590.0
+2022-06,Maine,ME,2858.0
+2022-06,Maryland,MD,9572.0
+2022-06,Massachusetts,MA,10396.0
+2022-06,Michigan,MI,17666.0
+2022-06,Minnesota,MN,10802.0
+2022-06,Mississippi,MS,3046.0
+2022-06,Missouri,MO,10504.0
+2022-06,Montana,MT,2058.0
+2022-06,Nebraska,NE,2758.0
+2022-06,Nevada,NV,7278.0
+2022-06,New Hampshire,NH,2522.0
+2022-06,New Jersey,NJ,13126.0
+2022-06,New Mexico,NM,2812.0
+2022-06,New York,NY,20178.0
+2022-06,North Carolina,NC,19154.0
+2022-06,North Dakota,ND,1194.0
+2022-06,Ohio,OH,17020.0
+2022-06,Oklahoma,OK,6298.0
+2022-06,Oregon,OR,7574.0
+2022-06,Pennsylvania,PA,17338.0
+2022-06,Rhode Island,RI,1500.0
+2022-06,South Carolina,SC,10914.0
+2022-06,South Dakota,SD,1204.0
+2022-06,Tennessee,TN,13704.0
+2022-06,Texas,TX,49812.0
+2022-06,Utah,UT,6244.0
+2022-06,Vermont,VT,1052.0
+2022-06,Virginia,VA,14142.0
+2022-06,Washington,WA,13066.0
+2022-06,West Virginia,WV,1938.0
+2022-06,Wisconsin,WI,8192.0
+2022-06,Wyoming,WY,1126.0
+2022-07,Alabama,AL,7636.0
+2022-07,Alaska,AK,1260.0
+2022-07,Arizona,AZ,13672.0
+2022-07,Arkansas,AR,4624.0
+2022-07,California,CA,37416.0
+2022-07,Colorado,CO,11720.0
+2022-07,Connecticut,CT,4316.0
+2022-07,Delaware,DE,1508.0
+2022-07,District of Columbia,DC,956.0
+2022-07,Florida,FL,46184.0
+2022-07,Georgia,GA,17260.0
+2022-07,Hawaii,HI,1568.0
+2022-07,Idaho,ID,4084.0
+2022-07,Illinois,IL,16576.0
+2022-07,Indiana,IN,9648.0
+2022-07,Iowa,IA,4216.0
+2022-07,Kansas,KS,4112.0
+2022-07,Kentucky,KY,5484.0
+2022-07,Louisiana,LA,5080.0
+2022-07,Maine,ME,2444.0
+2022-07,Maryland,MD,8752.0
+2022-07,Massachusetts,MA,7684.0
+2022-07,Michigan,MI,15668.0
+2022-07,Minnesota,MN,8924.0
+2022-07,Mississippi,MS,2916.0
+2022-07,Missouri,MO,9448.0
+2022-07,Montana,MT,1896.0
+2022-07,Nebraska,NE,2496.0
+2022-07,Nevada,NV,6740.0
+2022-07,New Hampshire,NH,2004.0
+2022-07,New Jersey,NJ,11404.0
+2022-07,New Mexico,NM,2592.0
+2022-07,New York,NY,16948.0
+2022-07,North Carolina,NC,16648.0
+2022-07,North Dakota,ND,972.0
+2022-07,Ohio,OH,15584.0
+2022-07,Oklahoma,OK,6352.0
+2022-07,Oregon,OR,6596.0
+2022-07,Pennsylvania,PA,15056.0
+2022-07,Rhode Island,RI,1228.0
+2022-07,South Carolina,SC,9952.0
+2022-07,South Dakota,SD,1228.0
+2022-07,Tennessee,TN,12788.0
+2022-07,Texas,TX,45276.0
+2022-07,Utah,UT,5512.0
+2022-07,Vermont,VT,844.0
+2022-07,Virginia,VA,12348.0
+2022-07,Washington,WA,11460.0
+2022-07,West Virginia,WV,1640.0
+2022-07,Wisconsin,WI,7216.0
+2022-07,Wyoming,WY,1040.0
+2022-08,Alabama,AL,6882.0
+2022-08,Alaska,AK,964.0
+2022-08,Arizona,AZ,11816.0
+2022-08,Arkansas,AR,3926.0
+2022-08,California,CA,33570.0
+2022-08,Colorado,CO,9974.0
+2022-08,Connecticut,CT,3804.0
+2022-08,Delaware,DE,1406.0
+2022-08,District of Columbia,DC,758.0
+2022-08,Florida,FL,41680.0
+2022-08,Georgia,GA,15892.0
+2022-08,Hawaii,HI,1436.0
+2022-08,Idaho,ID,3510.0
+2022-08,Illinois,IL,14048.0
+2022-08,Indiana,IN,9022.0
+2022-08,Iowa,IA,3826.0
+2022-08,Kansas,KS,3646.0
+2022-08,Kentucky,KY,4892.0
+2022-08,Louisiana,LA,4632.0
+2022-08,Maine,ME,2124.0
+2022-08,Maryland,MD,7568.0
+2022-08,Massachusetts,MA,6464.0
+2022-08,Michigan,MI,14186.0
+2022-08,Minnesota,MN,8234.0
+2022-08,Mississippi,MS,2740.0
+2022-08,Missouri,MO,8776.0
+2022-08,Montana,MT,1592.0
+2022-08,Nebraska,NE,2380.0
+2022-08,Nevada,NV,5802.0
+2022-08,New Hampshire,NH,1872.0
+2022-08,New Jersey,NJ,9782.0
+2022-08,New Mexico,NM,2354.0
+2022-08,New York,NY,15514.0
+2022-08,North Carolina,NC,17066.0
+2022-08,North Dakota,ND,930.0
+2022-08,Ohio,OH,13862.0
+2022-08,Oklahoma,OK,5384.0
+2022-08,Oregon,OR,5606.0
+2022-08,Pennsylvania,PA,13452.0
+2022-08,Rhode Island,RI,1084.0
+2022-08,South Carolina,SC,9390.0
+2022-08,South Dakota,SD,1056.0
+2022-08,Tennessee,TN,11646.0
+2022-08,Texas,TX,38994.0
+2022-08,Utah,UT,5056.0
+2022-08,Vermont,VT,828.0
+2022-08,Virginia,VA,10480.0
+2022-08,Washington,WA,9544.0
+2022-08,West Virginia,WV,1722.0
+2022-08,Wisconsin,WI,6298.0
+2022-08,Wyoming,WY,950.0
+2022-09,Alabama,AL,7778.0
+2022-09,Alaska,AK,850.0
+2022-09,Arizona,AZ,11090.0
+2022-09,Arkansas,AR,3674.0
+2022-09,California,CA,31290.0
+2022-09,Colorado,CO,8876.0
+2022-09,Connecticut,CT,3614.0
+2022-09,Delaware,DE,1398.0
+2022-09,District of Columbia,DC,1226.0
+2022-09,Florida,FL,41008.0
+2022-09,Georgia,GA,14916.0
+2022-09,Hawaii,HI,1458.0
+2022-09,Idaho,ID,2976.0
+2022-09,Illinois,IL,13428.0
+2022-09,Indiana,IN,8790.0
+2022-09,Iowa,IA,3976.0
+2022-09,Kansas,KS,3384.0
+2022-09,Kentucky,KY,4626.0
+2022-09,Louisiana,LA,4520.0
+2022-09,Maine,ME,2046.0
+2022-09,Maryland,MD,7170.0
+2022-09,Massachusetts,MA,7508.0
+2022-09,Michigan,MI,12698.0
+2022-09,Minnesota,MN,7418.0
+2022-09,Mississippi,MS,2720.0
+2022-09,Missouri,MO,8196.0
+2022-09,Montana,MT,1458.0
+2022-09,Nebraska,NE,1986.0
+2022-09,Nevada,NV,5232.0
+2022-09,New Hampshire,NH,1762.0
+2022-09,New Jersey,NJ,9414.0
+2022-09,New Mexico,NM,2222.0
+2022-09,New York,NY,18376.0
+2022-09,North Carolina,NC,14484.0
+2022-09,North Dakota,ND,862.0
+2022-09,Ohio,OH,13184.0
+2022-09,Oklahoma,OK,4940.0
+2022-09,Oregon,OR,5320.0
+2022-09,Pennsylvania,PA,13388.0
+2022-09,Rhode Island,RI,1006.0
+2022-09,South Carolina,SC,9224.0
+2022-09,South Dakota,SD,966.0
+2022-09,Tennessee,TN,10814.0
+2022-09,Texas,TX,35946.0
+2022-09,Utah,UT,4582.0
+2022-09,Vermont,VT,844.0
+2022-09,Virginia,VA,10192.0
+2022-09,Washington,WA,8466.0
+2022-09,West Virginia,WV,1578.0
+2022-09,Wisconsin,WI,5958.0
+2022-09,Wyoming,WY,856.0
+2022-10,Alabama,AL,6124.0
+2022-10,Alaska,AK,640.0
+2022-10,Arizona,AZ,10520.0
+2022-10,Arkansas,AR,3768.0
+2022-10,California,CA,27812.0
+2022-10,Colorado,CO,7896.0
+2022-10,Connecticut,CT,3460.0
+2022-10,Delaware,DE,1200.0
+2022-10,District of Columbia,DC,868.0
+2022-10,Florida,FL,35460.0
+2022-10,Georgia,GA,14372.0
+2022-10,Hawaii,HI,1344.0
+2022-10,Idaho,ID,2704.0
+2022-10,Illinois,IL,12184.0
+2022-10,Indiana,IN,7784.0
+2022-10,Iowa,IA,3536.0
+2022-10,Kansas,KS,3472.0
+2022-10,Kentucky,KY,4276.0
+2022-10,Louisiana,LA,4024.0
+2022-10,Maine,ME,1608.0
+2022-10,Maryland,MD,6980.0
+2022-10,Massachusetts,MA,6316.0
+2022-10,Michigan,MI,12008.0
+2022-10,Minnesota,MN,6544.0
+2022-10,Mississippi,MS,2396.0
+2022-10,Missouri,MO,7772.0
+2022-10,Montana,MT,1252.0
+2022-10,Nebraska,NE,1992.0
+2022-10,Nevada,NV,4304.0
+2022-10,New Hampshire,NH,1504.0
+2022-10,New Jersey,NJ,8472.0
+2022-10,New Mexico,NM,2004.0
+2022-10,New York,NY,14872.0
+2022-10,North Carolina,NC,12792.0
+2022-10,North Dakota,ND,796.0
+2022-10,Ohio,OH,12528.0
+2022-10,Oklahoma,OK,4768.0
+2022-10,Oregon,OR,4664.0
+2022-10,Pennsylvania,PA,12352.0
+2022-10,Rhode Island,RI,944.0
+2022-10,South Carolina,SC,7804.0
+2022-10,South Dakota,SD,820.0
+2022-10,Tennessee,TN,9772.0
+2022-10,Texas,TX,34532.0
+2022-10,Utah,UT,3788.0
+2022-10,Vermont,VT,676.0
+2022-10,Virginia,VA,9072.0
+2022-10,Washington,WA,7476.0
+2022-10,West Virginia,WV,1544.0
+2022-10,Wisconsin,WI,5548.0
+2022-10,Wyoming,WY,672.0
+2022-11,Alabama,AL,5210.0
+2022-11,Alaska,AK,422.0
+2022-11,Arizona,AZ,8128.0
+2022-11,Arkansas,AR,3146.0
+2022-11,California,CA,21996.0
+2022-11,Colorado,CO,5714.0
+2022-11,Connecticut,CT,2598.0
+2022-11,Delaware,DE,1082.0
+2022-11,District of Columbia,DC,678.0
+2022-11,Florida,FL,33738.0
+2022-11,Georgia,GA,11726.0
+2022-11,Hawaii,HI,1346.0
+2022-11,Idaho,ID,2088.0
+2022-11,Illinois,IL,9654.0
+2022-11,Indiana,IN,6596.0
+2022-11,Iowa,IA,2822.0
+2022-11,Kansas,KS,2586.0
+2022-11,Kentucky,KY,3622.0
+2022-11,Louisiana,LA,3414.0
+2022-11,Maine,ME,1250.0
+2022-11,Maryland,MD,5730.0
+2022-11,Massachusetts,MA,4798.0
+2022-11,Michigan,MI,9422.0
+2022-11,Minnesota,MN,4290.0
+2022-11,Mississippi,MS,2198.0
+2022-11,Missouri,MO,6180.0
+2022-11,Montana,MT,916.0
+2022-11,Nebraska,NE,1580.0
+2022-11,Nevada,NV,3314.0
+2022-11,New Hampshire,NH,1202.0
+2022-11,New Jersey,NJ,6950.0
+2022-11,New Mexico,NM,1738.0
+2022-11,New York,NY,11132.0
+2022-11,North Carolina,NC,11046.0
+2022-11,North Dakota,ND,546.0
+2022-11,Ohio,OH,10130.0
+2022-11,Oklahoma,OK,3974.0
+2022-11,Oregon,OR,3344.0
+2022-11,Pennsylvania,PA,10094.0
+2022-11,Rhode Island,RI,856.0
+2022-11,South Carolina,SC,7062.0
+2022-11,South Dakota,SD,616.0
+2022-11,Tennessee,TN,8456.0
+2022-11,Texas,TX,28706.0
+2022-11,Utah,UT,3068.0
+2022-11,Vermont,VT,456.0
+2022-11,Virginia,VA,7526.0
+2022-11,Washington,WA,5174.0
+2022-11,West Virginia,WV,1282.0
+2022-11,Wisconsin,WI,3940.0
+2022-11,Wyoming,WY,550.0
+2022-12,Alabama,AL,4064.0
+2022-12,Alaska,AK,308.0
+2022-12,Arizona,AZ,6712.0
+2022-12,Arkansas,AR,2488.0
+2022-12,California,CA,14892.0
+2022-12,Colorado,CO,3752.0
+2022-12,Connecticut,CT,1804.0
+2022-12,Delaware,DE,704.0
+2022-12,District of Columbia,DC,372.0
+2022-12,Florida,FL,29752.0
+2022-12,Georgia,GA,9300.0
+2022-12,Hawaii,HI,1116.0
+2022-12,Idaho,ID,1520.0
+2022-12,Illinois,IL,6380.0
+2022-12,Indiana,IN,4792.0
+2022-12,Iowa,IA,1976.0
+2022-12,Kansas,KS,1740.0
+2022-12,Kentucky,KY,2520.0
+2022-12,Louisiana,LA,2632.0
+2022-12,Maine,ME,876.0
+2022-12,Maryland,MD,3980.0
+2022-12,Massachusetts,MA,2672.0
+2022-12,Michigan,MI,6612.0
+2022-12,Minnesota,MN,2916.0
+2022-12,Mississippi,MS,1652.0
+2022-12,Missouri,MO,4104.0
+2022-12,Montana,MT,588.0
+2022-12,Nebraska,NE,1100.0
+2022-12,Nevada,NV,2544.0
+2022-12,New Hampshire,NH,784.0
+2022-12,New Jersey,NJ,4796.0
+2022-12,New Mexico,NM,1380.0
+2022-12,New York,NY,7100.0
+2022-12,North Carolina,NC,8276.0
+2022-12,North Dakota,ND,308.0
+2022-12,Ohio,OH,7028.0
+2022-12,Oklahoma,OK,3164.0
+2022-12,Oregon,OR,2072.0
+2022-12,Pennsylvania,PA,6672.0
+2022-12,Rhode Island,RI,544.0
+2022-12,South Carolina,SC,5140.0
+2022-12,South Dakota,SD,460.0
+2022-12,Tennessee,TN,5892.0
+2022-12,Texas,TX,22548.0
+2022-12,Utah,UT,2152.0
+2022-12,Vermont,VT,292.0
+2022-12,Virginia,VA,5484.0
+2022-12,Washington,WA,3032.0
+2022-12,West Virginia,WV,932.0
+2022-12,Wisconsin,WI,2480.0
+2022-12,Wyoming,WY,416.0
+2023-01,Alabama,AL,5384.0
+2023-01,Alaska,AK,448.0
+2023-01,Arizona,AZ,9412.0
+2023-01,Arkansas,AR,3074.0
+2023-01,California,CA,21082.0
+2023-01,Colorado,CO,5700.0
+2023-01,Connecticut,CT,2278.0
+2023-01,Delaware,DE,944.0
+2023-01,District of Columbia,DC,720.0
+2023-01,Florida,FL,39734.0
+2023-01,Georgia,GA,11096.0
+2023-01,Hawaii,HI,1174.0
+2023-01,Idaho,ID,2020.0
+2023-01,Illinois,IL,9156.0
+2023-01,Indiana,IN,5172.0
+2023-01,Iowa,IA,2406.0
+2023-01,Kansas,KS,2304.0
+2023-01,Kentucky,KY,3404.0
+2023-01,Louisiana,LA,3794.0
+2023-01,Maine,ME,832.0
+2023-01,Maryland,MD,4806.0
+2023-01,Massachusetts,MA,3944.0
+2023-01,Michigan,MI,7788.0
+2023-01,Minnesota,MN,3672.0
+2023-01,Mississippi,MS,2096.0
+2023-01,Missouri,MO,5290.0
+2023-01,Montana,MT,874.0
+2023-01,Nebraska,NE,1358.0
+2023-01,Nevada,NV,3340.0
+2023-01,New Hampshire,NH,862.0
+2023-01,New Jersey,NJ,6472.0
+2023-01,New Mexico,NM,1496.0
+2023-01,New York,NY,10026.0
+2023-01,North Carolina,NC,10836.0
+2023-01,North Dakota,ND,460.0
+2023-01,Ohio,OH,8104.0
+2023-01,Oklahoma,OK,3942.0
+2023-01,Oregon,OR,3164.0
+2023-01,Pennsylvania,PA,8534.0
+2023-01,Rhode Island,RI,582.0
+2023-01,South Carolina,SC,7050.0
+2023-01,South Dakota,SD,514.0
+2023-01,Tennessee,TN,8086.0
+2023-01,Texas,TX,29828.0
+2023-01,Utah,UT,2992.0
+2023-01,Vermont,VT,364.0
+2023-01,Virginia,VA,7008.0
+2023-01,Washington,WA,4872.0
+2023-01,West Virginia,WV,1126.0
+2023-01,Wisconsin,WI,3074.0
+2023-01,Wyoming,WY,478.0
+2023-02,Alabama,AL,5650.0
+2023-02,Alaska,AK,562.0
+2023-02,Arizona,AZ,9552.0
+2023-02,Arkansas,AR,3220.0
+2023-02,California,CA,23692.0
+2023-02,Colorado,CO,6648.0
+2023-02,Connecticut,CT,2546.0
+2023-02,Delaware,DE,1026.0
+2023-02,District of Columbia,DC,728.0
+2023-02,Florida,FL,40160.0
+2023-02,Georgia,GA,12146.0
+2023-02,Hawaii,HI,1248.0
+2023-02,Idaho,ID,2204.0
+2023-02,Illinois,IL,9998.0
+2023-02,Indiana,IN,5878.0
+2023-02,Iowa,IA,2530.0
+2023-02,Kansas,KS,2372.0
+2023-02,Kentucky,KY,3556.0
+2023-02,Louisiana,LA,3706.0
+2023-02,Maine,ME,842.0
+2023-02,Maryland,MD,5440.0
+2023-02,Massachusetts,MA,4200.0
+2023-02,Michigan,MI,7570.0
+2023-02,Minnesota,MN,4170.0
+2023-02,Mississippi,MS,2136.0
+2023-02,Missouri,MO,5784.0
+2023-02,Montana,MT,902.0
+2023-02,Nebraska,NE,1508.0
+2023-02,Nevada,NV,3540.0
+2023-02,New Hampshire,NH,886.0
+2023-02,New Jersey,NJ,7298.0
+2023-02,New Mexico,NM,1592.0
+2023-02,New York,NY,11474.0
+2023-02,North Carolina,NC,11274.0
+2023-02,North Dakota,ND,458.0
+2023-02,Ohio,OH,8834.0
+2023-02,Oklahoma,OK,4000.0
+2023-02,Oregon,OR,3748.0
+2023-02,Pennsylvania,PA,9270.0
+2023-02,Rhode Island,RI,670.0
+2023-02,South Carolina,SC,7424.0
+2023-02,South Dakota,SD,486.0
+2023-02,Tennessee,TN,8102.0
+2023-02,Texas,TX,30758.0
+2023-02,Utah,UT,3340.0
+2023-02,Vermont,VT,430.0
+2023-02,Virginia,VA,7666.0
+2023-02,Washington,WA,5298.0
+2023-02,West Virginia,WV,1212.0
+2023-02,Wisconsin,WI,3602.0
+2023-02,Wyoming,WY,546.0
+2023-03,Alabama,AL,6320.0
+2023-03,Alaska,AK,782.0
+2023-03,Arizona,AZ,9270.0
+2023-03,Arkansas,AR,3462.0
+2023-03,California,CA,24118.0
+2023-03,Colorado,CO,7896.0
+2023-03,Connecticut,CT,2886.0
+2023-03,Delaware,DE,1182.0
+2023-03,District of Columbia,DC,1004.0
+2023-03,Florida,FL,41006.0
+2023-03,Georgia,GA,13824.0
+2023-03,Hawaii,HI,1256.0
+2023-03,Idaho,ID,2620.0
+2023-03,Illinois,IL,11852.0
+2023-03,Indiana,IN,6650.0
+2023-03,Iowa,IA,3420.0
+2023-03,Kansas,KS,3054.0
+2023-03,Kentucky,KY,3870.0
+2023-03,Louisiana,LA,4520.0
+2023-03,Maine,ME,1126.0
+2023-03,Maryland,MD,6364.0
+2023-03,Massachusetts,MA,5428.0
+2023-03,Michigan,MI,8966.0
+2023-03,Minnesota,MN,5606.0
+2023-03,Mississippi,MS,2656.0
+2023-03,Missouri,MO,7012.0
+2023-03,Montana,MT,1072.0
+2023-03,Nebraska,NE,1888.0
+2023-03,Nevada,NV,3682.0
+2023-03,New Hampshire,NH,1062.0
+2023-03,New Jersey,NJ,8120.0
+2023-03,New Mexico,NM,1902.0
+2023-03,New York,NY,13612.0
+2023-03,North Carolina,NC,13342.0
+2023-03,North Dakota,ND,558.0
+2023-03,Ohio,OH,10396.0
+2023-03,Oklahoma,OK,4422.0
+2023-03,Oregon,OR,4338.0
+2023-03,Pennsylvania,PA,11346.0
+2023-03,Rhode Island,RI,692.0
+2023-03,South Carolina,SC,8566.0
+2023-03,South Dakota,SD,770.0
+2023-03,Tennessee,TN,9534.0
+2023-03,Texas,TX,33792.0
+2023-03,Utah,UT,3552.0
+2023-03,Vermont,VT,456.0
+2023-03,Virginia,VA,9164.0
+2023-03,Washington,WA,7128.0
+2023-03,West Virginia,WV,1314.0
+2023-03,Wisconsin,WI,4296.0
+2023-03,Wyoming,WY,578.0
+2023-04,Alabama,AL,6380.0
+2023-04,Alaska,AK,796.0
+2023-04,Arizona,AZ,9464.0
+2023-04,Arkansas,AR,3756.0
+2023-04,California,CA,28032.0
+2023-04,Colorado,CO,9356.0
+2023-04,Connecticut,CT,3540.0
+2023-04,Delaware,DE,1240.0
+2023-04,District of Columbia,DC,1008.0
+2023-04,Florida,FL,40440.0
+2023-04,Georgia,GA,13724.0
+2023-04,Hawaii,HI,1320.0
+2023-04,Idaho,ID,3008.0
+2023-04,Illinois,IL,13164.0
+2023-04,Indiana,IN,8112.0
+2023-04,Iowa,IA,3908.0
+2023-04,Kansas,KS,3568.0
+2023-04,Kentucky,KY,4444.0
+2023-04,Louisiana,LA,4620.0
+2023-04,Maine,ME,1436.0
+2023-04,Maryland,MD,7304.0
+2023-04,Massachusetts,MA,6752.0
+2023-04,Michigan,MI,11548.0
+2023-04,Minnesota,MN,7432.0
+2023-04,Mississippi,MS,2508.0
+2023-04,Missouri,MO,7744.0
+2023-04,Montana,MT,1432.0
+2023-04,Nebraska,NE,2196.0
+2023-04,Nevada,NV,4084.0
+2023-04,New Hampshire,NH,1444.0
+2023-04,New Jersey,NJ,9284.0
+2023-04,New Mexico,NM,1944.0
+2023-04,New York,NY,15048.0
+2023-04,North Carolina,NC,14144.0
+2023-04,North Dakota,ND,800.0
+2023-04,Ohio,OH,12096.0
+2023-04,Oklahoma,OK,5196.0
+2023-04,Oregon,OR,5080.0
+2023-04,Pennsylvania,PA,12928.0
+2023-04,Rhode Island,RI,960.0
+2023-04,South Carolina,SC,8432.0
+2023-04,South Dakota,SD,1036.0
+2023-04,Tennessee,TN,10236.0
+2023-04,Texas,TX,36492.0
+2023-04,Utah,UT,4200.0
+2023-04,Vermont,VT,556.0
+2023-04,Virginia,VA,10348.0
+2023-04,Washington,WA,7612.0
+2023-04,West Virginia,WV,1556.0
+2023-04,Wisconsin,WI,5380.0
+2023-04,Wyoming,WY,788.0
+2023-05,Alabama,AL,6598.0
+2023-05,Alaska,AK,912.0
+2023-05,Arizona,AZ,9498.0
+2023-05,Arkansas,AR,3948.0
+2023-05,California,CA,30946.0
+2023-05,Colorado,CO,10060.0
+2023-05,Connecticut,CT,5006.0
+2023-05,Delaware,DE,1282.0
+2023-05,District of Columbia,DC,954.0
+2023-05,Florida,FL,39012.0
+2023-05,Georgia,GA,14692.0
+2023-05,Hawaii,HI,1354.0
+2023-05,Idaho,ID,3700.0
+2023-05,Illinois,IL,14242.0
+2023-05,Indiana,IN,8378.0
+2023-05,Iowa,IA,4156.0
+2023-05,Kansas,KS,3636.0
+2023-05,Kentucky,KY,4420.0
+2023-05,Louisiana,LA,4488.0
+2023-05,Maine,ME,1930.0
+2023-05,Maryland,MD,7600.0
+2023-05,Massachusetts,MA,7146.0
+2023-05,Michigan,MI,12710.0
+2023-05,Minnesota,MN,8748.0
+2023-05,Mississippi,MS,2734.0
+2023-05,Missouri,MO,8268.0
+2023-05,Montana,MT,1778.0
+2023-05,Nebraska,NE,2426.0
+2023-05,Nevada,NV,3924.0
+2023-05,New Hampshire,NH,1822.0
+2023-05,New Jersey,NJ,9264.0
+2023-05,New Mexico,NM,2300.0
+2023-05,New York,NY,17144.0
+2023-05,North Carolina,NC,14584.0
+2023-05,North Dakota,ND,990.0
+2023-05,Ohio,OH,12844.0
+2023-05,Oklahoma,OK,5158.0
+2023-05,Oregon,OR,5970.0
+2023-05,Pennsylvania,PA,13300.0
+2023-05,Rhode Island,RI,1032.0
+2023-05,South Carolina,SC,9122.0
+2023-05,South Dakota,SD,1308.0
+2023-05,Tennessee,TN,10248.0
+2023-05,Texas,TX,38758.0
+2023-05,Utah,UT,4580.0
+2023-05,Vermont,VT,804.0
+2023-05,Virginia,VA,11002.0
+2023-05,Washington,WA,9032.0
+2023-05,West Virginia,WV,1644.0
+2023-05,Wisconsin,WI,6282.0
+2023-05,Wyoming,WY,938.0
+2023-06,Alabama,AL,6668.0
+2023-06,Alaska,AK,1084.0
+2023-06,Arizona,AZ,8654.0
+2023-06,Arkansas,AR,3810.0
+2023-06,California,CA,29314.0
+2023-06,Colorado,CO,10438.0
+2023-06,Connecticut,CT,3748.0
+2023-06,Delaware,DE,1216.0
+2023-06,District of Columbia,DC,982.0
+2023-06,Florida,FL,37172.0
+2023-06,Georgia,GA,14512.0
+2023-06,Hawaii,HI,1372.0
+2023-06,Idaho,ID,3402.0
+2023-06,Illinois,IL,14156.0
+2023-06,Indiana,IN,8384.0
+2023-06,Iowa,IA,4016.0
+2023-06,Kansas,KS,3724.0
+2023-06,Kentucky,KY,4580.0
+2023-06,Louisiana,LA,4542.0
+2023-06,Maine,ME,2018.0
+2023-06,Maryland,MD,7150.0
+2023-06,Massachusetts,MA,7282.0
+2023-06,Michigan,MI,13146.0
+2023-06,Minnesota,MN,8990.0
+2023-06,Mississippi,MS,2754.0
+2023-06,Missouri,MO,8240.0
+2023-06,Montana,MT,1884.0
+2023-06,Nebraska,NE,2440.0
+2023-06,Nevada,NV,3846.0
+2023-06,New Hampshire,NH,1916.0
+2023-06,New Jersey,NJ,9334.0
+2023-06,New Mexico,NM,2264.0
+2023-06,New York,NY,15818.0
+2023-06,North Carolina,NC,13942.0
+2023-06,North Dakota,ND,972.0
+2023-06,Ohio,OH,13066.0
+2023-06,Oklahoma,OK,4952.0
+2023-06,Oregon,OR,6014.0
+2023-06,Pennsylvania,PA,13030.0
+2023-06,Rhode Island,RI,1000.0
+2023-06,South Carolina,SC,8418.0
+2023-06,South Dakota,SD,1178.0
+2023-06,Tennessee,TN,10484.0
+2023-06,Texas,TX,40106.0
+2023-06,Utah,UT,4434.0
+2023-06,Vermont,VT,776.0
+2023-06,Virginia,VA,10062.0
+2023-06,Washington,WA,8838.0
+2023-06,West Virginia,WV,1616.0
+2023-06,Wisconsin,WI,6646.0
+2023-06,Wyoming,WY,934.0
+2023-07,Alabama,AL,6672.0
+2023-07,Alaska,AK,1128.0
+2023-07,Arizona,AZ,8284.0
+2023-07,Arkansas,AR,3860.0
+2023-07,California,CA,27340.0
+2023-07,Colorado,CO,9152.0
+2023-07,Connecticut,CT,3252.0
+2023-07,Delaware,DE,1268.0
+2023-07,District of Columbia,DC,812.0
+2023-07,Florida,FL,37508.0
+2023-07,Georgia,GA,14472.0
+2023-07,Hawaii,HI,1264.0
+2023-07,Idaho,ID,3180.0
+2023-07,Illinois,IL,13716.0
+2023-07,Indiana,IN,8216.0
+2023-07,Iowa,IA,4060.0
+2023-07,Kansas,KS,3424.0
+2023-07,Kentucky,KY,4600.0
+2023-07,Louisiana,LA,4532.0
+2023-07,Maine,ME,2140.0
+2023-07,Maryland,MD,6728.0
+2023-07,Massachusetts,MA,5540.0
+2023-07,Michigan,MI,12896.0
+2023-07,Minnesota,MN,8196.0
+2023-07,Mississippi,MS,2696.0
+2023-07,Missouri,MO,8248.0
+2023-07,Montana,MT,1764.0
+2023-07,Nebraska,NE,2292.0
+2023-07,Nevada,NV,3872.0
+2023-07,New Hampshire,NH,1680.0
+2023-07,New Jersey,NJ,8736.0
+2023-07,New Mexico,NM,2216.0
+2023-07,New York,NY,13804.0
+2023-07,North Carolina,NC,13548.0
+2023-07,North Dakota,ND,892.0
+2023-07,Ohio,OH,12440.0
+2023-07,Oklahoma,OK,5288.0
+2023-07,Oregon,OR,5260.0
+2023-07,Pennsylvania,PA,12572.0
+2023-07,Rhode Island,RI,904.0
+2023-07,South Carolina,SC,8400.0
+2023-07,South Dakota,SD,1112.0
+2023-07,Tennessee,TN,10148.0
+2023-07,Texas,TX,38824.0
+2023-07,Utah,UT,4196.0
+2023-07,Vermont,VT,688.0
+2023-07,Virginia,VA,9768.0
+2023-07,Washington,WA,7764.0
+2023-07,West Virginia,WV,1624.0
+2023-07,Wisconsin,WI,6184.0
+2023-07,Wyoming,WY,872.0
+2023-08,Alabama,AL,6636.0
+2023-08,Alaska,AK,1008.0
+2023-08,Arizona,AZ,12084.0
+2023-08,Arkansas,AR,3966.0
+2023-08,California,CA,26904.0
+2023-08,Colorado,CO,9012.0
+2023-08,Connecticut,CT,3284.0
+2023-08,Delaware,DE,1226.0
+2023-08,District of Columbia,DC,704.0
+2023-08,Florida,FL,39098.0
+2023-08,Georgia,GA,13920.0
+2023-08,Hawaii,HI,1242.0
+2023-08,Idaho,ID,3060.0
+2023-08,Illinois,IL,13250.0
+2023-08,Indiana,IN,8150.0
+2023-08,Iowa,IA,3870.0
+2023-08,Kansas,KS,3218.0
+2023-08,Kentucky,KY,4380.0
+2023-08,Louisiana,LA,4334.0
+2023-08,Maine,ME,2190.0
+2023-08,Maryland,MD,6646.0
+2023-08,Massachusetts,MA,5766.0
+2023-08,Michigan,MI,12724.0
+2023-08,Minnesota,MN,8088.0
+2023-08,Mississippi,MS,2782.0
+2023-08,Missouri,MO,7964.0
+2023-08,Montana,MT,1550.0
+2023-08,Nebraska,NE,2180.0
+2023-08,Nevada,NV,3954.0
+2023-08,New Hampshire,NH,1660.0
+2023-08,New Jersey,NJ,8542.0
+2023-08,New Mexico,NM,2178.0
+2023-08,New York,NY,14036.0
+2023-08,North Carolina,NC,13502.0
+2023-08,North Dakota,ND,868.0
+2023-08,Ohio,OH,11804.0
+2023-08,Oklahoma,OK,5112.0
+2023-08,Oregon,OR,5308.0
+2023-08,Pennsylvania,PA,12520.0
+2023-08,Rhode Island,RI,1008.0
+2023-08,South Carolina,SC,8456.0
+2023-08,South Dakota,SD,958.0
+2023-08,Tennessee,TN,9644.0
+2023-08,Texas,TX,34346.0
+2023-08,Utah,UT,4348.0
+2023-08,Vermont,VT,788.0
+2023-08,Virginia,VA,9050.0
+2023-08,Washington,WA,7586.0
+2023-08,West Virginia,WV,1656.0
+2023-08,Wisconsin,WI,6342.0
+2023-08,Wyoming,WY,890.0
+2023-09,Alabama,AL,6232.0
+2023-09,Alaska,AK,560.0
+2023-09,Arizona,AZ,9072.0
+2023-09,Arkansas,AR,3564.0
+2023-09,California,CA,27892.0
+2023-09,Colorado,CO,7928.0
+2023-09,Connecticut,CT,3112.0
+2023-09,Delaware,DE,1344.0
+2023-09,District of Columbia,DC,1064.0
+2023-09,Florida,FL,39304.0
+2023-09,Georgia,GA,13796.0
+2023-09,Hawaii,HI,1252.0
+2023-09,Idaho,ID,2596.0
+2023-09,Illinois,IL,12240.0
+2023-09,Indiana,IN,7912.0
+2023-09,Iowa,IA,3644.0
+2023-09,Kansas,KS,3148.0
+2023-09,Kentucky,KY,4260.0
+2023-09,Louisiana,LA,4248.0
+2023-09,Maine,ME,1944.0
+2023-09,Maryland,MD,6492.0
+2023-09,Massachusetts,MA,6552.0
+2023-09,Michigan,MI,11004.0
+2023-09,Minnesota,MN,7040.0
+2023-09,Mississippi,MS,2584.0
+2023-09,Missouri,MO,7668.0
+2023-09,Montana,MT,1304.0
+2023-09,Nebraska,NE,2216.0
+2023-09,Nevada,NV,3668.0
+2023-09,New Hampshire,NH,1700.0
+2023-09,New Jersey,NJ,8100.0
+2023-09,New Mexico,NM,1916.0
+2023-09,New York,NY,14452.0
+2023-09,North Carolina,NC,12880.0
+2023-09,North Dakota,ND,788.0
+2023-09,Ohio,OH,12232.0
+2023-09,Oklahoma,OK,4560.0
+2023-09,Oregon,OR,4692.0
+2023-09,Pennsylvania,PA,12248.0
+2023-09,Rhode Island,RI,832.0
+2023-09,South Carolina,SC,7656.0
+2023-09,South Dakota,SD,972.0
+2023-09,Tennessee,TN,10000.0
+2023-09,Texas,TX,33592.0
+2023-09,Utah,UT,4196.0
+2023-09,Vermont,VT,816.0
+2023-09,Virginia,VA,9428.0
+2023-09,Washington,WA,7044.0
+2023-09,West Virginia,WV,1568.0
+2023-09,Wisconsin,WI,5904.0
+2023-09,Wyoming,WY,832.0
+2023-10,Alabama,AL,6180.0
+2023-10,Alaska,AK,602.0
+2023-10,Arizona,AZ,9552.0
+2023-10,Arkansas,AR,3600.0
+2023-10,California,CA,26124.0
+2023-10,Colorado,CO,7106.0
+2023-10,Connecticut,CT,3124.0
+2023-10,Delaware,DE,1184.0
+2023-10,District of Columbia,DC,854.0
+2023-10,Florida,FL,40772.0
+2023-10,Georgia,GA,13358.0
+2023-10,Hawaii,HI,1296.0
+2023-10,Idaho,ID,2424.0
+2023-10,Illinois,IL,11290.0
+2023-10,Indiana,IN,7486.0
+2023-10,Iowa,IA,3448.0
+2023-10,Kansas,KS,3132.0
+2023-10,Kentucky,KY,4190.0
+2023-10,Louisiana,LA,4048.0
+2023-10,Maine,ME,1664.0
+2023-10,Maryland,MD,6470.0
+2023-10,Massachusetts,MA,6012.0
+2023-10,Michigan,MI,11036.0
+2023-10,Minnesota,MN,6352.0
+2023-10,Mississippi,MS,2510.0
+2023-10,Missouri,MO,7422.0
+2023-10,Montana,MT,1098.0
+2023-10,Nebraska,NE,2118.0
+2023-10,Nevada,NV,3376.0
+2023-10,New Hampshire,NH,1532.0
+2023-10,New Jersey,NJ,7954.0
+2023-10,New Mexico,NM,1992.0
+2023-10,New York,NY,13588.0
+2023-10,North Carolina,NC,12918.0
+2023-10,North Dakota,ND,764.0
+2023-10,Ohio,OH,11788.0
+2023-10,Oklahoma,OK,4656.0
+2023-10,Oregon,OR,3974.0
+2023-10,Pennsylvania,PA,12050.0
+2023-10,Rhode Island,RI,936.0
+2023-10,South Carolina,SC,7844.0
+2023-10,South Dakota,SD,826.0
+2023-10,Tennessee,TN,9220.0
+2023-10,Texas,TX,32684.0
+2023-10,Utah,UT,3546.0
+2023-10,Vermont,VT,652.0
+2023-10,Virginia,VA,8648.0
+2023-10,Washington,WA,6798.0
+2023-10,West Virginia,WV,1626.0
+2023-10,Wisconsin,WI,5356.0
+2023-10,Wyoming,WY,664.0
+2023-11,Alabama,AL,5328.0
+2023-11,Alaska,AK,410.0
+2023-11,Arizona,AZ,8622.0
+2023-11,Arkansas,AR,3230.0
+2023-11,California,CA,23018.0
+2023-11,Colorado,CO,5726.0
+2023-11,Connecticut,CT,2726.0
+2023-11,Delaware,DE,1128.0
+2023-11,District of Columbia,DC,566.0
+2023-11,Florida,FL,39672.0
+2023-11,Georgia,GA,12258.0
+2023-11,Hawaii,HI,1256.0
+2023-11,Idaho,ID,2052.0
+2023-11,Illinois,IL,10174.0
+2023-11,Indiana,IN,6590.0
+2023-11,Iowa,IA,3210.0
+2023-11,Kansas,KS,2834.0
+2023-11,Kentucky,KY,3790.0
+2023-11,Louisiana,LA,3560.0
+2023-11,Maine,ME,1436.0
+2023-11,Maryland,MD,5852.0
+2023-11,Massachusetts,MA,4754.0
+2023-11,Michigan,MI,9552.0
+2023-11,Minnesota,MN,4678.0
+2023-11,Mississippi,MS,2388.0
+2023-11,Missouri,MO,6680.0
+2023-11,Montana,MT,904.0
+2023-11,Nebraska,NE,1812.0
+2023-11,Nevada,NV,3066.0
+2023-11,New Hampshire,NH,1174.0
+2023-11,New Jersey,NJ,6844.0
+2023-11,New Mexico,NM,1700.0
+2023-11,New York,NY,11482.0
+2023-11,North Carolina,NC,11888.0
+2023-11,North Dakota,ND,522.0
+2023-11,Ohio,OH,10406.0
+2023-11,Oklahoma,OK,4226.0
+2023-11,Oregon,OR,3472.0
+2023-11,Pennsylvania,PA,10584.0
+2023-11,Rhode Island,RI,780.0
+2023-11,South Carolina,SC,7354.0
+2023-11,South Dakota,SD,736.0
+2023-11,Tennessee,TN,8610.0
+2023-11,Texas,TX,29576.0
+2023-11,Utah,UT,2938.0
+2023-11,Vermont,VT,480.0
+2023-11,Virginia,VA,7654.0
+2023-11,Washington,WA,5328.0
+2023-11,West Virginia,WV,1382.0
+2023-11,Wisconsin,WI,4260.0
+2023-11,Wyoming,WY,532.0
+2023-12,Alabama,AL,4368.0
+2023-12,Alaska,AK,320.0
+2023-12,Arizona,AZ,6228.0
+2023-12,Arkansas,AR,2764.0
+2023-12,California,CA,16576.0
+2023-12,Colorado,CO,3924.0
+2023-12,Connecticut,CT,1732.0
+2023-12,Delaware,DE,820.0
+2023-12,District of Columbia,DC,472.0
+2023-12,Florida,FL,33820.0
+2023-12,Georgia,GA,9072.0
+2023-12,Hawaii,HI,1276.0
+2023-12,Idaho,ID,1736.0
+2023-12,Illinois,IL,6224.0
+2023-12,Indiana,IN,4764.0
+2023-12,Iowa,IA,2140.0
+2023-12,Kansas,KS,2136.0
+2023-12,Kentucky,KY,2996.0
+2023-12,Louisiana,LA,3352.0
+2023-12,Maine,ME,788.0
+2023-12,Maryland,MD,4344.0
+2023-12,Massachusetts,MA,2864.0
+2023-12,Michigan,MI,6540.0
+2023-12,Minnesota,MN,3316.0
+2023-12,Mississippi,MS,1824.0
+2023-12,Missouri,MO,4788.0
+2023-12,Montana,MT,692.0
+2023-12,Nebraska,NE,1304.0
+2023-12,Nevada,NV,2324.0
+2023-12,New Hampshire,NH,936.0
+2023-12,New Jersey,NJ,4916.0
+2023-12,New Mexico,NM,1336.0
+2023-12,New York,NY,7592.0
+2023-12,North Carolina,NC,9136.0
+2023-12,North Dakota,ND,424.0
+2023-12,Ohio,OH,7500.0
+2023-12,Oklahoma,OK,3640.0
+2023-12,Oregon,OR,2512.0
+2023-12,Pennsylvania,PA,7392.0
+2023-12,Rhode Island,RI,508.0
+2023-12,South Carolina,SC,5860.0
+2023-12,South Dakota,SD,464.0
+2023-12,Tennessee,TN,6520.0
+2023-12,Texas,TX,23880.0
+2023-12,Utah,UT,2444.0
+2023-12,Vermont,VT,352.0
+2023-12,Virginia,VA,5520.0
+2023-12,Washington,WA,3784.0
+2023-12,West Virginia,WV,956.0
+2023-12,Wisconsin,WI,2856.0
+2023-12,Wyoming,WY,388.0
+2024-01,Alabama,AL,5286.0
+2024-01,Alaska,AK,476.0
+2024-01,Arizona,AZ,9306.0
+2024-01,Arkansas,AR,2836.0
+2024-01,California,CA,24240.0
+2024-01,Colorado,CO,6396.0
+2024-01,Connecticut,CT,2128.0
+2024-01,Delaware,DE,874.0
+2024-01,District of Columbia,DC,740.0
+2024-01,Florida,FL,45834.0
+2024-01,Georgia,GA,12490.0
+2024-01,Hawaii,HI,1370.0
+2024-01,Idaho,ID,1736.0
+2024-01,Illinois,IL,7720.0
+2024-01,Indiana,IN,4966.0
+2024-01,Iowa,IA,2328.0
+2024-01,Kansas,KS,2068.0
+2024-01,Kentucky,KY,2996.0
+2024-01,Louisiana,LA,3538.0
+2024-01,Maine,ME,950.0
+2024-01,Maryland,MD,4634.0
+2024-01,Massachusetts,MA,3820.0
+2024-01,Michigan,MI,7220.0
+2024-01,Minnesota,MN,4164.0
+2024-01,Mississippi,MS,2030.0
+2024-01,Missouri,MO,4974.0
+2024-01,Montana,MT,834.0
+2024-01,Nebraska,NE,1342.0
+2024-01,Nevada,NV,3312.0
+2024-01,New Hampshire,NH,898.0
+2024-01,New Jersey,NJ,6088.0
+2024-01,New Mexico,NM,1600.0
+2024-01,New York,NY,9844.0
+2024-01,North Carolina,NC,11576.0
+2024-01,North Dakota,ND,480.0
+2024-01,Ohio,OH,7818.0
+2024-01,Oklahoma,OK,3608.0
+2024-01,Oregon,OR,3364.0
+2024-01,Pennsylvania,PA,8010.0
+2024-01,Rhode Island,RI,608.0
+2024-01,South Carolina,SC,7680.0
+2024-01,South Dakota,SD,602.0
+2024-01,Tennessee,TN,7364.0
+2024-01,Texas,TX,29942.0
+2024-01,Utah,UT,3314.0
+2024-01,Vermont,VT,412.0
+2024-01,Virginia,VA,6904.0
+2024-01,Washington,WA,5422.0
+2024-01,West Virginia,WV,1090.0
+2024-01,Wisconsin,WI,3138.0
+2024-01,Wyoming,WY,500.0
+2024-02,Alabama,AL,6478.0
+2024-02,Alaska,AK,516.0
+2024-02,Arizona,AZ,10386.0
+2024-02,Arkansas,AR,3610.0
+2024-02,California,CA,24854.0
+2024-02,Colorado,CO,7644.0
+2024-02,Connecticut,CT,2354.0
+2024-02,Delaware,DE,1084.0
+2024-02,District of Columbia,DC,792.0
+2024-02,Florida,FL,49294.0
+2024-02,Georgia,GA,13982.0
+2024-02,Hawaii,HI,1394.0
+2024-02,Idaho,ID,2360.0
+2024-02,Illinois,IL,10782.0
+2024-02,Indiana,IN,6056.0
+2024-02,Iowa,IA,3098.0
+2024-02,Kansas,KS,2712.0
+2024-02,Kentucky,KY,3704.0
+2024-02,Louisiana,LA,4060.0
+2024-02,Maine,ME,1080.0
+2024-02,Maryland,MD,5704.0
+2024-02,Massachusetts,MA,4270.0
+2024-02,Michigan,MI,8448.0
+2024-02,Minnesota,MN,5614.0
+2024-02,Mississippi,MS,2548.0
+2024-02,Missouri,MO,6940.0
+2024-02,Montana,MT,1006.0
+2024-02,Nebraska,NE,1740.0
+2024-02,Nevada,NV,3524.0
+2024-02,New Hampshire,NH,1020.0
+2024-02,New Jersey,NJ,7262.0
+2024-02,New Mexico,NM,1750.0
+2024-02,New York,NY,11080.0
+2024-02,North Carolina,NC,13090.0
+2024-02,North Dakota,ND,642.0
+2024-02,Ohio,OH,9350.0
+2024-02,Oklahoma,OK,4438.0
+2024-02,Oregon,OR,3834.0
+2024-02,Pennsylvania,PA,9874.0
+2024-02,Rhode Island,RI,716.0
+2024-02,South Carolina,SC,8608.0
+2024-02,South Dakota,SD,692.0
+2024-02,Tennessee,TN,9482.0
+2024-02,Texas,TX,35374.0
+2024-02,Utah,UT,3684.0
+2024-02,Vermont,VT,540.0
+2024-02,Virginia,VA,8456.0
+2024-02,Washington,WA,6718.0
+2024-02,West Virginia,WV,1348.0
+2024-02,Wisconsin,WI,3992.0
+2024-02,Wyoming,WY,544.0
+2024-03,Alabama,AL,7016.0
+2024-03,Alaska,AK,684.0
+2024-03,Arizona,AZ,10556.0
+2024-03,Arkansas,AR,4136.0
+2024-03,California,CA,29588.0
+2024-03,Colorado,CO,8920.0
+2024-03,Connecticut,CT,3040.0
+2024-03,Delaware,DE,1212.0
+2024-03,District of Columbia,DC,1012.0
+2024-03,Florida,FL,48164.0
+2024-03,Georgia,GA,15212.0
+2024-03,Hawaii,HI,1460.0
+2024-03,Idaho,ID,3076.0
+2024-03,Illinois,IL,12700.0
+2024-03,Indiana,IN,6732.0
+2024-03,Iowa,IA,3984.0
+2024-03,Kansas,KS,3652.0
+2024-03,Kentucky,KY,4472.0
+2024-03,Louisiana,LA,4624.0
+2024-03,Maine,ME,1264.0
+2024-03,Maryland,MD,6824.0
+2024-03,Massachusetts,MA,5976.0
+2024-03,Michigan,MI,10092.0
+2024-03,Minnesota,MN,6880.0
+2024-03,Mississippi,MS,2948.0
+2024-03,Missouri,MO,7920.0
+2024-03,Montana,MT,1320.0
+2024-03,Nebraska,NE,2304.0
+2024-03,Nevada,NV,4032.0
+2024-03,New Hampshire,NH,1316.0
+2024-03,New Jersey,NJ,8356.0
+2024-03,New Mexico,NM,2120.0
+2024-03,New York,NY,13808.0
+2024-03,North Carolina,NC,15168.0
+2024-03,North Dakota,ND,632.0
+2024-03,Ohio,OH,11156.0
+2024-03,Oklahoma,OK,5184.0
+2024-03,Oregon,OR,4912.0
+2024-03,Pennsylvania,PA,11824.0
+2024-03,Rhode Island,RI,792.0
+2024-03,South Carolina,SC,9448.0
+2024-03,South Dakota,SD,908.0
+2024-03,Tennessee,TN,10464.0
+2024-03,Texas,TX,40712.0
+2024-03,Utah,UT,4140.0
+2024-03,Vermont,VT,564.0
+2024-03,Virginia,VA,9620.0
+2024-03,Washington,WA,8252.0
+2024-03,West Virginia,WV,1684.0
+2024-03,Wisconsin,WI,5336.0
+2024-03,Wyoming,WY,656.0
+2024-04,Alabama,AL,7592.0
+2024-04,Alaska,AK,878.0
+2024-04,Arizona,AZ,10512.0
+2024-04,Arkansas,AR,4406.0
+2024-04,California,CA,34500.0
+2024-04,Colorado,CO,10582.0
+2024-04,Connecticut,CT,3782.0
+2024-04,Delaware,DE,1330.0
+2024-04,District of Columbia,DC,1128.0
+2024-04,Florida,FL,48350.0
+2024-04,Georgia,GA,17038.0
+2024-04,Hawaii,HI,1530.0
+2024-04,Idaho,ID,3558.0
+2024-04,Illinois,IL,13946.0
+2024-04,Indiana,IN,8388.0
+2024-04,Iowa,IA,4112.0
+2024-04,Kansas,KS,3944.0
+2024-04,Kentucky,KY,4674.0
+2024-04,Louisiana,LA,5134.0
+2024-04,Maine,ME,1636.0
+2024-04,Maryland,MD,7626.0
+2024-04,Massachusetts,MA,6964.0
+2024-04,Michigan,MI,12044.0
+2024-04,Minnesota,MN,8142.0
+2024-04,Mississippi,MS,3136.0
+2024-04,Missouri,MO,9230.0
+2024-04,Montana,MT,1758.0
+2024-04,Nebraska,NE,2696.0
+2024-04,Nevada,NV,4420.0
+2024-04,New Hampshire,NH,1598.0
+2024-04,New Jersey,NJ,9392.0
+2024-04,New Mexico,NM,2308.0
+2024-04,New York,NY,15624.0
+2024-04,North Carolina,NC,15994.0
+2024-04,North Dakota,ND,1126.0
+2024-04,Ohio,OH,12384.0
+2024-04,Oklahoma,OK,5956.0
+2024-04,Oregon,OR,6062.0
+2024-04,Pennsylvania,PA,13276.0
+2024-04,Rhode Island,RI,1056.0
+2024-04,South Carolina,SC,9742.0
+2024-04,South Dakota,SD,1142.0
+2024-04,Tennessee,TN,12154.0
+2024-04,Texas,TX,45006.0
+2024-04,Utah,UT,4764.0
+2024-04,Vermont,VT,620.0
+2024-04,Virginia,VA,11466.0
+2024-04,Washington,WA,10566.0
+2024-04,West Virginia,WV,1748.0
+2024-04,Wisconsin,WI,6086.0
+2024-04,Wyoming,WY,846.0
+2024-05,Alabama,AL,7242.0
+2024-05,Alaska,AK,930.0
+2024-05,Arizona,AZ,9874.0
+2024-05,Arkansas,AR,4326.0
+2024-05,California,CA,33988.0
+2024-05,Colorado,CO,11442.0
+2024-05,Connecticut,CT,3938.0
+2024-05,Delaware,DE,1470.0
+2024-05,District of Columbia,DC,1042.0
+2024-05,Florida,FL,45014.0
+2024-05,Georgia,GA,15878.0
+2024-05,Hawaii,HI,1602.0
+2024-05,Idaho,ID,3706.0
+2024-05,Illinois,IL,13770.0
+2024-05,Indiana,IN,8552.0
+2024-05,Iowa,IA,4124.0
+2024-05,Kansas,KS,3682.0
+2024-05,Kentucky,KY,4958.0
+2024-05,Louisiana,LA,4722.0
+2024-05,Maine,ME,2218.0
+2024-05,Maryland,MD,7862.0
+2024-05,Massachusetts,MA,7762.0
+2024-05,Michigan,MI,12914.0
+2024-05,Minnesota,MN,8668.0
+2024-05,Mississippi,MS,2894.0
+2024-05,Missouri,MO,8816.0
+2024-05,Montana,MT,1912.0
+2024-05,Nebraska,NE,2470.0
+2024-05,Nevada,NV,4368.0
+2024-05,New Hampshire,NH,1986.0
+2024-05,New Jersey,NJ,9550.0
+2024-05,New Mexico,NM,2422.0
+2024-05,New York,NY,15996.0
+2024-05,North Carolina,NC,15504.0
+2024-05,North Dakota,ND,924.0
+2024-05,Ohio,OH,13124.0
+2024-05,Oklahoma,OK,5674.0
+2024-05,Oregon,OR,6182.0
+2024-05,Pennsylvania,PA,13816.0
+2024-05,Rhode Island,RI,1102.0
+2024-05,South Carolina,SC,9520.0
+2024-05,South Dakota,SD,1114.0
+2024-05,Tennessee,TN,10976.0
+2024-05,Texas,TX,42118.0
+2024-05,Utah,UT,5146.0
+2024-05,Vermont,VT,920.0
+2024-05,Virginia,VA,11384.0
+2024-05,Washington,WA,11208.0
+2024-05,West Virginia,WV,1706.0
+2024-05,Wisconsin,WI,6442.0
+2024-05,Wyoming,WY,874.0
+2024-06,Alabama,AL,7388.0
+2024-06,Alaska,AK,1136.0
+2024-06,Arizona,AZ,9288.0
+2024-06,Arkansas,AR,4424.0
+2024-06,California,CA,33064.0
+2024-06,Colorado,CO,11180.0
+2024-06,Connecticut,CT,3928.0
+2024-06,Delaware,DE,1300.0
+2024-06,District of Columbia,DC,1088.0
+2024-06,Florida,FL,42020.0
+2024-06,Georgia,GA,16608.0
+2024-06,Hawaii,HI,1528.0
+2024-06,Idaho,ID,3620.0
+2024-06,Illinois,IL,14628.0
+2024-06,Indiana,IN,8656.0
+2024-06,Iowa,IA,4276.0
+2024-06,Kansas,KS,3712.0
+2024-06,Kentucky,KY,4904.0
+2024-06,Louisiana,LA,4772.0
+2024-06,Maine,ME,2484.0
+2024-06,Maryland,MD,7680.0
+2024-06,Massachusetts,MA,7888.0
+2024-06,Michigan,MI,13268.0
+2024-06,Minnesota,MN,8304.0
+2024-06,Mississippi,MS,2972.0
+2024-06,Missouri,MO,8848.0
+2024-06,Montana,MT,1992.0
+2024-06,Nebraska,NE,2524.0
+2024-06,Nevada,NV,4404.0
+2024-06,New Hampshire,NH,2060.0
+2024-06,New Jersey,NJ,9428.0
+2024-06,New Mexico,NM,2392.0
+2024-06,New York,NY,15744.0
+2024-06,North Carolina,NC,15964.0
+2024-06,North Dakota,ND,936.0
+2024-06,Ohio,OH,13680.0
+2024-06,Oklahoma,OK,5664.0
+2024-06,Oregon,OR,5840.0
+2024-06,Pennsylvania,PA,13928.0
+2024-06,Rhode Island,RI,1160.0
+2024-06,South Carolina,SC,9256.0
+2024-06,South Dakota,SD,1176.0
+2024-06,Tennessee,TN,11748.0
+2024-06,Texas,TX,42196.0
+2024-06,Utah,UT,5132.0
+2024-06,Vermont,VT,1036.0
+2024-06,Virginia,VA,11152.0
+2024-06,Washington,WA,11040.0
+2024-06,West Virginia,WV,1776.0
+2024-06,Wisconsin,WI,6504.0
+2024-06,Wyoming,WY,996.0
+2024-07,Alabama,AL,7064.0
+2024-07,Alaska,AK,1070.0
+2024-07,Arizona,AZ,8602.0
+2024-07,Arkansas,AR,4512.0
+2024-07,California,CA,31338.0
+2024-07,Colorado,CO,10120.0
+2024-07,Connecticut,CT,3576.0
+2024-07,Delaware,DE,1268.0
+2024-07,District of Columbia,DC,822.0
+2024-07,Florida,FL,40174.0
+2024-07,Georgia,GA,15468.0
+2024-07,Hawaii,HI,1646.0
+2024-07,Idaho,ID,3404.0
+2024-07,Illinois,IL,13738.0
+2024-07,Indiana,IN,8680.0
+2024-07,Iowa,IA,3820.0
+2024-07,Kansas,KS,3720.0
+2024-07,Kentucky,KY,5134.0
+2024-07,Louisiana,LA,4510.0
+2024-07,Maine,ME,2244.0
+2024-07,Maryland,MD,6984.0
+2024-07,Massachusetts,MA,6158.0
+2024-07,Michigan,MI,13596.0
+2024-07,Minnesota,MN,8306.0
+2024-07,Mississippi,MS,2666.0
+2024-07,Missouri,MO,8772.0
+2024-07,Montana,MT,1752.0
+2024-07,Nebraska,NE,2352.0
+2024-07,Nevada,NV,4250.0
+2024-07,New Hampshire,NH,1916.0
+2024-07,New Jersey,NJ,9418.0
+2024-07,New Mexico,NM,2506.0
+2024-07,New York,NY,14362.0
+2024-07,North Carolina,NC,14360.0
+2024-07,North Dakota,ND,890.0
+2024-07,Ohio,OH,14116.0
+2024-07,Oklahoma,OK,5966.0
+2024-07,Oregon,OR,5870.0
+2024-07,Pennsylvania,PA,13404.0
+2024-07,Rhode Island,RI,1110.0
+2024-07,South Carolina,SC,8928.0
+2024-07,South Dakota,SD,1100.0
+2024-07,Tennessee,TN,10710.0
+2024-07,Texas,TX,37580.0
+2024-07,Utah,UT,4576.0
+2024-07,Vermont,VT,966.0
+2024-07,Virginia,VA,10482.0
+2024-07,Washington,WA,10058.0
+2024-07,West Virginia,WV,1676.0
+2024-07,Wisconsin,WI,6582.0
+2024-07,Wyoming,WY,940.0
+2024-08,Alabama,AL,7016.0
+2024-08,Alaska,AK,916.0
+2024-08,Arizona,AZ,8992.0
+2024-08,Arkansas,AR,4356.0
+2024-08,California,CA,30632.0
+2024-08,Colorado,CO,9296.0
+2024-08,Connecticut,CT,3132.0
+2024-08,Delaware,DE,1300.0
+2024-08,District of Columbia,DC,720.0
+2024-08,Florida,FL,40168.0
+2024-08,Georgia,GA,15040.0
+2024-08,Hawaii,HI,1464.0
+2024-08,Idaho,ID,3128.0
+2024-08,Illinois,IL,12916.0
+2024-08,Indiana,IN,8516.0
+2024-08,Iowa,IA,3824.0
+2024-08,Kansas,KS,3308.0
+2024-08,Kentucky,KY,4740.0
+2024-08,Louisiana,LA,4516.0
+2024-08,Maine,ME,2188.0
+2024-08,Maryland,MD,6796.0
+2024-08,Massachusetts,MA,5776.0
+2024-08,Michigan,MI,13236.0
+2024-08,Minnesota,MN,7536.0
+2024-08,Mississippi,MS,2604.0
+2024-08,Missouri,MO,8180.0
+2024-08,Montana,MT,1576.0
+2024-08,Nebraska,NE,2172.0
+2024-08,Nevada,NV,4388.0
+2024-08,New Hampshire,NH,1756.0
+2024-08,New Jersey,NJ,8232.0
+2024-08,New Mexico,NM,2268.0
+2024-08,New York,NY,13604.0
+2024-08,North Carolina,NC,13944.0
+2024-08,North Dakota,ND,860.0
+2024-08,Ohio,OH,13388.0
+2024-08,Oklahoma,OK,5392.0
+2024-08,Oregon,OR,5080.0
+2024-08,Pennsylvania,PA,12132.0
+2024-08,Rhode Island,RI,1028.0
+2024-08,South Carolina,SC,8756.0
+2024-08,South Dakota,SD,1044.0
+2024-08,Tennessee,TN,10696.0
+2024-08,Texas,TX,35616.0
+2024-08,Utah,UT,4532.0
+2024-08,Vermont,VT,944.0
+2024-08,Virginia,VA,9532.0
+2024-08,Washington,WA,8768.0
+2024-08,West Virginia,WV,1660.0
+2024-08,Wisconsin,WI,6544.0
+2024-08,Wyoming,WY,868.0
+2024-09,Alabama,AL,6708.0
+2024-09,Alaska,AK,756.0
+2024-09,Arizona,AZ,8806.0
+2024-09,Arkansas,AR,3812.0
+2024-09,California,CA,31644.0
+2024-09,Colorado,CO,9334.0
+2024-09,Connecticut,CT,3556.0
+2024-09,Delaware,DE,1354.0
+2024-09,District of Columbia,DC,1230.0
+2024-09,Florida,FL,38934.0
+2024-09,Georgia,GA,14252.0
+2024-09,Hawaii,HI,1458.0
+2024-09,Idaho,ID,2910.0
+2024-09,Illinois,IL,12932.0
+2024-09,Indiana,IN,8318.0
+2024-09,Iowa,IA,4044.0
+2024-09,Kansas,KS,3378.0
+2024-09,Kentucky,KY,4658.0
+2024-09,Louisiana,LA,3668.0
+2024-09,Maine,ME,2070.0
+2024-09,Maryland,MD,6938.0
+2024-09,Massachusetts,MA,7934.0
+2024-09,Michigan,MI,12008.0
+2024-09,Minnesota,MN,7508.0
+2024-09,Mississippi,MS,2616.0
+2024-09,Missouri,MO,8408.0
+2024-09,Montana,MT,1402.0
+2024-09,Nebraska,NE,2252.0
+2024-09,Nevada,NV,4188.0
+2024-09,New Hampshire,NH,1868.0
+2024-09,New Jersey,NJ,8906.0
+2024-09,New Mexico,NM,2280.0
+2024-09,New York,NY,15736.0
+2024-09,North Carolina,NC,13942.0
+2024-09,North Dakota,ND,852.0
+2024-09,Ohio,OH,12382.0
+2024-09,Oklahoma,OK,5132.0
+2024-09,Oregon,OR,4660.0
+2024-09,Pennsylvania,PA,12778.0
+2024-09,Rhode Island,RI,1042.0
+2024-09,South Carolina,SC,8088.0
+2024-09,South Dakota,SD,1000.0
+2024-09,Tennessee,TN,10740.0
+2024-09,Texas,TX,34896.0
+2024-09,Utah,UT,4348.0
+2024-09,Vermont,VT,994.0
+2024-09,Virginia,VA,9834.0
+2024-09,Washington,WA,9314.0
+2024-09,West Virginia,WV,1652.0
+2024-09,Wisconsin,WI,6070.0
+2024-09,Wyoming,WY,774.0
+2024-10,Alabama,AL,6442.0
+2024-10,Alaska,AK,624.0
+2024-10,Arizona,AZ,9992.0
+2024-10,Arkansas,AR,3630.0
+2024-10,California,CA,28958.0
+2024-10,Colorado,CO,7886.0
+2024-10,Connecticut,CT,3326.0
+2024-10,Delaware,DE,1340.0
+2024-10,District of Columbia,DC,1072.0
+2024-10,Florida,FL,41176.0
+2024-10,Georgia,GA,13418.0
+2024-10,Hawaii,HI,1456.0
+2024-10,Idaho,ID,2432.0
+2024-10,Illinois,IL,12088.0
+2024-10,Indiana,IN,7950.0
+2024-10,Iowa,IA,3966.0
+2024-10,Kansas,KS,3166.0
+2024-10,Kentucky,KY,4468.0
+2024-10,Louisiana,LA,4110.0
+2024-10,Maine,ME,1886.0
+2024-10,Maryland,MD,7726.0
+2024-10,Massachusetts,MA,6482.0
+2024-10,Michigan,MI,11044.0
+2024-10,Minnesota,MN,6594.0
+2024-10,Mississippi,MS,2444.0
+2024-10,Missouri,MO,7846.0
+2024-10,Montana,MT,1258.0
+2024-10,Nebraska,NE,2100.0
+2024-10,Nevada,NV,3960.0
+2024-10,New Hampshire,NH,1708.0
+2024-10,New Jersey,NJ,8258.0
+2024-10,New Mexico,NM,1972.0
+2024-10,New York,NY,13222.0
+2024-10,North Carolina,NC,12646.0
+2024-10,North Dakota,ND,766.0
+2024-10,Ohio,OH,12156.0
+2024-10,Oklahoma,OK,5076.0
+2024-10,Oregon,OR,4608.0
+2024-10,Pennsylvania,PA,12468.0
+2024-10,Rhode Island,RI,950.0
+2024-10,South Carolina,SC,7132.0
+2024-10,South Dakota,SD,992.0
+2024-10,Tennessee,TN,9998.0
+2024-10,Texas,TX,34116.0
+2024-10,Utah,UT,4080.0
+2024-10,Vermont,VT,758.0
+2024-10,Virginia,VA,9756.0
+2024-10,Washington,WA,7450.0
+2024-10,West Virginia,WV,1610.0
+2024-10,Wisconsin,WI,5826.0
+2024-10,Wyoming,WY,644.0
+2024-11,Alabama,AL,5684.0
+2024-11,Alaska,AK,436.0
+2024-11,Arizona,AZ,9144.0
+2024-11,Arkansas,AR,3372.0
+2024-11,California,CA,24528.0
+2024-11,Colorado,CO,5712.0
+2024-11,Connecticut,CT,2496.0
+2024-11,Delaware,DE,1128.0
+2024-11,District of Columbia,DC,700.0
+2024-11,Florida,FL,42432.0
+2024-11,Georgia,GA,12428.0
+2024-11,Hawaii,HI,1496.0
+2024-11,Idaho,ID,2284.0
+2024-11,Illinois,IL,10096.0
+2024-11,Indiana,IN,6608.0
+2024-11,Iowa,IA,3312.0
+2024-11,Kansas,KS,2660.0
+2024-11,Kentucky,KY,4040.0
+2024-11,Louisiana,LA,3720.0
+2024-11,Maine,ME,1364.0
+2024-11,Maryland,MD,5600.0
+2024-11,Massachusetts,MA,4560.0
+2024-11,Michigan,MI,9544.0
+2024-11,Minnesota,MN,4976.0
+2024-11,Mississippi,MS,2364.0
+2024-11,Missouri,MO,6412.0
+2024-11,Montana,MT,900.0
+2024-11,Nebraska,NE,1900.0
+2024-11,Nevada,NV,3552.0
+2024-11,New Hampshire,NH,1104.0
+2024-11,New Jersey,NJ,7008.0
+2024-11,New Mexico,NM,1716.0
+2024-11,New York,NY,11336.0
+2024-11,North Carolina,NC,12288.0
+2024-11,North Dakota,ND,616.0
+2024-11,Ohio,OH,10496.0
+2024-11,Oklahoma,OK,4236.0
+2024-11,Oregon,OR,3376.0
+2024-11,Pennsylvania,PA,10432.0
+2024-11,Rhode Island,RI,784.0
+2024-11,South Carolina,SC,7528.0
+2024-11,South Dakota,SD,784.0
+2024-11,Tennessee,TN,8676.0
+2024-11,Texas,TX,31564.0
+2024-11,Utah,UT,3440.0
+2024-11,Vermont,VT,452.0
+2024-11,Virginia,VA,8160.0
+2024-11,Washington,WA,5728.0
+2024-11,West Virginia,WV,1296.0
+2024-11,Wisconsin,WI,4280.0
+2024-11,Wyoming,WY,544.0
+2024-12,Alabama,AL,4756.0
+2024-12,Alaska,AK,290.0
+2024-12,Arizona,AZ,6606.0
+2024-12,Arkansas,AR,3054.0
+2024-12,California,CA,15762.0
+2024-12,Colorado,CO,4454.0
+2024-12,Connecticut,CT,1556.0
+2024-12,Delaware,DE,834.0
+2024-12,District of Columbia,DC,456.0
+2024-12,Florida,FL,36390.0
+2024-12,Georgia,GA,10444.0
+2024-12,Hawaii,HI,1366.0
+2024-12,Idaho,ID,1816.0
+2024-12,Illinois,IL,6892.0
+2024-12,Indiana,IN,4668.0
+2024-12,Iowa,IA,2188.0
+2024-12,Kansas,KS,1964.0
+2024-12,Kentucky,KY,3062.0
+2024-12,Louisiana,LA,3160.0
+2024-12,Maine,ME,844.0
+2024-12,Maryland,MD,4154.0
+2024-12,Massachusetts,MA,2442.0
+2024-12,Michigan,MI,6460.0
+2024-12,Minnesota,MN,3130.0
+2024-12,Mississippi,MS,1814.0
+2024-12,Missouri,MO,4854.0
+2024-12,Montana,MT,690.0
+2024-12,Nebraska,NE,1316.0
+2024-12,Nevada,NV,2664.0
+2024-12,New Hampshire,NH,646.0
+2024-12,New Jersey,NJ,4212.0
+2024-12,New Mexico,NM,1424.0
+2024-12,New York,NY,8038.0
+2024-12,North Carolina,NC,8766.0
+2024-12,North Dakota,ND,402.0
+2024-12,Ohio,OH,6858.0
+2024-12,Oklahoma,OK,3746.0
+2024-12,Oregon,OR,2386.0
+2024-12,Pennsylvania,PA,7046.0
+2024-12,Rhode Island,RI,462.0
+2024-12,South Carolina,SC,5886.0
+2024-12,South Dakota,SD,418.0
+2024-12,Tennessee,TN,6526.0
+2024-12,Texas,TX,25190.0
+2024-12,Utah,UT,2554.0
+2024-12,Vermont,VT,346.0
+2024-12,Virginia,VA,5888.0
+2024-12,Washington,WA,3686.0
+2024-12,West Virginia,WV,1052.0
+2024-12,Wisconsin,WI,2630.0
+2024-12,Wyoming,WY,476.0
+2025-01,Alabama,AL,5942.0
+2025-01,Alaska,AK,504.0
+2025-01,Arizona,AZ,11728.0
+2025-01,Arkansas,AR,3408.0
+2025-01,California,CA,29094.0
+2025-01,Colorado,CO,7966.0
+2025-01,Connecticut,CT,2254.0
+2025-01,Delaware,DE,856.0
+2025-01,District of Columbia,DC,802.0
+2025-01,Florida,FL,50524.0
+2025-01,Georgia,GA,13026.0
+2025-01,Hawaii,HI,1656.0
+2025-01,Idaho,ID,2508.0
+2025-01,Illinois,IL,8660.0
+2025-01,Indiana,IN,5160.0
+2025-01,Iowa,IA,2900.0
+2025-01,Kansas,KS,2146.0
+2025-01,Kentucky,KY,3128.0
+2025-01,Louisiana,LA,3516.0
+2025-01,Maine,ME,1128.0
+2025-01,Maryland,MD,4942.0
+2025-01,Massachusetts,MA,4260.0
+2025-01,Michigan,MI,7906.0
+2025-01,Minnesota,MN,4312.0
+2025-01,Mississippi,MS,2366.0
+2025-01,Missouri,MO,5378.0
+2025-01,Montana,MT,920.0
+2025-01,Nebraska,NE,1644.0
+2025-01,Nevada,NV,4016.0
+2025-01,New Hampshire,NH,1030.0
+2025-01,New Jersey,NJ,6444.0
+2025-01,New Mexico,NM,1800.0
+2025-01,New York,NY,10386.0
+2025-01,North Carolina,NC,12474.0
+2025-01,North Dakota,ND,386.0
+2025-01,Ohio,OH,7796.0
+2025-01,Oklahoma,OK,4454.0
+2025-01,Oregon,OR,3916.0
+2025-01,Pennsylvania,PA,8336.0
+2025-01,Rhode Island,RI,636.0
+2025-01,South Carolina,SC,7764.0
+2025-01,South Dakota,SD,748.0
+2025-01,Tennessee,TN,8794.0
+2025-01,Texas,TX,32934.0
+2025-01,Utah,UT,4088.0
+2025-01,Vermont,VT,458.0
+2025-01,Virginia,VA,6864.0
+2025-01,Washington,WA,6706.0
+2025-01,West Virginia,WV,1034.0
+2025-01,Wisconsin,WI,3692.0
+2025-01,Wyoming,WY,560.0
+2025-02,Alabama,AL,6694.0
+2025-02,Alaska,AK,550.0
+2025-02,Arizona,AZ,11868.0
+2025-02,Arkansas,AR,3736.0
+2025-02,California,CA,30920.0
+2025-02,Colorado,CO,8790.0
+2025-02,Connecticut,CT,2370.0
+2025-02,Delaware,DE,1218.0
+2025-02,District of Columbia,DC,846.0
+2025-02,Florida,FL,52760.0
+2025-02,Georgia,GA,14898.0
+2025-02,Hawaii,HI,1592.0
+2025-02,Idaho,ID,2696.0
+2025-02,Illinois,IL,9846.0
+2025-02,Indiana,IN,6182.0
+2025-02,Iowa,IA,2920.0
+2025-02,Kansas,KS,2594.0
+2025-02,Kentucky,KY,3722.0
+2025-02,Louisiana,LA,4156.0
+2025-02,Maine,ME,1050.0
+2025-02,Maryland,MD,5924.0
+2025-02,Massachusetts,MA,4098.0
+2025-02,Michigan,MI,7728.0
+2025-02,Minnesota,MN,5308.0
+2025-02,Mississippi,MS,2542.0
+2025-02,Missouri,MO,6896.0
+2025-02,Montana,MT,890.0
+2025-02,Nebraska,NE,1696.0
+2025-02,Nevada,NV,4148.0
+2025-02,New Hampshire,NH,976.0
+2025-02,New Jersey,NJ,6902.0
+2025-02,New Mexico,NM,2040.0
+2025-02,New York,NY,10672.0
+2025-02,North Carolina,NC,13758.0
+2025-02,North Dakota,ND,462.0
+2025-02,Ohio,OH,9356.0
+2025-02,Oklahoma,OK,4704.0
+2025-02,Oregon,OR,3812.0
+2025-02,Pennsylvania,PA,9444.0
+2025-02,Rhode Island,RI,696.0
+2025-02,South Carolina,SC,9744.0
+2025-02,South Dakota,SD,880.0
+2025-02,Tennessee,TN,9822.0
+2025-02,Texas,TX,36776.0
+2025-02,Utah,UT,4406.0
+2025-02,Vermont,VT,470.0
+2025-02,Virginia,VA,8434.0
+2025-02,Washington,WA,7090.0
+2025-02,West Virginia,WV,1144.0
+2025-02,Wisconsin,WI,4020.0
+2025-02,Wyoming,WY,594.0
+2025-03,Alabama,AL,7512.0
+2025-03,Alaska,AK,800.0
+2025-03,Arizona,AZ,12288.0
+2025-03,Arkansas,AR,4448.0
+2025-03,California,CA,34260.0
+2025-03,Colorado,CO,11420.0
+2025-03,Connecticut,CT,3292.0
+2025-03,Delaware,DE,1408.0
+2025-03,District of Columbia,DC,1180.0
+2025-03,Florida,FL,51080.0
+2025-03,Georgia,GA,17908.0
+2025-03,Hawaii,HI,1780.0
+2025-03,Idaho,ID,3356.0
+2025-03,Illinois,IL,12920.0
+2025-03,Indiana,IN,8152.0
+2025-03,Iowa,IA,3656.0
+2025-03,Kansas,KS,3508.0
+2025-03,Kentucky,KY,5008.0
+2025-03,Louisiana,LA,5032.0
+2025-03,Maine,ME,1560.0
+2025-03,Maryland,MD,8264.0
+2025-03,Massachusetts,MA,6316.0
+2025-03,Michigan,MI,10652.0
+2025-03,Minnesota,MN,7456.0
+2025-03,Mississippi,MS,2972.0
+2025-03,Missouri,MO,8928.0
+2025-03,Montana,MT,1396.0
+2025-03,Nebraska,NE,2108.0
+2025-03,Nevada,NV,4768.0
+2025-03,New Hampshire,NH,1388.0
+2025-03,New Jersey,NJ,9000.0
+2025-03,New Mexico,NM,2172.0
+2025-03,New York,NY,14776.0
+2025-03,North Carolina,NC,17296.0
+2025-03,North Dakota,ND,748.0
+2025-03,Ohio,OH,12120.0
+2025-03,Oklahoma,OK,5804.0
+2025-03,Oregon,OR,5208.0
+2025-03,Pennsylvania,PA,12940.0
+2025-03,Rhode Island,RI,924.0
+2025-03,South Carolina,SC,10504.0
+2025-03,South Dakota,SD,1008.0
+2025-03,Tennessee,TN,11816.0
+2025-03,Texas,TX,45004.0
+2025-03,Utah,UT,5348.0
+2025-03,Vermont,VT,616.0
+2025-03,Virginia,VA,11756.0
+2025-03,Washington,WA,9928.0
+2025-03,West Virginia,WV,1584.0
+2025-03,Wisconsin,WI,5224.0
+2025-03,Wyoming,WY,784.0
+2025-04,Alabama,AL,7916.0
+2025-04,Alaska,AK,896.0
+2025-04,Arizona,AZ,12760.0
+2025-04,Arkansas,AR,4814.0
+2025-04,California,CA,37638.0
+2025-04,Colorado,CO,12722.0
+2025-04,Connecticut,CT,3910.0
+2025-04,Delaware,DE,1510.0
+2025-04,District of Columbia,DC,1248.0
+2025-04,Florida,FL,49150.0
+2025-04,Georgia,GA,18032.0
+2025-04,Hawaii,HI,1794.0
+2025-04,Idaho,ID,3958.0
+2025-04,Illinois,IL,14164.0
+2025-04,Indiana,IN,8952.0
+2025-04,Iowa,IA,4876.0
+2025-04,Kansas,KS,4214.0
+2025-04,Kentucky,KY,5364.0
+2025-04,Louisiana,LA,5086.0
+2025-04,Maine,ME,1944.0
+2025-04,Maryland,MD,8552.0
+2025-04,Massachusetts,MA,8466.0
+2025-04,Michigan,MI,12404.0
+2025-04,Minnesota,MN,8668.0
+2025-04,Mississippi,MS,2982.0
+2025-04,Missouri,MO,9678.0
+2025-04,Montana,MT,1970.0
+2025-04,Nebraska,NE,2754.0
+2025-04,Nevada,NV,5138.0
+2025-04,New Hampshire,NH,1838.0
+2025-04,New Jersey,NJ,9844.0
+2025-04,New Mexico,NM,2452.0
+2025-04,New York,NY,16482.0
+2025-04,North Carolina,NC,18808.0
+2025-04,North Dakota,ND,916.0
+2025-04,Ohio,OH,13648.0
+2025-04,Oklahoma,OK,5996.0
+2025-04,Oregon,OR,6540.0
+2025-04,Pennsylvania,PA,14662.0
+2025-04,Rhode Island,RI,1124.0
+2025-04,South Carolina,SC,10908.0
+2025-04,South Dakota,SD,1322.0
+2025-04,Tennessee,TN,12772.0
+2025-04,Texas,TX,47098.0
+2025-04,Utah,UT,5540.0
+2025-04,Vermont,VT,776.0
+2025-04,Virginia,VA,13058.0
+2025-04,Washington,WA,11420.0
+2025-04,West Virginia,WV,1864.0
+2025-04,Wisconsin,WI,6630.0
+2025-04,Wyoming,WY,942.0
+2025-05,Alabama,AL,7392.0
+2025-05,Alaska,AK,1016.0
+2025-05,Arizona,AZ,10552.0
+2025-05,Arkansas,AR,4444.0
+2025-05,California,CA,36212.0
+2025-05,Colorado,CO,12452.0
+2025-05,Connecticut,CT,3976.0
+2025-05,Delaware,DE,1420.0
+2025-05,District of Columbia,DC,1112.0
+2025-05,Florida,FL,44132.0
+2025-05,Georgia,GA,17672.0
+2025-05,Hawaii,HI,1644.0
+2025-05,Idaho,ID,4140.0
+2025-05,Illinois,IL,14672.0
+2025-05,Indiana,IN,9284.0
+2025-05,Iowa,IA,4564.0
+2025-05,Kansas,KS,4072.0
+2025-05,Kentucky,KY,5196.0
+2025-05,Louisiana,LA,4996.0
+2025-05,Maine,ME,2528.0
+2025-05,Maryland,MD,8372.0
+2025-05,Massachusetts,MA,8736.0
+2025-05,Michigan,MI,13624.0
+2025-05,Minnesota,MN,9392.0
+2025-05,Mississippi,MS,2828.0
+2025-05,Missouri,MO,9668.0
+2025-05,Montana,MT,2168.0
+2025-05,Nebraska,NE,2780.0
+2025-05,Nevada,NV,5068.0
+2025-05,New Hampshire,NH,2032.0
+2025-05,New Jersey,NJ,9508.0
+2025-05,New Mexico,NM,2504.0
+2025-05,New York,NY,17184.0
+2025-05,North Carolina,NC,18416.0
+2025-05,North Dakota,ND,988.0
+2025-05,Ohio,OH,14200.0
+2025-05,Oklahoma,OK,5724.0
+2025-05,Oregon,OR,6828.0
+2025-05,Pennsylvania,PA,14336.0
+2025-05,Rhode Island,RI,1156.0
+2025-05,South Carolina,SC,10288.0
+2025-05,South Dakota,SD,1256.0
+2025-05,Tennessee,TN,12240.0
+2025-05,Texas,TX,46664.0
+2025-05,Utah,UT,5604.0
+2025-05,Vermont,VT,1004.0
+2025-05,Virginia,VA,13112.0
+2025-05,Washington,WA,12992.0
+2025-05,West Virginia,WV,1868.0
+2025-05,Wisconsin,WI,7232.0
+2025-05,Wyoming,WY,1028.0
+2025-06,Alabama,AL,7656.0
+2025-06,Alaska,AK,1072.0
+2025-06,Arizona,AZ,9880.0
+2025-06,Arkansas,AR,4664.0
+2025-06,California,CA,34762.0
+2025-06,Colorado,CO,12290.0
+2025-06,Connecticut,CT,4148.0
+2025-06,Delaware,DE,1402.0
+2025-06,District of Columbia,DC,1006.0
+2025-06,Florida,FL,41176.0
+2025-06,Georgia,GA,17098.0
+2025-06,Hawaii,HI,1948.0
+2025-06,Idaho,ID,3920.0
+2025-06,Illinois,IL,14810.0
+2025-06,Indiana,IN,9338.0
+2025-06,Iowa,IA,4504.0
+2025-06,Kansas,KS,3970.0
+2025-06,Kentucky,KY,5452.0
+2025-06,Louisiana,LA,4646.0
+2025-06,Maine,ME,2600.0
+2025-06,Maryland,MD,8122.0
+2025-06,Massachusetts,MA,8300.0
+2025-06,Michigan,MI,14548.0
+2025-06,Minnesota,MN,8894.0
+2025-06,Mississippi,MS,2900.0
+2025-06,Missouri,MO,9656.0
+2025-06,Montana,MT,2160.0
+2025-06,Nebraska,NE,2578.0
+2025-06,Nevada,NV,4694.0
+2025-06,New Hampshire,NH,2238.0
+2025-06,New Jersey,NJ,10004.0
+2025-06,New Mexico,NM,2650.0
+2025-06,New York,NY,18850.0
+2025-06,North Carolina,NC,17378.0
+2025-06,North Dakota,ND,926.0
+2025-06,Ohio,OH,14968.0
+2025-06,Oklahoma,OK,5976.0
+2025-06,Oregon,OR,6298.0
+2025-06,Pennsylvania,PA,14140.0
+2025-06,Rhode Island,RI,1156.0
+2025-06,South Carolina,SC,9922.0
+2025-06,South Dakota,SD,1236.0
+2025-06,Tennessee,TN,12668.0
+2025-06,Texas,TX,44260.0
+2025-06,Utah,UT,5272.0
+2025-06,Vermont,VT,1098.0
+2025-06,Virginia,VA,11870.0
+2025-06,Washington,WA,11558.0
+2025-06,West Virginia,WV,1906.0
+2025-06,Wisconsin,WI,7222.0
+2025-06,Wyoming,WY,1146.0
+2025-07,Alabama,AL,7082.0
+2025-07,Alaska,AK,990.0
+2025-07,Arizona,AZ,8858.0
+2025-07,Arkansas,AR,4352.0
+2025-07,California,CA,31892.0
+2025-07,Colorado,CO,9836.0
+2025-07,Connecticut,CT,3694.0
+2025-07,Delaware,DE,1400.0
+2025-07,District of Columbia,DC,850.0
+2025-07,Florida,FL,38240.0
+2025-07,Georgia,GA,15758.0
+2025-07,Hawaii,HI,1470.0
+2025-07,Idaho,ID,3492.0
+2025-07,Illinois,IL,14352.0
+2025-07,Indiana,IN,9098.0
+2025-07,Iowa,IA,4508.0
+2025-07,Kansas,KS,3904.0
+2025-07,Kentucky,KY,5572.0
+2025-07,Louisiana,LA,4478.0
+2025-07,Maine,ME,2422.0
+2025-07,Maryland,MD,7236.0
+2025-07,Massachusetts,MA,6608.0
+2025-07,Michigan,MI,14280.0
+2025-07,Minnesota,MN,8270.0
+2025-07,Mississippi,MS,2796.0
+2025-07,Missouri,MO,8962.0
+2025-07,Montana,MT,1748.0
+2025-07,Nebraska,NE,2660.0
+2025-07,Nevada,NV,4406.0
+2025-07,New Hampshire,NH,1986.0
+2025-07,New Jersey,NJ,9890.0
+2025-07,New Mexico,NM,2280.0
+2025-07,New York,NY,15490.0
+2025-07,North Carolina,NC,16472.0
+2025-07,North Dakota,ND,862.0
+2025-07,Ohio,OH,14814.0
+2025-07,Oklahoma,OK,5884.0
+2025-07,Oregon,OR,5604.0
+2025-07,Pennsylvania,PA,14228.0
+2025-07,Rhode Island,RI,1026.0
+2025-07,South Carolina,SC,9508.0
+2025-07,South Dakota,SD,1136.0
+2025-07,Tennessee,TN,11922.0
+2025-07,Texas,TX,40154.0
+2025-07,Utah,UT,4700.0
+2025-07,Vermont,VT,1028.0
+2025-07,Virginia,VA,10752.0
+2025-07,Washington,WA,10460.0
+2025-07,West Virginia,WV,1900.0
+2025-07,Wisconsin,WI,6928.0
+2025-07,Wyoming,WY,1004.0
+2025-08,Alabama,AL,6932.0
+2025-08,Alaska,AK,924.0
+2025-08,Arizona,AZ,9140.0
+2025-08,Arkansas,AR,4396.0
+2025-08,California,CA,30536.0
+2025-08,Colorado,CO,9492.0
+2025-08,Connecticut,CT,3492.0
+2025-08,Delaware,DE,1344.0
+2025-08,District of Columbia,DC,720.0
+2025-08,Florida,FL,37564.0
+2025-08,Georgia,GA,15324.0
+2025-08,Hawaii,HI,1392.0
+2025-08,Idaho,ID,3400.0
+2025-08,Illinois,IL,12844.0
+2025-08,Indiana,IN,8708.0
+2025-08,Iowa,IA,4048.0
+2025-08,Kansas,KS,3704.0
+2025-08,Kentucky,KY,5340.0
+2025-08,Louisiana,LA,4448.0
+2025-08,Maine,ME,2304.0
+2025-08,Maryland,MD,7232.0
+2025-08,Massachusetts,MA,5992.0
+2025-08,Michigan,MI,13788.0
+2025-08,Minnesota,MN,7792.0
+2025-08,Mississippi,MS,2804.0
+2025-08,Missouri,MO,8620.0
+2025-08,Montana,MT,1680.0
+2025-08,Nebraska,NE,2464.0
+2025-08,Nevada,NV,4348.0
+2025-08,New Hampshire,NH,1988.0
+2025-08,New Jersey,NJ,8680.0
+2025-08,New Mexico,NM,2432.0
+2025-08,New York,NY,14768.0
+2025-08,North Carolina,NC,15616.0
+2025-08,North Dakota,ND,864.0
+2025-08,Ohio,OH,13528.0
+2025-08,Oklahoma,OK,5868.0
+2025-08,Oregon,OR,5184.0
+2025-08,Pennsylvania,PA,13212.0
+2025-08,Rhode Island,RI,1008.0
+2025-08,South Carolina,SC,9160.0
+2025-08,South Dakota,SD,1080.0
+2025-08,Tennessee,TN,11252.0
+2025-08,Texas,TX,37308.0
+2025-08,Utah,UT,4764.0
+2025-08,Vermont,VT,912.0
+2025-08,Virginia,VA,10452.0
+2025-08,Washington,WA,9256.0
+2025-08,West Virginia,WV,1940.0
+2025-08,Wisconsin,WI,6568.0
+2025-08,Wyoming,WY,904.0
+2025-09,Alabama,AL,6668.0
+2025-09,Alaska,AK,746.0
+2025-09,Arizona,AZ,10100.0
+2025-09,Arkansas,AR,3988.0
+2025-09,California,CA,30212.0
+2025-09,Colorado,CO,9010.0
+2025-09,Connecticut,CT,3640.0
+2025-09,Delaware,DE,1310.0
+2025-09,District of Columbia,DC,1248.0
+2025-09,Florida,FL,37692.0
+2025-09,Georgia,GA,14450.0
+2025-09,Hawaii,HI,1372.0
+2025-09,Idaho,ID,3028.0
+2025-09,Illinois,IL,12986.0
+2025-09,Indiana,IN,8704.0
+2025-09,Iowa,IA,4166.0
+2025-09,Kansas,KS,3338.0
+2025-09,Kentucky,KY,5000.0
+2025-09,Louisiana,LA,4190.0
+2025-09,Maine,ME,2120.0
+2025-09,Maryland,MD,7444.0
+2025-09,Massachusetts,MA,8386.0
+2025-09,Michigan,MI,12528.0
+2025-09,Minnesota,MN,7538.0
+2025-09,Mississippi,MS,2668.0
+2025-09,Missouri,MO,8524.0
+2025-09,Montana,MT,1334.0
+2025-09,Nebraska,NE,2446.0
+2025-09,Nevada,NV,4054.0
+2025-09,New Hampshire,NH,1946.0
+2025-09,New Jersey,NJ,9184.0
+2025-09,New Mexico,NM,2016.0
+2025-09,New York,NY,17188.0
+2025-09,North Carolina,NC,15496.0
+2025-09,North Dakota,ND,758.0
+2025-09,Ohio,OH,13182.0
+2025-09,Oklahoma,OK,5284.0
+2025-09,Oregon,OR,4766.0
+2025-09,Pennsylvania,PA,13394.0
+2025-09,Rhode Island,RI,1072.0
+2025-09,South Carolina,SC,9566.0
+2025-09,South Dakota,SD,1002.0
+2025-09,Tennessee,TN,11150.0
+2025-09,Texas,TX,34346.0
+2025-09,Utah,UT,4436.0
+2025-09,Vermont,VT,838.0
+2025-09,Virginia,VA,10740.0
+2025-09,Washington,WA,9384.0
+2025-09,West Virginia,WV,1778.0
+2025-09,Wisconsin,WI,6476.0
+2025-09,Wyoming,WY,776.0
+2025-10,Alabama,AL,6566.0
+2025-10,Alaska,AK,630.0
+2025-10,Arizona,AZ,10880.0
+2025-10,Arkansas,AR,4278.0
+2025-10,California,CA,29422.0
+2025-10,Colorado,CO,7712.0
+2025-10,Connecticut,CT,3332.0
+2025-10,Delaware,DE,1230.0
+2025-10,District of Columbia,DC,906.0
+2025-10,Florida,FL,40724.0
+2025-10,Georgia,GA,14436.0
+2025-10,Hawaii,HI,1458.0
+2025-10,Idaho,ID,2664.0
+2025-10,Illinois,IL,11786.0
+2025-10,Indiana,IN,8356.0
+2025-10,Iowa,IA,4126.0
+2025-10,Kansas,KS,3454.0
+2025-10,Kentucky,KY,4892.0
+2025-10,Louisiana,LA,4274.0
+2025-10,Maine,ME,1960.0
+2025-10,Maryland,MD,7126.0
+2025-10,Massachusetts,MA,6414.0
+2025-10,Michigan,MI,11918.0
+2025-10,Minnesota,MN,6978.0
+2025-10,Mississippi,MS,2654.0
+2025-10,Missouri,MO,8428.0
+2025-10,Montana,MT,1266.0
+2025-10,Nebraska,NE,2464.0
+2025-10,Nevada,NV,4054.0
+2025-10,New Hampshire,NH,1712.0
+2025-10,New Jersey,NJ,8292.0
+2025-10,New Mexico,NM,2044.0
+2025-10,New York,NY,14430.0
+2025-10,North Carolina,NC,14770.0
+2025-10,North Dakota,ND,874.0
+2025-10,Ohio,OH,13064.0
+2025-10,Oklahoma,OK,5218.0
+2025-10,Oregon,OR,4274.0
+2025-10,Pennsylvania,PA,12592.0
+2025-10,Rhode Island,RI,990.0
+2025-10,South Carolina,SC,8730.0
+2025-10,South Dakota,SD,1002.0
+2025-10,Tennessee,TN,10918.0
+2025-10,Texas,TX,36802.0
+2025-10,Utah,UT,4622.0
+2025-10,Vermont,VT,788.0
+2025-10,Virginia,VA,10078.0
+2025-10,Washington,WA,7662.0
+2025-10,West Virginia,WV,1656.0
+2025-10,Wisconsin,WI,5932.0
+2025-10,Wyoming,WY,676.0
+2025-11,Alabama,AL,5992.0
+2025-11,Alaska,AK,468.0
+2025-11,Arizona,AZ,9780.0
+2025-11,Arkansas,AR,3588.0
+2025-11,California,CA,24004.0
+2025-11,Colorado,CO,6192.0
+2025-11,Connecticut,CT,2664.0
+2025-11,Delaware,DE,1100.0
+2025-11,District of Columbia,DC,688.0
+2025-11,Florida,FL,39856.0
+2025-11,Georgia,GA,12852.0
+2025-11,Hawaii,HI,1540.0
+2025-11,Idaho,ID,2356.0
+2025-11,Illinois,IL,9432.0
+2025-11,Indiana,IN,6756.0
+2025-11,Iowa,IA,3660.0
+2025-11,Kansas,KS,2776.0
+2025-11,Kentucky,KY,4388.0
+2025-11,Louisiana,LA,4012.0
+2025-11,Maine,ME,1532.0
+2025-11,Maryland,MD,5872.0
+2025-11,Massachusetts,MA,4940.0
+2025-11,Michigan,MI,9692.0
+2025-11,Minnesota,MN,5380.0
+2025-11,Mississippi,MS,2348.0
+2025-11,Missouri,MO,6984.0
+2025-11,Montana,MT,1000.0
+2025-11,Nebraska,NE,1864.0
+2025-11,Nevada,NV,3428.0
+2025-11,New Hampshire,NH,1284.0
+2025-11,New Jersey,NJ,7068.0
+2025-11,New Mexico,NM,1780.0
+2025-11,New York,NY,11704.0
+2025-11,North Carolina,NC,12020.0
+2025-11,North Dakota,ND,576.0
+2025-11,Ohio,OH,10792.0
+2025-11,Oklahoma,OK,4612.0
+2025-11,Oregon,OR,3472.0
+2025-11,Pennsylvania,PA,10892.0
+2025-11,Rhode Island,RI,756.0
+2025-11,South Carolina,SC,7748.0
+2025-11,South Dakota,SD,644.0
+2025-11,Tennessee,TN,9272.0
+2025-11,Texas,TX,31624.0
+2025-11,Utah,UT,3708.0
+2025-11,Vermont,VT,448.0
+2025-11,Virginia,VA,8636.0
+2025-11,Washington,WA,5744.0
+2025-11,West Virginia,WV,1656.0
+2025-11,Wisconsin,WI,4752.0
+2025-11,Wyoming,WY,640.0
+2025-12,Alabama,AL,4580.0
+2025-12,Alaska,AK,302.0
+2025-12,Arizona,AZ,7098.0
+2025-12,Arkansas,AR,2934.0
+2025-12,California,CA,15916.0
+2025-12,Colorado,CO,4252.0
+2025-12,Connecticut,CT,1638.0
+2025-12,Delaware,DE,642.0
+2025-12,District of Columbia,DC,338.0
+2025-12,Florida,FL,32464.0
+2025-12,Georgia,GA,9322.0
+2025-12,Hawaii,HI,1262.0
+2025-12,Idaho,ID,1898.0
+2025-12,Illinois,IL,6222.0
+2025-12,Indiana,IN,4448.0
+2025-12,Iowa,IA,2206.0
+2025-12,Kansas,KS,2116.0
+2025-12,Kentucky,KY,2932.0
+2025-12,Louisiana,LA,3004.0
+2025-12,Maine,ME,964.0
+2025-12,Maryland,MD,4002.0
+2025-12,Massachusetts,MA,2438.0
+2025-12,Michigan,MI,6040.0
+2025-12,Minnesota,MN,2886.0
+2025-12,Mississippi,MS,1852.0
+2025-12,Missouri,MO,4944.0
+2025-12,Montana,MT,692.0
+2025-12,Nebraska,NE,1400.0
+2025-12,Nevada,NV,2626.0
+2025-12,New Hampshire,NH,784.0
+2025-12,New Jersey,NJ,4176.0
+2025-12,New Mexico,NM,1426.0
+2025-12,New York,NY,6876.0
+2025-12,North Carolina,NC,9506.0
+2025-12,North Dakota,ND,316.0
+2025-12,Ohio,OH,6898.0
+2025-12,Oklahoma,OK,3824.0
+2025-12,Oregon,OR,2156.0
+2025-12,Pennsylvania,PA,7176.0
+2025-12,Rhode Island,RI,452.0
+2025-12,South Carolina,SC,6012.0
+2025-12,South Dakota,SD,566.0
+2025-12,Tennessee,TN,6876.0
+2025-12,Texas,TX,24790.0
+2025-12,Utah,UT,2674.0
+2025-12,Vermont,VT,314.0
+2025-12,Virginia,VA,5900.0
+2025-12,Washington,WA,3490.0
+2025-12,West Virginia,WV,1138.0
+2025-12,Wisconsin,WI,2428.0
+2025-12,Wyoming,WY,452.0
+2026-01,Alabama,AL,6512.0
+2026-01,Alaska,AK,428.0
+2026-01,Arizona,AZ,11932.0
+2026-01,Arkansas,AR,3528.0
+2026-01,California,CA,29012.0
+2026-01,Colorado,CO,8220.0
+2026-01,Connecticut,CT,1920.0
+2026-01,Delaware,DE,1068.0
+2026-01,District of Columbia,DC,576.0
+2026-01,Florida,FL,47492.0
+2026-01,Georgia,GA,13260.0
+2026-01,Hawaii,HI,1476.0
+2026-01,Idaho,ID,2680.0
+2026-01,Illinois,IL,8356.0
+2026-01,Indiana,IN,5980.0
+2026-01,Iowa,IA,2820.0
+2026-01,Kansas,KS,2448.0
+2026-01,Kentucky,KY,3648.0
+2026-01,Louisiana,LA,4108.0
+2026-01,Maine,ME,1060.0
+2026-01,Maryland,MD,5632.0
+2026-01,Massachusetts,MA,3960.0
+2026-01,Michigan,MI,7568.0
+2026-01,Minnesota,MN,4388.0
+2026-01,Mississippi,MS,2556.0
+2026-01,Missouri,MO,6100.0
+2026-01,Montana,MT,1020.0
+2026-01,Nebraska,NE,1744.0
+2026-01,Nevada,NV,3956.0
+2026-01,New Hampshire,NH,888.0
+2026-01,New Jersey,NJ,6348.0
+2026-01,New Mexico,NM,1800.0
+2026-01,New York,NY,10524.0
+2026-01,North Carolina,NC,12008.0
+2026-01,North Dakota,ND,480.0
+2026-01,Ohio,OH,8848.0
+2026-01,Oklahoma,OK,4524.0
+2026-01,Oregon,OR,3924.0
+2026-01,Pennsylvania,PA,8704.0
+2026-01,Rhode Island,RI,588.0
+2026-01,South Carolina,SC,8732.0
+2026-01,South Dakota,SD,784.0
+2026-01,Tennessee,TN,9344.0
+2026-01,Texas,TX,30968.0
+2026-01,Utah,UT,4148.0
+2026-01,Vermont,VT,456.0
+2026-01,Virginia,VA,8344.0
+2026-01,Washington,WA,6984.0
+2026-01,West Virginia,WV,1356.0
+2026-01,Wisconsin,WI,3660.0
+2026-01,Wyoming,WY,644.0
+2026-02,Alabama,AL,7130.0
+2026-02,Alaska,AK,530.0
+2026-02,Arizona,AZ,11784.0
+2026-02,Arkansas,AR,4086.0
+2026-02,California,CA,30652.0
+2026-02,Colorado,CO,9626.0
+2026-02,Connecticut,CT,2116.0
+2026-02,Delaware,DE,1144.0
+2026-02,District of Columbia,DC,850.0
+2026-02,Florida,FL,45808.0
+2026-02,Georgia,GA,14688.0
+2026-02,Hawaii,HI,1520.0
+2026-02,Idaho,ID,2918.0
+2026-02,Illinois,IL,10820.0
+2026-02,Indiana,IN,6634.0
+2026-02,Iowa,IA,3324.0
+2026-02,Kansas,KS,3380.0
+2026-02,Kentucky,KY,4076.0
+2026-02,Louisiana,LA,4218.0
+2026-02,Maine,ME,1064.0
+2026-02,Maryland,MD,5860.0
+2026-02,Massachusetts,MA,3862.0
+2026-02,Michigan,MI,8074.0
+2026-02,Minnesota,MN,6022.0
+2026-02,Mississippi,MS,2680.0
+2026-02,Missouri,MO,7558.0
+2026-02,Montana,MT,1276.0
+2026-02,Nebraska,NE,1908.0
+2026-02,Nevada,NV,4130.0
+2026-02,New Hampshire,NH,986.0
+2026-02,New Jersey,NJ,6476.0
+2026-02,New Mexico,NM,1966.0
+2026-02,New York,NY,9400.0
+2026-02,North Carolina,NC,15148.0
+2026-02,North Dakota,ND,550.0
+2026-02,Ohio,OH,9122.0
+2026-02,Oklahoma,OK,5124.0
+2026-02,Oregon,OR,4716.0
+2026-02,Pennsylvania,PA,8910.0
+2026-02,Rhode Island,RI,518.0
+2026-02,South Carolina,SC,9992.0
+2026-02,South Dakota,SD,856.0
+2026-02,Tennessee,TN,10776.0
+2026-02,Texas,TX,38330.0
+2026-02,Utah,UT,4678.0
+2026-02,Vermont,VT,498.0
+2026-02,Virginia,VA,9226.0
+2026-02,Washington,WA,8256.0
+2026-02,West Virginia,WV,1316.0
+2026-02,Wisconsin,WI,4640.0
+2026-02,Wyoming,WY,682.0

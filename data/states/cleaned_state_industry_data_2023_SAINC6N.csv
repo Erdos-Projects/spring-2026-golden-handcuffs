@@ -1,0 +1,951 @@
+state,industry,compensation
+Alabama,  Farm compensation,274871.0
+Alabama,"      Mining, quarrying, and oil and gas extraction",710120.0
+Alabama,      Utilities,2169284.0
+Alabama,      Construction,8359728.0
+Alabama,      Manufacturing,24364815.0
+Alabama,      Wholesale trade,7838205.0
+Alabama,      Retail trade,10735178.0
+Alabama,      Transportation and warehousing,5666331.0
+Alabama,      Information,2348798.0
+Alabama,      Finance and insurance,8898855.0
+Alabama,      Real estate and rental and leasing,1878593.0
+Alabama,"      Professional, scientific, and technical services",14019325.0
+Alabama,      Management of companies and enterprises,2341461.0
+Alabama,      Administrative and support and waste management and remediation services,6248278.0
+Alabama,      Educational services,1251940.0
+Alabama,      Health care and social assistance,16485552.0
+Alabama,"      Arts, entertainment, and recreation",778331.0
+Alabama,      Accommodation and food services,5571535.0
+Alabama,    Government and government enterprises,34014528.0
+Alaska,  Farm compensation,31063.0
+Alaska,"      Mining, quarrying, and oil and gas extraction",2379792.0
+Alaska,      Utilities,384041.0
+Alaska,      Construction,1991001.0
+Alaska,      Manufacturing,1179178.0
+Alaska,      Wholesale trade,585976.0
+Alaska,      Retail trade,1878526.0
+Alaska,      Transportation and warehousing,2428706.0
+Alaska,      Information,499175.0
+Alaska,      Finance and insurance,695289.0
+Alaska,      Real estate and rental and leasing,321539.0
+Alaska,"      Professional, scientific, and technical services",1492210.0
+Alaska,      Management of companies and enterprises,424002.0
+Alaska,      Administrative and support and waste management and remediation services,863273.0
+Alaska,      Educational services,178513.0
+Alaska,      Health care and social assistance,4400262.0
+Alaska,"      Arts, entertainment, and recreation",234658.0
+Alaska,      Accommodation and food services,1399036.0
+Alaska,    Government and government enterprises,10945282.0
+Arizona,  Farm compensation,586716.0
+Arizona,"      Mining, quarrying, and oil and gas extraction",1690711.0
+Arizona,      Utilities,2037786.0
+Arizona,      Construction,19361879.0
+Arizona,      Manufacturing,22219370.0
+Arizona,      Wholesale trade,14029860.0
+Arizona,      Retail trade,19176821.0
+Arizona,      Transportation and warehousing,10340513.0
+Arizona,      Information,6942239.0
+Arizona,      Finance and insurance,21895019.0
+Arizona,      Real estate and rental and leasing,5164411.0
+Arizona,"      Professional, scientific, and technical services",20677763.0
+Arizona,      Management of companies and enterprises,6596932.0
+Arizona,      Administrative and support and waste management and remediation services,16392322.0
+Arizona,      Educational services,4435555.0
+Arizona,      Health care and social assistance,35651142.0
+Arizona,"      Arts, entertainment, and recreation",3262098.0
+Arizona,      Accommodation and food services,12298298.0
+Arizona,    Government and government enterprises,41228262.0
+Arkansas,  Farm compensation,374084.0
+Arkansas,"      Mining, quarrying, and oil and gas extraction",332028.0
+Arkansas,      Utilities,1154388.0
+Arkansas,      Construction,4812448.0
+Arkansas,      Manufacturing,12126195.0
+Arkansas,      Wholesale trade,5375862.0
+Arkansas,      Retail trade,6371650.0
+Arkansas,      Transportation and warehousing,4982596.0
+Arkansas,      Information,1363690.0
+Arkansas,      Finance and insurance,4300446.0
+Arkansas,      Real estate and rental and leasing,957905.0
+Arkansas,"      Professional, scientific, and technical services",4671836.0
+Arkansas,      Management of companies and enterprises,6587306.0
+Arkansas,      Administrative and support and waste management and remediation services,3736290.0
+Arkansas,      Educational services,859843.0
+Arkansas,      Health care and social assistance,12242603.0
+Arkansas,"      Arts, entertainment, and recreation",583250.0
+Arkansas,      Accommodation and food services,3337445.0
+Arkansas,    Government and government enterprises,15871106.0
+California,  Farm compensation,11731188.0
+California,"      Mining, quarrying, and oil and gas extraction",2755011.0
+California,      Utilities,13665838.0
+California,      Construction,95345860.0
+California,      Manufacturing,184486703.0
+California,      Wholesale trade,79967965.0
+California,      Retail trade,97578840.0
+California,      Transportation and warehousing,73539996.0
+California,      Information,153617732.0
+California,      Finance and insurance,107544408.0
+California,      Real estate and rental and leasing,31238318.0
+California,"      Professional, scientific, and technical services",251347768.0
+California,      Management of companies and enterprises,61222924.0
+California,      Administrative and support and waste management and remediation services,85460398.0
+California,      Educational services,32862340.0
+California,      Health care and social assistance,211259922.0
+California,"      Arts, entertainment, and recreation",29471390.0
+California,      Accommodation and food services,75661016.0
+California,    Government and government enterprises,345085279.0
+Colorado,  Farm compensation,655069.0
+Colorado,"      Mining, quarrying, and oil and gas extraction",4281869.0
+Colorado,      Utilities,1610754.0
+Colorado,      Construction,17725960.0
+Colorado,      Manufacturing,16060947.0
+Colorado,      Wholesale trade,15170949.0
+Colorado,      Retail trade,15035438.0
+Colorado,      Transportation and warehousing,9797274.0
+Colorado,      Information,13193651.0
+Colorado,      Finance and insurance,18054066.0
+Colorado,      Real estate and rental and leasing,5509378.0
+Colorado,"      Professional, scientific, and technical services",43220295.0
+Colorado,      Management of companies and enterprises,8830561.0
+Colorado,      Administrative and support and waste management and remediation services,11342136.0
+Colorado,      Educational services,3603906.0
+Colorado,      Health care and social assistance,25641086.0
+Colorado,"      Arts, entertainment, and recreation",3987653.0
+Colorado,      Accommodation and food services,12669449.0
+Colorado,    Government and government enterprises,47608376.0
+Connecticut,  Farm compensation,194704.0
+Connecticut,"      Mining, quarrying, and oil and gas extraction",49349.0
+Connecticut,      Utilities,974033.0
+Connecticut,      Construction,6258610.0
+Connecticut,      Manufacturing,18510691.0
+Connecticut,      Wholesale trade,8538871.0
+Connecticut,      Retail trade,9465279.0
+Connecticut,      Transportation and warehousing,4769137.0
+Connecticut,      Information,5573285.0
+Connecticut,      Finance and insurance,24619240.0
+Connecticut,      Real estate and rental and leasing,2048262.0
+Connecticut,"      Professional, scientific, and technical services",15168860.0
+Connecticut,      Management of companies and enterprises,6410087.0
+Connecticut,      Administrative and support and waste management and remediation services,6451380.0
+Connecticut,      Educational services,6652723.0
+Connecticut,      Health care and social assistance,22532476.0
+Connecticut,"      Arts, entertainment, and recreation",1460602.0
+Connecticut,      Accommodation and food services,5057514.0
+Connecticut,    Government and government enterprises,25054867.0
+Delaware,  Farm compensation,57259.0
+Delaware,"      Mining, quarrying, and oil and gas extraction",0.0
+Delaware,      Utilities,346096.0
+Delaware,      Construction,2107070.0
+Delaware,      Manufacturing,2481918.0
+Delaware,      Wholesale trade,1392429.0
+Delaware,      Retail trade,2461193.0
+Delaware,      Transportation and warehousing,1563222.0
+Delaware,      Information,422820.0
+Delaware,      Finance and insurance,6579254.0
+Delaware,      Real estate and rental and leasing,483573.0
+Delaware,"      Professional, scientific, and technical services",3910372.0
+Delaware,      Management of companies and enterprises,1464778.0
+Delaware,      Administrative and support and waste management and remediation services,1929022.0
+Delaware,      Educational services,400685.0
+Delaware,      Health care and social assistance,6141559.0
+Delaware,"      Arts, entertainment, and recreation",381018.0
+Delaware,      Accommodation and food services,1498748.0
+Delaware,    Government and government enterprises,7153550.0
+Florida,  Farm compensation,2116281.0
+Florida,"      Mining, quarrying, and oil and gas extraction",487721.0
+Florida,      Utilities,3871285.0
+Florida,      Construction,51501868.0
+Florida,      Manufacturing,41803226.0
+Florida,      Wholesale trade,45930794.0
+Florida,      Retail trade,61527941.0
+Florida,      Transportation and warehousing,33455962.0
+Florida,      Information,21429802.0
+Florida,      Finance and insurance,68749645.0
+Florida,      Real estate and rental and leasing,17980491.0
+Florida,"      Professional, scientific, and technical services",89859851.0
+Florida,      Management of companies and enterprises,22595079.0
+Florida,      Administrative and support and waste management and remediation services,48760796.0
+Florida,      Educational services,11740095.0
+Florida,      Health care and social assistance,104145483.0
+Florida,"      Arts, entertainment, and recreation",17006963.0
+Florida,      Accommodation and food services,44314021.0
+Florida,    Government and government enterprises,113939829.0
+Georgia,  Farm compensation,652648.0
+Georgia,"      Mining, quarrying, and oil and gas extraction",630864.0
+Georgia,      Utilities,3338599.0
+Georgia,      Construction,20614648.0
+Georgia,      Manufacturing,38656584.0
+Georgia,      Wholesale trade,26126690.0
+Georgia,      Retail trade,26287461.0
+Georgia,      Transportation and warehousing,22906653.0
+Georgia,      Information,18354006.0
+Georgia,      Finance and insurance,28463747.0
+Georgia,      Real estate and rental and leasing,7135699.0
+Georgia,"      Professional, scientific, and technical services",42212093.0
+Georgia,      Management of companies and enterprises,15167379.0
+Georgia,      Administrative and support and waste management and remediation services,22666156.0
+Georgia,      Educational services,7193554.0
+Georgia,      Health care and social assistance,44674884.0
+Georgia,"      Arts, entertainment, and recreation",3694646.0
+Georgia,      Accommodation and food services,15728743.0
+Georgia,    Government and government enterprises,67282647.0
+Hawaii,  Farm compensation,242445.0
+Hawaii,"      Mining, quarrying, and oil and gas extraction",37070.0
+Hawaii,      Utilities,615079.0
+Hawaii,      Construction,4064881.0
+Hawaii,      Manufacturing,917941.0
+Hawaii,      Wholesale trade,1595237.0
+Hawaii,      Retail trade,3576706.0
+Hawaii,      Transportation and warehousing,3014624.0
+Hawaii,      Information,993457.0
+Hawaii,      Finance and insurance,1872082.0
+Hawaii,      Real estate and rental and leasing,1046136.0
+Hawaii,"      Professional, scientific, and technical services",3136682.0
+Hawaii,      Management of companies and enterprises,1188420.0
+Hawaii,      Administrative and support and waste management and remediation services,2239173.0
+Hawaii,      Educational services,996368.0
+Hawaii,      Health care and social assistance,6544465.0
+Hawaii,"      Arts, entertainment, and recreation",704715.0
+Hawaii,      Accommodation and food services,6166275.0
+Hawaii,    Government and government enterprises,18216581.0
+Idaho,  Farm compensation,996791.0
+Idaho,"      Mining, quarrying, and oil and gas extraction",336798.0
+Idaho,      Utilities,406787.0
+Idaho,      Construction,4861212.0
+Idaho,      Manufacturing,6606542.0
+Idaho,      Wholesale trade,3441566.0
+Idaho,      Retail trade,4767495.0
+Idaho,      Transportation and warehousing,2051532.0
+Idaho,      Information,1055041.0
+Idaho,      Finance and insurance,3118800.0
+Idaho,      Real estate and rental and leasing,705133.0
+Idaho,"      Professional, scientific, and technical services",5393420.0
+Idaho,      Management of companies and enterprises,1291464.0
+Idaho,      Administrative and support and waste management and remediation services,3026890.0
+Idaho,      Educational services,820596.0
+Idaho,      Health care and social assistance,7524188.0
+Idaho,"      Arts, entertainment, and recreation",612783.0
+Idaho,      Accommodation and food services,2405007.0
+Idaho,    Government and government enterprises,10392955.0
+Illinois,  Farm compensation,582774.0
+Illinois,"      Mining, quarrying, and oil and gas extraction",847812.0
+Illinois,      Utilities,4453242.0
+Illinois,      Construction,24716606.0
+Illinois,      Manufacturing,61585773.0
+Illinois,      Wholesale trade,37808741.0
+Illinois,      Retail trade,31051616.0
+Illinois,      Transportation and warehousing,27363097.0
+Illinois,      Information,14552488.0
+Illinois,      Finance and insurance,55404558.0
+Illinois,      Real estate and rental and leasing,8450374.0
+Illinois,"      Professional, scientific, and technical services",63773692.0
+Illinois,      Management of companies and enterprises,14239939.0
+Illinois,      Administrative and support and waste management and remediation services,29796926.0
+Illinois,      Educational services,12565515.0
+Illinois,      Health care and social assistance,63150347.0
+Illinois,"      Arts, entertainment, and recreation",5651037.0
+Illinois,      Accommodation and food services,19889708.0
+Illinois,    Government and government enterprises,83464979.0
+Indiana,  Farm compensation,725820.0
+Indiana,"      Mining, quarrying, and oil and gas extraction",600139.0
+Indiana,      Utilities,1976241.0
+Indiana,      Construction,14482873.0
+Indiana,      Manufacturing,50201736.0
+Indiana,      Wholesale trade,13581969.0
+Indiana,      Retail trade,14789639.0
+Indiana,      Transportation and warehousing,12643688.0
+Indiana,      Information,2677616.0
+Indiana,      Finance and insurance,12171648.0
+Indiana,      Real estate and rental and leasing,2698753.0
+Indiana,"      Professional, scientific, and technical services",15464544.0
+Indiana,      Management of companies and enterprises,5175803.0
+Indiana,      Administrative and support and waste management and remediation services,10157679.0
+Indiana,      Educational services,3869891.0
+Indiana,      Health care and social assistance,33179392.0
+Indiana,"      Arts, entertainment, and recreation",2223013.0
+Indiana,      Accommodation and food services,8401988.0
+Indiana,    Government and government enterprises,31741050.0
+Iowa,  Farm compensation,1010709.0
+Iowa,"      Mining, quarrying, and oil and gas extraction",205939.0
+Iowa,      Utilities,818717.0
+Iowa,      Construction,7149197.0
+Iowa,      Manufacturing,20032075.0
+Iowa,      Wholesale trade,6653541.0
+Iowa,      Retail trade,7541616.0
+Iowa,      Transportation and warehousing,4913218.0
+Iowa,      Information,1893619.0
+Iowa,      Finance and insurance,11570788.0
+Iowa,      Real estate and rental and leasing,1011290.0
+Iowa,"      Professional, scientific, and technical services",5997921.0
+Iowa,      Management of companies and enterprises,3347100.0
+Iowa,      Administrative and support and waste management and remediation services,3719034.0
+Iowa,      Educational services,1579777.0
+Iowa,      Health care and social assistance,12565464.0
+Iowa,"      Arts, entertainment, and recreation",678715.0
+Iowa,      Accommodation and food services,3497777.0
+Iowa,    Government and government enterprises,20197238.0
+Kansas,  Farm compensation,517437.0
+Kansas,"      Mining, quarrying, and oil and gas extraction",573438.0
+Kansas,      Utilities,850691.0
+Kansas,      Construction,5682929.0
+Kansas,      Manufacturing,15481291.0
+Kansas,      Wholesale trade,6144609.0
+Kansas,      Retail trade,6262071.0
+Kansas,      Transportation and warehousing,5215488.0
+Kansas,      Information,1844971.0
+Kansas,      Finance and insurance,7130329.0
+Kansas,      Real estate and rental and leasing,1050952.0
+Kansas,"      Professional, scientific, and technical services",8544300.0
+Kansas,      Management of companies and enterprises,3724072.0
+Kansas,      Administrative and support and waste management and remediation services,4891121.0
+Kansas,      Educational services,912104.0
+Kansas,      Health care and social assistance,13446215.0
+Kansas,"      Arts, entertainment, and recreation",642194.0
+Kansas,      Accommodation and food services,3413393.0
+Kansas,    Government and government enterprises,20854245.0
+Kentucky,  Farm compensation,578110.0
+Kentucky,"      Mining, quarrying, and oil and gas extraction",903770.0
+Kentucky,      Utilities,943344.0
+Kentucky,      Construction,7527323.0
+Kentucky,      Manufacturing,22646762.0
+Kentucky,      Wholesale trade,7648939.0
+Kentucky,      Retail trade,9498154.0
+Kentucky,      Transportation and warehousing,10290624.0
+Kentucky,      Information,2155403.0
+Kentucky,      Finance and insurance,8374056.0
+Kentucky,      Real estate and rental and leasing,1500635.0
+Kentucky,"      Professional, scientific, and technical services",8533065.0
+Kentucky,      Management of companies and enterprises,3230104.0
+Kentucky,      Administrative and support and waste management and remediation services,6408405.0
+Kentucky,      Educational services,1339567.0
+Kentucky,      Health care and social assistance,20576667.0
+Kentucky,"      Arts, entertainment, and recreation",1112299.0
+Kentucky,      Accommodation and food services,5500465.0
+Kentucky,    Government and government enterprises,27157042.0
+Louisiana,  Farm compensation,307136.0
+Louisiana,"      Mining, quarrying, and oil and gas extraction",4035795.0
+Louisiana,      Utilities,1160885.0
+Louisiana,      Construction,11880337.0
+Louisiana,      Manufacturing,15724621.0
+Louisiana,      Wholesale trade,6697559.0
+Louisiana,      Retail trade,9802252.0
+Louisiana,      Transportation and warehousing,7386032.0
+Louisiana,      Information,1829093.0
+Louisiana,      Finance and insurance,6349707.0
+Louisiana,      Real estate and rental and leasing,2261571.0
+Louisiana,"      Professional, scientific, and technical services",9530371.0
+Louisiana,      Management of companies and enterprises,2708770.0
+Louisiana,      Administrative and support and waste management and remediation services,6065204.0
+Louisiana,      Educational services,2742686.0
+Louisiana,      Health care and social assistance,19817712.0
+Louisiana,"      Arts, entertainment, and recreation",1680393.0
+Louisiana,      Accommodation and food services,6370684.0
+Louisiana,    Government and government enterprises,27453202.0
+Maine,  Farm compensation,147016.0
+Maine,"      Mining, quarrying, and oil and gas extraction",22193.0
+Maine,      Utilities,276326.0
+Maine,      Construction,2800474.0
+Maine,      Manufacturing,4660315.0
+Maine,      Wholesale trade,2076126.0
+Maine,      Retail trade,4083735.0
+Maine,      Transportation and warehousing,1235966.0
+Maine,      Information,778830.0
+Maine,      Finance and insurance,3063680.0
+Maine,      Real estate and rental and leasing,533605.0
+Maine,"      Professional, scientific, and technical services",3906569.0
+Maine,      Management of companies and enterprises,2189968.0
+Maine,      Administrative and support and waste management and remediation services,1857082.0
+Maine,      Educational services,1085140.0
+Maine,      Health care and social assistance,8343199.0
+Maine,"      Arts, entertainment, and recreation",503261.0
+Maine,      Accommodation and food services,2501148.0
+Maine,    Government and government enterprises,8877762.0
+Maryland,  Farm compensation,282704.0
+Maryland,"      Mining, quarrying, and oil and gas extraction",133794.0
+Maryland,      Utilities,1899110.0
+Maryland,      Construction,15616950.0
+Maryland,      Manufacturing,13651906.0
+Maryland,      Wholesale trade,10338546.0
+Maryland,      Retail trade,14219330.0
+Maryland,      Transportation and warehousing,7589098.0
+Maryland,      Information,5510909.0
+Maryland,      Finance and insurance,14131616.0
+Maryland,      Real estate and rental and leasing,4146590.0
+Maryland,"      Professional, scientific, and technical services",38750227.0
+Maryland,      Management of companies and enterprises,4726910.0
+Maryland,      Administrative and support and waste management and remediation services,12015080.0
+Maryland,      Educational services,6281640.0
+Maryland,      Health care and social assistance,31446032.0
+Maryland,"      Arts, entertainment, and recreation",2326066.0
+Maryland,      Accommodation and food services,8838830.0
+Maryland,    Government and government enterprises,76026662.0
+Massachusetts,  Farm compensation,198937.0
+Massachusetts,"      Mining, quarrying, and oil and gas extraction",98181.0
+Massachusetts,      Utilities,2289049.0
+Massachusetts,      Construction,19611771.0
+Massachusetts,      Manufacturing,29182061.0
+Massachusetts,      Wholesale trade,17552325.0
+Massachusetts,      Retail trade,18785263.0
+Massachusetts,      Transportation and warehousing,8186818.0
+Massachusetts,      Information,19051613.0
+Massachusetts,      Finance and insurance,38674018.0
+Massachusetts,      Real estate and rental and leasing,5971699.0
+Massachusetts,"      Professional, scientific, and technical services",72426788.0
+Massachusetts,      Management of companies and enterprises,12685839.0
+Massachusetts,      Administrative and support and waste management and remediation services,14611672.0
+Massachusetts,      Educational services,16981311.0
+Massachusetts,      Health care and social assistance,54426622.0
+Massachusetts,"      Arts, entertainment, and recreation",4046981.0
+Massachusetts,      Accommodation and food services,13732687.0
+Massachusetts,    Government and government enterprises,48053974.0
+Michigan,  Farm compensation,861646.0
+Michigan,"      Mining, quarrying, and oil and gas extraction",637029.0
+Michigan,      Utilities,3640495.0
+Michigan,      Construction,17642477.0
+Michigan,      Manufacturing,59559232.0
+Michigan,      Wholesale trade,19322070.0
+Michigan,      Retail trade,22826098.0
+Michigan,      Transportation and warehousing,12963654.0
+Michigan,      Information,7129133.0
+Michigan,      Finance and insurance,19067773.0
+Michigan,      Real estate and rental and leasing,4387941.0
+Michigan,"      Professional, scientific, and technical services",39564370.0
+Michigan,      Management of companies and enterprises,11917231.0
+Michigan,      Administrative and support and waste management and remediation services,16228260.0
+Michigan,      Educational services,4109468.0
+Michigan,      Health care and social assistance,45473381.0
+Michigan,"      Arts, entertainment, and recreation",2955761.0
+Michigan,      Accommodation and food services,12220283.0
+Michigan,    Government and government enterprises,51868185.0
+Minnesota,  Farm compensation,942883.0
+Minnesota,"      Mining, quarrying, and oil and gas extraction",778946.0
+Minnesota,      Utilities,2199252.0
+Minnesota,      Construction,13860356.0
+Minnesota,      Manufacturing,32005244.0
+Minnesota,      Wholesale trade,15907621.0
+Minnesota,      Retail trade,13674001.0
+Minnesota,      Transportation and warehousing,8635393.0
+Minnesota,      Information,5463909.0
+Minnesota,      Finance and insurance,22602770.0
+Minnesota,      Real estate and rental and leasing,2878506.0
+Minnesota,"      Professional, scientific, and technical services",22640684.0
+Minnesota,      Management of companies and enterprises,14780985.0
+Minnesota,      Administrative and support and waste management and remediation services,8420932.0
+Minnesota,      Educational services,3616874.0
+Minnesota,      Health care and social assistance,37673671.0
+Minnesota,"      Arts, entertainment, and recreation",2739896.0
+Minnesota,      Accommodation and food services,7615538.0
+Minnesota,    Government and government enterprises,35883558.0
+Mississippi,  Farm compensation,313479.0
+Mississippi,"      Mining, quarrying, and oil and gas extraction",374844.0
+Mississippi,      Utilities,1024718.0
+Mississippi,      Construction,3737103.0
+Mississippi,      Manufacturing,11067106.0
+Mississippi,      Wholesale trade,3167912.0
+Mississippi,      Retail trade,5785921.0
+Mississippi,      Transportation and warehousing,4271230.0
+Mississippi,      Information,774340.0
+Mississippi,      Finance and insurance,3184454.0
+Mississippi,      Real estate and rental and leasing,672980.0
+Mississippi,"      Professional, scientific, and technical services",3315682.0
+Mississippi,      Management of companies and enterprises,1453253.0
+Mississippi,      Administrative and support and waste management and remediation services,3134393.0
+Mississippi,      Educational services,775356.0
+Mississippi,      Health care and social assistance,8880890.0
+Mississippi,"      Arts, entertainment, and recreation",314793.0
+Mississippi,      Accommodation and food services,3694649.0
+Mississippi,    Government and government enterprises,18955323.0
+Missouri,  Farm compensation,423056.0
+Missouri,"      Mining, quarrying, and oil and gas extraction",509209.0
+Missouri,      Utilities,1762807.0
+Missouri,      Construction,13153961.0
+Missouri,      Manufacturing,26208691.0
+Missouri,      Wholesale trade,13205963.0
+Missouri,      Retail trade,14720206.0
+Missouri,      Transportation and warehousing,8742487.0
+Missouri,      Information,6168967.0
+Missouri,      Finance and insurance,16957018.0
+Missouri,      Real estate and rental and leasing,3076646.0
+Missouri,"      Professional, scientific, and technical services",20024818.0
+Missouri,      Management of companies and enterprises,9315143.0
+Missouri,      Administrative and support and waste management and remediation services,9679119.0
+Missouri,      Educational services,3967804.0
+Missouri,      Health care and social assistance,32011436.0
+Missouri,"      Arts, entertainment, and recreation",2626077.0
+Missouri,      Accommodation and food services,9031483.0
+Missouri,    Government and government enterprises,35707235.0
+Montana,  Farm compensation,345792.0
+Montana,"      Mining, quarrying, and oil and gas extraction",840658.0
+Montana,      Utilities,393662.0
+Montana,      Construction,3028688.0
+Montana,      Manufacturing,1831044.0
+Montana,      Wholesale trade,1764455.0
+Montana,      Retail trade,3132398.0
+Montana,      Transportation and warehousing,1385108.0
+Montana,      Information,621522.0
+Montana,      Finance and insurance,1962790.0
+Montana,      Real estate and rental and leasing,481322.0
+Montana,"      Professional, scientific, and technical services",3136116.0
+Montana,      Management of companies and enterprises,257467.0
+Montana,      Administrative and support and waste management and remediation services,1323923.0
+Montana,      Educational services,305283.0
+Montana,      Health care and social assistance,5607500.0
+Montana,"      Arts, entertainment, and recreation",448048.0
+Montana,      Accommodation and food services,2187183.0
+Montana,    Government and government enterprises,7478510.0
+Nebraska,  Farm compensation,753049.0
+Nebraska,"      Mining, quarrying, and oil and gas extraction",98482.0
+Nebraska,      Utilities,290774.0
+Nebraska,      Construction,5007097.0
+Nebraska,      Manufacturing,8535730.0
+Nebraska,      Wholesale trade,4126708.0
+Nebraska,      Retail trade,4817596.0
+Nebraska,      Transportation and warehousing,4718507.0
+Nebraska,      Information,1868768.0
+Nebraska,      Finance and insurance,6352338.0
+Nebraska,      Real estate and rental and leasing,740799.0
+Nebraska,"      Professional, scientific, and technical services",5149131.0
+Nebraska,      Management of companies and enterprises,2964616.0
+Nebraska,      Administrative and support and waste management and remediation services,3658340.0
+Nebraska,      Educational services,885752.0
+Nebraska,      Health care and social assistance,10017550.0
+Nebraska,"      Arts, entertainment, and recreation",573904.0
+Nebraska,      Accommodation and food services,2404364.0
+Nebraska,    Government and government enterprises,14561039.0
+Nevada,  Farm compensation,129763.0
+Nevada,"      Mining, quarrying, and oil and gas extraction",2011528.0
+Nevada,      Utilities,754726.0
+Nevada,      Construction,10529057.0
+Nevada,      Manufacturing,6017774.0
+Nevada,      Wholesale trade,4751036.0
+Nevada,      Retail trade,7859928.0
+Nevada,      Transportation and warehousing,6999305.0
+Nevada,      Information,2440712.0
+Nevada,      Finance and insurance,5459296.0
+Nevada,      Real estate and rental and leasing,2332844.0
+Nevada,"      Professional, scientific, and technical services",8552601.0
+Nevada,      Management of companies and enterprises,5936438.0
+Nevada,      Administrative and support and waste management and remediation services,6208448.0
+Nevada,      Educational services,1063414.0
+Nevada,      Health care and social assistance,11824121.0
+Nevada,"      Arts, entertainment, and recreation",2899837.0
+Nevada,      Accommodation and food services,16596660.0
+Nevada,    Government and government enterprises,18993883.0
+New Hampshire,  Farm compensation,59065.0
+New Hampshire,"      Mining, quarrying, and oil and gas extraction",48045.0
+New Hampshire,      Utilities,361020.0
+New Hampshire,      Construction,3029900.0
+New Hampshire,      Manufacturing,7540078.0
+New Hampshire,      Wholesale trade,4561099.0
+New Hampshire,      Retail trade,4886174.0
+New Hampshire,      Transportation and warehousing,1200461.0
+New Hampshire,      Information,1831708.0
+New Hampshire,      Finance and insurance,4194428.0
+New Hampshire,      Real estate and rental and leasing,654929.0
+New Hampshire,"      Professional, scientific, and technical services",7075148.0
+New Hampshire,      Management of companies and enterprises,1623188.0
+New Hampshire,      Administrative and support and waste management and remediation services,3460513.0
+New Hampshire,      Educational services,1914441.0
+New Hampshire,      Health care and social assistance,8124844.0
+New Hampshire,"      Arts, entertainment, and recreation",595159.0
+New Hampshire,      Accommodation and food services,2361812.0
+New Hampshire,    Government and government enterprises,7850558.0
+New Jersey,  Farm compensation,432271.0
+New Jersey,"      Mining, quarrying, and oil and gas extraction",183799.0
+New Jersey,      Utilities,2591677.0
+New Jersey,      Construction,17496500.0
+New Jersey,      Manufacturing,30616396.0
+New Jersey,      Wholesale trade,26940219.0
+New Jersey,      Retail trade,24989149.0
+New Jersey,      Transportation and warehousing,18783720.0
+New Jersey,      Information,13917010.0
+New Jersey,      Finance and insurance,39066507.0
+New Jersey,      Real estate and rental and leasing,6099981.0
+New Jersey,"      Professional, scientific, and technical services",53837763.0
+New Jersey,      Management of companies and enterprises,18069187.0
+New Jersey,      Administrative and support and waste management and remediation services,20621896.0
+New Jersey,      Educational services,7136559.0
+New Jersey,      Health care and social assistance,51653599.0
+New Jersey,"      Arts, entertainment, and recreation",4731391.0
+New Jersey,      Accommodation and food services,13850626.0
+New Jersey,    Government and government enterprises,63446903.0
+New Mexico,  Farm compensation,314184.0
+New Mexico,"      Mining, quarrying, and oil and gas extraction",2858048.0
+New Mexico,      Utilities,540550.0
+New Mexico,      Construction,4186494.0
+New Mexico,      Manufacturing,2360470.0
+New Mexico,      Wholesale trade,1795498.0
+New Mexico,      Retail trade,4269561.0
+New Mexico,      Transportation and warehousing,2006525.0
+New Mexico,      Information,955437.0
+New Mexico,      Finance and insurance,2267816.0
+New Mexico,      Real estate and rental and leasing,674277.0
+New Mexico,"      Professional, scientific, and technical services",8191146.0
+New Mexico,      Management of companies and enterprises,599331.0
+New Mexico,      Administrative and support and waste management and remediation services,2912824.0
+New Mexico,      Educational services,540886.0
+New Mexico,      Health care and social assistance,7867044.0
+New Mexico,"      Arts, entertainment, and recreation",474638.0
+New Mexico,      Accommodation and food services,3013053.0
+New Mexico,    Government and government enterprises,18066115.0
+New York,  Farm compensation,1225866.0
+New York,"      Mining, quarrying, and oil and gas extraction",524358.0
+New York,      Utilities,7114372.0
+New York,      Construction,40217303.0
+New York,      Manufacturing,41905798.0
+New York,      Wholesale trade,38619816.0
+New York,      Retail trade,49129641.0
+New York,      Transportation and warehousing,23812932.0
+New York,      Information,56693249.0
+New York,      Finance and insurance,174242998.0
+New York,      Real estate and rental and leasing,20989984.0
+New York,"      Professional, scientific, and technical services",121018261.0
+New York,      Management of companies and enterprises,29419837.0
+New York,      Administrative and support and waste management and remediation services,40788653.0
+New York,      Educational services,33650425.0
+New York,      Health care and social assistance,132463360.0
+New York,"      Arts, entertainment, and recreation",15071008.0
+New York,      Accommodation and food services,36678389.0
+New York,    Government and government enterprises,188881363.0
+North Carolina,  Farm compensation,932459.0
+North Carolina,"      Mining, quarrying, and oil and gas extraction",329770.0
+North Carolina,      Utilities,2273017.0
+North Carolina,      Construction,22356001.0
+North Carolina,      Manufacturing,41747491.0
+North Carolina,      Wholesale trade,23573079.0
+North Carolina,      Retail trade,25535716.0
+North Carolina,      Transportation and warehousing,13299825.0
+North Carolina,      Information,12427697.0
+North Carolina,      Finance and insurance,35184345.0
+North Carolina,      Real estate and rental and leasing,5764943.0
+North Carolina,"      Professional, scientific, and technical services",40582837.0
+North Carolina,      Management of companies and enterprises,14402542.0
+North Carolina,      Administrative and support and waste management and remediation services,21201373.0
+North Carolina,      Educational services,7822932.0
+North Carolina,      Health care and social assistance,42017549.0
+North Carolina,"      Arts, entertainment, and recreation",4256399.0
+North Carolina,      Accommodation and food services,15023870.0
+North Carolina,    Government and government enterprises,73122956.0
+North Dakota,  Farm compensation,347282.0
+North Dakota,"      Mining, quarrying, and oil and gas extraction",2697777.0
+North Dakota,      Utilities,521596.0
+North Dakota,      Construction,2500565.0
+North Dakota,      Manufacturing,2413117.0
+North Dakota,      Wholesale trade,2375523.0
+North Dakota,      Retail trade,2153155.0
+North Dakota,      Transportation and warehousing,1731841.0
+North Dakota,      Information,599193.0
+North Dakota,      Finance and insurance,1827071.0
+North Dakota,      Real estate and rental and leasing,412707.0
+North Dakota,"      Professional, scientific, and technical services",1688567.0
+North Dakota,      Management of companies and enterprises,620737.0
+North Dakota,      Administrative and support and waste management and remediation services,807185.0
+North Dakota,      Educational services,193830.0
+North Dakota,      Health care and social assistance,4758748.0
+North Dakota,"      Arts, entertainment, and recreation",196550.0
+North Dakota,      Accommodation and food services,1037788.0
+North Dakota,    Government and government enterprises,6743794.0
+Ohio,  Farm compensation,597003.0
+Ohio,"      Mining, quarrying, and oil and gas extraction",982061.0
+Ohio,      Utilities,2833437.0
+Ohio,      Construction,21545195.0
+Ohio,      Manufacturing,63047467.0
+Ohio,      Wholesale trade,25332829.0
+Ohio,      Retail trade,25457985.0
+Ohio,      Transportation and warehousing,19471043.0
+Ohio,      Information,7827028.0
+Ohio,      Finance and insurance,30449443.0
+Ohio,      Real estate and rental and leasing,5201826.0
+Ohio,"      Professional, scientific, and technical services",33164220.0
+Ohio,      Management of companies and enterprises,22699673.0
+Ohio,      Administrative and support and waste management and remediation services,18387696.0
+Ohio,      Educational services,5947490.0
+Ohio,      Health care and social assistance,61579732.0
+Ohio,"      Arts, entertainment, and recreation",4838101.0
+Ohio,      Accommodation and food services,14786778.0
+Ohio,    Government and government enterprises,69278065.0
+Oklahoma,  Farm compensation,315532.0
+Oklahoma,"      Mining, quarrying, and oil and gas extraction",4606531.0
+Oklahoma,      Utilities,1460656.0
+Oklahoma,      Construction,6365210.0
+Oklahoma,      Manufacturing,11541148.0
+Oklahoma,      Wholesale trade,5505477.0
+Oklahoma,      Retail trade,8562449.0
+Oklahoma,      Transportation and warehousing,5569128.0
+Oklahoma,      Information,1773223.0
+Oklahoma,      Finance and insurance,6073099.0
+Oklahoma,      Real estate and rental and leasing,1514010.0
+Oklahoma,"      Professional, scientific, and technical services",7726489.0
+Oklahoma,      Management of companies and enterprises,3320970.0
+Oklahoma,      Administrative and support and waste management and remediation services,6121713.0
+Oklahoma,      Educational services,1299578.0
+Oklahoma,      Health care and social assistance,15147512.0
+Oklahoma,"      Arts, entertainment, and recreation",963238.0
+Oklahoma,      Accommodation and food services,4755171.0
+Oklahoma,    Government and government enterprises,28658922.0
+Oregon,  Farm compensation,1267938.0
+Oregon,"      Mining, quarrying, and oil and gas extraction",169029.0
+Oregon,      Utilities,881885.0
+Oregon,      Construction,11249352.0
+Oregon,      Manufacturing,20051931.0
+Oregon,      Wholesale trade,8785726.0
+Oregon,      Retail trade,10861679.0
+Oregon,      Transportation and warehousing,5779534.0
+Oregon,      Information,5683110.0
+Oregon,      Finance and insurance,7181209.0
+Oregon,      Real estate and rental and leasing,2248191.0
+Oregon,"      Professional, scientific, and technical services",13503527.0
+Oregon,      Management of companies and enterprises,9199396.0
+Oregon,      Administrative and support and waste management and remediation services,6789367.0
+Oregon,      Educational services,1982725.0
+Oregon,      Health care and social assistance,22630946.0
+Oregon,"      Arts, entertainment, and recreation",1418739.0
+Oregon,      Accommodation and food services,7039484.0
+Oregon,    Government and government enterprises,32718278.0
+Pennsylvania,  Farm compensation,977008.0
+Pennsylvania,"      Mining, quarrying, and oil and gas extraction",2788796.0
+Pennsylvania,      Utilities,3804204.0
+Pennsylvania,      Construction,24699294.0
+Pennsylvania,      Manufacturing,52608221.0
+Pennsylvania,      Wholesale trade,25561490.0
+Pennsylvania,      Retail trade,27747162.0
+Pennsylvania,      Transportation and warehousing,22069716.0
+Pennsylvania,      Information,13460035.0
+Pennsylvania,      Finance and insurance,39641100.0
+Pennsylvania,      Real estate and rental and leasing,5980737.0
+Pennsylvania,"      Professional, scientific, and technical services",53558048.0
+Pennsylvania,      Management of companies and enterprises,26578209.0
+Pennsylvania,      Administrative and support and waste management and remediation services,18345520.0
+Pennsylvania,      Educational services,18705163.0
+Pennsylvania,      Health care and social assistance,82000634.0
+Pennsylvania,"      Arts, entertainment, and recreation",5601371.0
+Pennsylvania,      Accommodation and food services,15438211.0
+Pennsylvania,    Government and government enterprises,67216405.0
+Rhode Island,  Farm compensation,27040.0
+Rhode Island,"      Mining, quarrying, and oil and gas extraction",0.0
+Rhode Island,      Utilities,261177.0
+Rhode Island,      Construction,2061021.0
+Rhode Island,      Manufacturing,3618451.0
+Rhode Island,      Wholesale trade,1865475.0
+Rhode Island,      Retail trade,2466107.0
+Rhode Island,      Transportation and warehousing,810192.0
+Rhode Island,      Information,726802.0
+Rhode Island,      Finance and insurance,3504786.0
+Rhode Island,      Real estate and rental and leasing,511315.0
+Rhode Island,"      Professional, scientific, and technical services",3578539.0
+Rhode Island,      Management of companies and enterprises,1785565.0
+Rhode Island,      Administrative and support and waste management and remediation services,1868621.0
+Rhode Island,      Educational services,1875480.0
+Rhode Island,      Health care and social assistance,6187864.0
+Rhode Island,"      Arts, entertainment, and recreation",397388.0
+Rhode Island,      Accommodation and food services,2031257.0
+Rhode Island,    Government and government enterprises,7721547.0
+South Carolina,  Farm compensation,246420.0
+South Carolina,"      Mining, quarrying, and oil and gas extraction",238438.0
+South Carolina,      Utilities,1613689.0
+South Carolina,      Construction,9519957.0
+South Carolina,      Manufacturing,23722210.0
+South Carolina,      Wholesale trade,8715003.0
+South Carolina,      Retail trade,12579655.0
+South Carolina,      Transportation and warehousing,5695097.0
+South Carolina,      Information,3384987.0
+South Carolina,      Finance and insurance,9625426.0
+South Carolina,      Real estate and rental and leasing,2696574.0
+South Carolina,"      Professional, scientific, and technical services",14094215.0
+South Carolina,      Management of companies and enterprises,3081473.0
+South Carolina,      Administrative and support and waste management and remediation services,9044358.0
+South Carolina,      Educational services,1861696.0
+South Carolina,      Health care and social assistance,16903371.0
+South Carolina,"      Arts, entertainment, and recreation",1402160.0
+South Carolina,      Accommodation and food services,8102938.0
+South Carolina,    Government and government enterprises,33595660.0
+South Dakota,  Farm compensation,407771.0
+South Dakota,"      Mining, quarrying, and oil and gas extraction",137470.0
+South Dakota,      Utilities,267343.0
+South Dakota,      Construction,2175493.0
+South Dakota,      Manufacturing,3444940.0
+South Dakota,      Wholesale trade,2065725.0
+South Dakota,      Retail trade,2455168.0
+South Dakota,      Transportation and warehousing,943028.0
+South Dakota,      Information,437756.0
+South Dakota,      Finance and insurance,2494619.0
+South Dakota,      Real estate and rental and leasing,280730.0
+South Dakota,"      Professional, scientific, and technical services",1751614.0
+South Dakota,      Management of companies and enterprises,758879.0
+South Dakota,      Administrative and support and waste management and remediation services,811125.0
+South Dakota,      Educational services,324493.0
+South Dakota,      Health care and social assistance,5330154.0
+South Dakota,"      Arts, entertainment, and recreation",250230.0
+South Dakota,      Accommodation and food services,1265478.0
+South Dakota,    Government and government enterprises,6122588.0
+Tennessee,  Farm compensation,364288.0
+Tennessee,"      Mining, quarrying, and oil and gas extraction",454059.0
+Tennessee,      Utilities,557390.0
+Tennessee,      Construction,13954542.0
+Tennessee,      Manufacturing,32184734.0
+Tennessee,      Wholesale trade,14293377.0
+Tennessee,      Retail trade,17033726.0
+Tennessee,      Transportation and warehousing,16273129.0
+Tennessee,      Information,6874526.0
+Tennessee,      Finance and insurance,16250147.0
+Tennessee,      Real estate and rental and leasing,3611783.0
+Tennessee,"      Professional, scientific, and technical services",20283276.0
+Tennessee,      Management of companies and enterprises,7939680.0
+Tennessee,      Administrative and support and waste management and remediation services,13695792.0
+Tennessee,      Educational services,4075148.0
+Tennessee,      Health care and social assistance,32063811.0
+Tennessee,"      Arts, entertainment, and recreation",3696519.0
+Tennessee,      Accommodation and food services,11034970.0
+Tennessee,    Government and government enterprises,37574081.0
+Texas,  Farm compensation,1494104.0
+Texas,"      Mining, quarrying, and oil and gas extraction",37641448.0
+Texas,      Utilities,10091354.0
+Texas,      Construction,76963083.0
+Texas,      Manufacturing,104983406.0
+Texas,      Wholesale trade,79901343.0
+Texas,      Retail trade,71484547.0
+Texas,      Transportation and warehousing,56391762.0
+Texas,      Information,34412178.0
+Texas,      Finance and insurance,89407800.0
+Texas,      Real estate and rental and leasing,23594833.0
+Texas,"      Professional, scientific, and technical services",137453636.0
+Texas,      Management of companies and enterprises,33279676.0
+Texas,      Administrative and support and waste management and remediation services,61274173.0
+Texas,      Educational services,14866131.0
+Texas,      Health care and social assistance,116604029.0
+Texas,"      Arts, entertainment, and recreation",9272607.0
+Texas,      Accommodation and food services,46044342.0
+Texas,    Government and government enterprises,184575135.0
+Utah,  Farm compensation,273202.0
+Utah,"      Mining, quarrying, and oil and gas extraction",1306573.0
+Utah,      Utilities,603096.0
+Utah,      Construction,10858606.0
+Utah,      Manufacturing,13862115.0
+Utah,      Wholesale trade,6350495.0
+Utah,      Retail trade,9713309.0
+Utah,      Transportation and warehousing,5652231.0
+Utah,      Information,5698615.0
+Utah,      Finance and insurance,9112525.0
+Utah,      Real estate and rental and leasing,1991506.0
+Utah,"      Professional, scientific, and technical services",16040293.0
+Utah,      Management of companies and enterprises,2850285.0
+Utah,      Administrative and support and waste management and remediation services,5891934.0
+Utah,      Educational services,3145904.0
+Utah,      Health care and social assistance,12476146.0
+Utah,"      Arts, entertainment, and recreation",1411512.0
+Utah,      Accommodation and food services,4763090.0
+Utah,    Government and government enterprises,24080142.0
+Vermont,  Farm compensation,139717.0
+Vermont,"      Mining, quarrying, and oil and gas extraction",58572.0
+Vermont,      Utilities,191432.0
+Vermont,      Construction,1254878.0
+Vermont,      Manufacturing,2434291.0
+Vermont,      Wholesale trade,861921.0
+Vermont,      Retail trade,1818351.0
+Vermont,      Transportation and warehousing,468135.0
+Vermont,      Information,487150.0
+Vermont,      Finance and insurance,1146556.0
+Vermont,      Real estate and rental and leasing,225103.0
+Vermont,"      Professional, scientific, and technical services",2317404.0
+Vermont,      Management of companies and enterprises,309587.0
+Vermont,      Administrative and support and waste management and remediation services,962856.0
+Vermont,      Educational services,758147.0
+Vermont,      Health care and social assistance,3722871.0
+Vermont,"      Arts, entertainment, and recreation",198003.0
+Vermont,      Accommodation and food services,1257380.0
+Vermont,    Government and government enterprises,4846366.0
+Virginia,  Farm compensation,464321.0
+Virginia,"      Mining, quarrying, and oil and gas extraction",633143.0
+Virginia,      Utilities,1854790.0
+Virginia,      Construction,19435519.0
+Virginia,      Manufacturing,22160547.0
+Virginia,      Wholesale trade,14382804.0
+Virginia,      Retail trade,19947740.0
+Virginia,      Transportation and warehousing,11970875.0
+Virginia,      Information,11753645.0
+Virginia,      Finance and insurance,23106628.0
+Virginia,      Real estate and rental and leasing,5400552.0
+Virginia,"      Professional, scientific, and technical services",70128115.0
+Virginia,      Management of companies and enterprises,15681564.0
+Virginia,      Administrative and support and waste management and remediation services,18090872.0
+Virginia,      Educational services,4944691.0
+Virginia,      Health care and social assistance,37990248.0
+Virginia,"      Arts, entertainment, and recreation",3086445.0
+Virginia,      Accommodation and food services,12641510.0
+Virginia,    Government and government enterprises,93536414.0
+Washington,  Farm compensation,4392056.0
+Washington,"      Mining, quarrying, and oil and gas extraction",240202.0
+Washington,      Utilities,1016025.0
+Washington,      Construction,22719118.0
+Washington,      Manufacturing,31500589.0
+Washington,      Wholesale trade,16995991.0
+Washington,      Retail trade,34332916.0
+Washington,      Transportation and warehousing,14449792.0
+Washington,      Information,50195583.0
+Washington,      Finance and insurance,15405698.0
+Washington,      Real estate and rental and leasing,5401955.0
+Washington,"      Professional, scientific, and technical services",42933083.0
+Washington,      Management of companies and enterprises,9094797.0
+Washington,      Administrative and support and waste management and remediation services,14724494.0
+Washington,      Educational services,3211145.0
+Washington,      Health care and social assistance,37253714.0
+Washington,"      Arts, entertainment, and recreation",3190797.0
+Washington,      Accommodation and food services,12624465.0
+Washington,    Government and government enterprises,72620623.0
+West Virginia,  Farm compensation,54899.0
+West Virginia,"      Mining, quarrying, and oil and gas extraction",2576323.0
+West Virginia,      Utilities,783842.0
+West Virginia,      Construction,2699931.0
+West Virginia,      Manufacturing,4044802.0
+West Virginia,      Wholesale trade,1762931.0
+West Virginia,      Retail trade,3355073.0
+West Virginia,      Transportation and warehousing,1666832.0
+West Virginia,      Information,696767.0
+West Virginia,      Finance and insurance,1729053.0
+West Virginia,      Real estate and rental and leasing,422288.0
+West Virginia,"      Professional, scientific, and technical services",2622008.0
+West Virginia,      Management of companies and enterprises,824937.0
+West Virginia,      Administrative and support and waste management and remediation services,2140743.0
+West Virginia,      Educational services,353132.0
+West Virginia,      Health care and social assistance,9023180.0
+West Virginia,"      Arts, entertainment, and recreation",267427.0
+West Virginia,      Accommodation and food services,1898663.0
+West Virginia,    Government and government enterprises,11409962.0
+Wisconsin,  Farm compensation,1253115.0
+Wisconsin,"      Mining, quarrying, and oil and gas extraction",333690.0
+Wisconsin,      Utilities,1312519.0
+Wisconsin,      Construction,12818022.0
+Wisconsin,      Manufacturing,41773521.0
+Wisconsin,      Wholesale trade,13619682.0
+Wisconsin,      Retail trade,13697520.0
+Wisconsin,      Transportation and warehousing,8296276.0
+Wisconsin,      Information,6215769.0
+Wisconsin,      Finance and insurance,16055700.0
+Wisconsin,      Real estate and rental and leasing,2054702.0
+Wisconsin,"      Professional, scientific, and technical services",14285154.0
+Wisconsin,      Management of companies and enterprises,9323568.0
+Wisconsin,      Administrative and support and waste management and remediation services,7859914.0
+Wisconsin,      Educational services,3501350.0
+Wisconsin,      Health care and social assistance,30731892.0
+Wisconsin,"      Arts, entertainment, and recreation",2301733.0
+Wisconsin,      Accommodation and food services,7071296.0
+Wisconsin,    Government and government enterprises,34694547.0
+Wyoming,  Farm compensation,150029.0
+Wyoming,"      Mining, quarrying, and oil and gas extraction",2225440.0
+Wyoming,      Utilities,343530.0
+Wyoming,      Construction,1850579.0
+Wyoming,      Manufacturing,0.0
+Wyoming,      Wholesale trade,732326.0
+Wyoming,      Retail trade,1425320.0
+Wyoming,      Transportation and warehousing,1113414.0
+Wyoming,      Information,294214.0
+Wyoming,      Finance and insurance,890280.0
+Wyoming,      Real estate and rental and leasing,301246.0
+Wyoming,"      Professional, scientific, and technical services",1161372.0
+Wyoming,      Management of companies and enterprises,260759.0
+Wyoming,      Administrative and support and waste management and remediation services,617929.0
+Wyoming,      Educational services,141808.0
+Wyoming,      Health care and social assistance,1687118.0
+Wyoming,"      Arts, entertainment, and recreation",170533.0
+Wyoming,      Accommodation and food services,1263837.0
+Wyoming,    Government and government enterprises,6017220.0

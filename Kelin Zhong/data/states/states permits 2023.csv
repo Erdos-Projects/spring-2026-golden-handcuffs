@@ -1,0 +1,613 @@
+time,state_name,state_abbr,units_total_thousand
+2023-01,Alabama,AL,1.25
+2023-01,Alaska,AK,0.101
+2023-01,Arizona,AZ,2.033
+2023-01,Arkansas,AR,1.034
+2023-01,California,CA,7.138
+2023-01,Colorado,CO,3.235
+2023-01,Connecticut,CT,0.682
+2023-01,Delaware,DE,0.412
+2023-01,District of Columbia,DC,0.8
+2023-01,Florida,FL,14.964
+2023-01,Georgia,GA,5.94
+2023-01,Hawaii,HI,0.176
+2023-01,Idaho,ID,0.922
+2023-01,Illinois,IL,0.978
+2023-01,Indiana,IN,1.529
+2023-01,Iowa,IA,0.355
+2023-01,Kansas,KS,0.492
+2023-01,Kentucky,KY,0.937
+2023-01,Louisiana,LA,1.392
+2023-01,Maine,ME,0.255
+2023-01,Maryland,MD,1.502
+2023-01,Massachusetts,MA,1.088
+2023-01,Michigan,MI,1.187
+2023-01,Minnesota,MN,1.366
+2023-01,Mississippi,MS,0.585
+2023-01,Missouri,MO,1.028
+2023-01,Montana,MT,0.225
+2023-01,Nebraska,NE,0.429
+2023-01,Nevada,NV,1.476
+2023-01,New Hampshire,NH,0.269
+2023-01,New Jersey,NJ,2.482
+2023-01,New Mexico,NM,0.581
+2023-01,New York,NY,1.258
+2023-01,North Carolina,NC,7.066
+2023-01,North Dakota,ND,0.137
+2023-01,Ohio,OH,1.15
+2023-01,Oklahoma,OK,0.641
+2023-01,Oregon,OR,1.484
+2023-01,Pennsylvania,PA,1.304
+2023-01,Rhode Island,RI,0.079
+2023-01,South Carolina,SC,3.018
+2023-01,South Dakota,SD,0.261
+2023-01,Tennessee,TN,2.367
+2023-01,Texas,TX,16.847
+2023-01,Utah,UT,1.776
+2023-01,Vermont,VT,0.071
+2023-01,Virginia,VA,3.272
+2023-01,Washington,WA,2.258
+2023-01,West Virginia,WV,0.19
+2023-01,Wisconsin,WI,0.908
+2023-01,Wyoming,WY,0.068
+2023-02,Alabama,AL,1.518
+2023-02,Alaska,AK,0.08
+2023-02,Arizona,AZ,4.6
+2023-02,Arkansas,AR,0.948
+2023-02,California,CA,8.275
+2023-02,Colorado,CO,3.247
+2023-02,Connecticut,CT,0.493
+2023-02,Delaware,DE,0.356
+2023-02,District of Columbia,DC,0.299
+2023-02,Florida,FL,16.279
+2023-02,Georgia,GA,5.136
+2023-02,Hawaii,HI,0.203
+2023-02,Idaho,ID,1.06
+2023-02,Illinois,IL,0.784
+2023-02,Indiana,IN,1.466
+2023-02,Iowa,IA,0.638
+2023-02,Kansas,KS,0.349
+2023-02,Kentucky,KY,1.191
+2023-02,Louisiana,LA,0.991
+2023-02,Maine,ME,0.266
+2023-02,Maryland,MD,1.351
+2023-02,Massachusetts,MA,1.165
+2023-02,Michigan,MI,1.008
+2023-02,Minnesota,MN,1.302
+2023-02,Mississippi,MS,0.656
+2023-02,Missouri,MO,1.111
+2023-02,Montana,MT,0.38
+2023-02,Nebraska,NE,0.814
+2023-02,Nevada,NV,1.041
+2023-02,New Hampshire,NH,0.222
+2023-02,New Jersey,NJ,1.862
+2023-02,New Mexico,NM,0.397
+2023-02,New York,NY,1.855
+2023-02,North Carolina,NC,8.095
+2023-02,North Dakota,ND,0.253
+2023-02,Ohio,OH,1.605
+2023-02,Oklahoma,OK,0.797
+2023-02,Oregon,OR,1.519
+2023-02,Pennsylvania,PA,1.303
+2023-02,Rhode Island,RI,0.087
+2023-02,South Carolina,SC,3.039
+2023-02,South Dakota,SD,0.151
+2023-02,Tennessee,TN,4.633
+2023-02,Texas,TX,17.363
+2023-02,Utah,UT,2.342
+2023-02,Vermont,VT,0.084
+2023-02,Virginia,VA,2.642
+2023-02,Washington,WA,4.205
+2023-02,West Virginia,WV,0.239
+2023-02,Wisconsin,WI,1.101
+2023-02,Wyoming,WY,0.077
+2023-03,Alabama,AL,2.455
+2023-03,Alaska,AK,0.122
+2023-03,Arizona,AZ,6.525
+2023-03,Arkansas,AR,0.812
+2023-03,California,CA,7.41
+2023-03,Colorado,CO,3.58
+2023-03,Connecticut,CT,0.542
+2023-03,Delaware,DE,0.536
+2023-03,District of Columbia,DC,0.129
+2023-03,Florida,FL,18.743
+2023-03,Georgia,GA,5.357
+2023-03,Hawaii,HI,0.3
+2023-03,Idaho,ID,1.297
+2023-03,Illinois,IL,1.85
+2023-03,Indiana,IN,2.087
+2023-03,Iowa,IA,1.048
+2023-03,Kansas,KS,0.548
+2023-03,Kentucky,KY,1.637
+2023-03,Louisiana,LA,1.234
+2023-03,Maine,ME,0.476
+2023-03,Maryland,MD,1.035
+2023-03,Massachusetts,MA,1.475
+2023-03,Michigan,MI,1.738
+2023-03,Minnesota,MN,1.84
+2023-03,Mississippi,MS,0.625
+2023-03,Missouri,MO,1.623
+2023-03,Montana,MT,0.468
+2023-03,Nebraska,NE,0.671
+2023-03,Nevada,NV,1.781
+2023-03,New Hampshire,NH,0.258
+2023-03,New Jersey,NJ,3.498
+2023-03,New Mexico,NM,0.894
+2023-03,New York,NY,3.888
+2023-03,North Carolina,NC,8.515
+2023-03,North Dakota,ND,0.216
+2023-03,Ohio,OH,3.347
+2023-03,Oklahoma,OK,0.946
+2023-03,Oregon,OR,1.442
+2023-03,Pennsylvania,PA,2.045
+2023-03,Rhode Island,RI,0.101
+2023-03,South Carolina,SC,3.82
+2023-03,South Dakota,SD,1.12
+2023-03,Tennessee,TN,3.458
+2023-03,Texas,TX,18.896
+2023-03,Utah,UT,1.928
+2023-03,Vermont,VT,0.328
+2023-03,Virginia,VA,3.308
+2023-03,Washington,WA,3.393
+2023-03,West Virginia,WV,0.334
+2023-03,Wisconsin,WI,1.474
+2023-03,Wyoming,WY,0.157
+2023-04,Alabama,AL,1.402
+2023-04,Alaska,AK,0.041
+2023-04,Arizona,AZ,4.268
+2023-04,Arkansas,AR,0.851
+2023-04,California,CA,9.186
+2023-04,Colorado,CO,3.857
+2023-04,Connecticut,CT,0.289
+2023-04,Delaware,DE,0.471
+2023-04,District of Columbia,DC,0.224
+2023-04,Florida,FL,14.957
+2023-04,Georgia,GA,5.256
+2023-04,Hawaii,HI,0.341
+2023-04,Idaho,ID,1.45
+2023-04,Illinois,IL,1.576
+2023-04,Indiana,IN,2.401
+2023-04,Iowa,IA,0.924
+2023-04,Kansas,KS,0.561
+2023-04,Kentucky,KY,1.54
+2023-04,Louisiana,LA,1.393
+2023-04,Maine,ME,0.596
+2023-04,Maryland,MD,1.23
+2023-04,Massachusetts,MA,0.819
+2023-04,Michigan,MI,1.688
+2023-04,Minnesota,MN,2.088
+2023-04,Mississippi,MS,0.634
+2023-04,Missouri,MO,1.295
+2023-04,Montana,MT,0.354
+2023-04,Nebraska,NE,0.606
+2023-04,Nevada,NV,1.245
+2023-04,New Hampshire,NH,0.397
+2023-04,New Jersey,NJ,2.194
+2023-04,New Mexico,NM,0.68
+2023-04,New York,NY,2.011
+2023-04,North Carolina,NC,7.997
+2023-04,North Dakota,ND,0.164
+2023-04,Ohio,OH,1.845
+2023-04,Oklahoma,OK,1.096
+2023-04,Oregon,OR,1.84
+2023-04,Pennsylvania,PA,1.939
+2023-04,Rhode Island,RI,0.088
+2023-04,South Carolina,SC,3.472
+2023-04,South Dakota,SD,0.717
+2023-04,Tennessee,TN,5.084
+2023-04,Texas,TX,17.346
+2023-04,Utah,UT,1.804
+2023-04,Vermont,VT,0.165
+2023-04,Virginia,VA,2.657
+2023-04,Washington,WA,2.818
+2023-04,West Virginia,WV,0.288
+2023-04,Wisconsin,WI,1.327
+2023-04,Wyoming,WY,0.129
+2023-05,Alabama,AL,2.445
+2023-05,Alaska,AK,0.055
+2023-05,Arizona,AZ,4.534
+2023-05,Arkansas,AR,1.053
+2023-05,California,CA,10.066
+2023-05,Colorado,CO,4.311
+2023-05,Connecticut,CT,0.548
+2023-05,Delaware,DE,0.642
+2023-05,District of Columbia,DC,0.035
+2023-05,Florida,FL,15.062
+2023-05,Georgia,GA,7.066
+2023-05,Hawaii,HI,0.224
+2023-05,Idaho,ID,1.765
+2023-05,Illinois,IL,1.418
+2023-05,Indiana,IN,2.522
+2023-05,Iowa,IA,1.327
+2023-05,Kansas,KS,1.132
+2023-05,Kentucky,KY,1.147
+2023-05,Louisiana,LA,1.351
+2023-05,Maine,ME,0.699
+2023-05,Maryland,MD,1.744
+2023-05,Massachusetts,MA,1.481
+2023-05,Michigan,MI,1.614
+2023-05,Minnesota,MN,2.847
+2023-05,Mississippi,MS,0.69
+2023-05,Missouri,MO,1.818
+2023-05,Montana,MT,0.573
+2023-05,Nebraska,NE,0.777
+2023-05,Nevada,NV,2.224
+2023-05,New Hampshire,NH,0.472
+2023-05,New Jersey,NJ,3.757
+2023-05,New Mexico,NM,0.658
+2023-05,New York,NY,2.586
+2023-05,North Carolina,NC,9.184
+2023-05,North Dakota,ND,0.45
+2023-05,Ohio,OH,2.327
+2023-05,Oklahoma,OK,1.929
+2023-05,Oregon,OR,1.602
+2023-05,Pennsylvania,PA,2.418
+2023-05,Rhode Island,RI,0.131
+2023-05,South Carolina,SC,4.258
+2023-05,South Dakota,SD,0.761
+2023-05,Tennessee,TN,3.964
+2023-05,Texas,TX,21.978
+2023-05,Utah,UT,2.091
+2023-05,Vermont,VT,0.21
+2023-05,Virginia,VA,3.161
+2023-05,Washington,WA,3.955
+2023-05,West Virginia,WV,0.333
+2023-05,Wisconsin,WI,2.007
+2023-05,Wyoming,WY,0.183
+2023-06,Alabama,AL,1.853
+2023-06,Alaska,AK,0.094
+2023-06,Arizona,AZ,3.84
+2023-06,Arkansas,AR,1.313
+2023-06,California,CA,13.326
+2023-06,Colorado,CO,3.515
+2023-06,Connecticut,CT,0.427
+2023-06,Delaware,DE,0.632
+2023-06,District of Columbia,DC,0.29
+2023-06,Florida,FL,18.825
+2023-06,Georgia,GA,5.758
+2023-06,Hawaii,HI,0.335
+2023-06,Idaho,ID,1.687
+2023-06,Illinois,IL,1.481
+2023-06,Indiana,IN,2.772
+2023-06,Iowa,IA,1.115
+2023-06,Kansas,KS,0.75
+2023-06,Kentucky,KY,1.157
+2023-06,Louisiana,LA,1.27
+2023-06,Maine,ME,0.613
+2023-06,Maryland,MD,1.21
+2023-06,Massachusetts,MA,1.355
+2023-06,Michigan,MI,1.906
+2023-06,Minnesota,MN,2.484
+2023-06,Mississippi,MS,0.658
+2023-06,Missouri,MO,1.642
+2023-06,Montana,MT,0.443
+2023-06,Nebraska,NE,0.849
+2023-06,Nevada,NV,1.528
+2023-06,New Hampshire,NH,0.525
+2023-06,New Jersey,NJ,2.515
+2023-06,New Mexico,NM,0.834
+2023-06,New York,NY,2.346
+2023-06,North Carolina,NC,7.82
+2023-06,North Dakota,ND,0.204
+2023-06,Ohio,OH,3.052
+2023-06,Oklahoma,OK,0.97
+2023-06,Oregon,OR,1.513
+2023-06,Pennsylvania,PA,2.392
+2023-06,Rhode Island,RI,0.14
+2023-06,South Carolina,SC,3.778
+2023-06,South Dakota,SD,0.623
+2023-06,Tennessee,TN,3.788
+2023-06,Texas,TX,20.444
+2023-06,Utah,UT,2.416
+2023-06,Vermont,VT,0.229
+2023-06,Virginia,VA,3.252
+2023-06,Washington,WA,3.177
+2023-06,West Virginia,WV,0.32
+2023-06,Wisconsin,WI,2.064
+2023-06,Wyoming,WY,0.162
+2023-07,Alabama,AL,1.491
+2023-07,Alaska,AK,0.111
+2023-07,Arizona,AZ,5.367
+2023-07,Arkansas,AR,1.335
+2023-07,California,CA,8.19
+2023-07,Colorado,CO,2.737
+2023-07,Connecticut,CT,0.302
+2023-07,Delaware,DE,0.536
+2023-07,District of Columbia,DC,0.299
+2023-07,Florida,FL,15.574
+2023-07,Georgia,GA,5.423
+2023-07,Hawaii,HI,0.306
+2023-07,Idaho,ID,1.599
+2023-07,Illinois,IL,1.165
+2023-07,Indiana,IN,2.049
+2023-07,Iowa,IA,0.817
+2023-07,Kansas,KS,0.63
+2023-07,Kentucky,KY,0.966
+2023-07,Louisiana,LA,1.27
+2023-07,Maine,ME,0.503
+2023-07,Maryland,MD,1.339
+2023-07,Massachusetts,MA,1.201
+2023-07,Michigan,MI,1.883
+2023-07,Minnesota,MN,2.145
+2023-07,Mississippi,MS,0.588
+2023-07,Missouri,MO,1.486
+2023-07,Montana,MT,0.52
+2023-07,Nebraska,NE,0.641
+2023-07,Nevada,NV,1.766
+2023-07,New Hampshire,NH,0.306
+2023-07,New Jersey,NJ,2.625
+2023-07,New Mexico,NM,0.682
+2023-07,New York,NY,1.912
+2023-07,North Carolina,NC,7.218
+2023-07,North Dakota,ND,0.306
+2023-07,Ohio,OH,2.112
+2023-07,Oklahoma,OK,1.471
+2023-07,Oregon,OR,1.525
+2023-07,Pennsylvania,PA,1.817
+2023-07,Rhode Island,RI,0.082
+2023-07,South Carolina,SC,3.424
+2023-07,South Dakota,SD,0.445
+2023-07,Tennessee,TN,3.798
+2023-07,Texas,TX,18.897
+2023-07,Utah,UT,2.254
+2023-07,Vermont,VT,0.198
+2023-07,Virginia,VA,2.561
+2023-07,Washington,WA,2.663
+2023-07,West Virginia,WV,0.34
+2023-07,Wisconsin,WI,1.743
+2023-07,Wyoming,WY,0.124
+2023-08,Alabama,AL,1.672
+2023-08,Alaska,AK,0.044
+2023-08,Arizona,AZ,4.967
+2023-08,Arkansas,AR,1.053
+2023-08,California,CA,12.63
+2023-08,Colorado,CO,3.304
+2023-08,Connecticut,CT,0.519
+2023-08,Delaware,DE,0.662
+2023-08,District of Columbia,DC,0.12
+2023-08,Florida,FL,17.996
+2023-08,Georgia,GA,5.917
+2023-08,Hawaii,HI,0.392
+2023-08,Idaho,ID,1.88
+2023-08,Illinois,IL,1.435
+2023-08,Indiana,IN,2.165
+2023-08,Iowa,IA,0.976
+2023-08,Kansas,KS,1.413
+2023-08,Kentucky,KY,1.389
+2023-08,Louisiana,LA,1.284
+2023-08,Maine,ME,0.691
+2023-08,Maryland,MD,1.575
+2023-08,Massachusetts,MA,1.117
+2023-08,Michigan,MI,2.298
+2023-08,Minnesota,MN,3.185
+2023-08,Mississippi,MS,0.679
+2023-08,Missouri,MO,1.718
+2023-08,Montana,MT,0.395
+2023-08,Nebraska,NE,0.892
+2023-08,Nevada,NV,1.298
+2023-08,New Hampshire,NH,0.491
+2023-08,New Jersey,NJ,3.145
+2023-08,New Mexico,NM,0.851
+2023-08,New York,NY,2.868
+2023-08,North Carolina,NC,7.365
+2023-08,North Dakota,ND,0.403
+2023-08,Ohio,OH,2.977
+2023-08,Oklahoma,OK,1.323
+2023-08,Oregon,OR,1.654
+2023-08,Pennsylvania,PA,1.877
+2023-08,Rhode Island,RI,0.073
+2023-08,South Carolina,SC,4.084
+2023-08,South Dakota,SD,0.758
+2023-08,Tennessee,TN,5.993
+2023-08,Texas,TX,21.723
+2023-08,Utah,UT,2.591
+2023-08,Vermont,VT,0.249
+2023-08,Virginia,VA,3.386
+2023-08,Washington,WA,3.692
+2023-08,West Virginia,WV,0.281
+2023-08,Wisconsin,WI,2.192
+2023-08,Wyoming,WY,0.157
+2023-09,Alabama,AL,1.346
+2023-09,Alaska,AK,0.064
+2023-09,Arizona,AZ,5.793
+2023-09,Arkansas,AR,0.889
+2023-09,California,CA,8.212
+2023-09,Colorado,CO,2.255
+2023-09,Connecticut,CT,0.323
+2023-09,Delaware,DE,0.468
+2023-09,District of Columbia,DC,0.537
+2023-09,Florida,FL,15.871
+2023-09,Georgia,GA,4.651
+2023-09,Hawaii,HI,0.387
+2023-09,Idaho,ID,2.013
+2023-09,Illinois,IL,1.47
+2023-09,Indiana,IN,2.527
+2023-09,Iowa,IA,0.931
+2023-09,Kansas,KS,0.649
+2023-09,Kentucky,KY,1.377
+2023-09,Louisiana,LA,1.386
+2023-09,Maine,ME,0.659
+2023-09,Maryland,MD,0.951
+2023-09,Massachusetts,MA,1.009
+2023-09,Michigan,MI,1.691
+2023-09,Minnesota,MN,1.982
+2023-09,Mississippi,MS,0.605
+2023-09,Missouri,MO,1.489
+2023-09,Montana,MT,0.305
+2023-09,Nebraska,NE,0.648
+2023-09,Nevada,NV,1.351
+2023-09,New Hampshire,NH,0.328
+2023-09,New Jersey,NJ,2.238
+2023-09,New Mexico,NM,0.595
+2023-09,New York,NY,1.269
+2023-09,North Carolina,NC,8.318
+2023-09,North Dakota,ND,0.263
+2023-09,Ohio,OH,2.485
+2023-09,Oklahoma,OK,1.245
+2023-09,Oregon,OR,1.173
+2023-09,Pennsylvania,PA,2.256
+2023-09,Rhode Island,RI,0.071
+2023-09,South Carolina,SC,3.378
+2023-09,South Dakota,SD,1.067
+2023-09,Tennessee,TN,2.991
+2023-09,Texas,TX,17.073
+2023-09,Utah,UT,1.957
+2023-09,Vermont,VT,0.213
+2023-09,Virginia,VA,2.655
+2023-09,Washington,WA,2.875
+2023-09,West Virginia,WV,0.326
+2023-09,Wisconsin,WI,1.966
+2023-09,Wyoming,WY,0.13
+2023-10,Alabama,AL,1.242
+2023-10,Alaska,AK,0.082
+2023-10,Arizona,AZ,5.11
+2023-10,Arkansas,AR,1.123
+2023-10,California,CA,8.338
+2023-10,Colorado,CO,2.934
+2023-10,Connecticut,CT,0.45
+2023-10,Delaware,DE,0.586
+2023-10,District of Columbia,DC,0.185
+2023-10,Florida,FL,14.93
+2023-10,Georgia,GA,5.487
+2023-10,Hawaii,HI,0.343
+2023-10,Idaho,ID,1.624
+2023-10,Illinois,IL,1.473
+2023-10,Indiana,IN,3.197
+2023-10,Iowa,IA,0.912
+2023-10,Kansas,KS,0.565
+2023-10,Kentucky,KY,1.717
+2023-10,Louisiana,LA,1.126
+2023-10,Maine,ME,0.471
+2023-10,Maryland,MD,1.573
+2023-10,Massachusetts,MA,0.841
+2023-10,Michigan,MI,1.763
+2023-10,Minnesota,MN,1.665
+2023-10,Mississippi,MS,0.604
+2023-10,Missouri,MO,1.244
+2023-10,Montana,MT,0.467
+2023-10,Nebraska,NE,1.316
+2023-10,Nevada,NV,1.672
+2023-10,New Hampshire,NH,0.41
+2023-10,New Jersey,NJ,2.896
+2023-10,New Mexico,NM,0.747
+2023-10,New York,NY,2.06
+2023-10,North Carolina,NC,9.18
+2023-10,North Dakota,ND,0.175
+2023-10,Ohio,OH,2.046
+2023-10,Oklahoma,OK,0.976
+2023-10,Oregon,OR,1.301
+2023-10,Pennsylvania,PA,2.935
+2023-10,Rhode Island,RI,0.08
+2023-10,South Carolina,SC,3.605
+2023-10,South Dakota,SD,0.508
+2023-10,Tennessee,TN,3.903
+2023-10,Texas,TX,20.83
+2023-10,Utah,UT,1.852
+2023-10,Vermont,VT,0.329
+2023-10,Virginia,VA,3.304
+2023-10,Washington,WA,2.957
+2023-10,West Virginia,WV,0.262
+2023-10,Wisconsin,WI,1.73
+2023-10,Wyoming,WY,0.153
+2023-11,Alabama,AL,1.348
+2023-11,Alaska,AK,0.052
+2023-11,Arizona,AZ,5.59
+2023-11,Arkansas,AR,1.172
+2023-11,California,CA,9.757
+2023-11,Colorado,CO,3.641
+2023-11,Connecticut,CT,0.268
+2023-11,Delaware,DE,0.475
+2023-11,District of Columbia,DC,0.009
+2023-11,Florida,FL,12.776
+2023-11,Georgia,GA,4.47
+2023-11,Hawaii,HI,0.366
+2023-11,Idaho,ID,1.551
+2023-11,Illinois,IL,1.139
+2023-11,Indiana,IN,2.187
+2023-11,Iowa,IA,0.87
+2023-11,Kansas,KS,0.861
+2023-11,Kentucky,KY,1.157
+2023-11,Louisiana,LA,0.962
+2023-11,Maine,ME,0.423
+2023-11,Maryland,MD,1.288
+2023-11,Massachusetts,MA,0.729
+2023-11,Michigan,MI,1.759
+2023-11,Minnesota,MN,1.453
+2023-11,Mississippi,MS,0.495
+2023-11,Missouri,MO,1.373
+2023-11,Montana,MT,0.343
+2023-11,Nebraska,NE,0.842
+2023-11,Nevada,NV,1.414
+2023-11,New Hampshire,NH,0.309
+2023-11,New Jersey,NJ,1.852
+2023-11,New Mexico,NM,1.335
+2023-11,New York,NY,1.528
+2023-11,North Carolina,NC,6.761
+2023-11,North Dakota,ND,0.054
+2023-11,Ohio,OH,2.237
+2023-11,Oklahoma,OK,0.894
+2023-11,Oregon,OR,1.328
+2023-11,Pennsylvania,PA,1.844
+2023-11,Rhode Island,RI,0.076
+2023-11,South Carolina,SC,2.96
+2023-11,South Dakota,SD,0.522
+2023-11,Tennessee,TN,3.624
+2023-11,Texas,TX,14.955
+2023-11,Utah,UT,2.708
+2023-11,Vermont,VT,0.099
+2023-11,Virginia,VA,2.673
+2023-11,Washington,WA,2.375
+2023-11,West Virginia,WV,0.21
+2023-11,Wisconsin,WI,1.601
+2023-11,Wyoming,WY,0.116
+2023-12,Alabama,AL,1.856
+2023-12,Alaska,AK,0.024
+2023-12,Arizona,AZ,4.737
+2023-12,Arkansas,AR,1.11
+2023-12,California,CA,7.179
+2023-12,Colorado,CO,4.177
+2023-12,Connecticut,CT,0.406
+2023-12,Delaware,DE,0.881
+2023-12,District of Columbia,DC,0.093
+2023-12,Florida,FL,14.796
+2023-12,Georgia,GA,4.159
+2023-12,Hawaii,HI,0.334
+2023-12,Idaho,ID,1.416
+2023-12,Illinois,IL,0.911
+2023-12,Indiana,IN,1.779
+2023-12,Iowa,IA,0.86
+2023-12,Kansas,KS,0.777
+2023-12,Kentucky,KY,1.109
+2023-12,Louisiana,LA,1.114
+2023-12,Maine,ME,0.294
+2023-12,Maryland,MD,1.32
+2023-12,Massachusetts,MA,1.798
+2023-12,Michigan,MI,1.199
+2023-12,Minnesota,MN,1.459
+2023-12,Mississippi,MS,0.551
+2023-12,Missouri,MO,1.043
+2023-12,Montana,MT,0.195
+2023-12,Nebraska,NE,0.461
+2023-12,Nevada,NV,1.698
+2023-12,New Hampshire,NH,0.215
+2023-12,New Jersey,NJ,2.507
+2023-12,New Mexico,NM,0.547
+2023-12,New York,NY,1.323
+2023-12,North Carolina,NC,8.08
+2023-12,North Dakota,ND,0.032
+2023-12,Ohio,OH,1.544
+2023-12,Oklahoma,OK,0.785
+2023-12,Oregon,OR,0.895
+2023-12,Pennsylvania,PA,1.44
+2023-12,Rhode Island,RI,0.054
+2023-12,South Carolina,SC,2.802
+2023-12,South Dakota,SD,0.324
+2023-12,Tennessee,TN,2.934
+2023-12,Texas,TX,14.18
+2023-12,Utah,UT,1.926
+2023-12,Vermont,VT,0.071
+2023-12,Virginia,VA,3.085
+2023-12,Washington,WA,2.742
+2023-12,West Virginia,WV,0.221
+2023-12,Wisconsin,WI,1.397
+2023-12,Wyoming,WY,0.104
